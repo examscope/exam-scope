@@ -75,13 +75,13 @@ function requireUser(req, res, next){
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'marceauowen@gmail.com', 
-        pass: 'cgor gzwc vkxz htka'
+        user: process.env.EMAIL_USER, 
+        pass: process.env.EMAIL_PASS
     }
 });
 function sendVerificationEmail(userEmail, code) {  
     const mailOptions = {
-        from: 'marceauowen@gmail.com',  // Sender address
+        from: process.env.EMAIL_USER,  // Sender address
         to: userEmail,                 // Receiver's email
         subject: 'Email Verification', // Subject line
         text: `Here is your verification code: ${code}`,
