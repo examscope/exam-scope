@@ -1,0 +1,124 @@
+[
+{
+  "subject": "Art",
+  "topic": "Romanesque and Gothic",
+  "quiz": [
+    {
+      "text": "Which architectural style came first?",
+      "type": "choice",
+      "choices": ["Gothic", "Romanesque", "Baroque", "Renaissance"],
+      "answer": 1
+    },
+    {
+      "text": "What is a key feature of Gothic architecture?",
+      "type": "choice",
+      "choices": ["Rounded arches", "Pointed arches", "Domes", "Pillars"],
+      "answer": 1
+    },
+    {
+      "text": "Romanesque churches often have which kind of windows?",
+      "type": "choice",
+      "choices": ["Large stained glass", "Small, rounded", "Circular rose windows", "No windows"],
+      "answer": 1
+    },
+    {
+      "text": "What structural innovation is associated with Gothic cathedrals?",
+      "type": "choice",
+      "choices": ["Flying buttresses", "Corinthian columns", "Barrel vaults", "Truss roofs"],
+      "answer": 0
+    },
+    {
+      "text": "Which style is known for its heavy, solid walls?",
+      "type": "choice",
+      "choices": ["Gothic", "Romanesque", "Modern", "Classical"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Gothic architecture often features pointed arches.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Romanesque buildings have very thin walls.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Flying buttresses are a Gothic innovation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one characteristic of Romanesque architecture.",
+      "type": "input",
+      "answer": ["rounded arches", "thick walls", "small windows", "barrel vaults"]
+    },
+    {
+      "text": "Give one feature of Gothic architecture.",
+      "type": "input",
+      "answer": ["pointed arches", "flying buttresses", "large stained glass windows", "ribbed vaults"]
+    }
+  ]
+},
+{
+  "subject": "Art",
+  "topic": "Pre-Christian Ireland (c 4000 BC – AD 500)",
+  "quiz": [
+    {
+      "text": "What material were most Neolithic Irish houses made from?",
+      "type": "choice",
+      "choices": ["Wood", "Stone", "Brick", "Metal"],
+      "answer": 1
+    },
+    {
+      "text": "Which famous prehistoric monument is found in Ireland?",
+      "type": "choice",
+      "choices": ["Stonehenge", "Newgrange", "Avebury", "Carnac"],
+      "answer": 1
+    },
+    {
+      "text": "What type of art is the 'La Tène' style?",
+      "type": "choice",
+      "choices": ["Roman", "Celtic", "Viking", "Anglo-Saxon"],
+      "answer": 1
+    },
+    {
+      "text": "What was the main purpose of Irish ring forts?",
+      "type": "choice",
+      "choices": ["Religious worship", "Defense and settlement", "Burial", "Agriculture"],
+      "answer": 1
+    },
+    {
+      "text": "Which metal was widely used in pre-Christian Ireland for tools and weapons?",
+      "type": "choice",
+      "choices": ["Iron", "Copper", "Bronze", "Gold"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Newgrange is older than the Egyptian pyramids.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pre-Christian Irish art included intricate knotwork designs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ring forts were only used for farming purposes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of prehistoric monument in Ireland.",
+      "type": "input",
+      "answer": ["newgrange", "passage tomb", "ring fort", "standing stones", "dolmen"]
+    },
+    {
+      "text": "Give one characteristic of Celtic art.",
+      "type": "input",
+      "answer": ["knotwork", "spirals", "interlacing", "animal motifs"]
+    }
+  ]
+}
+]

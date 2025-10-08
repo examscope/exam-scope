@@ -1,0 +1,23 @@
+{
+  "certificate": "lc",
+  "subject": "italian",
+  "level": "hl",
+  "topics": [
+    "AURAL - Conversations",
+    "Aural - News items/statements",
+    "Essay Writing (A ciascuno)",
+    "Essay Writing (Il treno dei bambini)",
+    "Essay Writing (Le otto montagne)",
+    "Essay Writing (Marcovaldo)",
+    "Oral",
+    "Reading Comprehension (A ciascuno...)",
+    "Reading Comprehension (Il treno dei bambini)",
+    "Reading Comprehension (Journalistic)",
+    "Reading Comprehension (Le otto montagne)",
+    "Reading Comprehension (Literary - Unseen)",
+    "Reading Comprehension (Marcovaldo)",
+    "Written Composition - Formal",
+    "Written Composition - Guided",
+    "Written Composition - Opinion Piece"
+  ]
+}

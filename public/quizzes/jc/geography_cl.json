@@ -1,0 +1,1508 @@
+[
+{
+  "subject": "Geography",
+  "topic": "Climate Change",
+  "quiz": [
+    {
+      "text": "Which gas is the main contributor to global warming?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "text": "Which human activity increases greenhouse gases?",
+      "type": "choice",
+      "choices": ["Driving cars", "Planting trees", "Cycling", "Using solar panels"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Deforestation contributes to climate change.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Volcanic eruptions are the main cause of current global warming.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which renewable energy source reduces greenhouse gas emissions?",
+      "type": "choice",
+      "choices": ["Coal", "Wind", "Oil", "Natural Gas"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Melting ice caps lead to rising sea levels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which sector contributes most to CO2 emissions?",
+      "type": "choice",
+      "choices": ["Transport", "Forestry", "Fishing", "Education"],
+      "answer": 0
+    },
+    {
+      "text": "Which international agreement aims to limit global warming?",
+      "type": "choice",
+      "choices": ["Kyoto Protocol", "Paris Agreement", "Geneva Convention", "Madrid Treaty"],
+      "answer": 1
+    },
+    {
+      "text": "Name one consequence of climate change on weather patterns.",
+      "type": "input",
+      "answer": ["more storms", "extreme weather", "droughts", "flooding"]
+    },
+    {
+      "text": "Name one way humans can reduce greenhouse gas emissions.",
+      "type": "input",
+      "answer": ["planting trees", "using renewable energy", "cycling", "reducing car use"]
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Climates",
+  "quiz": [
+    {
+      "text": "Which climate is characterised by hot summers and cold winters?",
+      "type": "choice",
+      "choices": ["Tropical", "Temperate", "Arctic", "Desert"],
+      "answer": 1
+    },
+    {
+      "text": "Which climate has very low rainfall and high daytime temperatures?",
+      "type": "choice",
+      "choices": ["Desert", "Polar", "Mediterranean", "Temperate"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tropical climates are usually found near the equator.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mediterranean climates have cold, snowy winters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which climate has permafrost and very low temperatures year-round?",
+      "type": "choice",
+      "choices": ["Polar", "Tropical", "Temperate", "Arid"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rainforests are found in tropical climates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which climate type is typical in southern Spain and Italy?",
+      "type": "choice",
+      "choices": ["Temperate", "Mediterranean", "Tropical", "Polar"],
+      "answer": 1
+    },
+    {
+      "text": "Which climate is characterised by cold winters and hot summers with moderate rainfall?",
+      "type": "choice",
+      "choices": ["Desert", "Temperate", "Tropical", "Polar"],
+      "answer": 1
+    },
+    {
+      "text": "Name one factor that influences climate in a region.",
+      "type": "input",
+      "answer": ["latitude", "altitude", "ocean currents", "proximity to sea"]
+    },
+    {
+      "text": "Name one type of vegetation typical in tropical climates.",
+      "type": "input",
+      "answer": ["rainforest", "jungle", "dense forest", "tropical trees"]
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Earthquakes",
+  "quiz": [
+    {
+      "text": "What scale is commonly used to measure the magnitude of an earthquake?",
+      "type": "choice",
+      "choices": ["Beaufort scale", "Richter scale", "Fujita scale", "Mercalli scale"],
+      "answer": 1
+    },
+    {
+      "text": "Which layer of the Earth do earthquakes mostly occur in?",
+      "type": "choice",
+      "choices": ["Crust", "Mantle", "Outer core", "Inner core"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Earthquakes only happen near plate boundaries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Seismic waves can be detected using a seismograph.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of plate boundary is most associated with strong earthquakes?",
+      "type": "choice",
+      "choices": ["Conservative", "Divergent", "Convergent", "Transform"],
+      "answer": 2
+    },
+    {
+      "text": "Which is a secondary effect of earthquakes?",
+      "type": "choice",
+      "choices": ["Tsunamis", "Volcanic eruptions", "Cyclones", "Avalanches"],
+      "answer": 0
+    },
+    {
+      "text": "Name one precaution people can take to reduce earthquake damage.",
+      "type": "input",
+      "answer": ["building earthquake-resistant structures", "emergency drills", "securing furniture", "evacuation plan"]
+    },
+    {
+      "text": "Name one country that experiences frequent earthquakes.",
+      "type": "input",
+      "answer": ["Japan", "Chile", "Nepal", "Indonesia"]
+    },
+    {
+      "text": "True or false: The epicenter is the point on the surface directly above the earthquake focus.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which seismic wave travels fastest?",
+      "type": "choice",
+      "choices": ["P-wave", "S-wave", "Surface wave", "Tsunami wave"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic Activities (Primary)",
+  "quiz": [
+    {
+      "text": "Which of these is a primary economic activity?",
+      "type": "choice",
+      "choices": ["Fishing", "Car manufacturing", "Banking", "Retail"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector of the economy extracts natural resources?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Farming is a primary economic activity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mining is considered a tertiary economic activity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is an example of a renewable primary resource?",
+      "type": "choice",
+      "choices": ["Coal", "Iron ore", "Timber", "Natural gas"],
+      "answer": 2
+    },
+    {
+      "text": "Which country is famous for its fishing industry?",
+      "type": "choice",
+      "choices": ["Iceland", "Germany", "Switzerland", "Brazil"],
+      "answer": 0
+    },
+    {
+      "text": "Name one form of subsistence farming.",
+      "type": "input",
+      "answer": ["growing crops for family use", "small-scale farming", "vegetable gardening", "local crop cultivation"]
+    },
+    {
+      "text": "Name one mineral that is commonly mined.",
+      "type": "input",
+      "answer": ["coal", "iron ore", "gold", "copper"]
+    },
+    {
+      "text": "True or false: Forestry is a primary economic activity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which primary activity involves catching fish from the sea or rivers?",
+      "type": "choice",
+      "choices": ["Fishing", "Farming", "Mining", "Quarrying"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic Activities (Secondary)",
+  "quiz": [
+    {
+      "text": "Which of these is a secondary economic activity?",
+      "type": "choice",
+      "choices": ["Car manufacturing", "Fishing", "Banking", "Retail"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Secondary economic activities involve processing raw materials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which sector of the economy produces goods from raw materials?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Textile production is a secondary economic activity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of a secondary economic activity?",
+      "type": "choice",
+      "choices": ["Steel manufacturing", "Fishing", "Banking", "Tourism"],
+      "answer": 0
+    },
+    {
+      "text": "Name one example of light industry.",
+      "type": "input",
+      "answer": ["clothing manufacturing", "electronics assembly", "furniture production", "toy manufacturing"]
+    },
+    {
+      "text": "Name one example of heavy industry.",
+      "type": "input",
+      "answer": ["steel production", "shipbuilding", "car manufacturing", "cement production"]
+    },
+    {
+      "text": "True or false: Secondary economic activities only exist in cities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which process turns raw materials into finished goods?",
+      "type": "choice",
+      "choices": ["Manufacturing", "Farming", "Fishing", "Retail"],
+      "answer": 0
+    },
+    {
+      "text": "Which secondary activity uses wood from forestry to produce furniture?",
+      "type": "choice",
+      "choices": ["Furniture manufacturing", "Fishing", "Mining", "Banking"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic Activities (Tertiary): Tourism & Transport",
+  "quiz": [
+    {
+      "text": "Which of these is a tertiary economic activity?",
+      "type": "choice",
+      "choices": ["Tourism", "Farming", "Steel production", "Fishing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tertiary economic activities provide services rather than goods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which sector includes transport services?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Tourism and transport are examples of tertiary economic activities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of the following is a tertiary service?",
+      "type": "choice",
+      "choices": ["Hotel management", "Car manufacturing", "Fishing", "Forestry"],
+      "answer": 0
+    },
+    {
+      "text": "Give one example of a transport service.",
+      "type": "input",
+      "answer": ["bus service", "train service", "airline", "taxi service"]
+    },
+    {
+      "text": "Give one example of a tourism service.",
+      "type": "input",
+      "answer": ["hotel", "tour guide", "theme park", "cruise ship service"]
+    },
+    {
+      "text": "True or false: Tertiary activities are important for connecting people and goods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which economic activity is responsible for providing services to customers?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 2
+    },
+    {
+      "text": "Which sector would a travel agency belong to?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic Inequality",
+  "quiz": [
+    {
+      "text": "What does economic inequality refer to?",
+      "type": "choice",
+      "choices": ["Differences in income and wealth", "Equal distribution of resources", "Access to free education", "Uniform taxation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Economic inequality only exists in poor countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which factor can contribute to economic inequality?",
+      "type": "choice",
+      "choices": ["Education", "Employment opportunities", "Inheritance", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Economic inequality can affect quality of life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the richest 1% controlling a large portion of wealth?",
+      "type": "choice",
+      "choices": ["Poverty", "Wealth concentration", "Economic equality", "Inflation"],
+      "answer": 1
+    },
+    {
+      "text": "Name one indicator used to measure economic inequality.",
+      "type": "input",
+      "answer": ["gini coefficient", "income distribution", "poverty rate", "wealth gap"]
+    },
+    {
+      "text": "Give one social impact of economic inequality.",
+      "type": "input",
+      "answer": ["limited education", "poor healthcare", "social tension", "unemployment"]
+    },
+    {
+      "text": "True or false: Government policies cannot reduce economic inequality.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these groups is often most affected by economic inequality?",
+      "type": "choice",
+      "choices": ["Wealthy elites", "Middle-class professionals", "Low-income households", "Government officials"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Economic inequality can exist within a single city as well as between countries.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic Inequality",
+  "quiz": [
+    {
+      "text": "What does economic inequality refer to?",
+      "type": "choice",
+      "choices": ["Differences in income and wealth", "Equal distribution of resources", "Access to free education", "Uniform taxation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Economic inequality only exists in poor countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which factor can contribute to economic inequality?",
+      "type": "choice",
+      "choices": ["Education", "Employment opportunities", "Inheritance", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Economic inequality can affect quality of life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the richest 1% controlling a large portion of wealth?",
+      "type": "choice",
+      "choices": ["Poverty", "Wealth concentration", "Economic equality", "Inflation"],
+      "answer": 1
+    },
+    {
+      "text": "Name one indicator used to measure economic inequality.",
+      "type": "input",
+      "answer": ["gini coefficient", "income distribution", "poverty rate", "wealth gap"]
+    },
+    {
+      "text": "Give one social impact of economic inequality.",
+      "type": "input",
+      "answer": ["limited education", "poor healthcare", "social tension", "unemployment"]
+    },
+    {
+      "text": "True or false: Government policies cannot reduce economic inequality.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these groups is often most affected by economic inequality?",
+      "type": "choice",
+      "choices": ["Wealthy elites", "Middle-class professionals", "Low-income households", "Government officials"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Economic inequality can exist within a single city as well as between countries.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Fold Mountains",
+  "quiz": [
+    {
+      "text": "What causes fold mountains to form?",
+      "type": "choice",
+      "choices": ["Volcanic activity", "Tectonic plate collision", "Erosion by rivers", "Glacial movement"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The Himalayas are an example of fold mountains.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which layer of the Earth is primarily involved in fold mountain formation?",
+      "type": "choice",
+      "choices": ["Crust", "Mantle", "Core", "Lithosphere"],
+      "answer": 0
+    },
+    {
+      "text": "Name one type of fold found in mountains.",
+      "type": "input",
+      "answer": ["anticline", "syncline", "monocline", "plunging fold"]
+    },
+    {
+      "text": "True or false: Fold mountains are formed quickly, within a few years.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the main difference between anticlines and synclines?",
+      "type": "choice",
+      "choices": ["Anticlines are upwards folds; synclines are downwards folds", "Anticlines are volcanic; synclines are sedimentary", "Anticlines are man-made; synclines are natural", "There is no difference"],
+      "answer": 0
+    },
+    {
+      "text": "Give one economic activity common in fold mountain regions.",
+      "type": "input",
+      "answer": ["tourism", "forestry", "mining", "sheep farming"]
+    },
+    {
+      "text": "True or false: Fold mountains are usually found at plate boundaries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fold mountain range is located in Europe?",
+      "type": "choice",
+      "choices": ["Andes", "Alps", "Rockies", "Himalayas"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Fold mountains often have sharp peaks and deep valleys.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Geographical Skills: Aerial Photographs",
+  "quiz": [
+    {
+      "text": "What is an aerial photograph?",
+      "type": "choice",
+      "choices": ["A photo taken from a plane or drone", "A photo taken underwater", "A photo taken with a telescope", "A satellite image only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Aerial photographs can help identify land use patterns.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which feature is easiest to identify in a vertical aerial photograph?",
+      "type": "choice",
+      "choices": ["Height of buildings", "Road patterns", "Shadows", "Mountain slopes"],
+      "answer": 1
+    },
+    {
+      "text": "Name one advantage of using aerial photographs in geography.",
+      "type": "input",
+      "answer": ["study land use", "map urban areas", "plan infrastructure", "monitor environmental changes"]
+    },
+    {
+      "text": "True or false: Oblique aerial photographs are taken at an angle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What type of aerial photograph shows objects from directly above?",
+      "type": "choice",
+      "choices": ["Vertical", "Oblique", "Panoramic", "Satellite"],
+      "answer": 0
+    },
+    {
+      "text": "Give one feature that can be measured using aerial photographs.",
+      "type": "input",
+      "answer": ["road length", "field area", "river width", "building height"]
+    },
+    {
+      "text": "True or false: Shadows in aerial photographs can help determine height of objects.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is often used with aerial photographs to calculate distances?",
+      "type": "choice",
+      "choices": ["Ruler", "Compass", "Scale", "Protractor"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Aerial photographs cannot be used for environmental monitoring.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Geographical Skills: Graphs & Tables",
+  "quiz": [
+    {
+      "text": "Which type of graph is best for showing changes over time?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Scatter plot"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Pie charts are useful for showing proportions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of graph is suitable for comparing quantities?",
+      "type": "choice",
+      "choices": ["Bar chart", "Line graph", "Histogram", "Scatter plot"],
+      "answer": 0
+    },
+    {
+      "text": "Give one advantage of using tables in geography.",
+      "type": "input",
+      "answer": ["organise data", "compare information", "record measurements", "analyse trends"]
+    },
+    {
+      "text": "True or false: Scatter plots are useful for showing relationships between two variables.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What does the y-axis usually represent in a line graph?",
+      "type": "choice",
+      "choices": ["Independent variable", "Dependent variable", "Time", "Category labels"],
+      "answer": 1
+    },
+    {
+      "text": "Give one feature that can be interpreted from a graph.",
+      "type": "input",
+      "answer": ["trend", "pattern", "increase", "decrease"]
+    },
+    {
+      "text": "True or false: All tables include graphs automatically.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of graph uses bars placed side by side to show comparisons?",
+      "type": "choice",
+      "choices": ["Bar chart", "Line graph", "Histogram", "Pie chart"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tables can be used to quickly check raw data before graphing.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Geographical Skills: O.S. Mapwork",
+  "quiz": [
+    {
+      "text": "What does O.S. stand for in O.S. Mapwork?",
+      "type": "choice",
+      "choices": ["Ordnance Survey", "Official Scale", "Observation System", "Original Survey"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The scale of a map shows the relationship between map distance and real distance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which feature is shown by contour lines on a map?",
+      "type": "choice",
+      "choices": ["Elevation", "Population", "Vegetation", "Rivers"],
+      "answer": 0
+    },
+    {
+      "text": "Give one tool used to measure distance on a map.",
+      "type": "input",
+      "answer": ["ruler", "scale", "map scale", "divider"]
+    },
+    {
+      "text": "True or false: North on a map always points to magnetic north.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the purpose of the map key/legend?",
+      "type": "choice",
+      "choices": ["To explain symbols", "To show scale", "To indicate north", "To measure distance"],
+      "answer": 0
+    },
+    {
+      "text": "Give one example of a human feature found on a map.",
+      "type": "input",
+      "answer": ["road", "building", "railway", "bridge"]
+    },
+    {
+      "text": "True or false: Contour lines that are close together indicate steep slopes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which line connects points of equal height on a map?",
+      "type": "choice",
+      "choices": ["Contour line", "Latitude line", "Longitude line", "Boundary line"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Grid references are used to locate places on a map.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Glacial Landscapes & Human Interaction",
+  "quiz": [
+    {
+      "text": "What is the main agent of glacial erosion?",
+      "type": "choice",
+      "choices": ["Wind", "Water", "Ice", "Gravity"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Glaciers can create U-shaped valleys.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one human activity that impacts glacial landscapes.",
+      "type": "input",
+      "answer": ["tourism", "construction", "mining", "farming"]
+    },
+    {
+      "text": "Which feature is formed by glacial deposition?",
+      "type": "choice",
+      "choices": ["Moraine", "Delta", "Oxbow lake", "Beach"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Glacial retreat can cause flooding.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the term for a mountain carved by a glacier?",
+      "type": "choice",
+      "choices": ["Cirque", "Arête", "Horn", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Give one way humans can manage glacial areas sustainably.",
+      "type": "input",
+      "answer": ["eco-tourism", "protected areas", "controlled access", "reforestation"]
+    },
+    {
+      "text": "True or false: Glaciers only exist in polar regions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which glacial landform is a ridge of debris deposited by a glacier?",
+      "type": "choice",
+      "choices": ["Moraine", "Eskers", "Drumlin", "Kettle lake"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Human settlements can be threatened by glacial meltwater.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Globalisation",
+  "quiz": [
+    {
+      "text": "What does globalisation refer to?",
+      "type": "choice",
+      "choices": ["Local trade only", "International interconnection", "Only online shopping", "National policies"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Globalisation reduces cultural exchange.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a global company.",
+      "type": "input",
+      "answer": ["Apple", "McDonald's", "Nike", "Coca-Cola"]
+    },
+    {
+      "text": "Which sector is most affected by globalisation?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "All sectors"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Globalisation can lead to increased employment opportunities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the movement of goods, services and information across countries called?",
+      "type": "choice",
+      "choices": ["Global trade", "Import only", "Export only", "Local commerce"],
+      "answer": 0
+    },
+    {
+      "text": "Give one negative effect of globalisation on local communities.",
+      "type": "input",
+      "answer": ["job loss", "cultural erosion", "inequality", "pollution"]
+    },
+    {
+      "text": "True or false: Technology has played a key role in globalisation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organisation helps facilitate international trade?",
+      "type": "choice",
+      "choices": ["UNESCO", "WHO", "WTO", "IMF"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Globalisation has only economic impacts.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Globalisation",
+  "quiz": [
+    {
+      "text": "What does globalisation refer to?",
+      "type": "choice",
+      "choices": ["Local trade only", "International interconnection", "Only online shopping", "National policies"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Globalisation reduces cultural exchange.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a global company.",
+      "type": "input",
+      "answer": ["Apple", "McDonald's", "Nike", "Coca-Cola"]
+    },
+    {
+      "text": "Which sector is most affected by globalisation?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "All sectors"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Globalisation can lead to increased employment opportunities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the movement of goods, services and information across countries called?",
+      "type": "choice",
+      "choices": ["Global trade", "Import only", "Export only", "Local commerce"],
+      "answer": 0
+    },
+    {
+      "text": "Give one negative effect of globalisation on local communities.",
+      "type": "input",
+      "answer": ["job loss", "cultural erosion", "inequality", "pollution"]
+    },
+    {
+      "text": "True or false: Technology has played a key role in globalisation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organisation helps facilitate international trade?",
+      "type": "choice",
+      "choices": ["UNESCO", "WHO", "WTO", "IMF"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Globalisation has only economic impacts.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Mass Movement",
+  "quiz": [
+    {
+      "text": "What is mass movement?",
+      "type": "choice",
+      "choices": ["Movement of glaciers", "Downslope movement of soil and rock", "River erosion", "Coastal deposition"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Landslides are a type of mass movement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one natural factor that can trigger mass movement.",
+      "type": "input",
+      "answer": ["rainfall", "earthquake", "volcanic eruption", "weathering"]
+    },
+    {
+      "text": "Which type of mass movement is very slow?",
+      "type": "choice",
+      "choices": ["Soil creep", "Landslide", "Mudflow", "Avalanche"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Vegetation can help prevent mass movement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of mass movement involves saturated soil and mud flowing rapidly?",
+      "type": "choice",
+      "choices": ["Mudflow", "Soil creep", "Rockfall", "Slump"],
+      "answer": 0
+    },
+    {
+      "text": "Give one human activity that can increase the risk of mass movement.",
+      "type": "input",
+      "answer": ["deforestation", "construction", "mining", "overgrazing"]
+    },
+    {
+      "text": "True or false: Mass movement can occur on flat land.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the backward rotation of soil along a curved surface?",
+      "type": "choice",
+      "choices": ["Slump", "Landslide", "Rockfall", "Creep"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rainfall does not influence mass movement.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Natural Disasters",
+  "quiz": [
+    {
+      "text": "Which of the following is a natural disaster caused by tectonic activity?",
+      "type": "choice",
+      "choices": ["Earthquake", "Flood", "Drought", "Hurricane"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Volcanic eruptions can destroy crops and buildings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one human activity that can worsen the effects of natural disasters.",
+      "type": "input",
+      "answer": ["deforestation", "poor urban planning", "climate change", "mining"]
+    },
+    {
+      "text": "Which disaster is caused by prolonged lack of rainfall?",
+      "type": "choice",
+      "choices": ["Flood", "Drought", "Earthquake", "Tsunami"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Hurricanes only occur in the Pacific Ocean.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which disaster results from rapid movement of water in rivers or coasts?",
+      "type": "choice",
+      "choices": ["Flood", "Landslide", "Volcanic eruption", "Avalanche"],
+      "answer": 0
+    },
+    {
+      "text": "Give one method of reducing the impact of natural disasters.",
+      "type": "input",
+      "answer": ["early warning systems", "building flood defenses", "evacuation planning", "insurance"]
+    },
+    {
+      "text": "True or false: Tsunamis are caused by underwater earthquakes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes a violent shaking of the earth’s surface?",
+      "type": "choice",
+      "choices": ["Earthquake", "Cyclone", "Drought", "Volcano"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Natural disasters only affect developing countries.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Population & Migration",
+  "quiz": [
+    {
+      "text": "What is migration?",
+      "type": "choice",
+      "choices": ["Movement of people from one place to another", "Birth of new population", "Death rate increase", "Urban planning"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Emigration is leaving a country to live elsewhere.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one reason people migrate.",
+      "type": "input",
+      "answer": ["employment", "war", "education", "family"]
+    },
+    {
+      "text": "Which term describes people moving to cities from rural areas?",
+      "type": "choice",
+      "choices": ["Urbanization", "Immigration", "Emigration", "Population explosion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Migration only occurs internationally.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the number of people per square kilometre?",
+      "type": "choice",
+      "choices": ["Population density", "Birth rate", "Death rate", "Life expectancy"],
+      "answer": 0
+    },
+    {
+      "text": "Give one effect of high population growth on resources.",
+      "type": "input",
+      "answer": ["pressure on food", "pressure on water", "pressure on housing", "deforestation"]
+    },
+    {
+      "text": "True or false: Refugees are forced to leave their country due to danger or persecution.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes people moving into a country to live?",
+      "type": "choice",
+      "choices": ["Immigration", "Emigration", "Internal migration", "Urbanization"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Migration can impact the cultural diversity of a country.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Rocks & Natural Resources",
+  "quiz": [
+    {
+      "text": "Which type of rock is formed from cooled lava?",
+      "type": "choice",
+      "choices": ["Igneous", "Sedimentary", "Metamorphic", "Fossilized"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fossil fuels are a renewable resource.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one natural resource used for energy production.",
+      "type": "input",
+      "answer": ["coal", "oil", "natural gas", "wind"]
+    },
+    {
+      "text": "Which rock type is formed by pressure and heat on existing rocks?",
+      "type": "choice",
+      "choices": ["Metamorphic", "Igneous", "Sedimentary", "Limestone"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Water is a natural resource.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which rock is often formed from layers of sediment?",
+      "type": "choice",
+      "choices": ["Sedimentary", "Metamorphic", "Igneous", "Basalt"],
+      "answer": 0
+    },
+    {
+      "text": "Give one use of metals extracted from rocks.",
+      "type": "input",
+      "answer": ["construction", "electronics", "transport", "machinery"]
+    },
+    {
+      "text": "True or false: Renewable resources include wind and sunlight.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which natural resource is extracted from the ground in mines?",
+      "type": "choice",
+      "choices": ["Minerals", "Sunlight", "Wind", "Water"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Non-renewable resources can be replaced quickly by nature.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Settlement",
+  "quiz": [
+    {
+      "text": "Which type of settlement is located in the countryside with few people?",
+      "type": "choice",
+      "choices": ["Rural", "Urban", "Suburban", "Metropolitan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Cities are examples of urban settlements.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one factor that influences where people settle.",
+      "type": "input",
+      "answer": ["water supply", "fertile land", "transport links", "safety"]
+    },
+    {
+      "text": "Which type of settlement grows around a city?",
+      "type": "choice",
+      "choices": ["Suburban", "Rural", "Urban", "Industrial"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Industrial settlements are built mainly for housing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of settlement has a high population density?",
+      "type": "choice",
+      "choices": ["Urban", "Rural", "Remote", "Suburban"],
+      "answer": 0
+    },
+    {
+      "text": "Give one example of a service found in urban areas.",
+      "type": "input",
+      "answer": ["school", "hospital", "shopping center", "bank"]
+    },
+    {
+      "text": "True or false: Settlement patterns are only influenced by physical features.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which settlement type is often associated with farming?",
+      "type": "choice",
+      "choices": ["Rural", "Urban", "Suburban", "Metropolitan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Transportation links can affect the growth of settlements.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Soils",
+  "quiz": [
+    {
+      "text": "Which type of soil is best for growing crops?",
+      "type": "choice",
+      "choices": ["Loam", "Clay", "Sand", "Peat"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Clay soils drain water quickly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one factor that affects soil formation.",
+      "type": "input",
+      "answer": ["climate", "parent rock", "vegetation", "time"]
+    },
+    {
+      "text": "Which soil type is acidic and rich in organic matter?",
+      "type": "choice",
+      "choices": ["Peat", "Loam", "Sandy", "Chalky"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sandy soils hold nutrients very well.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which soil type has the largest particles?",
+      "type": "choice",
+      "choices": ["Sandy", "Clay", "Loam", "Peaty"],
+      "answer": 0
+    },
+    {
+      "text": "Give one use of fertile soil by humans.",
+      "type": "input",
+      "answer": ["farming", "gardening", "planting crops", "horticulture"]
+    },
+    {
+      "text": "True or false: Soil erosion can be caused by wind or water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which soil type is sticky when wet?",
+      "type": "choice",
+      "choices": ["Clay", "Sandy", "Loam", "Peat"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Soil pH affects the types of plants that can grow.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "The Earth & Plates",
+  "quiz": [
+    {
+      "text": "What is the Earth's outer layer called?",
+      "type": "choice",
+      "choices": ["Crust", "Mantle", "Core", "Lithosphere"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tectonic plates float on the mantle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of plate boundary.",
+      "type": "input",
+      "answer": ["convergent", "divergent", "transform", "collision"]
+    },
+    {
+      "text": "Which layer is located below the crust?",
+      "type": "choice",
+      "choices": ["Mantle", "Core", "Lithosphere", "Asthenosphere"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Earthquakes occur mostly at plate boundaries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which plate movement can create mountains?",
+      "type": "choice",
+      "choices": ["Convergent", "Divergent", "Transform", "Subduction"],
+      "answer": 0
+    },
+    {
+      "text": "Give one natural event caused by plate movements.",
+      "type": "input",
+      "answer": ["earthquake", "volcano", "tsunami", "mountain formation"]
+    },
+    {
+      "text": "True or false: The Earth's core is solid rock.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which plate boundary moves apart from each other?",
+      "type": "choice",
+      "choices": ["Divergent", "Convergent", "Transform", "Collision"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Plate tectonics affect the distribution of continents.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Volcanoes",
+  "quiz": [
+    {
+      "text": "Which type of volcano has gentle slopes and erupts lava slowly?",
+      "type": "choice",
+      "choices": ["Shield", "Composite", "Cinder Cone", "Caldera"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A volcanic eruption can cause tsunamis.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one gas released during a volcanic eruption.",
+      "type": "input",
+      "answer": ["carbon dioxide", "sulfur dioxide", "water vapor", "hydrogen sulfide"]
+    },
+    {
+      "text": "Which type of volcano is steep and explosive?",
+      "type": "choice",
+      "choices": ["Composite", "Shield", "Cinder Cone", "Fissure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Lava is molten rock that reaches the Earth's surface.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the crater at the top of a volcano called?",
+      "type": "choice",
+      "choices": ["Vent", "Caldera", "Magma Chamber", "Crater"],
+      "answer": 3
+    },
+    {
+      "text": "Name one effect of a volcanic eruption on humans.",
+      "type": "input",
+      "answer": ["destruction", "evacuation", "loss of life", "damage to crops"]
+    },
+    {
+      "text": "True or false: Volcanic ash can fertilize soil.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which underground layer stores magma before an eruption?",
+      "type": "choice",
+      "choices": ["Magma Chamber", "Crust", "Vent", "Caldera"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All volcanoes are located at plate boundaries.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Weather",
+  "quiz": [
+    {
+      "text": "What is the measure of atmospheric pressure called?",
+      "type": "choice",
+      "choices": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Humidity is the amount of water vapor in the air.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that influences weather.",
+      "type": "input",
+      "answer": ["temperature", "wind", "humidity", "air pressure"]
+    },
+    {
+      "text": "Which instrument measures wind speed?",
+      "type": "choice",
+      "choices": ["Anemometer", "Barometer", "Hygrometer", "Thermometer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Weather is the long-term average of atmospheric conditions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which instrument measures temperature?",
+      "type": "choice",
+      "choices": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"],
+      "answer": 0
+    },
+    {
+      "text": "Give one type of precipitation.",
+      "type": "input",
+      "answer": ["rain", "snow", "hail", "sleet"]
+    },
+    {
+      "text": "True or false: Weather can change within minutes or hours.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which instrument measures humidity?",
+      "type": "choice",
+      "choices": ["Hygrometer", "Barometer", "Anemometer", "Thermometer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Clouds are made of water vapor and ice crystals.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Weathering",
+  "quiz": [
+    {
+      "text": "Which type of weathering is caused by physical forces breaking rocks?",
+      "type": "choice",
+      "choices": ["Mechanical", "Chemical", "Biological", "Erosion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Chemical weathering changes the rock's composition.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of biological weathering.",
+      "type": "input",
+      "answer": ["roots breaking rocks", "plant growth", "burrowing animals"]
+    },
+    {
+      "text": "Which type of weathering is caused by acid rain?",
+      "type": "choice",
+      "choices": ["Chemical", "Mechanical", "Physical", "Glacial"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Mechanical weathering includes frost action.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the process called when rocks break down due to temperature changes?",
+      "type": "choice",
+      "choices": ["Thermal expansion", "Oxidation", "Erosion", "Solution"],
+      "answer": 0
+    },
+    {
+      "text": "Give one effect of weathering on landscapes.",
+      "type": "input",
+      "answer": ["formation of soil", "rounded rocks", "cliffs retreating", "valley formation"]
+    },
+    {
+      "text": "True or false: Weathering always involves movement of rock material.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of weathering involves oxidation of minerals?",
+      "type": "choice",
+      "choices": ["Chemical", "Mechanical", "Biological", "Physical"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Weathering is faster in warm, wet climates.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+}
+]

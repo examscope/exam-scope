@@ -1,0 +1,1710 @@
+[
+{
+  "subject": "English",
+  "topic": "Composition (Personal Writing)",
+  "quiz": [
+    {
+      "text": "Which narrative perspective is most common in personal writing?",
+      "type": "choice",
+      "choices": ["First person", "Second person", "Third person", "Omniscient"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of personal writing?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform or reflect on personal experience", "To persuade", "To describe a place"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Dialogue can be used to make personal writing more engaging.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Personal writing must always follow chronological order.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which element is most important for creating a vivid personal narrative?",
+      "type": "choice",
+      "choices": ["Character development", "Setting details", "Sensory description", "Plot twists"],
+      "answer": 2
+    },
+    {
+      "text": "Which tone is commonly used in reflective personal writing?",
+      "type": "choice",
+      "choices": ["Formal", "Casual and reflective", "Satirical", "Scientific"],
+      "answer": 1
+    },
+    {
+      "text": "Name one way to engage the reader in personal writing.",
+      "type": "input",
+      "answer": ["use vivid imagery", "show emotion", "include dialogue", "describe details"]
+    },
+    {
+      "text": "Give one topic commonly chosen for personal writing.",
+      "type": "input",
+      "answer": ["family experience", "personal challenge", "school event", "travel experience"]
+    },
+    {
+      "text": "True or false: A strong conclusion can reflect on the lesson learned.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which feature often makes personal writing authentic?",
+      "type": "choice",
+      "choices": ["Realistic dialogue", "Fictional plot", "Complex themes", "Multiple narrators"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Comparative - Cultural Context",
+  "quiz": [
+    {
+      "text": "What does 'cultural context' refer to in literature?",
+      "type": "choice",
+      "choices": ["The setting of the story", "The historical, social, or cultural background", "The characters' dialogue", "The author's writing style"],
+      "answer": 1
+    },
+    {
+      "text": "Which aspect is commonly analysed in comparative essays on cultural context?",
+      "type": "choice",
+      "choices": ["Language and dialogue", "Themes and social issues", "Setting and historical references", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Cultural context can affect character motivations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cultural context is irrelevant when comparing texts from different countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which element shows the cultural context of a text?",
+      "type": "choice",
+      "choices": ["Clothing descriptions", "Dialogue style", "Social customs", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Comparing two texts for cultural context often focuses on which theme?",
+      "type": "choice",
+      "choices": ["Power and authority", "Love and relationships", "Conflict and social norms", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Name one way authors reflect cultural context in their writing.",
+      "type": "input",
+      "answer": ["social commentary", "customs and traditions", "historical events", "language usage"]
+    },
+    {
+      "text": "Give one reason why understanding cultural context is important in comparison.",
+      "type": "input",
+      "answer": ["explains character behaviour", "enhances theme understanding", "clarifies symbolism", "improves interpretation"]
+    },
+    {
+      "text": "True or false: Comparing cultural context can highlight differences in societal values.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which feature often indicates a text's cultural context?",
+      "type": "choice",
+      "choices": ["Historical references", "Fictional creatures", "Modern slang", "None of the above"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Comparative - Literary genre",
+  "quiz": [
+    {
+      "text": "Which of the following is a literary genre?",
+      "type": "choice",
+      "choices": ["Poetry", "Novel", "Drama", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which genre often focuses on emotional expression and imagination?",
+      "type": "choice",
+      "choices": ["Poetry", "Non-fiction", "Technical writing", "Journalism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Comparing texts by genre helps identify structural similarities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All texts in the same genre share identical themes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which element is often analysed in comparative studies of genre?",
+      "type": "choice",
+      "choices": ["Language style", "Plot structure", "Characterisation", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which genre usually includes dialogue and stage directions?",
+      "type": "choice",
+      "choices": ["Drama", "Poetry", "Novel", "Essay"],
+      "answer": 0
+    },
+    {
+      "text": "Name one reason why genre affects interpretation.",
+      "type": "input",
+      "answer": ["audience expectation", "language style", "structural conventions", "theme presentation"]
+    },
+    {
+      "text": "Give one example of a text that can be compared by genre.",
+      "type": "input",
+      "answer": ["novel and short story", "poem and ballad", "play and screenplay", "essay and article"]
+    },
+    {
+      "text": "True or false: Genre influences the writer's choice of literary techniques.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of the following is a feature of narrative genre?",
+      "type": "choice",
+      "choices": ["Plot", "Character", "Setting", "All of the above"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Comparative - Theme or Issue",
+  "quiz": [
+    {
+      "text": "Which of the following is an example of a theme in literature?",
+      "type": "choice",
+      "choices": ["Love", "Betrayal", "Power", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Comparing texts by theme often helps analyse what?",
+      "type": "choice",
+      "choices": ["Character behaviour", "Author's message", "Social context", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Themes are always directly stated in the text.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Identifying common issues across texts can show cultural differences.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which theme is commonly explored in modern literature?",
+      "type": "choice",
+      "choices": ["Identity", "Technology", "Conflict", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which literary element often reveals a text’s theme?",
+      "type": "choice",
+      "choices": ["Plot", "Characterisation", "Setting", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Name one method to identify a theme in a text.",
+      "type": "input",
+      "answer": ["look at recurring motifs", "analyse character actions", "consider the ending", "examine dialogue"]
+    },
+    {
+      "text": "Give one example of a societal issue often explored in texts.",
+      "type": "input",
+      "answer": ["inequality", "war", "environmental crisis", "gender roles"]
+    },
+    {
+      "text": "True or false: Comparing themes across texts can highlight universal human experiences.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which question helps identify a text’s theme?",
+      "type": "choice",
+      "choices": ["What is the story about?", "Who is the author?", "When was it written?", "What font is used?"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Comparative - Vision & Viewpoint",
+  "quiz": [
+    {
+      "text": "What does 'viewpoint' in literature usually refer to?",
+      "type": "choice",
+      "choices": ["The author's perspective", "The reader's opinion", "The plot sequence", "The character names"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary technique can reveal a character’s viewpoint?",
+      "type": "choice",
+      "choices": ["First-person narration", "Dialogue", "Stream of consciousness", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Vision in literature can refer to how a writer imagines society or the future.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Comparing vision and viewpoint does not require considering historical context.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which element often helps convey an author’s viewpoint?",
+      "type": "choice",
+      "choices": ["Tone", "Perspective", "Character actions", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which narrative voice is often used to present multiple viewpoints?",
+      "type": "choice",
+      "choices": ["Third-person omniscient", "First-person", "Second-person", "Epistolary"],
+      "answer": 0
+    },
+    {
+      "text": "Name one way a writer shows vision in a text.",
+      "type": "input",
+      "answer": ["social commentary", "futuristic setting", "philosophical reflection", "imagined society"]
+    },
+    {
+      "text": "Give one method for comparing viewpoints across two texts.",
+      "type": "input",
+      "answer": ["analyse narrator voice", "compare character perspectives", "look at tone and bias", "consider author context"]
+    },
+    {
+      "text": "True or false: Vision and viewpoint can influence how a theme is presented.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which question can guide comparison of vision in texts?",
+      "type": "choice",
+      "choices": ["What future or society does the text imagine?", "Who wrote the text?", "What type of font is used?", "When was it printed?"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Macbeth",
+  "quiz": [
+    {
+      "text": "Who is the protagonist of Macbeth?",
+      "type": "choice",
+      "choices": ["Banquo", "Macbeth", "Lady Macbeth", "Macduff"],
+      "answer": 1
+    },
+    {
+      "text": "Which characters deliver the famous prophecy to Macbeth?",
+      "type": "choice",
+      "choices": ["Banquo", "The witches", "Macduff", "Duncan"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Lady Macbeth manipulates Macbeth into committing murder.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Macbeth immediately regrets his actions after killing Duncan.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which theme is central to Macbeth?",
+      "type": "choice",
+      "choices": ["Ambition", "Love", "Friendship", "Justice"],
+      "answer": 0
+    },
+    {
+      "text": "Which event triggers Macbeth’s downfall?",
+      "type": "choice",
+      "choices": ["Banquo’s death", "The prophecy", "Lady Macbeth’s death", "Macbeth’s murder of Duncan"],
+      "answer": 3
+    },
+    {
+      "text": "Name one symbol used in Macbeth.",
+      "type": "input",
+      "answer": ["blood", "dagger", "darkness", "crown"]
+    },
+    {
+      "text": "Give one motif that recurs throughout Macbeth.",
+      "type": "input",
+      "answer": ["ambition", "guilt", "fate", "supernatural"]
+    },
+    {
+      "text": "True or false: The witches represent fate and manipulation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which character kills Macbeth?",
+      "type": "choice",
+      "choices": ["Macduff", "Banquo", "Malcolm", "Duncan"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Othello",
+  "quiz": [
+    {
+      "text": "Who is Othello’s ensign who manipulates him?",
+      "type": "choice",
+      "choices": ["Iago", "Cassio", "Roderigo", "Brabantio"],
+      "answer": 0
+    },
+    {
+      "text": "Which character is Othello’s wife?",
+      "type": "choice",
+      "choices": ["Desdemona", "Emilia", "Bianca", "Brabantio’s daughter"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Othello kills Desdemona himself.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Iago is motivated solely by jealousy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which theme is central to Othello?",
+      "type": "choice",
+      "choices": ["Jealousy", "Friendship", "Justice", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "Who exposes Iago’s deceit at the end?",
+      "type": "choice",
+      "choices": ["Emilia", "Cassio", "Roderigo", "Brabantio"],
+      "answer": 0
+    },
+    {
+      "text": "Name one symbol in Othello.",
+      "type": "input",
+      "answer": ["handkerchief", "blood", "weapons", "letters"]
+    },
+    {
+      "text": "Give one motif that recurs throughout Othello.",
+      "type": "input",
+      "answer": ["jealousy", "deception", "race", "honour"]
+    },
+    {
+      "text": "True or false: Othello’s downfall is partly due to his trust in Iago.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which character is Cassio?",
+      "type": "choice",
+      "choices": ["Othello’s lieutenant", "Othello’s friend", "Iago’s ally", "Desdemona’s brother"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Bishop",
+  "quiz": [
+    {
+      "text": "Which style is most associated with Elizabeth Bishop?",
+      "type": "choice",
+      "choices": ["Confessional", "Narrative and descriptive", "Romantic", "Epic"],
+      "answer": 1
+    },
+    {
+      "text": "Which theme often appears in Bishop’s poetry?",
+      "type": "choice",
+      "choices": ["Travel and displacement", "Political protest", "Science", "Comedy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Bishop’s poetry often includes precise visual imagery.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Bishop frequently uses dramatic monologue in her poems.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device is common in Bishop’s work?",
+      "type": "choice",
+      "choices": ["Metaphor", "Rhyme-heavy stanza", "Alliteration only", "Hyperbole"],
+      "answer": 0
+    },
+    {
+      "text": "Bishop often writes about which locations?",
+      "type": "choice",
+      "choices": ["Home and foreign lands", "Ancient Rome", "Mythical lands", "Space exploration"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Bishop’s poetry.",
+      "type": "input",
+      "answer": ["nature", "loss", "travel", "observation"]
+    },
+    {
+      "text": "Give one reason Bishop’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["use of imagery", "attention to detail", "themes of exile and identity", "descriptive technique"]
+    },
+    {
+      "text": "True or false: Bishop often writes in free verse.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Bishop’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and observational", "Aggressive", "Satirical", "Comedic"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Dickinson",
+  "quiz": [
+    {
+      "text": "Which style is characteristic of Emily Dickinson’s poetry?",
+      "type": "choice",
+      "choices": ["Short lines, slant rhyme, unconventional punctuation", "Long epic narrative", "Dramatic monologue", "Rhyming couplets only"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is commonly explored in Dickinson’s poetry?",
+      "type": "choice",
+      "choices": ["Death and immortality", "War and politics", "Science", "Comedy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dickinson often uses dashes instead of traditional punctuation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dickinson primarily wrote narrative poems with detailed plots.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device frequently appears in Dickinson’s poems?",
+      "type": "choice",
+      "choices": ["Personification", "Epic simile", "Alliteration only", "Pun"],
+      "answer": 0
+    },
+    {
+      "text": "Dickinson often reflects on which concept in her poetry?",
+      "type": "choice",
+      "choices": ["Nature", "Death", "Individual consciousness", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Name one motif in Dickinson’s poetry.",
+      "type": "input",
+      "answer": ["death", "immortality", "nature", "solitude"]
+    },
+    {
+      "text": "Give one reason why Dickinson’s poetry is considered unique.",
+      "type": "input",
+      "answer": ["unconventional punctuation", "slant rhyme", "brevity of lines", "philosophical depth"]
+    },
+    {
+      "text": "True or false: Dickinson frequently explores religious themes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Dickinson’s work?",
+      "type": "choice",
+      "choices": ["Introspective and contemplative", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Donne",
+  "quiz": [
+    {
+      "text": "Which poetic style is John Donne known for?",
+      "type": "choice",
+      "choices": ["Metaphysical poetry", "Romantic poetry", "Epic poetry", "Pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Donne’s poetry often explores which theme?",
+      "type": "choice",
+      "choices": ["Love and religion", "Comedy", "Adventure", "Science"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Donne frequently uses conceits in his poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Donne’s poetry avoids intellectual arguments.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device is common in Donne’s work?",
+      "type": "choice",
+      "choices": ["Paradox", "Epic simile", "Rhyme only", "Hyperbole exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Donne’s poems often combine which two elements?",
+      "type": "choice",
+      "choices": ["Emotional intensity and intellectual reasoning", "Humor and satire", "Fiction and drama", "Nature and pastoral imagery"],
+      "answer": 0
+    },
+    {
+      "text": "Name one motif in Donne’s poetry.",
+      "type": "input",
+      "answer": ["love", "death", "religion", "time"]
+    },
+    {
+      "text": "Give one reason why Donne’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["use of conceits", "blend of emotion and reason", "complex imagery", "metaphysical ideas"]
+    },
+    {
+      "text": "True or false: Donne often addresses philosophical questions in his poems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Donne’s poetry?",
+      "type": "choice",
+      "choices": ["Intellectual and passionate", "Comedic", "Romantic adventure", "Pastoral calm"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Eliot",
+  "quiz": [
+    {
+      "text": "Which poetic style is T.S. Eliot known for?",
+      "type": "choice",
+      "choices": ["Modernist poetry", "Romantic poetry", "Metaphysical poetry", "Pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is frequently explored in Eliot’s poetry?",
+      "type": "choice",
+      "choices": ["Alienation and fragmentation", "Comedy", "Adventure", "Nature and pastoral life"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Eliot often uses allusions to other literary works and cultures.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Eliot’s poetry generally follows traditional rhyme schemes and forms.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device is common in Eliot’s work?",
+      "type": "choice",
+      "choices": ["Juxtaposition", "Alliteration only", "Hyperbole only", "Pun only"],
+      "answer": 0
+    },
+    {
+      "text": "Eliot often reflects on which societal issue?",
+      "type": "choice",
+      "choices": ["Disillusionment of modern life", "Romantic love", "War adventure", "Nature conservation"],
+      "answer": 0
+    },
+    {
+      "text": "Name one motif in Eliot’s poetry.",
+      "type": "input",
+      "answer": ["time", "memory", "urban life", "alienation"]
+    },
+    {
+      "text": "Give one reason Eliot’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["modernist techniques", "literary allusions", "complex imagery", "themes of fragmentation"]
+    },
+    {
+      "text": "True or false: Eliot’s poetry frequently examines spiritual emptiness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Eliot’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and somber", "Comedic", "Romantic adventure", "Pastoral calm"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Heaney",
+  "quiz": [
+    {
+      "text": "Which style is Seamus Heaney known for?",
+      "type": "choice",
+      "choices": ["Modern Irish poetry", "Romantic poetry", "Metaphysical poetry", "Epic poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is common in Heaney’s poetry?",
+      "type": "choice",
+      "choices": ["Rural life and history", "Comedy", "Urban fantasy", "Science fiction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Heaney frequently uses imagery drawn from nature and the land.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Heaney’s poetry avoids personal and historical reflection.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device is common in Heaney’s work?",
+      "type": "choice",
+      "choices": ["Metaphor", "Hyperbole only", "Pun only", "Alliteration exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Heaney often addresses which historical issue?",
+      "type": "choice",
+      "choices": ["The Troubles in Ireland", "French Revolution", "American Civil War", "World War I"],
+      "answer": 0
+    },
+    {
+      "text": "Name one motif in Heaney’s poetry.",
+      "type": "input",
+      "answer": ["land", "family", "memory", "rural life"]
+    },
+    {
+      "text": "Give one reason Heaney’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["depiction of Irish life", "use of language and imagery", "exploration of history", "themes of identity"]
+    },
+    {
+      "text": "True or false: Heaney’s poetry often reflects on the passage of time and mortality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Heaney’s work?",
+      "type": "choice",
+      "choices": ["Reflective and descriptive", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Kavanagh",
+  "quiz": [
+    {
+      "text": "Which style is Patrick Kavanagh known for?",
+      "type": "choice",
+      "choices": ["Rural realism and vivid imagery", "Metaphysical poetry", "Modernist abstraction", "Romantic pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Kavanagh’s poetry?",
+      "type": "choice",
+      "choices": ["Rural life and nature", "Urban alienation", "Love and romance", "Political revolution"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Kavanagh often uses precise and simple language.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Kavanagh’s poetry rarely focuses on the ordinary lives of people.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Kavanagh’s work?",
+      "type": "choice",
+      "choices": ["Imagery", "Epic simile", "Alliteration exclusively", "Pun only"],
+      "answer": 0
+    },
+    {
+      "text": "Kavanagh often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Rural experience", "Historical events", "Fantasy worlds", "Science fiction"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Kavanagh’s poetry.",
+      "type": "input",
+      "answer": ["fields", "village life", "nature", "daily life"]
+    },
+    {
+      "text": "Give one reason Kavanagh’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["depiction of rural Ireland", "use of imagery", "exploration of ordinary life", "realistic language"]
+    },
+    {
+      "text": "True or false: Kavanagh frequently incorporates personal experience in his poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Kavanagh’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and descriptive", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Mahon",
+  "quiz": [
+    {
+      "text": "Which style is Paul Mahon known for?",
+      "type": "choice",
+      "choices": ["Contemporary Irish poetry", "Romantic poetry", "Epic poetry", "Metaphysical poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Mahon’s poetry?",
+      "type": "choice",
+      "choices": ["Urban and personal life", "Medieval history", "Pastoral nature", "Science and technology"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Mahon often uses colloquial language and modern references.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mahon’s poetry typically avoids exploring contemporary issues.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Mahon’s work?",
+      "type": "choice",
+      "choices": ["Allusion", "Epic simile", "Hyperbole only", "Pun only"],
+      "answer": 0
+    },
+    {
+      "text": "Mahon often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Modern Irish experience", "Fantasy worlds", "Historical legends", "Rural isolation"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Mahon’s poetry.",
+      "type": "input",
+      "answer": ["urban life", "memory", "family", "identity"]
+    },
+    {
+      "text": "Give one reason Mahon’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["contemporary themes", "personal reflection", "literary technique", "modern Irish culture"]
+    },
+    {
+      "text": "True or false: Mahon often explores personal and societal identity in his poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Mahon’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and personal", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Meehan",
+  "quiz": [
+    {
+      "text": "Which style is Joseph Meehan known for?",
+      "type": "choice",
+      "choices": ["Contemporary Irish poetry", "Romantic poetry", "Epic poetry", "Pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Meehan’s poetry?",
+      "type": "choice",
+      "choices": ["History and memory", "Comedy", "Science", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Meehan often incorporates Irish culture and identity in his poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Meehan’s poetry rarely explores personal or social themes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Meehan’s work?",
+      "type": "choice",
+      "choices": ["Allusion", "Pun only", "Rhyme exclusively", "Epic simile only"],
+      "answer": 0
+    },
+    {
+      "text": "Meehan often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Irish history and contemporary experience", "Fantasy worlds", "Scientific ideas", "Urban fantasy"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Meehan’s poetry.",
+      "type": "input",
+      "answer": ["memory", "identity", "history", "landscape"]
+    },
+    {
+      "text": "Give one reason Meehan’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["use of Irish cultural context", "exploration of memory and history", "modern poetic techniques", "social reflection"]
+    },
+    {
+      "text": "True or false: Meehan’s poetry frequently blends personal and societal perspectives.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Meehan’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and serious", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Ni Chuilleanáin",
+  "quiz": [
+    {
+      "text": "Which style is Medbh Ní Chuilleanáin known for?",
+      "type": "choice",
+      "choices": ["Modern Irish poetry with intellectual and lyrical qualities", "Romantic pastoral poetry", "Epic poetry", "Metaphysical poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Ní Chuilleanáin’s poetry?",
+      "type": "choice",
+      "choices": ["History and human experience", "Comedy", "Fantasy adventure", "Science"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ní Chuilleanáin’s work often uses precise imagery and attention to form.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Her poetry avoids reflection on historical or cultural issues.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in her work?",
+      "type": "choice",
+      "choices": ["Metaphor", "Hyperbole only", "Pun only", "Alliteration exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Ní Chuilleanáin often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Cultural memory and human experience", "Romantic adventure", "Science and technology", "Fantasy worlds"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Ní Chuilleanáin’s poetry.",
+      "type": "input",
+      "answer": ["history", "memory", "identity", "culture"]
+    },
+    {
+      "text": "Give one reason Ní Chuilleanáin’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["use of intellectual imagery", "attention to form", "cultural reflection", "lyrical language"]
+    },
+    {
+      "text": "True or false: Ní Chuilleanáin frequently blends history and contemporary observation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Ní Chuilleanáin’s poetry?",
+      "type": "choice",
+      "choices": ["Reflective and intellectual", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Rich",
+  "quiz": [
+    {
+      "text": "Which style is Adrienne Rich known for?",
+      "type": "choice",
+      "choices": ["Feminist and political poetry", "Romantic poetry", "Epic poetry", "Pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Rich’s poetry?",
+      "type": "choice",
+      "choices": ["Gender, identity, and social justice", "Comedy", "Fantasy adventure", "Nature and rural life"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rich often writes about personal and political issues simultaneously.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rich avoids using imagery and symbolism in her work.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Rich’s poetry?",
+      "type": "choice",
+      "choices": ["Metaphor and symbolism", "Pun only", "Epic simile only", "Alliteration exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Rich often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Feminist identity and social responsibility", "Romantic love only", "Science and technology", "Fantasy worlds"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Rich’s poetry.",
+      "type": "input",
+      "answer": ["gender", "power", "identity", "oppression"]
+    },
+    {
+      "text": "Give one reason Rich’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["feminist perspective", "political engagement", "use of metaphor", "exploration of identity"]
+    },
+    {
+      "text": "True or false: Rich often challenges societal norms in her poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Rich’s work?",
+      "type": "choice",
+      "choices": ["Assertive and reflective", "Comedic", "Romantic adventure", "Pastoral calm"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Smith",
+  "quiz": [
+    {
+      "text": "Which style is Ali Smith known for in her poetry?",
+      "type": "choice",
+      "choices": ["Contemporary and experimental", "Romantic poetry", "Epic poetry", "Pastoral poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Smith’s poetry?",
+      "type": "choice",
+      "choices": ["Identity and language", "Comedy", "Fantasy adventure", "Historical epic"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Smith often experiments with form and syntax.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Smith’s poetry avoids contemporary social commentary.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Smith’s poetry?",
+      "type": "choice",
+      "choices": ["Wordplay and experimentation", "Pun only", "Epic simile only", "Alliteration exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Smith often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Language, perception, and identity", "Romantic love only", "Science and technology", "Fantasy worlds"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Smith’s poetry.",
+      "type": "input",
+      "answer": ["language", "identity", "perception", "communication"]
+    },
+    {
+      "text": "Give one reason Smith’s poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["experimental style", "exploration of identity", "literary innovation", "reflection on language"]
+    },
+    {
+      "text": "True or false: Smith frequently challenges traditional poetic forms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Smith’s work?",
+      "type": "choice",
+      "choices": ["Reflective and innovative", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Poetry - Yeats",
+  "quiz": [
+    {
+      "text": "Which style is W.B. Yeats known for?",
+      "type": "choice",
+      "choices": ["Symbolist and nationalist poetry", "Romantic pastoral poetry", "Modernist experimental poetry", "Epic poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme frequently appears in Yeats’ poetry?",
+      "type": "choice",
+      "choices": ["Irish identity and mythology", "Comedy", "Urban life", "Science and technology"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Yeats often incorporates Irish myths and legends.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Yeats’ poetry avoids political and historical reflection.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which literary device is common in Yeats’ work?",
+      "type": "choice",
+      "choices": ["Symbolism", "Pun only", "Epic simile only", "Alliteration exclusively"],
+      "answer": 0
+    },
+    {
+      "text": "Yeats often reflects on which aspect of life?",
+      "type": "choice",
+      "choices": ["Spirituality and Irish identity", "Romantic love only", "Fantasy worlds", "Science fiction"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in Yeats’ poetry.",
+      "type": "input",
+      "answer": ["myth", "history", "spirit", "nature"]
+    },
+    {
+      "text": "Give one reason Yeats’ poetry is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["Irish mythology", "national identity", "use of symbolism", "reflection on life and death"]
+    },
+    {
+      "text": "True or false: Yeats’ poetry often combines personal and political themes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in Yeats’ work?",
+      "type": "choice",
+      "choices": ["Reflective and symbolic", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - A Doll's House",
+  "quiz": [
+    {
+      "text": "Who wrote 'A Doll’s House'?",
+      "type": "choice",
+      "choices": ["Henrik Ibsen", "George Bernard Shaw", "Arthur Miller", "Tennessee Williams"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in 'A Doll’s House'?",
+      "type": "choice",
+      "choices": ["Gender roles and independence", "Comedy", "War", "Romance only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Nora’s decision to leave her family challenges societal norms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The play avoids criticism of marriage and gender expectations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which character is Nora’s husband?",
+      "type": "choice",
+      "choices": ["Torvald", "Krogstad", "Dr. Rank", "Helmer Jr."],
+      "answer": 0
+    },
+    {
+      "text": "What is Krogstad’s role in the plot?",
+      "type": "choice",
+      "choices": ["Antagonist and source of conflict", "Comic relief", "Neutral observer", "Nora’s confidant"],
+      "answer": 0
+    },
+    {
+      "text": "Name one key motif in 'A Doll’s House'.",
+      "type": "input",
+      "answer": ["deception", "freedom", "marriage", "identity"]
+    },
+    {
+      "text": "Give one reason 'A Doll’s House' is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of gender roles", "critique of society", "character development", "dramatic tension"]
+    },
+    {
+      "text": "True or false: The play highlights the limitations placed on women in society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the play?",
+      "type": "choice",
+      "choices": ["Serious and thought-provoking", "Comedic", "Romantic adventure", "Pastoral calm"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - All the Light We Cannot See",
+  "quiz": [
+    {
+      "text": "Who wrote 'All the Light We Cannot See'?",
+      "type": "choice",
+      "choices": ["Anthony Doerr", "John Green", "Kazuo Ishiguro", "Erik Larson"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["War, survival, and morality", "Romance only", "Comedy", "Science and technology"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The novel explores the experiences of civilians during World War II.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The story avoids moral dilemmas and ethical questions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which character is blind and central to the story?",
+      "type": "choice",
+      "choices": ["Marie-Laure", "Werner", "Etienne", "Jutta"],
+      "answer": 0
+    },
+    {
+      "text": "Werner Pfennig’s role in the story is:",
+      "type": "choice",
+      "choices": ["A German soldier conflicted by morality", "Marie-Laure’s father", "A Parisian friend", "A teacher"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["light", "radio", "war", "blindness"]
+    },
+    {
+      "text": "Give one reason the novel is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of human morality", "historical context", "character development", "themes of resilience"]
+    },
+    {
+      "text": "True or false: The novel highlights the impact of war on young people.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the novel?",
+      "type": "choice",
+      "choices": ["Reflective and poignant", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - Pride & Prejudice",
+  "quiz": [
+    {
+      "text": "Who wrote 'Pride & Prejudice'?",
+      "type": "choice",
+      "choices": ["Jane Austen", "Charlotte Brontë", "Mary Shelley", "George Eliot"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["Marriage, social class, and personal growth", "War and politics", "Adventure", "Science fiction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Elizabeth Bennet is the novel’s main protagonist.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The novel avoids critique of social norms and class distinctions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Who is Elizabeth’s eventual husband?",
+      "type": "choice",
+      "choices": ["Mr. Darcy", "Mr. Bingley", "Mr. Collins", "Mr. Wickham"],
+      "answer": 0
+    },
+    {
+      "text": "Which character provides comic relief in the story?",
+      "type": "choice",
+      "choices": ["Mr. Collins", "Mr. Darcy", "Elizabeth", "Jane"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["pride", "prejudice", "marriage", "social status"]
+    },
+    {
+      "text": "Give one reason the novel is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["critique of social norms", "character development", "themes of love and class", "literary style"]
+    },
+    {
+      "text": "True or false: Jane Austen critiques societal expectations for women in the novel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the novel?",
+      "type": "choice",
+      "choices": ["Satirical and witty", "Comedic only", "Romantic adventure", "Serious and tragic"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - The Crucible",
+  "quiz": [
+    {
+      "text": "Who wrote 'The Crucible'?",
+      "type": "choice",
+      "choices": ["Arthur Miller", "Tennessee Williams", "Henrik Ibsen", "George Bernard Shaw"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in 'The Crucible'?",
+      "type": "choice",
+      "choices": ["Mass hysteria, reputation, and integrity", "Romantic love", "Comedy", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Abigail Williams manipulates others to protect herself.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The play avoids criticism of rigid social norms and paranoia.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Who is John Proctor?",
+      "type": "choice",
+      "choices": ["A farmer who challenges the witch trials", "The town minister", "Abigail’s father", "A judge"],
+      "answer": 0
+    },
+    {
+      "text": "Which character is a symbol of innocence and truth?",
+      "type": "choice",
+      "choices": ["Giles Corey", "Abigail Williams", "John Proctor", "Reverend Parris"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the play.",
+      "type": "input",
+      "answer": ["witchcraft", "hysteria", "reputation", "fear"]
+    },
+    {
+      "text": "Give one reason 'The Crucible' is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of morality and integrity", "critique of mass hysteria", "historical context", "character development"]
+    },
+    {
+      "text": "True or false: The play highlights the dangers of false accusations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the play?",
+      "type": "choice",
+      "choices": ["Tense and dramatic", "Comedic", "Romantic", "Pastoral calm"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - The Great Gatsby",
+  "quiz": [
+    {
+      "text": "Who wrote 'The Great Gatsby'?",
+      "type": "choice",
+      "choices": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "T.S. Eliot"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["The American Dream and social class", "War and peace", "Comedy", "Romance only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Jay Gatsby is obsessed with recreating his past.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The novel avoids critique of wealth and societal ambition.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Who narrates 'The Great Gatsby'?",
+      "type": "choice",
+      "choices": ["Nick Carraway", "Jay Gatsby", "Tom Buchanan", "Daisy Buchanan"],
+      "answer": 0
+    },
+    {
+      "text": "Which character represents the moral decay of society?",
+      "type": "choice",
+      "choices": ["Tom Buchanan", "Jay Gatsby", "Nick Carraway", "Daisy Buchanan"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["green light", "wealth", "dreams", "illusion"]
+    },
+    {
+      "text": "Give one reason 'The Great Gatsby' is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["critique of the American Dream", "character development", "symbolism", "social commentary"]
+    },
+    {
+      "text": "True or false: The novel highlights the emptiness behind wealth and status.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the novel?",
+      "type": "choice",
+      "choices": ["Reflective and tragic", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - The Crucible",
+  "quiz": [
+    {
+      "text": "Who wrote 'The Crucible'?",
+      "type": "choice",
+      "choices": ["Arthur Miller", "Tennessee Williams", "Henrik Ibsen", "George Bernard Shaw"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in 'The Crucible'?",
+      "type": "choice",
+      "choices": ["Mass hysteria, reputation, and integrity", "Romantic love", "Comedy", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "Who is John Proctor?",
+      "type": "choice",
+      "choices": ["A farmer who challenges the witch trials", "The town minister", "Abigail’s father", "A judge"],
+      "answer": 0
+    },
+    {
+      "text": "Which character manipulates others to protect herself?",
+      "type": "choice",
+      "choices": ["Abigail Williams", "Elizabeth Proctor", "Giles Corey", "Reverend Hale"],
+      "answer": 0
+    },
+    {
+      "text": "Which character is innocent and symbolic of truth?",
+      "type": "choice",
+      "choices": ["Giles Corey", "Abigail Williams", "John Proctor", "Reverend Parris"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Abigail Williams manipulates others to protect herself.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The play avoids criticism of rigid social norms and paranoia.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Crucible highlights the dangers of false accusations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one recurring motif in the play.",
+      "type": "input",
+      "answer": ["witchcraft", "hysteria", "reputation", "fear"]
+    },
+    {
+      "text": "Give one reason the play is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of morality and integrity", "critique of mass hysteria", "historical context", "character development"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - The Great Gatsby",
+  "quiz": [
+    {
+      "text": "Who wrote 'The Great Gatsby'?",
+      "type": "choice",
+      "choices": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "T.S. Eliot"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["The American Dream and social class", "War and peace", "Comedy", "Romance only"],
+      "answer": 0
+    },
+    {
+      "text": "Who narrates 'The Great Gatsby'?",
+      "type": "choice",
+      "choices": ["Nick Carraway", "Jay Gatsby", "Tom Buchanan", "Daisy Buchanan"],
+      "answer": 0
+    },
+    {
+      "text": "Which character represents moral decay of society?",
+      "type": "choice",
+      "choices": ["Tom Buchanan", "Jay Gatsby", "Nick Carraway", "Daisy Buchanan"],
+      "answer": 0
+    },
+    {
+      "text": "Which character is obsessed with recreating the past?",
+      "type": "choice",
+      "choices": ["Jay Gatsby", "Nick Carraway", "Tom Buchanan", "Daisy Buchanan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Jay Gatsby is obsessed with recreating his past.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The novel avoids critique of wealth and societal ambition.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The novel highlights the emptiness behind wealth and status.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["green light", "wealth", "dreams", "illusion"]
+    },
+    {
+      "text": "Give one reason the novel is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["critique of the American Dream", "character development", "symbolism", "social commentary"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - The Tenant of Wildfell Hall",
+  "quiz": [
+    {
+      "text": "Who wrote 'The Tenant of Wildfell Hall'?",
+      "type": "choice",
+      "choices": ["Anne Brontë", "Charlotte Brontë", "Emily Brontë", "Jane Austen"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["Marriage, independence, and social criticism", "War and politics", "Comedy", "Science fiction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Helen Graham is the main protagonist.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The novel avoids critique of gender roles and social expectations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Who is Helen’s abusive husband?",
+      "type": "choice",
+      "choices": ["Arthur Huntingdon", "Gilbert Markham", "Ralph Graham", "John Thornton"],
+      "answer": 0
+    },
+    {
+      "text": "Which character represents moral strength and integrity?",
+      "type": "choice",
+      "choices": ["Helen Graham", "Arthur Huntingdon", "Gilbert Markham", "Ralph Graham"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["oppression", "independence", "marriage", "morality"]
+    },
+    {
+      "text": "Give one reason the novel is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of gender roles", "social critique", "character development", "themes of independence"]
+    },
+    {
+      "text": "True or false: The novel highlights the struggles of women in a patriarchal society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the novel?",
+      "type": "choice",
+      "choices": ["Serious and reflective", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Text - Wuthering Heights",
+  "quiz": [
+    {
+      "text": "Who wrote 'Wuthering Heights'?",
+      "type": "choice",
+      "choices": ["Emily Brontë", "Charlotte Brontë", "Anne Brontë", "Jane Austen"],
+      "answer": 0
+    },
+    {
+      "text": "Which theme is central in the novel?",
+      "type": "choice",
+      "choices": ["Love, revenge, and social class", "Comedy", "Adventure", "Science and technology"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Heathcliff is a character driven by revenge and passion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The novel avoids themes of social class and family conflict.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Who is Catherine Earnshaw?",
+      "type": "choice",
+      "choices": ["Heathcliff’s love interest", "Heathcliff’s sister", "Nelly Dean", "Isabella Linton"],
+      "answer": 0
+    },
+    {
+      "text": "Which character narrates much of the story?",
+      "type": "choice",
+      "choices": ["Nelly Dean", "Lockwood", "Catherine Earnshaw", "Heathcliff"],
+      "answer": 0
+    },
+    {
+      "text": "Name one recurring motif in the novel.",
+      "type": "input",
+      "answer": ["revenge", "love", "nature", "passion"]
+    },
+    {
+      "text": "Give one reason the novel is studied for Leaving Cert.",
+      "type": "input",
+      "answer": ["exploration of intense emotions", "character development", "themes of love and revenge", "narrative structure"]
+    },
+    {
+      "text": "True or false: The novel highlights destructive effects of obsession and revenge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tone is often present in the novel?",
+      "type": "choice",
+      "choices": ["Dark and brooding", "Comedic", "Romantic adventure", "Satirical"],
+      "answer": 0
+    }
+  ]
+}
+]

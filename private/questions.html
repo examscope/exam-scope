@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="/images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/style.css">
+    <title>ExamScope | Questions</title>
+</head>
+<body>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-back" onclick="previousPage()"><i class="fa-solid fa-chevron-left back-chevron"></i> Back</div>
+            <div class="home-title">Higher Level Biology</div>
+            <div class="home-para">Here you can view and work through the questions available in this section.</div>
+            <div class="home-nav">
+                <a href="/index.html" class="nav-link nav-link-active">Exam Questions <div class="home-hr-fill hr-fill-active"></div></a>
+                <a href="/my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="/past-papers.html" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="/saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="/worksheet-builder.html" class="nav-link">Worksheet Builder <div class="home-hr-fill"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="sav-empty" style="display: none;">
+                <i class="fa-solid fa-folder-open sav-empty-icon"></i>
+                <div class="sav-empty-title">No Questions found</div>
+                <div class="sav-empty-txt">No questions were found for this topic. Try another or come back again soon.</div>
+                <div onclick="previousPage()" class="sav-empty-btn">Go Back</div>
+            </div>
+
+            <div class="exam-container">
+                <div class="exam-top">
+                    <div class="exam-title">Exam Questions ()</div>
+
+                    <div class="btn-quiz" id="btnQuiz">Take a quiz <i class="fa-solid fa-play quiz-icon"></i></div>
+                </div>
+
+                <div class="exam-flex">
+                    <div style="overflow: visible;">
+                        <div class="exam-filter"> <!-- This is the sticky element -->
+                            <div class="exam-filter-section">
+                                <div class="exam-filter-label">Question type</div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box filter-box-active"><i class="fa-solid fa-check filter-check filter-check-active"></i></div>
+                                    <div class="exam-filter-txt">All Exams <span class="exam-filter-txt filter-amount">()</span></div>
+                                </div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                    <div class="exam-filter-txt">State Exams <span class="exam-filter-txt filter-amount">()</span></div>
+                                </div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                    <div class="exam-filter-txt">Mock Exams <span class="exam-filter-txt filter-amount">()</span></div>
+                                </div>
+                            </div>
+                             
+                            <div class="exam-filter-section done-section">
+                                <div class="exam-filter-label">Sort By</div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box filter-box-active"><i class="fa-solid fa-check filter-check filter-check-active"></i></div>
+                                    <div class="exam-filter-txt">Newst</div>
+                                </div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                    <div class="exam-filter-txt">Oldest</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="exam-content">
+                        <!-- 
+                        
+                        <div class="exam-question">
+                            <div class="exam-nav">
+                                <div class="exam-label">2025 - Mock Paper - Question 6</div>
+
+                                <div class="exam-manage">
+                                    <div class="manage-drop">
+                                        <div class="manage-flex">
+                                            <div class="manage-box"><i class="fa-solid fa-check manage-check"></i></div>
+                                            <div class="manage-label">Mark complete</div>
+                                        </div>
+                                        <div class="manage-flex">
+                                            <div class="manage-box"><i class="fa-solid fa-check manage-check"></i></div>
+                                            <div class="manage-label">Save question</div>
+                                        </div>
+                                        <div class="manage-hr"></div>
+                                        <div class="manage-flex manage-action">
+                                            <i class="fa-solid fa-print manage-icon"></i>
+                                            <div class="manage-label">Print question</div>
+                                        </div>
+                                        <div class="manage-flex manage-action">
+                                            <i class="fa-solid fa-file-pdf manage-icon"></i>
+                                            <div class="manage-label">Full paper</div>
+                                        </div>
+                                    </div>
+                                    
+                                    <i class="fa-solid fa-gear exam-gear"></i> Manage <i class="fa-solid fa-chevron-down manage-chevron"></i>
+                                </div>
+                            </div>
+                            <div class="exam-wrapper">
+                                <div class="exam-type pap-type-state">State Exam</div>
+
+                                <img src="https://drive.google.com/thumbnail?id=1ltohilXRoD39bAVytEn0BElcYCBAMNZx=w800" alt="Exam Question" class="exam-question-img" />
+
+                                <div class="exam-view-container">
+                                    <div class="btn-view">View Marking Scheme <i class="fa-regular fa-eye exam-eye-icon exam-eye-open"></i> <i class="fa-regular fa-eye-slash exam-eye-icon exam-eye-slash"></i></div>
+                                </div>
+
+                                <div class="scheme-img-container">
+                                    <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/89b9013a-9ded-4b9b-b5e5-40d02aac9fa8.png" class="exam-scheme-img" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="exam-question">
+                            <div class="exam-nav">
+                                <div class="exam-label">2025 - Mock Paper - Question 6</div>
+
+                                <div class="exam-manage"><i class="fa-solid fa-gear exam-gear"></i> Manage <i class="fa-solid fa-chevron-down manage-chevron"></i></div>
+                            </div>
+                            <div class="exam-wrapper">
+                                <div class="exam-type pap-type-state">State Exam</div>
+
+                                <div class="exam-ques-container">
+                                    <img  src="https://blob-static.studyclix.ie/cms/media/pdfSelections/21a8d594-e901-4f24-b86a-baaef19eddb0.png" alt="Exam Question" class="exam-question-img" />
+                                </div>
+
+                                <div class="exam-view-container">
+                                    <div class="btn-view">View Marking Scheme <i class="fa-regular fa-eye exam-eye-icon exam-eye-open"></i> <i class="fa-regular fa-eye-slash exam-eye-icon exam-eye-slash"></i></div>
+                                </div>
+
+                                <div class="scheme-img-container">
+                                    <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/ac9ae9f8-0245-4bc7-b406-0fc574f621ca.png" class="exam-scheme-img">
+                                    <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/9ae16fbb-d46e-46ed-b5cb-3d227841301a.png" class="exam-scheme-img" />
+                                </div>
+                            </div>
+                        </div>
+                        -->
+                    </div>
+                </div>
+
+                <div class="exam-modal">
+                    <div class="exam-modal-wrapper">
+                        <i class="fa-solid fa-xmark set-exit"></i>
+                        <div class="exam-modal-title">Filters</div>
+
+                        <div class="exam-modal-section">
+                            <div class="exam-modal-label">Question type</div>
+                            <div class="exam-modal-flex">
+                                <div class="exam-modal-box exam-modal-box-active"><i class="fa-solid fa-check exam-modal-check exam-modal-check-active"></i></div>
+                                <div class="exam-modal-txt">All Exams <span class="exam-modal-txt exam-modal-amount">(34)</span></div>
+                            </div>
+                            <div class="exam-modal-flex">
+                                <div class="exam-modal-box"><i class="fa-solid fa-check exam-modal-check"></i></div>
+                                <div class="exam-modal-txt">State Exams <span class="exam-modal-txt exam-modal-amount">(21)</span></div>
+                            </div>
+                            <div class="exam-modal-flex">
+                                <div class="exam-modal-box"><i class="fa-solid fa-check exam-modal-check"></i></div>
+                                <div class="exam-modal-txt">Mock Exams <span class="exam-modal-txt exam-modal-amount">(13)</span></div>
+                            </div>
+                        </div>
+                        <div class="exam-modal-section">
+                            <div class="exam-modal-label">Sort by</div>
+                            <div class="exam-modal-flex">
+                                <div class="exam-modal-box exam-modal-box-active"><i class="fa-solid fa-check exam-modal-check exam-modal-check-active"></i></div>
+                                <div class="exam-modal-txt">Newest</div>
+                            </div>
+                            <div class="exam-modal-flex">
+                                <div class="exam-modal-box"><i class="fa-solid fa-check exam-modal-check"></i></div>
+                                <div class="exam-modal-txt">Oldest</div>
+                            </div>
+                        </div>
+
+                        <div class="btn-exam-modal btn-modal-clear">Clear all</div>
+                    </div>
+                </div>
+
+                <div class="exam-popup">
+                    <img src="/images/icons/filter.png" class="exam-popup-img" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="/script.js"></script>
+</body>
+</html>

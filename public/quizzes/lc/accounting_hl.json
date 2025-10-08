@@ -1,0 +1,1195 @@
+[
+{
+  "subject": "Accounting",
+  "topic": "Budgeting - Cash",
+  "quiz": [
+    {
+      "text": "What is the main purpose of a cash budget?",
+      "type": "choice",
+      "choices": ["To estimate sales", "To plan cash inflows and outflows", "To record expenses", "To prepare financial statements"],
+      "answer": 1
+    },
+    {
+      "text": "Which item is NOT usually included in a cash budget?",
+      "type": "choice",
+      "choices": ["Cash sales", "Credit purchases", "Depreciation", "Loan repayments"],
+      "answer": 2
+    },
+    {
+      "text": "A cash budget helps a business to:",
+      "type": "choice",
+      "choices": ["Avoid cash shortages", "Increase profits", "Reduce taxes", "Calculate depreciation"],
+      "answer": 0
+    },
+    {
+      "text": "Cash budgets are usually prepared for a period of:",
+      "type": "choice",
+      "choices": ["One day", "One month", "One year", "One decade"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a cash outflow?",
+      "type": "choice",
+      "choices": ["Cash sales", "Loan received", "Purchasing equipment", "Sales on credit"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A cash budget includes non-cash expenses like depreciation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cash budgets help businesses plan for periods of cash surplus or shortage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Loan repayments appear as cash outflows in a cash budget.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one benefit of preparing a cash budget.",
+      "type": "input",
+      "answer": ["helps plan cash flow", "avoids cash shortages", "improves financial control"]
+    },
+    {
+      "text": "What is the term for money received by a business during the budgeting period?",
+      "type": "input",
+      "answer": ["cash inflows", "receipts"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Budgeting - Flexible",
+  "quiz": [
+    {
+      "text": "A flexible budget adjusts for changes in:",
+      "type": "choice",
+      "choices": ["Sales volume", "Fixed costs only", "Profit margin", "Cash balance"],
+      "answer": 0
+    },
+    {
+      "text": "Which cost varies with production levels?",
+      "type": "choice",
+      "choices": ["Fixed costs", "Variable costs", "Sunk costs", "Depreciation"],
+      "answer": 1
+    },
+    {
+      "text": "Flexible budgets are useful for:",
+      "type": "choice",
+      "choices": ["Comparing actual costs with budgeted costs", "Preparing cash budgets", "Calculating net income", "Recording transactions"],
+      "answer": 0
+    },
+    {
+      "text": "A static budget is also known as a:",
+      "type": "choice",
+      "choices": ["Flexible budget", "Fixed budget", "Cash budget", "Master budget"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is NOT adjusted in a flexible budget?",
+      "type": "choice",
+      "choices": ["Variable costs", "Fixed costs", "Sales volume", "Direct materials"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Flexible budgets help managers respond to changes in activity levels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fixed costs change when production volume changes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Flexible budgets can improve cost control.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What type of budget changes based on activity levels?",
+      "type": "input",
+      "answer": ["flexible budget", "variable budget"]
+    },
+    {
+      "text": "Name one type of cost that stays the same regardless of production level.",
+      "type": "input",
+      "answer": ["fixed cost", "fixed expense"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Budgeting - Production",
+  "quiz": [
+    {
+      "text": "The production budget is based on the expected sales and:",
+      "type": "choice",
+      "choices": ["Opening inventory", "Closing inventory", "Cash inflows", "Loan repayments"],
+      "answer": 1
+    },
+    {
+      "text": "Production budget helps to plan:",
+      "type": "choice",
+      "choices": ["How many units to produce", "Cash flows", "Profit", "Fixed costs"],
+      "answer": 0
+    },
+    {
+      "text": "Which document indicates how many units must be produced?",
+      "type": "choice",
+      "choices": ["Production budget", "Cash budget", "Sales budget", "Master budget"],
+      "answer": 0
+    },
+    {
+      "text": "If closing stock increases, production will:",
+      "type": "choice",
+      "choices": ["Increase", "Decrease", "Stay the same", "Be zero"],
+      "answer": 0
+    },
+    {
+      "text": "Which budget is prepared before the production budget?",
+      "type": "choice",
+      "choices": ["Sales budget", "Cash budget", "Flexible budget", "Master budget"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The production budget helps determine the quantity of raw materials needed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Closing stock is deducted from expected sales to calculate production.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The production budget is usually expressed in units.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What budget forecasts the number of goods to be made in a period?",
+      "type": "input",
+      "answer": ["production budget"]
+    },
+    {
+      "text": "Name one factor that affects the production budget.",
+      "type": "input",
+      "answer": ["expected sales", "closing inventory", "opening inventory"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Cash Flow Statements",
+  "quiz": [
+    {
+      "text": "A cash flow statement shows:",
+      "type": "choice",
+      "choices": ["Profit and loss", "Cash inflows and outflows", "Assets and liabilities", "Equity changes"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a cash inflow?",
+      "type": "choice",
+      "choices": ["Purchase of equipment", "Loan received", "Payment to suppliers", "Dividend paid"],
+      "answer": 1
+    },
+    {
+      "text": "Cash flow from operating activities includes:",
+      "type": "choice",
+      "choices": ["Loan repayments", "Cash sales", "Sale of equipment", "Issue of shares"],
+      "answer": 1
+    },
+    {
+      "text": "Which section of the cash flow statement shows cash used to buy fixed assets?",
+      "type": "choice",
+      "choices": ["Operating activities", "Investing activities", "Financing activities", "Trading activities"],
+      "answer": 1
+    },
+    {
+      "text": "Cash flow from financing activities includes:",
+      "type": "choice",
+      "choices": ["Loan received", "Sale of inventory", "Payment to suppliers", "Rent payments"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The cash flow statement includes non-cash expenses like depreciation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dividends paid are shown in financing activities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cash flow statements help assess a company's liquidity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What document shows the cash inflows and outflows over a period?",
+      "type": "input",
+      "answer": ["cash flow statement", "statement of cash flows"]
+    },
+    {
+      "text": "Name one cash outflow in the investing activities section.",
+      "type": "input",
+      "answer": ["purchase of equipment", "buying fixed assets", "purchase of property"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Club Accounts",
+  "quiz": [
+    {
+      "text": "Club accounts are prepared to show:",
+      "type": "choice",
+      "choices": ["Profit of a company", "Financial position of a club", "Tax owed by members", "Bank statements"],
+      "answer": 1
+    },
+    {
+      "text": "Which account records membership fees received?",
+      "type": "choice",
+      "choices": ["Income and expenditure account", "Subscription account", "Capital account", "Drawings account"],
+      "answer": 1
+    },
+    {
+      "text": "A surplus in club accounts means:",
+      "type": "choice",
+      "choices": ["More income than expenses", "More expenses than income", "No income", "No expenses"],
+      "answer": 0
+    },
+    {
+      "text": "Which financial statement is NOT typically prepared by clubs?",
+      "type": "choice",
+      "choices": ["Income and expenditure account", "Balance sheet", "Profit and loss account", "Receipt and payment account"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is NOT a source of income for a club?",
+      "type": "choice",
+      "choices": ["Membership fees", "Donations", "Sales revenue from products", "Drawings by members"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Clubs prepare an income and expenditure account instead of a profit and loss account.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Clubs aim to make a profit like commercial businesses.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The balance sheet of a club shows its financial position at a certain date.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common source of income for a club.",
+      "type": "input",
+      "answer": ["membership fees", "subscriptions", "donations"]
+    },
+    {
+      "text": "What financial statement shows a club's income and expenses?",
+      "type": "input",
+      "answer": ["income and expenditure account", "statement of income and expenditure"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Control Accounts",
+  "quiz": [
+    {
+      "text": "Which of the following appears in the credit side of the sales ledger control account?",
+      "type": "choice",
+      "choices": ["Cash received", "Credit sales", "Dishonoured cheques", "Sales returns"],
+      "answer": 0
+    },
+    {
+      "text": "Which item is NOT usually included in a purchases ledger control account?",
+      "type": "choice",
+      "choices": ["Purchases returns", "Bank payments", "Cash sales", "Discounts received"],
+      "answer": 2
+    },
+    {
+      "text": "A contra entry affects:",
+      "type": "choice",
+      "choices": ["Only the sales ledger", "Only the purchases ledger", "Both sales and purchases ledgers", "Neither ledger"],
+      "answer": 2
+    },
+    {
+      "text": "Control accounts are used to:",
+      "type": "choice",
+      "choices": ["Record cash sales", "Summarise ledger balances", "Calculate profits", "Audit financial statements"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following would increase the balance in the purchases ledger control account?",
+      "type": "choice",
+      "choices": ["Payment to supplier", "Purchase return", "Credit purchase", "Discount received"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Control accounts are part of the double-entry system.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Control accounts show the total balances owed to or by customers and suppliers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Control accounts replace the need for individual ledgers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one item that would appear on the debit side of the sales ledger control account.",
+      "type": "input",
+      "answer": ["credit sales", "opening debtor balance", "bad debt recovered"]
+    },
+    {
+      "text": "What is the purpose of control accounts?",
+      "type": "input",
+      "answer": ["summarise ledger balances", "to summarise ledger balances", "to check accuracy of ledgers"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Correction of Errors/Suspense",
+  "quiz": [
+    {
+      "text": "Which of the following errors will NOT affect the trial balance?",
+      "type": "choice",
+      "choices": ["Transposition error", "Error of omission", "Error of original entry", "Error of commission"],
+      "answer": 1
+    },
+    {
+      "text": "An error corrected by a suspense account is usually one that:",
+      "type": "choice",
+      "choices": ["Is in both debit and credit", "Is a complete omission", "Causes imbalance", "Relates to depreciation"],
+      "answer": 2
+    },
+    {
+      "text": "Which error is corrected without using a suspense account?",
+      "type": "choice",
+      "choices": ["Posting to wrong side of account", "Omitting a transaction", "Wrong figure on one side", "Reversal of entries"],
+      "answer": 1
+    },
+    {
+      "text": "What is the usual purpose of a suspense account?",
+      "type": "choice",
+      "choices": ["To store retained profits", "To temporarily hold discrepancies", "To record salaries", "To balance a bank account"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is an example of an error of principle?",
+      "type": "choice",
+      "choices": ["Wages debited to machinery", "Purchase entered twice", "Wrong total carried forward", "Cheque not recorded"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All errors affect the agreement of the trial balance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A suspense account is a temporary account.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: An error of commission is when a transaction is completely left out.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of error that does NOT affect the trial balance.",
+      "type": "input",
+      "answer": ["error of omission", "error of principle", "error of commission"]
+    },
+    {
+      "text": "What account is used temporarily when the trial balance does not agree?",
+      "type": "input",
+      "answer": ["suspense account", "suspense"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Costing - Job, Product, Stock Valuation & O/H Apportionment",
+  "quiz": [
+    {
+      "text": "Which costing method is most suitable for custom-made furniture?",
+      "type": "choice",
+      "choices": ["Process costing", "Job costing", "Marginal costing", "Batch costing"],
+      "answer": 1
+    },
+    {
+      "text": "Overhead apportionment is used to:",
+      "type": "choice",
+      "choices": ["Calculate stock value", "Determine product price", "Allocate indirect costs", "Reduce direct costs"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is a direct cost?",
+      "type": "choice",
+      "choices": ["Factory rent", "Electricity", "Raw materials", "Depreciation"],
+      "answer": 2
+    },
+    {
+      "text": "Stock valuation is typically done using:",
+      "type": "choice",
+      "choices": ["LIFO/FIFO", "Break-even analysis", "Marginal costing", "Cash flow method"],
+      "answer": 0
+    },
+    {
+      "text": "In product costing, direct labour is classified as:",
+      "type": "choice",
+      "choices": ["Overhead", "Indirect cost", "Fixed cost", "Direct cost"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Overhead apportionment helps assign indirect costs fairly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Job costing is best for identical mass production items.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Stock valuation affects the cost of sales.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a direct cost.",
+      "type": "input",
+      "answer": ["raw materials", "direct labour", "direct wages"]
+    },
+    {
+      "text": "What method is used to assign shared overheads between departments?",
+      "type": "input",
+      "answer": ["overhead apportionment", "apportionment", "basis of apportionment"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Costing - Marginal",
+  "quiz": [
+    {
+      "text": "What cost changes with the level of output?",
+      "type": "choice",
+      "choices": ["Fixed cost", "Overhead cost", "Variable cost", "Sunk cost"],
+      "answer": 2
+    },
+    {
+      "text": "Marginal cost is defined as:",
+      "type": "choice",
+      "choices": ["Total cost divided by output", "Fixed cost per unit", "Cost of producing one more unit", "Average cost per unit"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is excluded in marginal costing?",
+      "type": "choice",
+      "choices": ["Variable costs", "Fixed costs", "Selling price", "Contribution"],
+      "answer": 1
+    },
+    {
+      "text": "Contribution is calculated as:",
+      "type": "choice",
+      "choices": ["Selling price - fixed cost", "Selling price - total cost", "Selling price - variable cost", "Fixed cost - variable cost"],
+      "answer": 2
+    },
+    {
+      "text": "Break-even point occurs where:",
+      "type": "choice",
+      "choices": ["Fixed cost = variable cost", "Profit is maximised", "Total cost = total revenue", "Selling price = cost price"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Marginal costing treats fixed costs as product costs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Contribution helps calculate break-even point.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Marginal costing is useful in decision-making.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the formula for contribution per unit?",
+      "type": "input",
+      "answer": ["selling price minus variable cost", "selling price - variable cost", "contribution = selling price - variable cost"]
+    },
+    {
+      "text": "Name one benefit of marginal costing.",
+      "type": "input",
+      "answer": ["simple to apply", "assists decision making", "useful for break-even analysis"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Depreciation of Fixed Assets",
+  "quiz": [
+    {
+      "text": "Which method spreads the cost of an asset evenly over its life?",
+      "type": "choice",
+      "choices": ["Reducing balance", "Straight-line", "Units of production", "Revaluation"],
+      "answer": 1
+    },
+    {
+      "text": "Depreciation is classified as a:",
+      "type": "choice",
+      "choices": ["Capital expense", "Revenue expense", "Liability", "Income"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these assets is typically depreciated?",
+      "type": "choice",
+      "choices": ["Land", "Building", "Inventory", "Bank balance"],
+      "answer": 1
+    },
+    {
+      "text": "Depreciation affects which financial statements?",
+      "type": "choice",
+      "choices": ["Only balance sheet", "Only income statement", "Both balance sheet and income statement", "Neither"],
+      "answer": 2
+    },
+    {
+      "text": "Which method results in higher depreciation in early years?",
+      "type": "choice",
+      "choices": ["Straight-line", "Reducing balance", "Units of production", "Sum of digits"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Depreciation reduces the book value of an asset.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Land is depreciated over time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The purpose of depreciation is to match cost with revenue.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What method charges equal depreciation every year?",
+      "type": "input",
+      "answer": ["straight-line", "straight line method", "equal amount per year"]
+    },
+    {
+      "text": "Name one reason why depreciation is calculated.",
+      "type": "input",
+      "answer": ["to match cost with revenue", "to spread asset cost", "to reflect wear and tear"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Farm Accounts",
+  "quiz": [
+    {
+      "text": "What is the main purpose of preparing farm accounts?",
+      "type": "choice",
+      "choices": [
+        "To calculate profit or loss from farming activities",
+        "To manage employee payroll",
+        "To record only crop yields",
+        "To keep track of urban investments"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is included in a farm trading account?",
+      "type": "choice",
+      "choices": [
+        "Depreciation of machinery",
+        "General expenses",
+        "Sales of livestock",
+        "Bank interest received"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Which item would typically appear under farm income?",
+      "type": "choice",
+      "choices": [
+        "Purchase of seeds",
+        "Sale of milk",
+        "Cost of fencing",
+        "Loan repayments"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "What type of account is 'valuation of closing stock' in farm accounts?",
+      "type": "choice",
+      "choices": [
+        "Liability",
+        "Expense",
+        "Revenue",
+        "Adjustment"
+      ],
+      "answer": 3
+    },
+    {
+      "text": "How are cattle valued in farm accounts?",
+      "type": "choice",
+      "choices": [
+        "At market value",
+        "At original cost",
+        "At cost less depreciation",
+        "They are not valued"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Farm accounts exclude depreciation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Closing stock is subtracted from purchases.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Farm profit is included in the profit and loss account.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What document shows the profit or loss from farming activities?",
+      "type": "input",
+      "answer": [
+        "farm trading account",
+        "trading account for farming",
+        "farming trading account"
+      ]
+    },
+    {
+      "text": "Name one example of farm income.",
+      "type": "input",
+      "answer": [
+        "milk sales",
+        "sale of milk",
+        "livestock sales",
+        "crop sales"
+      ]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Fixed Assets Valuation",
+  "quiz": [
+    {
+      "text": "Which of the following is a fixed asset?",
+      "type": "choice",
+      "choices": ["Inventory", "Bank", "Machinery", "Debtors"],
+      "answer": 2
+    },
+    {
+      "text": "Depreciation accounts for:",
+      "type": "choice",
+      "choices": ["Appreciation in value", "Increase in costs", "Loss in value over time", "Revaluation gains"],
+      "answer": 2
+    },
+    {
+      "text": "Which depreciation method charges equal amounts each year?",
+      "type": "choice",
+      "choices": ["Reducing balance", "Straight-line", "Declining method", "Interest method"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is not a fixed asset?",
+      "type": "choice",
+      "choices": ["Buildings", "Fixtures", "Stock", "Land"],
+      "answer": 2
+    },
+    {
+      "text": "What is the book value of a fixed asset?",
+      "type": "choice",
+      "choices": ["Original cost", "Cost less depreciation", "Current market price", "Insurance value"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Depreciation increases asset value.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Accumulated depreciation is deducted from asset cost.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Buildings are depreciated over their useful life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What method spreads depreciation evenly over years?",
+      "type": "input",
+      "answer": ["straight-line", "straight line", "straight line method"]
+    },
+    {
+      "text": "What is cost minus accumulated depreciation called?",
+      "type": "input",
+      "answer": ["book value", "net book value", "carrying amount"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Incomplete Records A",
+  "quiz": [
+    {
+      "text": "Which of the following is most commonly missing in incomplete records?",
+      "type": "choice",
+      "choices": ["Bank records", "Cash book", "Trial balance", "Balance sheet"],
+      "answer": 2
+    },
+    {
+      "text": "Which method is used to estimate missing sales figures?",
+      "type": "choice",
+      "choices": ["Bank reconciliation", "Control accounts", "Mark-up method", "Amortisation"],
+      "answer": 2
+    },
+    {
+      "text": "Which account is reconstructed to determine missing purchases?",
+      "type": "choice",
+      "choices": ["Bank account", "Purchases account", "Capital account", "Debtors account"],
+      "answer": 1
+    },
+    {
+      "text": "In incomplete records, what is usually needed to find the opening capital?",
+      "type": "choice",
+      "choices": ["Cash received", "Statement of affairs", "Trading account", "Ledger summary"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is NOT a source used to rebuild records?",
+      "type": "choice",
+      "choices": ["Sales invoices", "Receipts", "Wages slips", "Memorandum of association"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: A trial balance can be prepared directly from incomplete records.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cash payments can help determine missing expense figures.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Statement of Affairs is used in place of a Balance Sheet in incomplete records.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What method can be used to estimate missing figures in incomplete records?",
+      "type": "input",
+      "answer": ["mark-up method", "mark up method", "markup"]
+    },
+    {
+      "text": "What statement is used to determine opening capital in incomplete records?",
+      "type": "input",
+      "answer": ["statement of affairs", "opening statement of affairs"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Incomplete Records B",
+  "quiz": [
+    {
+      "text": "What is the purpose of reconstructing control accounts in incomplete records?",
+      "type": "choice",
+      "choices": ["To estimate tax", "To find net profit", "To calculate missing figures", "To find cash balance"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following can help calculate missing debtors?",
+      "type": "choice",
+      "choices": ["Bank lodgements", "Sales returns", "Debtors control account", "Purchases journal"],
+      "answer": 2
+    },
+    {
+      "text": "If cash sales are unknown, what can be used to estimate them?",
+      "type": "choice",
+      "choices": ["Mark-up percentage", "Closing stock", "Gross profit margin", "Fixed assets"],
+      "answer": 2
+    },
+    {
+      "text": "Which item is generally NOT reconstructed in incomplete records?",
+      "type": "choice",
+      "choices": ["Debtors control account", "Wages account", "Creditors control account", "Profit and loss account"],
+      "answer": 3
+    },
+    {
+      "text": "Which ratio is commonly used to check the reasonableness of estimated profit?",
+      "type": "choice",
+      "choices": ["Return on capital", "Stock turnover", "Gross profit margin", "Current ratio"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The capital account is not used in incomplete records.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Debtors control accounts can help find missing receipts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mark-up and margin are the same concept.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What account helps find the amount of credit received from suppliers?",
+      "type": "input",
+      "answer": ["creditors control account", "creditors ledger control account"]
+    },
+    {
+      "text": "Which method estimates missing sales when gross profit % is known?",
+      "type": "input",
+      "answer": ["gross profit margin", "gross profit method"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Interpretation of Accounts",
+  "quiz": [
+    {
+      "text": "What does the current ratio measure?",
+      "type": "choice",
+      "choices": ["Liquidity", "Profitability", "Efficiency", "Gearing"],
+      "answer": 0
+    },
+    {
+      "text": "Which ratio shows the return a company is making on the money invested by shareholders?",
+      "type": "choice",
+      "choices": ["Earnings per share", "Return on equity", "Gross margin", "Acid test ratio"],
+      "answer": 1
+    },
+    {
+      "text": "What does a high stock turnover ratio generally indicate?",
+      "type": "choice",
+      "choices": ["Slow sales", "High profitability", "Efficient stock management", "Excess stock levels"],
+      "answer": 2
+    },
+    {
+      "text": "Which ratio assesses how much of the company's capital is funded by loans?",
+      "type": "choice",
+      "choices": ["Current ratio", "Gearing ratio", "Stock turnover", "Profit margin"],
+      "answer": 1
+    },
+    {
+      "text": "If a business has a quick ratio of 0.5:1, what does this suggest?",
+      "type": "choice",
+      "choices": ["High liquidity", "Too much stock", "Good profitability", "Possible liquidity issues"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: A lower gearing ratio means lower risk.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Return on Capital Employed (ROCE) shows how efficiently capital is used to generate profit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A quick ratio excludes closing stock from current assets.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one ratio used to assess liquidity.",
+      "type": "input",
+      "answer": ["current ratio", "quick ratio", "acid test ratio"]
+    },
+    {
+      "text": "What ratio is used to measure the financial risk of a business?",
+      "type": "input",
+      "answer": ["gearing ratio", "gearing"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Published Accounts",
+  "quiz": [
+    {
+      "text": "Which of the following is a component of published accounts?",
+      "type": "choice",
+      "choices": ["Trial balance", "Directors' report", "Purchase journal", "Debtors list"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of a profit and loss account in published accounts?",
+      "type": "choice",
+      "choices": ["To calculate dividends", "To record purchases", "To show financial performance", "To record wages"],
+      "answer": 2
+    },
+    {
+      "text": "What do published accounts provide for shareholders and the public?",
+      "type": "choice",
+      "choices": ["Internal transaction details", "Unapproved budgets", "Company structure", "Financial transparency"],
+      "answer": 3
+    },
+    {
+      "text": "Which statement shows a company’s assets and liabilities at year-end?",
+      "type": "choice",
+      "choices": ["Cash flow statement", "Directors' report", "Balance sheet", "Notes to the accounts"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is not typically included in published accounts?",
+      "type": "choice",
+      "choices": ["Auditor’s report", "Trading account", "Memorandum of association", "Cash flow statement"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Published accounts are required by law for all limited companies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The auditor’s report guarantees the company is profitable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Directors must approve the financial statements before publishing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What report in published accounts confirms the accuracy of financial statements?",
+      "type": "input",
+      "answer": ["auditor's report", "auditors report", "audit report"]
+    },
+    {
+      "text": "Name one reason why companies publish accounts.",
+      "type": "input",
+      "answer": ["legal requirement", "transparency", "inform stakeholders", "financial reporting obligation"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Revaluation of Fixed Assets",
+  "quiz": [
+    {
+      "text": "Why might a company revalue its fixed assets?",
+      "type": "choice",
+      "choices": ["To reduce tax", "To show true market value", "To hide losses", "To increase depreciation"],
+      "answer": 1
+    },
+    {
+      "text": "What is the result of increasing the value of a fixed asset?",
+      "type": "choice",
+      "choices": ["Lower depreciation", "Higher net profit", "Increase in asset value on balance sheet", "Lower capital"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following assets is most likely to be revalued?",
+      "type": "choice",
+      "choices": ["Cash", "Buildings", "Creditors", "Bank overdraft"],
+      "answer": 1
+    },
+    {
+      "text": "What account is usually credited during an upward revaluation?",
+      "type": "choice",
+      "choices": ["Revaluation Reserve", "Profit and Loss", "Capital Account", "Suspense Account"],
+      "answer": 0
+    },
+    {
+      "text": "If an asset's value drops below book value, what must be done?",
+      "type": "choice",
+      "choices": ["Ignore it", "Record a loss", "Increase revaluation reserve", "Add it to capital"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Revaluation affects the income statement directly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Revaluation of assets is optional.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Depreciation must be recalculated after revaluation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What reserve is created when a fixed asset is revalued upwards?",
+      "type": "input",
+      "answer": ["revaluation reserve", "reserve from revaluation", "upward revaluation reserve"]
+    },
+    {
+      "text": "Name one fixed asset that can be revalued.",
+      "type": "input",
+      "answer": ["buildings", "property", "land"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Service Firms",
+  "quiz": [
+    {
+      "text": "Which of the following is an example of a service firm?",
+      "type": "choice",
+      "choices": ["Car dealership", "Grocery store", "Law firm", "Clothing factory"],
+      "answer": 2
+    },
+    {
+      "text": "How do service firms earn income?",
+      "type": "choice",
+      "choices": ["By selling goods", "By providing services", "By reselling stock", "Through interest"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main difference in accounting for service firms?",
+      "type": "choice",
+      "choices": ["They don’t use bank accounts", "They don’t record wages", "They don’t hold stock", "They have no creditors"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is an income item in a service firm's account?",
+      "type": "choice",
+      "choices": ["Rent expense", "Service revenue", "Wages", "Electricity"],
+      "answer": 1
+    },
+    {
+      "text": "What would be recorded as an expense in a hair salon's accounts?",
+      "type": "choice",
+      "choices": ["Haircut fees", "Cash sales", "Shampoo used", "Tips received"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Service firms record stock purchases in their trading account.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A solicitor is considered a service firm.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Service firms often use an income and expenditure account.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one typical expense for a service firm.",
+      "type": "input",
+      "answer": ["wages", "rent", "light and heat", "insurance"]
+    },
+    {
+      "text": "What is the name of the account used by a service firm to record income?",
+      "type": "input",
+      "answer": ["income and expenditure account", "profit and loss", "income account"]
+    }
+  ]
+},
+{
+  "subject": "Accounting",
+  "topic": "Tabular Statements",
+  "quiz": [
+    {
+      "text": "What is the main purpose of a tabular statement?",
+      "type": "choice",
+      "choices": ["To display depreciation", "To record detailed transactions", "To show changes in balances", "To produce a trial balance"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is updated in a tabular statement?",
+      "type": "choice",
+      "choices": ["Cash only", "Assets and liabilities", "Capital only", "Stock only"],
+      "answer": 1
+    },
+    {
+      "text": "What effect does purchasing equipment with cash have on a tabular statement?",
+      "type": "choice",
+      "choices": ["Increase assets and liabilities", "No effect", "Increase and decrease assets", "Decrease capital"],
+      "answer": 2
+    },
+    {
+      "text": "If a debtor pays money owed, what changes in the tabular statement?",
+      "type": "choice",
+      "choices": ["Debtors and capital increase", "Cash increases, debtors decrease", "Debtors increase", "Cash and capital increase"],
+      "answer": 1
+    },
+    {
+      "text": "A loan received from the bank would:",
+      "type": "choice",
+      "choices": ["Increase capital", "Reduce liabilities", "Increase cash and liabilities", "Only affect the bank account"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A tabular statement always balances after each transaction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Paying rent reduces capital in a tabular statement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Selling an asset for profit increases liabilities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one item that appears in the capital column of a tabular statement.",
+      "type": "input",
+      "answer": ["net profit", "opening capital", "loss", "drawings"]
+    },
+    {
+      "text": "What does the total of the assets column always equal in a balanced tabular statement?",
+      "type": "input",
+      "answer": ["capital plus liabilities", "liabilities plus capital", "total capital and liabilities"]
+    }
+  ]
+}
+]

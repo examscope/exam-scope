@@ -1,0 +1,368 @@
+[
+{
+  "subject": "Classics",
+  "topic": "Classical Languages - Greek",
+  "quiz": [
+    {
+      "text": "Which Greek letter is the first in the alphabet?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Delta"],
+      "answer": 0
+    },
+    {
+      "text": "Which Greek letter represents the sound 'b'?",
+      "type": "choice",
+      "choices": ["Beta", "Alpha", "Gamma", "Delta"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a famous Greek epic poet?",
+      "type": "choice",
+      "choices": ["Homer", "Virgil", "Ovid", "Plato"],
+      "answer": 0
+    },
+    {
+      "text": "Which Greek word means 'city-state'?",
+      "type": "choice",
+      "choices": ["Polis", "Agora", "Acropolis", "Gymnasium"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was a Greek philosopher?",
+      "type": "choice",
+      "choices": ["Socrates", "Caesar", "Cicero", "Horace"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Greek uses the Latin alphabet.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Homer wrote the Iliad and the Odyssey.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The polis was central to Greek society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one famous Greek epic.",
+      "type": "input",
+      "answer": ["Iliad", "Odyssey", "Homer's Iliad", "Homer's Odyssey"]
+    },
+    {
+      "text": "Give one Greek philosopher.",
+      "type": "input",
+      "answer": ["Socrates", "Plato", "Aristotle", "Pythagoras"]
+    }
+  ]
+},
+{
+  "subject": "Classics",
+  "topic": "Classical Languages - Latin",
+  "quiz": [
+    {
+      "text": "Which Latin word means 'friend'?",
+      "type": "choice",
+      "choices": ["Amicus", "Domus", "Puer", "Rex"],
+      "answer": 0
+    },
+    {
+      "text": "Which Latin word means 'king'?",
+      "type": "choice",
+      "choices": ["Rex", "Amicus", "Domus", "Puer"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a famous Roman poet?",
+      "type": "choice",
+      "choices": ["Virgil", "Homer", "Socrates", "Plato"],
+      "answer": 0
+    },
+    {
+      "text": "Which Latin word means 'house'?",
+      "type": "choice",
+      "choices": ["Domus", "Amicus", "Rex", "Puer"],
+      "answer": 0
+    },
+    {
+      "text": "Which Latin word means 'boy'?",
+      "type": "choice",
+      "choices": ["Puer", "Domus", "Amicus", "Rex"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Latin was the official language of the Roman Empire.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Virgil wrote the Aeneid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Latin uses the Greek alphabet.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one famous Roman poet.",
+      "type": "input",
+      "answer": ["Virgil", "Ovid", "Horace", "Catullus"]
+    },
+    {
+      "text": "Give one Latin word for 'friend'.",
+      "type": "input",
+      "answer": ["amicus", "amica", "socius", "amicitia"]
+    }
+  ]
+},
+{
+  "subject": "Classics",
+  "topic": "Daily Life - Greek",
+  "quiz": [
+    {
+      "text": "Which of these was a typical Greek home feature?",
+      "type": "choice",
+      "choices": ["Courtyard", "Atrium", "Basilica", "Villa"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was a public area in a Greek city?",
+      "type": "choice",
+      "choices": ["Agora", "Forum", "Pantheon", "Colosseum"],
+      "answer": 0
+    },
+    {
+      "text": "Which Greek meal was eaten in the evening?",
+      "type": "choice",
+      "choices": ["Deipnon", "Cena", "Ientaculum", "Prandium"],
+      "answer": 0
+    },
+    {
+      "text": "Which Greek social event involved sports competitions?",
+      "type": "choice",
+      "choices": ["Olympic Games", "Chariot races", "Gladiator fights", "Triumphal procession"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was an educational activity for Greek boys?",
+      "type": "choice",
+      "choices": ["Learning philosophy and reading", "Farming only", "Military service only", "Cooking lessons only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Greek homes had running water inside.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Agora was a marketplace and meeting area.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Greek girls received the same education as boys.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one typical feature of a Greek home.",
+      "type": "input",
+      "answer": ["courtyard", "peristyle", "hearth", "stoa"]
+    },
+    {
+      "text": "Give one public area in a Greek city.",
+      "type": "input",
+      "answer": ["agora", "marketplace", "temple", "gymnasium"]
+    }
+  ]
+},
+{
+  "subject": "Classics",
+  "topic": "Daily Life - Roman",
+  "quiz": [
+    {
+      "text": "Which of these was a typical feature of a Roman home?",
+      "type": "choice",
+      "choices": ["Atrium", "Courtyard", "Agora", "Gymnasium"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was a public area in a Roman city?",
+      "type": "choice",
+      "choices": ["Forum", "Agora", "Pantheon", "Acropolis"],
+      "answer": 0
+    },
+    {
+      "text": "Which Roman meal was eaten in the evening?",
+      "type": "choice",
+      "choices": ["Cena", "Ientaculum", "Deipnon", "Prandium"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was a Roman public entertainment?",
+      "type": "choice",
+      "choices": ["Gladiator games", "Olympic Games", "Philosophy lectures", "Chariot races in Greece only"],
+      "answer": 0
+    },
+    {
+      "text": "Which Roman educational activity involved reading and writing?",
+      "type": "choice",
+      "choices": ["Ludus", "Palaestra", "Forum", "Atrium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Roman homes had atriums with a central pool.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Forum was the main public and business area.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only boys received education in Rome.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one typical feature of a Roman home.",
+      "type": "input",
+      "answer": ["atrium", "peristyle", "impluvium", "tablinum"]
+    },
+    {
+      "text": "Give one public area in a Roman city.",
+      "type": "input",
+      "answer": ["forum", "basilica", "temple", "amphitheatre"]
+    }
+  ]
+},
+{
+  "subject": "Classics",
+  "topic": "Rome, Centre of an Empire",
+  "quiz": [
+    {
+      "text": "Which river runs through Rome?",
+      "type": "choice",
+      "choices": ["Tiber", "Seine", "Danube", "Nile"],
+      "answer": 0
+    },
+    {
+      "text": "Which hill is one of the famous Seven Hills of Rome?",
+      "type": "choice",
+      "choices": ["Palatine", "Olympus", "Capitoline", "Acropolis"],
+      "answer": 0
+    },
+    {
+      "text": "Which building was used for gladiatorial games?",
+      "type": "choice",
+      "choices": ["Colosseum", "Pantheon", "Forum", "Baths of Caracalla"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these was a Roman road?",
+      "type": "choice",
+      "choices": ["Via Appia", "Agora", "Via Sacra", "Via Olympia"],
+      "answer": 0
+    },
+    {
+      "text": "Which Roman emperor started the Pax Romana?",
+      "type": "choice",
+      "choices": ["Augustus", "Julius Caesar", "Nero", "Caligula"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rome was built on seven hills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Colosseum was primarily used for chariot races.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Roman roads helped trade and military movement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one famous Roman building.",
+      "type": "input",
+      "answer": ["colosseum", "pantheon", "forum", "baths of caracalla"]
+    },
+    {
+      "text": "Give one Roman emperor associated with peace and stability.",
+      "type": "input",
+      "answer": ["augustus", "trajan", "hadrian", "antoninus pius"]
+    }
+  ]
+},
+{
+  "subject": "Classics",
+  "topic": "World of Achilles",
+  "quiz": [
+    {
+      "text": "Who is Achilles’ mother?",
+      "type": "choice",
+      "choices": ["Thetis", "Hera", "Athena", "Aphrodite"],
+      "answer": 0
+    },
+    {
+      "text": "Who is the greatest Greek warrior in the Iliad?",
+      "type": "choice",
+      "choices": ["Achilles", "Odysseus", "Hector", "Ajax"],
+      "answer": 0
+    },
+    {
+      "text": "Which city does Achilles fight against?",
+      "type": "choice",
+      "choices": ["Troy", "Athens", "Sparta", "Corinth"],
+      "answer": 0
+    },
+    {
+      "text": "Who kills Hector?",
+      "type": "choice",
+      "choices": ["Achilles", "Paris", "Odysseus", "Agamemnon"],
+      "answer": 0
+    },
+    {
+      "text": "Which warrior is known for his cleverness in the Iliad?",
+      "type": "choice",
+      "choices": ["Odysseus", "Achilles", "Hector", "Ajax"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Achilles was invulnerable except for his heel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Hector was a Trojan prince.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Achilles fought on the Trojan side.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one Greek hero from the Iliad.",
+      "type": "input",
+      "answer": ["achilles", "odysseus", "ajax", "diomedes"]
+    },
+    {
+      "text": "Give one Trojan hero from the Iliad.",
+      "type": "input",
+      "answer": ["hector", "paris", "aeneas", "sarpedon"]
+    }
+  ]
+}
+]

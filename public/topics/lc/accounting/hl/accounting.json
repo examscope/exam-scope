@@ -1,0 +1,29 @@
+{
+  "certificate": "lc",
+  "subject": "accounting",
+  "level": "hl",
+  "topics": [
+    "Budgeting - Cash",
+    "Budgeting - Flexible",
+    "Budgeting - Production",
+    "Cash Flow Statements",
+    "Club Accounts",
+    "Control Accounts",
+    "Correction of Errors/Suspense",
+    "Costing - Job, Product, Stock Valuation & O/H Apportionment",
+    "Costing - Marginal",
+    "Depreciation of Fixed Assets",
+    "Farm Accounts",
+    "Final Accounts - Company",
+    "Final Accounts - Manufacturing",
+    "Final Accounts - Sole Trader",
+    "Fixed Assets Valuation",
+    "Incomplete Records A",
+    "Incomplete Records B",
+    "Interpretation of Accounts",
+    "Published Accounts",
+    "Revaluation of Fixed Assets",
+    "Service Firms",
+    "Tabular Statements"
+  ]
+}

@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Home</title>
+</head>
+<body>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-title">Choose a Subject</div>
+            <div class="home-para">Pick a subject below and start tackling past questions or quizzes, organised by topic.</div>
+            <div class="home-nav">
+                <a href="/index.html" class="nav-link nav-link-active">Exam Questions <div class="home-hr-fill hr-fill-active"></div></a>
+                <a href="my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="/papers" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="/worksheets" class="nav-link">Worksheet Builder <div class="home-hr-fill"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="sub-container main-container logged-element">
+                <div class="sub-flex">
+                    <!-- 
+                    <div class="sub-wrapper" id="english">
+                        <div class="sub-dot-container"> 
+                            <div class="sub-dot"></div>
+                            <div class="sub-dot"></div>
+                            <div class="sub-dot"></div>
+
+                            <div class="sub-drop">
+                                <div class="sub-drop-section">
+                                    <div class="sub-drop-box sub-drop-box-active"><i class="fa-solid fa-check sub-drop-check sub-drop-check-active"></i></div>
+                                    <div class="sub-drop-txt">Higher level</div>
+                                </div>
+                                <div class="sub-drop-section">
+                                    <div class="sub-drop-box"><i class="fa-solid fa-check sub-drop-check"></i></div>
+                                    <div class="sub-drop-txt">Ordinary level</div>
+                                </div>
+                                <div class="sub-drop-hr"></div>
+                                <div class="sub-drop-section">
+                                    <i class="fa-solid fa-pen-to-square sub-drop-icon"></i>
+                                    <div class="sub-drop-txt">Edit Subjects</div>
+                                </div>
+                                <div class="sub-drop-section">
+                                    <i class="fa-solid fa-book sub-drop-icon"></i>
+                                    <div class="sub-drop-txt">All Subjects</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="sub-icon-container">
+                            <img src="images/icons/writing.png" alt="Subject Icon" class="sub-icon" />
+                        </div>
+                        <div class="sub-content">
+                            <div class="sub-name">English</div>
+                            <div class="sub-point"></div>
+                            <div class="sub-stat">91 exam papers</div>
+                        </div>
+                    </div>
+                    
+                    <div class="sub-wrapper sub-inactive"></div>
+                    <div class="sub-wrapper sub-inactive"></div>
+                    -->
+                </div>
+            </div>
+
+            <div class="pap-form guest-element">
+                    <div class="pap-section">
+                        <div class="pap-label">Choose an exam</div>
+                        <!-- 
+                            <div class="pap-flex">
+                                <div class="pap-option pap-option-type">Leaving Cert</div>
+                                <div class="pap-option pap-option-type">Junior Cert</div>
+                            </div>
+                            -->
+
+                            <div class="pap-toggle-container">
+                                <div class="pap-toggle">
+                                    <div class="pap-toggle-white"></div>
+                                    <div class="pap-toggle-section pap-toggle-active">Leaving Cert</div>
+                                    <div class="pap-toggle-section">Junior Cert</div>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="pap-section">
+                        <div class="pap-label">Choose a subject</div>
+                        <div class="pap-selector">
+                            <div class="pap-txt">Subject</div>
+                            <i class="fa-solid fa-chevron-down pap-chevron"></i>
+
+                            <div class="pap-dropdown" id="dropLc">
+                                <div class="pap-drop-txt">Accounting</div>
+                                <div class="pap-drop-txt">Agricultural Science</div>
+                                <div class="pap-drop-txt">Applied Maths</div>
+                                <div class="pap-drop-txt">Art</div>
+                                <div class="pap-drop-txt">Biology</div>
+                                <div class="pap-drop-txt">Business</div>
+                                <div class="pap-drop-txt">Chemistry</div>
+                                <div class="pap-drop-txt">Classical Studies</div>
+                                <div class="pap-drop-txt">Computer Science</div>
+                                <div class="pap-drop-txt">Construction Studies</div>
+                                <div class="pap-drop-txt">Design & Communication Graphics</div>
+                                <div class="pap-drop-txt">Economics</div>
+                                <div class="pap-drop-txt">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt">French</div>
+                                <div class="pap-drop-txt">Geography</div>
+                                <div class="pap-drop-txt">German</div>
+                                <div class="pap-drop-txt">History</div>
+                                <div class="pap-drop-txt">Home Economics</div>
+                                <div class="pap-drop-txt">Irish</div>
+                                <div class="pap-drop-txt">Italian</div>
+                                <div class="pap-drop-txt pap-drop-cl">Japanese</div>
+                                <div class="pap-drop-txt pap-drop-cl">LCVP (Link Modules)</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Phys-Chem</div>
+                                <div class="pap-drop-txt">Physical Education</div>
+                                <div class="pap-drop-txt">Physics</div>
+                                <div class="pap-drop-txt">Politics and Society</div>
+                                <div class="pap-drop-txt">Religious Education</div>
+                                <div class="pap-drop-txt">Spanish</div>
+                                <div class="pap-drop-txt">Technology</div>
+                            </div>
+                            <div class="pap-dropdown" id="dropJc">
+                                <div class="pap-drop-txt pap-drop-cl">Applied Technology</div>
+                                <div class="pap-drop-txt pap-drop-cl">Business Studies</div>
+                                <div class="pap-drop-txt pap-drop-cl">Classics</div>
+                                <div class="pap-drop-txt pap-drop-cl">CSPE</div>
+                                <div class="pap-drop-txt pap-drop-cl">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt pap-drop-cl">French</div>
+                                <div class="pap-drop-txt pap-drop-cl">Geography</div>
+                                <div class="pap-drop-txt pap-drop-cl">German</div>
+                                <div class="pap-drop-txt pap-drop-cl">Graphics</div>
+                                <div class="pap-drop-txt pap-drop-cl">History</div>
+                                <div class="pap-drop-txt pap-drop-cl">Home Economics</div>
+                                <div class="pap-drop-txt">Irish<span style="display: none;"> T2</span></div>
+                                <div class="pap-drop-txt pap-drop-cl">Italian</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt pap-drop-cl">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Religious Education</div>
+                                <div class="pap-drop-txt pap-drop-cl">Science</div>
+                                <div class="pap-drop-txt pap-drop-cl">Spanish</div>
+                                <div class="pap-drop-txt pap-drop-cl">Wood Technology</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="level-toggle">
+                        <div class="pap-label">Exam level</div>
+                        <div class="pap-toggle-container">
+                            <div class="pap-toggle">
+                                <div class="pap-toggle-white"></div>
+                                <div class="pap-toggle-section pap-toggle-active">Higher</div>
+                                <div class="pap-toggle-section">Ordinary</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="btn-pap btn-pap-inactive">Search <img src="images/icons/arrow.png" class="pap-arrow"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+<!-- Topics 
+<div class="topc-container" style="display: none;"> 
+    <div class="topc-col">
+        <div class="topc-col-top">
+            <div class="topc-title">Topics</div>
+            <div class="btn-quiz">Start a quiz <i class="fa-solid fa-play quiz-icon"></i></div>
+        </div>
+        <div class="topc-col-ul">
+            <div class="topc-col-li">Bacteria <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Blood & Circulatory System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Movement Through Cell Membranes <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Respiration <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Photosynthesis <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Human Nutrition <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Enzymes <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Ecology <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Heart <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Nervous System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Endocrine System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Genetics <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">DNA & RNA <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Cell Structure <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Cell Division <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Immune System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Skeletal System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Muscular System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Excretory System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Reproduction <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">The Respiratory System <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Plant Structure <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Plant Responses <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Microorganisms <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+            <div class="topc-col-li">Scientific Method <i class="fa-solid fa-chevron-down topc-chevron"></i></div>
+        </div>
+    </div>
+
+    <div class="topc-feat">
+        <div class="topc-pap-table">
+            <div class="pap-filter topc-pap-filter">
+                <a href="#" class="topc-pap-head">Past Exam Papers</a>
+            </div>
+
+            <div class="pap-top topc-pap-top">
+                <div class="pap-heading">Year Published</div>
+                <div class="pap-heading">Exam Paper</div>
+                <div class="pap-heading">Marking Scheme</div>
+            </div>
+            <div class="pap-row topc-pap-row">
+                <div class="topc-pap-col">
+                    <div class="pap-year">2025</div>
+                    <div class="topc-pap-type pap-type-state">State Exam</div>
+                </div>
+                <div class="pap-img-container">
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+                <div class="pap-img-container">
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+            </div>
+            <div class="pap-row topc-pap-row">
+                <div class="topc-pap-col">
+                    <div class="pap-year">2024</div>
+                    <div class="topc-pap-type pap-type-mock">Mock Exam</div>
+                </div>
+                <div class="pap-img-container">
+                    <div class="pap-locked">
+                        <i class="fa-solid fa-lock pap-lock-icon"></i>
+                    </div>
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+                <div class="pap-img-container">
+                    <div class="pap-locked">
+                        <i class="fa-solid fa-lock pap-lock-icon"></i>
+                    </div>
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+            </div>
+            <div class="pap-row topc-pap-row">
+                <div class="topc-pap-col">
+                    <div class="pap-year">2023</div>
+                    <div class="topc-pap-type pap-type-state">State Exam</div>
+                </div>
+                <div class="pap-img-container">
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+                <div class="pap-img-container">
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+            </div>
+            <div class="pap-row topc-pap-row">
+                <div class="topc-pap-col">
+                    <div class="pap-year">2023</div>
+                    <div class="topc-pap-type pap-type-mock">Mock Exam</div>
+                </div>
+                <div class="pap-img-container">
+                    <div class="pap-locked">
+                        <i class="fa-solid fa-lock pap-lock-icon"></i>
+                    </div>
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+                <div class="pap-img-container">
+                    <div class="pap-locked">
+                        <i class="fa-solid fa-lock pap-lock-icon"></i>
+                    </div>
+                    <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                </div>
+            </div>
+        </div>
+
+        <div class="topc-pap-table">
+            <div class="pap-filter topc-pap-filter">
+                <div class="topc-pap-head">My Results</div>
+            </div>
+
+            <div class="pap-top">
+                <div class="topc-res-heading topc-res-name-heading">Name</div>
+                <div class="topc-res-heading">Date Taken</div>
+                <div class="topc-res-heading">Score</div>
+            </div>
+            <div class="pap-row">
+                <div class="topc-res-name">2.3 Food Safety Quiz</div>
+                <div class="topc-res-txt">03/03/2025</div>
+                <div class="topc-res-score">10%</div>
+            </div>
+            <div class="pap-row">
+                <div class="topc-res-name">Introduction to Democracy</div>
+                <div class="topc-res-txt">17/04/2025</div>
+                <div class="topc-res-score">100%</div>
+            </div>
+            <div class="pap-row">
+                <div class="topc-res-name">Animal Nutrition Quiz</div>
+                <div class="topc-res-txt">25/05/2025</div>
+                <div class="topc-res-score">50%</div>
+            </div>
+            <div class="pap-row">
+                <div class="topc-res-name">Roof Types & Structures</div>
+                <div class="topc-res-txt">08/02/2025</div>
+                <div class="topc-res-score">75%</div>
+            </div>
+        </div>
+
+        <div class="topc-com-col">
+            <div class="topc-com-filter">
+                <a href="#" class="topc-pap-head">Recent Posts</a>
+            </div>
+
+        <div class="topc-post-wrapper">
+            <div class="post-top">
+                <div class="post-pfp-container">
+                    <div class="post-pfp-bg">
+                        <i class="fa-solid fa-user post-pfp-user"></i>
+                    </div>
+                </div>
+                <div class="post-username">Sean Burke</div>
+                <div class="post-point"></div>
+                <div class="post-time">5 minutes ago</div>
+            </div>
+            <div class="topc-post-title">Mock vs State Questions?</div>
+            <div class="topc-post-para">Do the mock papers have any crossover with the state exams or are they completely different sets of questions?</div>
+            <div class="post-info">
+                <div class="post-info-flex">
+                    <div class="post-info-point"></div>
+                    <div class="post-subject">Ordinary Maths</div>
+                </div>
+                <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 3</div>
+                <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 2</div>
+            </div>
+        </div>
+        <div class="topc-post-wrapper">
+            <div class="post-top">
+                <div class="post-pfp-container">
+                    <div class="post-pfp-bg">
+                        <i class="fa-solid fa-user post-pfp-user"></i>
+                    </div>
+                </div>
+                <div class="post-username">Liam O'Donnell</div>
+                <div class="post-point"></div>
+                <div class="post-time">1 hour ago</div>
+            </div>
+            <div class="topc-post-title">Where to focus for Macbeth?</div>
+            <div class="topc-post-para">Does anyone know what characters are most likely to come up this year? My teacher said Lady Macbeth is key.</div>
+            <div class="post-info">
+                <div class="post-info-flex">
+                    <div class="post-info-point"></div>
+                    <div class="post-subject">Higher English</div>
+                </div>
+                <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 15</div>
+                <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 6</div>
+            </div>
+        </div>
+        <div class="topc-post-wrapper">
+            <div class="post-top">
+                <div class="post-pfp-container">
+                    <div class="post-pfp-bg">
+                        <i class="fa-solid fa-user post-pfp-user"></i>
+                    </div>
+                </div>
+                <div class="post-username">Aisling Ní Bhraonáin</div>
+                <div class="post-point"></div>
+                <div class="post-time">Today at 14:23</div>
+            </div>
+            <div class="topc-post-title">Best way to study poetry?</div>
+            <div class="topc-post-para">How do ye remember quotes for poems? I’m getting overwhelmed trying to fit all of them into my head.</div>
+            <div class="post-info">
+                <div class="post-info-flex">
+                    <div class="post-info-point"></div>
+                    <div class="post-subject">Higher Irish</div>
+                </div>
+                <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 8</div>
+                <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 5</div>
+            </div>
+        </div>
+
+        </div>
+    </div>
+</div>
+-->
+<!-- Community 
+            <div class="com-container main-container" style="display: none;">
+                <div class="com-top">
+                    <div class="com-title">Community Posts</div>
+
+                    <div class="com-nav">
+                        <div class="com-box com-sort">
+                            <div class="com-drop">
+                                <div class="com-drop-txt">Most Recent</div>
+                                <div class="com-drop-txt">Top Posts</div>
+                                <div class="com-drop-txt">Least Active</div>
+                            </div>
+
+                            <div class="com-box-txt">Most Recent</div>
+                            <i class="fa-solid fa-chevron-down com-chevron"></i>
+                        </div>
+                        <div class="com-box com-create" onclick="openPop('.com-pop-modal')">
+                            <div class="com-box-txt">Create Post</div>
+                            <div class="com-plus">
+                                <div class="plus-y"></div>
+                                <div class="plus-x"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="com-rep-modal">
+                    <div class="com-rep">
+                        <div class="rep-box">
+                            <div class="rep-flex">
+                                <div class="rep-pfp-holder">
+                                    <div class="rep-pfp-bg">
+                                        <i class="fa-solid fa-user rep-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <textarea class="rep-area" placeholder="Add a comment..."></textarea>
+                            </div>
+                            <div class="rep-btn-flex">
+                                <div class="btn-rep btn-cancel">Cancel</div>
+                                <div class="btn-rep btn-reply">Reply</div>
+                            </div>
+                        </div>
+
+                        <div class="rep-title">Comments</div>
+
+                        <div class="rep-post-wrapper">
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username">Fiona Porter</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="post-title">What diagrams do I need?</div>
+                            <div class="post-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo sed nostrum eaque odit fuga dolorum facere eum ducimus, eius quam modi exercitationem at quae praesentium neque sequi! Minima, modi aliquam.</div>
+                            <div class="post-info">
+                                <div class="post-info-flex">
+                                    <div class="post-info-point"></div>
+                                    <div class="post-subject">Higher Irish</div>
+                                </div>
+                                <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 10</div>
+                                <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 7</div>
+                            </div>
+                        </div>
+                        
+                        <div class="rep-label">Replies (21)</div>
+
+                        <div class="rep-wrapper">
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username">Jason Doyle</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="rep-para">Lorem ipsum dolor sit amet consectetur.</div>
+                            <div class="rep-info">
+                                <div class="post-info-txt"><i class="fa-solid fa-reply post-info-icon"></i> Reply</div>
+                            </div>
+                        </div>
+                        <div class="rep-wrapper">
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username">Lisa Manion</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="rep-para"><span class="rep-para-tag">@Jason Doyle</span> Lorem ipsum dolor sit amet consectetur.</div>
+                            <div class="rep-info">
+                                <div class="post-info-txt"><i class="fa-solid fa-reply post-info-icon"></i> Reply</div>
+                            </div>
+                        </div>
+                        <div class="rep-wrapper">
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username">Mark Bennett</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="rep-para"><span class="rep-para-tag">@Lisa Manion</span> I completely agree with this point.</div>
+                            <div class="rep-info">
+                                <div class="post-info-txt"><i class="fa-solid fa-reply post-info-icon"></i> Reply</div>
+                            </div>
+                        </div>
+                        <div class="rep-wrapper">
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username">Emily Zhang</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="rep-para">Interesting take! I'd love to hear more.</div>
+                            <div class="rep-info">
+                                <div class="post-info-txt"><i class="fa-solid fa-reply post-info-icon"></i> Reply</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="com-pop-modal">
+                    <div class="com-pop">
+                        <i class="fa-solid fa-xmark com-exit" onclick="closePop('.com-pop-modal')"></i>
+                        <div class="pop-form">
+                            <div class="pop-subject-box">
+                                <div class="pop-drop">
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Biology <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Economics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">General</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Mathematics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Biology <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart <i class="fa-solid fa-plus pop-drop-plus"></i></div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Economics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Mathematics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Mathematics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Biology <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart <i class="fa-solid fa-plus pop-drop-plus"></i></div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Economics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                    <div class="pop-drop-section">
+                                        <div class="pop-drop-label">Mathematics <i class="fa-solid fa-chevron-down pop-drop-chevron"></i></div>
+                                        <div class="pop-drop-ul">
+                                            <div class="pop-drop-li">The Heart</div>
+                                            <div class="pop-drop-li">Ecology</div>
+                                            <div class="pop-drop-li">Immune System</div>
+                                            <div class="pop-drop-li">DNA and RNA</div>
+                                            <div class="pop-drop-li">Cell Division</div>
+                                            <div class="pop-drop-li">Diffusion and Osmosis</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="pop-subject-txt">Subject/Topic</div>
+                                <i class="fa-solid fa-chevron-down pop-chevron"></i>
+                            </div>
+                            <input class="pop-input" type="text" placeholder="Title" />
+                            <textarea class="pop-area" placeholder="Description"></textarea>
+                            <div class="btn-pop">Create Post</div>
+                        </div>
+
+                        <div class="preview-post">
+                            <div class="preview-head">Post Preview</div>
+
+                            <div class="post-top">
+                                <div class="post-pfp-container">
+                                    <div class="post-pfp-bg preview-pfp-bg">
+                                        <i class="fa-solid fa-user post-pfp-user"></i>
+                                    </div>
+                                </div>
+                                <div class="post-username preview-username">Jack Woods</div>
+                                <div class="post-point"></div>
+                                <div class="post-time">just now</div>
+                            </div>
+                            <div class="post-title preview-title">Your Title</div>
+                            <div class="post-para preview-para">Your description goes here...</div>
+                            <div class="post-info">
+                                <div class="post-info-flex">
+                                    <div class="post-info-point"></div>
+                                    <div class="post-subject preview-subject">Subject/Topic</div>
+                                </div>
+                                <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 0</div>
+                                <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 0</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Fiona Porter</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">just now</div>
+                    </div>
+                    <div class="post-title">What diagrams do I need?</div>
+                    <div class="post-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo sed nostrum eaque odit fuga dolorum facere eum ducimus, eius quam modi exercitationem at quae praesentium neque sequi! Minima, modi aliquam.</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">Higher Irish</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 10</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 7</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Sean Burke</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">5 minutes ago</div>
+                    </div>
+                    <div class="post-title">Mock vs State Questions?</div>
+                    <div class="post-para">Do the mock papers have any crossover with the state exams or are they completely different sets of questions?</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">Ordinary Maths</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 3</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 2</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Liam O'Donnell</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">1 hour ago</div>
+                    </div>
+                    <div class="post-title">Where to focus for Macbeth?</div>
+                    <div class="post-para">Does anyone know what characters are most likely to come up this year? My teacher said Lady Macbeth is key.</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">Higher English</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 15</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 6</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Aisling Ní Bhraonáin</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">Today at 14:23</div>
+                    </div>
+                    <div class="post-title">Best way to study poetry?</div>
+                    <div class="post-para">How do ye remember quotes for poems? I’m getting overwhelmed trying to fit all of them into my head.</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">Higher Irish</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 8</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 5</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Darragh Collins</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">Yesterday</div>
+                    </div>
+                    <div class="post-title">Link to 2023 Paper 2?</div>
+                    <div class="post-para">Can someone link me the 2023 LC English Paper 2? I can't seem to find it on the official site.</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">Leaving Cert</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 12</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 3</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Emily Ní Riain</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">2 days ago</div>
+                    </div>
+                    <div class="post-title">Business definitions revision tip</div>
+                    <div class="post-para">I started using flashcards to hammer in the definitions and honestly it’s helped so much. Recommend it for anyone in a panic!</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">LC Business</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 21</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 10</div>
+                    </div>
+                </div>
+                <div class="post-wrapper">
+                    <div class="post-top">
+                        <div class="post-pfp-container">
+                            <div class="post-pfp-bg">
+                                <i class="fa-solid fa-user post-pfp-user"></i>
+                            </div>
+                        </div>
+                        <div class="post-username">Conor Doyle</div>
+                        <div class="post-point"></div>
+                        <div class="post-time">3 days ago</div>
+                    </div>
+                    <div class="post-title">How to memorise dates in history?</div>
+                    <div class="post-para">I’m struggling to remember dates for the French Revolution section. Anyone got techniques for that?</div>
+                    <div class="post-info">
+                        <div class="post-info-flex">
+                            <div class="post-info-point"></div>
+                            <div class="post-subject">JC History</div>
+                        </div>
+                        <div class="post-info-txt"><i class="fa-solid fa-thumbs-up post-info-icon"></i> 4</div>
+                        <div class="post-info-txt"><i class="fa-solid fa-comment-dots post-info-icon"></i> 1</div>
+                    </div>
+                </div>
+            </div>
+            -->

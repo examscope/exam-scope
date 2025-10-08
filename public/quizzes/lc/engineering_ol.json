@@ -1,0 +1,917 @@
+[
+  {
+    "subject": "Engineering",
+    "topic": "CNC & Centre Lathe",
+    "quiz": [
+      {
+        "text": "Which of the following is a common CNC machine motion type?",
+        "type": "choice",
+        "choices": ["Linear", "Circular", "Helical", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "In centre lathe operation, what is the main function of the tailstock?",
+        "type": "choice",
+        "choices": ["Hold the cutting tool", "Support the workpiece", "Rotate the spindle", "Control feed rate"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: CNC machines can operate without human supervision once programmed.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Centre lathes are mainly used for high precision mass production.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which part of the lathe holds the workpiece in place?",
+        "type": "choice",
+        "choices": ["Chuck", "Carriage", "Tailstock", "Bed"],
+        "answer": 0
+      },
+      {
+        "text": "Which programming language is commonly used in CNC machines?",
+        "type": "choice",
+        "choices": ["G-code", "Python", "Java", "HTML"],
+        "answer": 0
+      },
+      {
+        "text": "What is the main purpose of a centre lathe?",
+        "type": "input",
+        "answer": ["turning", "machining cylindrical surfaces", "shaping metal", "producing shafts"]
+      },
+      {
+        "text": "Name one advantage of using CNC over manual lathes.",
+        "type": "input",
+        "answer": ["accuracy", "repeatability", "speed", "automation"]
+      },
+      {
+        "text": "True or false: CNC machines always require a human operator to guide the tool during cutting.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which lathe component moves the cutting tool along the workpiece?",
+        "type": "choice",
+        "choices": ["Tailstock", "Carriage", "Spindle", "Headstock"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Engineering",
+    "topic": "Design & Project Management",
+    "quiz": [
+      {
+        "text": "Which of the following is a phase in project management?",
+        "type": "choice",
+        "choices": ["Planning", "Execution", "Closure", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "What is the main purpose of a Gantt chart?",
+        "type": "choice",
+        "choices": ["Track progress of tasks", "Design a product", "Manage finances", "Test materials"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Risk assessment is not necessary for small projects.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Brainstorming is a method used during the design phase.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which design principle focuses on making a product user-friendly?",
+        "type": "choice",
+        "choices": ["Ergonomics", "Sustainability", "Aesthetics", "Profitability"],
+        "answer": 0
+      },
+      {
+        "text": "Which of the following is a key element of project management?",
+        "type": "choice",
+        "choices": ["Scope", "Time", "Cost", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Name one common method for evaluating a design concept.",
+        "type": "input",
+        "answer": ["prototyping", "testing", "simulation", "sketching"]
+      },
+      {
+        "text": "List one factor to consider when prioritizing tasks in a project.",
+        "type": "input",
+        "answer": ["urgency", "importance", "resources", "deadline"]
+      },
+      {
+        "text": "True or false: A project can have multiple objectives and still be successful.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which tool helps managers allocate resources effectively?",
+        "type": "choice",
+        "choices": ["PERT chart", "Blueprint", "CAD model", "Lathe"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Engineering",
+    "topic": "Energy, Electronics & Robotics",
+    "quiz": [
+      {
+        "text": "Which type of energy is generated from moving water?",
+        "type": "choice",
+        "choices": ["Solar", "Hydroelectric", "Wind", "Geothermal"],
+        "answer": 1
+      },
+      {
+        "text": "What does LED stand for?",
+        "type": "choice",
+        "choices": ["Light Emitting Diode", "Low Energy Device", "Laser Emitting Device", "Linear Electronic Diode"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: A robot can perform tasks autonomously without human intervention.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Batteries store energy chemically for later use.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which component in a circuit resists the flow of current?",
+        "type": "choice",
+        "choices": ["Capacitor", "Resistor", "Inductor", "Transistor"],
+        "answer": 1
+      },
+      {
+        "text": "Which renewable energy source uses photovoltaic cells?",
+        "type": "choice",
+        "choices": ["Solar", "Wind", "Tidal", "Biomass"],
+        "answer": 0
+      },
+      {
+        "text": "Name one actuator commonly used in robotics.",
+        "type": "input",
+        "answer": ["motor", "servo motor", "hydraulic cylinder", "pneumatic cylinder"]
+      },
+      {
+        "text": "Give one advantage of using renewable energy.",
+        "type": "input",
+        "answer": ["sustainable", "environmentally friendly", "reduces emissions", "infinite supply"]
+      },
+      {
+        "text": "True or false: Transformers increase or decrease voltage in AC circuits.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which sensor measures distance in robotics?",
+        "type": "choice",
+        "choices": ["Proximity sensor", "Ultrasonic sensor", "Temperature sensor", "Gyroscope"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "subject": "Engineering",
+    "topic": "Finishing of Materials",
+    "quiz": [
+      {
+        "text": "Which process removes rough edges from a metal surface?",
+        "type": "choice",
+        "choices": ["Polishing", "Grinding", "Plating", "Annealing"],
+        "answer": 1
+      },
+      {
+        "text": "Electroplating is used to:",
+        "type": "choice",
+        "choices": ["Increase corrosion resistance", "Improve aesthetics", "Increase conductivity", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "True or false: Polishing can improve both appearance and performance of a surface.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Shot blasting uses chemical reactions to clean surfaces.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which finishing technique is commonly used for wood?",
+        "type": "choice",
+        "choices": ["Varnishing", "Galvanizing", "Anodizing", "Electroplating"],
+        "answer": 0
+      },
+      {
+        "text": "Anodizing is mainly used on which material?",
+        "type": "choice",
+        "choices": ["Steel", "Aluminium", "Copper", "Plastic"],
+        "answer": 1
+      },
+      {
+        "text": "Name one purpose of surface finishing.",
+        "type": "input",
+        "answer": ["corrosion resistance", "appearance", "smoothness", "durability"]
+      },
+      {
+        "text": "Give one common method for polishing metals.",
+        "type": "input",
+        "answer": ["buffing", "lapping", "grinding", "sanding"]
+      },
+      {
+        "text": "True or false: Sandblasting uses high-pressure abrasive materials to clean surfaces.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which method deposits a thin metal layer onto a surface?",
+        "type": "choice",
+        "choices": ["Electroplating", "Grinding", "Polishing", "Shot peening"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "subject": "Engineering",
+    "topic": "Furnaces",
+    "quiz": [
+      {
+        "text": "Which type of furnace is commonly used for melting metals?",
+        "type": "choice",
+        "choices": ["Blast furnace", "Electric arc furnace", "Solar furnace", "Glass furnace"],
+        "answer": 1
+      },
+      {
+        "text": "What is the main function of a blast furnace?",
+        "type": "choice",
+        "choices": ["Heat buildings", "Smelt iron from ore", "Produce electricity", "Bake ceramics"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: Furnaces are only used in metallurgy.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Electric furnaces can reach higher temperatures than traditional fuel-fired furnaces.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which fuel is commonly used in traditional blast furnaces?",
+        "type": "choice",
+        "choices": ["Coal", "Natural Gas", "Oil", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "In a furnace, what is the purpose of a refractory lining?",
+        "type": "choice",
+        "choices": ["Absorb heat", "Protect the furnace walls", "Cool the metal", "Increase fuel efficiency"],
+        "answer": 1
+      },
+      {
+        "text": "Name one material commonly used for furnace lining.",
+        "type": "input",
+        "answer": ["firebrick", "ceramic", "refractory brick", "insulating brick"]
+      },
+      {
+        "text": "Give one reason why furnaces are preheated before operation.",
+        "type": "input",
+        "answer": ["reduce thermal shock", "improve efficiency", "stabilize temperature", "protect lining"]
+      },
+      {
+        "text": "True or false: Induction furnaces use electromagnetic fields to heat metals.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which type of furnace is commonly used to refine steel?",
+        "type": "choice",
+        "choices": ["Open hearth furnace", "Cupola furnace", "Blast furnace", "Bessemer furnace"],
+        "answer": 3
+      }
+    ]
+  },
+{
+  "subject": "Engineering",
+  "topic": "Health and Safety",
+  "quiz": [
+    {
+      "text": "Which PPE is essential when working with chemicals?",
+      "type": "choice",
+      "choices": ["Gloves", "Safety glasses", "Apron", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which sign indicates a mandatory action in the workplace?",
+      "type": "choice",
+      "choices": ["Warning sign", "Prohibition sign", "Mandatory sign", "Emergency sign"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Fire extinguishers should be inspected regularly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: It's safe to ignore small spills if they are not flammable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of the following is a common workplace hazard?",
+      "type": "choice",
+      "choices": ["Slips and trips", "Noise", "Fumes", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which type of sign shows a prohibition?",
+      "type": "choice",
+      "choices": ["Red circle with line", "Blue circle", "Green rectangle", "Yellow triangle"],
+      "answer": 0
+    },
+    {
+      "text": "Give one method to prevent electrical accidents.",
+      "type": "input",
+      "answer": ["insulation", "circuit breakers", "grounding", "safety switches"]
+    },
+    {
+      "text": "Name one procedure to follow during a fire drill.",
+      "type": "input",
+      "answer": ["evacuate", "assemble at meeting point", "stay calm", "follow exit signs"]
+    },
+    {
+      "text": "True or false: Safety training should be updated periodically.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which device helps to prevent hearing damage in noisy workplaces?",
+      "type": "choice",
+      "choices": ["Earplugs", "Safety goggles", "Gloves", "Helmet"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Heat Treatment",
+  "quiz": [
+    {
+      "text": "Which process increases the hardness of steel?",
+      "type": "choice",
+      "choices": ["Annealing", "Quenching", "Tempering", "Normalising"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of annealing?",
+      "type": "choice",
+      "choices": ["Increase hardness", "Relieve internal stresses", "Improve surface finish", "Make steel brittle"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Tempering follows quenching to reduce brittleness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Normalising makes steel softer than annealing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which process involves heating steel to a high temperature and then cooling it rapidly?",
+      "type": "choice",
+      "choices": ["Quenching", "Tempering", "Annealing", "Case hardening"],
+      "answer": 0
+    },
+    {
+      "text": "Which method hardens only the surface of a steel component?",
+      "type": "choice",
+      "choices": ["Case hardening", "Normalising", "Annealing", "Tempering"],
+      "answer": 0
+    },
+    {
+      "text": "Name one effect of heat treatment on metals.",
+      "type": "input",
+      "answer": ["hardness", "ductility", "toughness", "strength"]
+    },
+    {
+      "text": "Give one common method for quenching steel.",
+      "type": "input",
+      "answer": ["water", "oil", "brine", "polymer solution"]
+    },
+    {
+      "text": "True or false: Heat treatment can improve wear resistance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which heat treatment process is used to reduce brittleness after quenching?",
+      "type": "choice",
+      "choices": ["Tempering", "Annealing", "Normalising", "Case hardening"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "ICT",
+  "quiz": [
+    {
+      "text": "Which of the following is an input device?",
+      "type": "choice",
+      "choices": ["Keyboard", "Monitor", "Printer", "Speaker"],
+      "answer": 0
+    },
+    {
+      "text": "Which programming language is used for web development?",
+      "type": "choice",
+      "choices": ["HTML", "Python", "JavaScript", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: RAM is volatile memory.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The internet and the World Wide Web are the same thing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device stores data permanently in a computer?",
+      "type": "choice",
+      "choices": ["SSD", "RAM", "Cache", "CPU"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a network device?",
+      "type": "choice",
+      "choices": ["Router", "Keyboard", "Monitor", "Printer"],
+      "answer": 0
+    },
+    {
+      "text": "Give one example of software.",
+      "type": "input",
+      "answer": ["operating system", "application", "program", "app"]
+    },
+    {
+      "text": "Name one type of cyber threat.",
+      "type": "input",
+      "answer": ["virus", "malware", "phishing", "ransomware"]
+    },
+    {
+      "text": "True or false: A firewall helps protect a network from unauthorized access.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which storage device is removable and portable?",
+      "type": "choice",
+      "choices": ["USB flash drive", "SSD", "RAM", "CPU"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Machining & Metrology",
+  "quiz": [
+    {
+      "text": "Which instrument measures small distances accurately?",
+      "type": "choice",
+      "choices": ["Micrometer", "Ruler", "Caliper", "Tape measure"],
+      "answer": 0
+    },
+    {
+      "text": "Which process removes material to shape a workpiece?",
+      "type": "choice",
+      "choices": ["Machining", "Casting", "Forging", "Welding"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A vernier caliper can measure both internal and external dimensions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Metrology is the science of measurement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is used to check the flatness of a surface?",
+      "type": "choice",
+      "choices": ["Surface plate", "Micrometer", "Caliper", "Gauge block"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lathe tool is used for turning operations?",
+      "type": "choice",
+      "choices": ["Single point cutting tool", "Drill bit", "End mill", "Grinding wheel"],
+      "answer": 0
+    },
+    {
+      "text": "Name one factor affecting machining accuracy.",
+      "type": "input",
+      "answer": ["tool wear", "machine vibration", "feed rate", "cutting speed"]
+    },
+    {
+      "text": "Give one use of a micrometer.",
+      "type": "input",
+      "answer": ["measure diameter", "measure thickness", "measure small distances", "measure depth"]
+    },
+    {
+      "text": "True or false: Coolant is used during machining to reduce heat and friction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which device can measure angles precisely?",
+      "type": "choice",
+      "choices": ["Protractor", "Angle gauge", "Bevel protractor", "All of the above"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Mechanical Joining & Assembly",
+  "quiz": [
+    {
+      "text": "Which of the following is a mechanical fastener?",
+      "type": "choice",
+      "choices": ["Screw", "Rivet", "Bolt", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which joining method does not require heat?",
+      "type": "choice",
+      "choices": ["Welding", "Soldering", "Riveting", "Brazing"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Threaded fasteners can be reused multiple times.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Riveting is suitable for high-strength structural connections.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is commonly used to tighten nuts and bolts?",
+      "type": "choice",
+      "choices": ["Screwdriver", "Wrench", "Hammer", "Pliers"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of fastener is permanent?",
+      "type": "choice",
+      "choices": ["Screw", "Bolt", "Rivet", "Nut"],
+      "answer": 2
+    },
+    {
+      "text": "Name one method to prevent a bolt from loosening.",
+      "type": "input",
+      "answer": ["lock washer", "threadlocker", "nylon insert nut", "double nut"]
+    },
+    {
+      "text": "Give one advantage of using mechanical joining over welding.",
+      "type": "input",
+      "answer": ["disassembly", "repairable", "no heat required", "faster assembly"]
+    },
+    {
+      "text": "True or false: Soldered joints are usually weaker than welded joints.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fastener is commonly used in aircraft assembly?",
+      "type": "choice",
+      "choices": ["Countersunk screw", "Pop rivet", "Hex bolt", "Nail"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Non-Ferrous Metals & Alloys",
+  "quiz": [
+    {
+      "text": "Which of the following is a non-ferrous metal?",
+      "type": "choice",
+      "choices": ["Copper", "Steel", "Cast iron", "Wrought iron"],
+      "answer": 0
+    },
+    {
+      "text": "Which alloy is commonly used in aircraft due to its high strength-to-weight ratio?",
+      "type": "choice",
+      "choices": ["Brass", "Aluminium alloy", "Bronze", "Lead alloy"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Non-ferrous metals are generally more resistant to corrosion than ferrous metals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Aluminium is magnetic.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which property is common in copper?",
+      "type": "choice",
+      "choices": ["High conductivity", "Low density", "High brittleness", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "Which alloy is made from copper and zinc?",
+      "type": "choice",
+      "choices": ["Bronze", "Brass", "Duralumin", "Steel"],
+      "answer": 1
+    },
+    {
+      "text": "Name one use of non-ferrous metals in engineering.",
+      "type": "input",
+      "answer": ["electrical wiring", "aircraft components", "plumbing", "roofing"]
+    },
+    {
+      "text": "Give one reason why aluminium is used in transport applications.",
+      "type": "input",
+      "answer": ["lightweight", "corrosion-resistant", "strong", "malleable"]
+    },
+    {
+      "text": "True or false: Lead is a lightweight and highly durable structural material.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which non-ferrous metal is commonly used for plumbing pipes?",
+      "type": "choice",
+      "choices": ["Copper", "Iron", "Aluminium", "Steel"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Pneumatics",
+  "quiz": [
+    {
+      "text": "Which gas is most commonly used in pneumatic systems?",
+      "type": "choice",
+      "choices": ["Oxygen", "Compressed air", "Nitrogen", "Carbon dioxide"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main function of a pneumatic cylinder?",
+      "type": "choice",
+      "choices": ["Store energy", "Convert air pressure into linear motion", "Control airflow", "Lubricate machinery"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Pneumatic systems are generally cleaner than hydraulic systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pneumatic systems can easily generate very high forces compared to hydraulics.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which device regulates pressure in a pneumatic system?",
+      "type": "choice",
+      "choices": ["Pressure gauge", "Regulator", "Valve", "Compressor"],
+      "answer": 1
+    },
+    {
+      "text": "Which component stores compressed air for a pneumatic system?",
+      "type": "choice",
+      "choices": ["Reservoir tank", "Cylinder", "Compressor", "Actuator"],
+      "answer": 0
+    },
+    {
+      "text": "Name one advantage of using pneumatics in industry.",
+      "type": "input",
+      "answer": ["clean operation", "simple control", "fast response", "low cost"]
+    },
+    {
+      "text": "Give one safety precaution when working with pneumatic systems.",
+      "type": "input",
+      "answer": ["release pressure before maintenance", "wear safety goggles", "check for leaks", "secure hoses"]
+    },
+    {
+      "text": "True or false: Pneumatic actuators can be used for repetitive tasks.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which valve type controls the direction of airflow in a pneumatic system?",
+      "type": "choice",
+      "choices": ["Directional control valve", "Pressure relief valve", "Flow control valve", "Check valve"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Polymers",
+  "quiz": [
+    {
+      "text": "Which of the following is a thermoplastic polymer?",
+      "type": "choice",
+      "choices": ["PVC", "Phenol formaldehyde", "Epoxy resin", "Bakelite"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer property allows it to return to its original shape after stretching?",
+      "type": "choice",
+      "choices": ["Elasticity", "Brittleness", "Hardness", "Density"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Thermosetting polymers can be reshaped after curing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Polymers are generally poor conductors of electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which polymer is commonly used for food packaging?",
+      "type": "choice",
+      "choices": ["Polyethylene", "Polystyrene", "PVC", "Bakelite"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer is used to make circuit boards?",
+      "type": "choice",
+      "choices": ["Epoxy resin", "PVC", "Polyethylene", "Polystyrene"],
+      "answer": 0
+    },
+    {
+      "text": "Name one advantage of using polymers in engineering applications.",
+      "type": "input",
+      "answer": ["lightweight", "corrosion-resistant", "mouldable", "insulating"]
+    },
+    {
+      "text": "Give one common method for joining polymer components.",
+      "type": "input",
+      "answer": ["adhesive bonding", "welding", "solvent bonding", "mechanical fastening"]
+    },
+    {
+      "text": "True or false: Polymers can be reinforced to improve strength.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which polymer is commonly used for making pipes and tubing?",
+      "type": "choice",
+      "choices": ["PVC", "Epoxy", "Polystyrene", "Bakelite"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Tools & Mechanisms",
+  "quiz": [
+    {
+      "text": "Which tool is used to cut metal sheets?",
+      "type": "choice",
+      "choices": ["Hacksaw", "Chisel", "File", "Drill"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism converts rotary motion into linear motion?",
+      "type": "choice",
+      "choices": ["Cam and follower", "Pulley", "Gear train", "Lever"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A lever provides mechanical advantage by amplifying force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A worm gear can reverse the direction of rotation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is used to measure angles?",
+      "type": "choice",
+      "choices": ["Protractor", "Caliper", "Ruler", "Micrometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism is commonly used in bicycles to transmit motion?",
+      "type": "choice",
+      "choices": ["Chain drive", "Rack and pinion", "Cam", "Lever"],
+      "answer": 0
+    },
+    {
+      "text": "Name one advantage of using a gear mechanism.",
+      "type": "input",
+      "answer": ["change speed", "increase torque", "change direction", "mechanical advantage"]
+    },
+    {
+      "text": "Give one use of a pulley system.",
+      "type": "input",
+      "answer": ["lifting loads", "transmitting motion", "reducing effort", "changing direction of force"]
+    },
+    {
+      "text": "True or false: A screw is a type of simple machine.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is used to smooth rough surfaces of metal or wood?",
+      "type": "choice",
+      "choices": ["File", "Chisel", "Hammer", "Saw"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Welding & Soldering",
+  "quiz": [
+    {
+      "text": "Which welding method uses an electric arc to join metals?",
+      "type": "choice",
+      "choices": ["MIG welding", "TIG welding", "Arc welding", "Gas welding"],
+      "answer": 2
+    },
+    {
+      "text": "Which welding method uses a shielding gas to protect the weld?",
+      "type": "choice",
+      "choices": ["MIG welding", "Arc welding", "Resistance welding", "Forge welding"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Soldering melts the base metals to form a joint.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: TIG welding can produce very precise and clean welds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which filler metal is commonly used in soldering electronics?",
+      "type": "choice",
+      "choices": ["Tin-lead", "Aluminium rod", "Steel wire", "Copper rod"],
+      "answer": 0
+    },
+    {
+      "text": "Which safety equipment is essential during welding?",
+      "type": "choice",
+      "choices": ["Welding helmet", "Gloves", "Apron", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Name one advantage of soldering over welding.",
+      "type": "input",
+      "answer": ["lower temperature", "no base metal melting", "faster", "suitable for electronics"]
+    },
+    {
+      "text": "Give one common use of welding in industry.",
+      "type": "input",
+      "answer": ["construction", "pipe joining", "vehicle manufacturing", "fabrication"]
+    },
+    {
+      "text": "True or false: Welding can produce strong permanent joints.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of welding uses heat from a gas flame?",
+      "type": "choice",
+      "choices": ["Gas welding", "MIG welding", "TIG welding", "Arc welding"],
+      "answer": 0
+    }
+  ]
+}
+]

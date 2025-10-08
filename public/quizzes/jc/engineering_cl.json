@@ -1,0 +1,1283 @@
+[
+{
+  "subject": "Engineering",
+  "topic": "Assembly/Joining Techniques",
+  "quiz": [
+    {
+      "text": "Which of these is a common joining technique?",
+      "type": "choice",
+      "choices": ["Welding", "Printing", "Drilling", "Casting"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of a rivet?",
+      "type": "choice",
+      "choices": ["To join metal pieces", "To measure length", "To polish surfaces", "To cut wood"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these uses heat to join metals?",
+      "type": "choice",
+      "choices": ["Welding", "Screwing", "Gluing", "Bolting"],
+      "answer": 0
+    },
+    {
+      "text": "Which fastener can be removed and reused?",
+      "type": "choice",
+      "choices": ["Screw", "Rivet", "Weld", "Glue"],
+      "answer": 0
+    },
+    {
+      "text": "Which joining method is suitable for plastics?",
+      "type": "choice",
+      "choices": ["Adhesive bonding", "Riveting", "Welding metals", "Nailing wood"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Welding permanently joins metals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Screws can be reused multiple times.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rivets are usually removable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one method to join metals permanently.",
+      "type": "input",
+      "answer": ["welding", "soldering", "brazing"]
+    },
+    {
+      "text": "Give one removable joining method.",
+      "type": "input",
+      "answer": ["screw", "bolt", "clip", "nut and bolt"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "CAM - Computer Aided Manufacture",
+  "quiz": [
+    {
+      "text": "What does CAM stand for?",
+      "type": "choice",
+      "choices": ["Computer Aided Manufacture", "Computer Assisted Management", "Central Automated Machine", "Controlled Area Machine"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a benefit of CAM?",
+      "type": "choice",
+      "choices": ["Increased precision", "Manual drafting", "Using hammers", "Hand carving"],
+      "answer": 0
+    },
+    {
+      "text": "CAM uses which type of files to control machines?",
+      "type": "choice",
+      "choices": ["CAD files", "Word files", "Audio files", "Video files"],
+      "answer": 0
+    },
+    {
+      "text": "Which machine is commonly controlled by CAM?",
+      "type": "choice",
+      "choices": ["CNC milling machine", "Sewing machine", "Vacuum cleaner", "Typewriter"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these tasks can CAM help perform?",
+      "type": "choice",
+      "choices": ["Milling, cutting, drilling", "Cooking, cleaning, washing", "Painting, dancing, singing", "Driving cars"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: CAM reduces human error in production.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CAM can control machines automatically.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CAM requires no software to operate.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one type of machine commonly controlled by CAM.",
+      "type": "input",
+      "answer": ["cnc milling machine", "cnc lathe", "3d printer", "laser cutter"]
+    },
+    {
+      "text": "Give one advantage of using CAM in manufacturing.",
+      "type": "input",
+      "answer": ["increased precision", "faster production", "less human error", "automated processes"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Decorative Finishing of Metals",
+  "quiz": [
+    {
+      "text": "Which of these is a common decorative metal finish?",
+      "type": "choice",
+      "choices": ["Polishing", "Welding", "Bolting", "Drilling"],
+      "answer": 0
+    },
+    {
+      "text": "What does plating a metal involve?",
+      "type": "choice",
+      "choices": ["Covering it with a thin layer of another metal", "Joining two metals", "Melting the metal", "Painting it with plastic"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used to create a brushed metal effect?",
+      "type": "choice",
+      "choices": ["Wire brush", "Hammer", "Screwdriver", "Lathe"],
+      "answer": 0
+    },
+    {
+      "text": "Which finish improves corrosion resistance?",
+      "type": "choice",
+      "choices": ["Electroplating", "Riveting", "Soldering", "Cutting"],
+      "answer": 0
+    },
+    {
+      "text": "Which finish gives a shiny, mirror-like appearance?",
+      "type": "choice",
+      "choices": ["Polishing", "Grinding", "Welding", "Riveting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polishing metal removes scratches.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Plating is purely decorative and has no protective purpose.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Grinding creates a smooth surface on metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one decorative metal finishing technique.",
+      "type": "input",
+      "answer": ["polishing", "plating", "anodizing", "brushing"]
+    },
+    {
+      "text": "Give one benefit of decorative metal finishing.",
+      "type": "input",
+      "answer": ["improved appearance", "corrosion resistance", "surface smoothness", "aesthetic appeal"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Design & Graphics",
+  "quiz": [
+    {
+      "text": "Which software is commonly used for technical drawing?",
+      "type": "choice",
+      "choices": ["CAD", "Word", "Excel", "PowerPoint"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a key element of design?",
+      "type": "choice",
+      "choices": ["Line, shape, color", "Gravity, friction, energy", "Polishing, plating, welding", "Screwing, bolting, gluing"],
+      "answer": 0
+    },
+    {
+      "text": "What type of drawing shows 3D objects in two dimensions?",
+      "type": "choice",
+      "choices": ["Isometric", "Perspective", "Cartoon", "Landscape"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used for precise measurements in design?",
+      "type": "choice",
+      "choices": ["Scale ruler", "Hammer", "Screwdriver", "Paintbrush"],
+      "answer": 0
+    },
+    {
+      "text": "Which design stage involves testing ideas on paper or software?",
+      "type": "choice",
+      "choices": ["Prototyping", "Manufacturing", "Marketing", "Packaging"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: CAD stands for Computer Aided Design.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Isometric drawings show true scale in three dimensions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Design sketches help communicate ideas clearly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one software used for technical design.",
+      "type": "input",
+      "answer": ["cad", "autocad", "solidworks", "fusion 360"]
+    },
+    {
+      "text": "Give one element important in visual design.",
+      "type": "input",
+      "answer": ["line", "shape", "color", "texture"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Electronics & Robotics",
+  "quiz": [
+    {
+      "text": "Which component stores electrical energy?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Diode", "Transistor"],
+      "answer": 0
+    },
+    {
+      "text": "Which device is used to control a robot's movement?",
+      "type": "choice",
+      "choices": ["Microcontroller", "Light bulb", "Motor", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "Which component allows current to flow in only one direction?",
+      "type": "choice",
+      "choices": ["Diode", "Resistor", "Capacitor", "Inductor"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of sensor detects light?",
+      "type": "choice",
+      "choices": ["Photocell", "Thermistor", "Switch", "Motor"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts electrical energy into motion?",
+      "type": "choice",
+      "choices": ["Motor", "Resistor", "Capacitor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A resistor increases current in a circuit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Robotics often use sensors to interact with the environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Microcontrollers cannot be programmed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one type of sensor used in robotics.",
+      "type": "input",
+      "answer": ["photocell", "ultrasonic sensor", "infrared sensor", "temperature sensor"]
+    },
+    {
+      "text": "Give one device that converts electrical energy into motion.",
+      "type": "input",
+      "answer": ["motor", "servo", "stepper motor", "actuator"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Energy",
+  "quiz": [
+    {
+      "text": "Which of these is a renewable energy source?",
+      "type": "choice",
+      "choices": ["Solar", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts sunlight into electricity?",
+      "type": "choice",
+      "choices": ["Solar panel", "Wind turbine", "Battery", "Generator"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of energy is produced by moving water?",
+      "type": "choice",
+      "choices": ["Hydroelectric", "Solar", "Geothermal", "Wind"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy source is non-renewable?",
+      "type": "choice",
+      "choices": ["Coal", "Wind", "Solar", "Hydroelectric"],
+      "answer": 0
+    },
+    {
+      "text": "Which device stores electrical energy for later use?",
+      "type": "choice",
+      "choices": ["Battery", "Motor", "Switch", "Resistor"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wind energy is renewable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Oil is a renewable energy source.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Solar panels produce electricity from sunlight.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one renewable energy source.",
+      "type": "input",
+      "answer": ["solar", "wind", "hydroelectric", "geothermal"]
+    },
+    {
+      "text": "Give one device that stores energy.",
+      "type": "input",
+      "answer": ["battery", "capacitor", "fuel cell"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Engines",
+  "quiz": [
+    {
+      "text": "Which type of engine uses spark ignition?",
+      "type": "choice",
+      "choices": ["Petrol engine", "Diesel engine", "Steam engine", "Electric motor"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of an engine moves up and down in a cylinder?",
+      "type": "choice",
+      "choices": ["Piston", "Crankshaft", "Valve", "Camshaft"],
+      "answer": 0
+    },
+    {
+      "text": "What does a diesel engine use to ignite fuel?",
+      "type": "choice",
+      "choices": ["Compression", "Spark plug", "Battery", "Steam"],
+      "answer": 0
+    },
+    {
+      "text": "Which engine is more fuel-efficient?",
+      "type": "choice",
+      "choices": ["Diesel engine", "Petrol engine", "Steam engine", "Electric motor"],
+      "answer": 0
+    },
+    {
+      "text": "Which part converts up-and-down motion into rotary motion?",
+      "type": "choice",
+      "choices": ["Crankshaft", "Piston", "Valve", "Camshaft"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Petrol engines are usually less efficient than diesel engines.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A piston moves in a circular path inside a cylinder.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Diesel engines use spark plugs to ignite fuel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one common type of engine.",
+      "type": "input",
+      "answer": ["petrol engine", "diesel engine", "steam engine", "electric motor"]
+    },
+    {
+      "text": "Give one function of a crankshaft.",
+      "type": "input",
+      "answer": ["convert linear motion to rotary motion", "turn pistons motion into rotation", "transfer piston movement"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Environmental Impacts",
+  "quiz": [
+    {
+      "text": "Which gas is a major contributor to global warming?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy source has the least environmental impact?",
+      "type": "choice",
+      "choices": ["Wind", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a non-renewable resource?",
+      "type": "choice",
+      "choices": ["Coal", "Solar", "Wind", "Hydroelectric"],
+      "answer": 0
+    },
+    {
+      "text": "What is acid rain caused by?",
+      "type": "choice",
+      "choices": ["Sulphur dioxide and nitrogen oxides", "Oxygen", "Water vapor", "Carbon monoxide"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice helps reduce environmental impact?",
+      "type": "choice",
+      "choices": ["Recycling", "Deforestation", "Overfishing", "Burning waste openly"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fossil fuels are renewable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Solar energy does not produce greenhouse gases.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Acid rain can damage buildings and crops.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one renewable energy source.",
+      "type": "input",
+      "answer": ["solar", "wind", "hydroelectric", "geothermal"]
+    },
+    {
+      "text": "Give one action that reduces environmental impact.",
+      "type": "input",
+      "answer": ["recycling", "planting trees", "reducing energy use", "using public transport"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Furnaces",
+  "quiz": [
+    {
+      "text": "Which furnace is commonly used to melt metals?",
+      "type": "choice",
+      "choices": ["Blast furnace", "Electric arc furnace", "Gas furnace", "Wood stove"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main fuel used in a blast furnace?",
+      "type": "choice",
+      "choices": ["Coke", "Natural gas", "Coal gas", "Electricity"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of furnace uses electricity to heat metal?",
+      "type": "choice",
+      "choices": ["Electric furnace", "Blast furnace", "Gas furnace", "Wood stove"],
+      "answer": 0
+    },
+    {
+      "text": "Furnaces are mainly used to:",
+      "type": "choice",
+      "choices": ["Heat or melt materials", "Cool metals", "Cut wood", "Generate motion"],
+      "answer": 0
+    },
+    {
+      "text": "Which furnace is used in steelmaking?",
+      "type": "choice",
+      "choices": ["Electric arc furnace", "Gas stove", "Wood stove", "Oil furnace"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Furnaces are only used in homes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A blast furnace can produce iron from iron ore.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electric furnaces require chemical fuel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one type of furnace used in industry.",
+      "type": "input",
+      "answer": ["electric furnace", "blast furnace", "gas furnace"]
+    },
+    {
+      "text": "Give one material commonly heated in a furnace.",
+      "type": "input",
+      "answer": ["metal", "iron", "steel", "alloy"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Health and Safety",
+  "quiz": [
+    {
+      "text": "Which personal protective equipment protects the eyes?",
+      "type": "choice",
+      "choices": ["Goggles", "Gloves", "Helmet", "Apron"],
+      "answer": 0
+    },
+    {
+      "text": "Which equipment is worn to protect the ears from loud noise?",
+      "type": "choice",
+      "choices": ["Ear defenders", "Goggles", "Helmet", "Boots"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Safety boots protect against chemical spills.",
+      "type": "choice",
+      "choices": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "text": "Which is important to prevent slips and falls?",
+      "type": "choice",
+      "choices": ["Good housekeeping", "Ignoring spills", "Rushing", "Leaving tools out"],
+      "answer": 0
+    },
+    {
+      "text": "What should you do before using machinery?",
+      "type": "choice",
+      "choices": ["Check safety guards", "Wear jewellery", "Ignore instructions", "Work quickly"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: PPE stands for Personal Protective Equipment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: It is safe to remove guards from machinery while in use.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Reporting hazards helps keep the workplace safe.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of PPE used in workshops.",
+      "type": "input",
+      "answer": ["goggles", "helmet", "gloves", "ear defenders", "safety boots"]
+    },
+    {
+      "text": "Give one action that improves workshop safety.",
+      "type": "input",
+      "answer": ["reporting hazards", "good housekeeping", "using PPE", "following instructions"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Heat Treatments",
+  "quiz": [
+    {
+      "text": "Which heat treatment increases hardness of steel?",
+      "type": "choice",
+      "choices": ["Quenching", "Annealing", "Tempering", "Normalising"],
+      "answer": 0
+    },
+    {
+      "text": "Which process softens metal for easier working?",
+      "type": "choice",
+      "choices": ["Annealing", "Quenching", "Hardening", "Tempering"],
+      "answer": 0
+    },
+    {
+      "text": "Tempering is usually done after:",
+      "type": "choice",
+      "choices": ["Quenching", "Annealing", "Forging", "Casting"],
+      "answer": 0
+    },
+    {
+      "text": "Normalising is done to:",
+      "type": "choice",
+      "choices": ["Refine grain structure", "Increase corrosion", "Melt metal", "Cut metal"],
+      "answer": 0
+    },
+    {
+      "text": "Which process involves rapid cooling of metal in water or oil?",
+      "type": "choice",
+      "choices": ["Quenching", "Annealing", "Tempering", "Normalising"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Annealing makes metal harder.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Quenching increases brittleness of metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Heat treatments can change metal properties.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one purpose of heat treatment.",
+      "type": "input",
+      "answer": ["increase hardness", "soften metal", "refine grain structure", "improve toughness"]
+    },
+    {
+      "text": "Give one method of heat treating metal.",
+      "type": "input",
+      "answer": ["annealing", "quenching", "tempering", "normalising"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Inventors and Engineers in Society",
+  "quiz": [
+    {
+      "text": "Who invented the light bulb?",
+      "type": "choice",
+      "choices": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "James Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Who is known for inventing the telephone?",
+      "type": "choice",
+      "choices": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "James Watt"],
+      "answer": 0
+    },
+    {
+      "text": "James Watt improved which machine?",
+      "type": "choice",
+      "choices": ["Steam engine", "Telephone", "Light bulb", "Electric motor"],
+      "answer": 0
+    },
+    {
+      "text": "Which engineer designed the first practical alternating current system?",
+      "type": "choice",
+      "choices": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "James Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Inventors and engineers contribute to society by:",
+      "type": "choice",
+      "choices": ["Improving technology", "Destroying nature", "Making noise", "Teaching only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Engineers only work with machines.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Inventors solve problems for society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Society benefits from innovations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one famous inventor.",
+      "type": "input",
+      "answer": ["thomas edison", "alexander graham bell", "nikola tesla", "james watt"]
+    },
+    {
+      "text": "Give one way engineers help society.",
+      "type": "input",
+      "answer": ["improve technology", "design infrastructure", "develop machines", "solve problems"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Lathe Work: Manual & CNC",
+  "quiz": [
+    {
+      "text": "Which tool is used to cut external threads on a lathe?",
+      "type": "choice",
+      "choices": ["Threading tool", "Parting tool", "Boring tool", "Knurling tool"],
+      "answer": 0
+    },
+    {
+      "text": "CNC stands for:",
+      "type": "choice",
+      "choices": ["Computer Numerical Control", "Central Numeric Control", "Computer Network Control", "Control Numerical Computer"],
+      "answer": 0
+    },
+    {
+      "text": "Which part holds the workpiece in a lathe?",
+      "type": "choice",
+      "choices": ["Chuck", "Tailstock", "Tool post", "Carriage"],
+      "answer": 0
+    },
+    {
+      "text": "Manual lathes require:",
+      "type": "choice",
+      "choices": ["Operator skill", "Automatic programming", "Software only", "No supervision"],
+      "answer": 0
+    },
+    {
+      "text": "Which is used to support long workpieces?",
+      "type": "choice",
+      "choices": ["Tailstock", "Chuck", "Tool post", "Carriage"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: CNC lathes need operator guidance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Manual lathes are computer-controlled.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A lathe rotates the workpiece.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of lathe operation.",
+      "type": "input",
+      "answer": ["turning", "facing", "threading", "drilling"]
+    },
+    {
+      "text": "Give one safety measure when using a lathe.",
+      "type": "input",
+      "answer": ["wear goggles", "tie back hair", "remove jewellery", "check workpiece security"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Marking Out & Manufacturing Processes",
+  "quiz": [
+    {
+      "text": "Which tool is used for marking straight lines on metal?",
+      "type": "choice",
+      "choices": ["Scriber", "Caliper", "Micrometer", "Dividers"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool measures angles for marking out?",
+      "type": "choice",
+      "choices": ["Protractor", "Ruler", "Scriber", "Try square"],
+      "answer": 0
+    },
+    {
+      "text": "Which process shapes metal by removing material?",
+      "type": "choice",
+      "choices": ["Machining", "Casting", "Forging", "Welding"],
+      "answer": 0
+    },
+    {
+      "text": "Which manufacturing process forms metal using heat and force?",
+      "type": "choice",
+      "choices": ["Forging", "Milling", "Turning", "Drilling"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool checks parallel lines and right angles?",
+      "type": "choice",
+      "choices": ["Try square", "Scriber", "Dividers", "Caliper"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Marking out is done after cutting.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Machining removes material to shape a workpiece.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Forging uses heat and force to shape metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one tool used for marking out.",
+      "type": "input",
+      "answer": ["scriber", "try square", "protractor", "dividers"]
+    },
+    {
+      "text": "Give one manufacturing process.",
+      "type": "input",
+      "answer": ["machining", "casting", "forging", "welding", "milling"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Measuring Instruments & Gauges",
+  "quiz": [
+    {
+      "text": "Which instrument measures internal and external diameters?",
+      "type": "choice",
+      "choices": ["Vernier caliper", "Micrometer", "Gauge block", "Protractor"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures very small dimensions precisely?",
+      "type": "choice",
+      "choices": ["Micrometer", "Ruler", "Caliper", "Try square"],
+      "answer": 0
+    },
+    {
+      "text": "Which gauge measures thread pitch?",
+      "type": "choice",
+      "choices": ["Thread gauge", "Feeler gauge", "Depth gauge", "Vernier caliper"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool checks flatness and straightness?",
+      "type": "choice",
+      "choices": ["Straight edge", "Vernier caliper", "Micrometer", "Protractor"],
+      "answer": 0
+    },
+    {
+      "text": "Which gauge measures gap thickness?",
+      "type": "choice",
+      "choices": ["Feeler gauge", "Thread gauge", "Depth gauge", "Ruler"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A micrometer is less precise than a ruler.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Vernier calipers can measure depth.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Measuring instruments ensure accuracy in manufacturing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one instrument used to measure dimensions.",
+      "type": "input",
+      "answer": ["vernier caliper", "micrometer", "ruler", "gauge block"]
+    },
+    {
+      "text": "Give one type of gauge.",
+      "type": "input",
+      "answer": ["feeler gauge", "thread gauge", "depth gauge", "radius gauge"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Mechanisms",
+  "quiz": [
+    {
+      "text": "Which mechanism converts rotary motion to linear motion?",
+      "type": "choice",
+      "choices": ["Crank and slider", "Pulley", "Gear train", "Lever"],
+      "answer": 0
+    },
+    {
+      "text": "Which simple machine multiplies force?",
+      "type": "choice",
+      "choices": ["Lever", "Wheel and axle", "Pulley", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which gear arrangement reverses the direction of rotation?",
+      "type": "choice",
+      "choices": ["Spur gears", "Bevel gears", "Worm and wheel", "Rack and pinion"],
+      "answer": 1
+    },
+    {
+      "text": "Which mechanism is used to lift heavy loads vertically?",
+      "type": "choice",
+      "choices": ["Block and tackle", "Cam and follower", "Crankshaft", "Pulley"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism converts rotary motion to reciprocating motion?",
+      "type": "choice",
+      "choices": ["Cam and follower", "Belt drive", "Gear train", "Pulley system"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A lever can change the direction of a force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gears can only increase speed, not torque.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cams are used in engines to open and close valves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of mechanism.",
+      "type": "input",
+      "answer": ["lever", "gear", "cam", "pulley", "crank and slider", "rack and pinion"]
+    },
+    {
+      "text": "Give one purpose of a mechanism.",
+      "type": "input",
+      "answer": ["change direction of force", "increase force", "increase speed", "convert motion type"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Modern/Smart Technology & ICT",
+  "quiz": [
+    {
+      "text": "Which technology allows devices to communicate wirelessly?",
+      "type": "choice",
+      "choices": ["Wi-Fi", "Ethernet", "USB", "HDMI"],
+      "answer": 0
+    },
+    {
+      "text": "Which system is designed to control devices automatically?",
+      "type": "choice",
+      "choices": ["Embedded system", "Desktop PC", "Laptop", "Tablet"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts digital signals to physical action?",
+      "type": "choice",
+      "choices": ["Actuator", "Sensor", "Processor", "Transistor"],
+      "answer": 0
+    },
+    {
+      "text": "Which technology monitors the environment and provides data?",
+      "type": "choice",
+      "choices": ["Sensor", "Actuator", "Processor", "Robot"],
+      "answer": 0
+    },
+    {
+      "text": "Which system uses feedback to maintain control?",
+      "type": "choice",
+      "choices": ["Control system", "Wi-Fi", "Database", "Network switch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: IoT stands for Internet of Things.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Sensors convert signals into physical actions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Embedded systems are designed for a specific task.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a smart technology device.",
+      "type": "input",
+      "answer": ["smartphone", "smartwatch", "smart thermostat", "IoT device"]
+    },
+    {
+      "text": "Give one purpose of ICT in engineering.",
+      "type": "input",
+      "answer": ["monitor systems", "automate tasks", "collect data", "control devices"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Pneumatics & Hydraulics",
+  "quiz": [
+    {
+      "text": "Which fluid is used in hydraulic systems?",
+      "type": "choice",
+      "choices": ["Oil", "Water", "Air", "Gasoline"],
+      "answer": 0
+    },
+    {
+      "text": "Which force moves objects in a pneumatic system?",
+      "type": "choice",
+      "choices": ["Compressed air", "Electric current", "Hydraulic oil", "Gravity"],
+      "answer": 0
+    },
+    {
+      "text": "Which component stores energy in a hydraulic system?",
+      "type": "choice",
+      "choices": ["Accumulator", "Pump", "Cylinder", "Reservoir"],
+      "answer": 0
+    },
+    {
+      "text": "Which valve controls the direction of fluid flow?",
+      "type": "choice",
+      "choices": ["Directional control valve", "Check valve", "Relief valve", "Pressure switch"],
+      "answer": 0
+    },
+    {
+      "text": "Which system uses compressible fluid to operate?",
+      "type": "choice",
+      "choices": ["Pneumatic", "Hydraulic", "Electrical", "Mechanical"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Hydraulic systems can multiply force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pneumatics uses liquids to move actuators.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Hydraulic oil is incompressible.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one component of a hydraulic system.",
+      "type": "input",
+      "answer": ["pump", "cylinder", "valve", "accumulator", "reservoir"]
+    },
+    {
+      "text": "Give one advantage of pneumatic systems.",
+      "type": "input",
+      "answer": ["fast", "clean", "lightweight", "safe", "easy to control"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Polymers and Polymer Manufacturing",
+  "quiz": [
+    {
+      "text": "Which type of polymer can be reshaped when heated?",
+      "type": "choice",
+      "choices": ["Thermoplastic", "Thermosetting", "Elastomer", "Composite"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer is used for electrical insulation?",
+      "type": "choice",
+      "choices": ["PVC", "Polyethylene", "Silicone", "Nylon"],
+      "answer": 2
+    },
+    {
+      "text": "Which process involves shaping polymers using heat and pressure?",
+      "type": "choice",
+      "choices": ["Injection moulding", "Casting", "Forging", "Extrusion"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer is naturally occurring?",
+      "type": "choice",
+      "choices": ["Rubber", "Nylon", "Polypropylene", "Polycarbonate"],
+      "answer": 0
+    },
+    {
+      "text": "Which property is typical of thermosetting polymers?",
+      "type": "choice",
+      "choices": ["Cannot be remelted", "Flexible", "Transparent", "Soft when heated"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Thermoplastics can be remoulded multiple times.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thermosetting plastics can be reshaped when reheated.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Polymers are made of repeating monomers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one common polymer.",
+      "type": "input",
+      "answer": ["polyethylene", "PVC", "nylon", "polypropylene", "silicone"]
+    },
+    {
+      "text": "Give one method of polymer manufacturing.",
+      "type": "input",
+      "answer": ["injection moulding", "extrusion", "casting", "blow moulding"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Soldering & Brazing",
+  "quiz": [
+    {
+      "text": "Which temperature process uses a filler metal below the melting point of the base metal?",
+      "type": "choice",
+      "choices": ["Soldering", "Brazing", "Welding", "Casting"],
+      "answer": 0
+    },
+    {
+      "text": "Which process joins metals using a filler above the melting point of the base metals?",
+      "type": "choice",
+      "choices": ["Soldering", "Brazing", "Welding", "Adhesive bonding"],
+      "answer": 1
+    },
+    {
+      "text": "Which tool is essential for soldering?",
+      "type": "choice",
+      "choices": ["Soldering iron", "Hammer", "Drill", "Lathe"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is commonly used as solder?",
+      "type": "choice",
+      "choices": ["Tin", "Copper", "Aluminium", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "Which flux is used to clean metal surfaces before soldering?",
+      "type": "choice",
+      "choices": ["Rosin", "Water", "Oil", "Sand"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Brazing melts the base metal to join parts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Soldering is used for delicate electronic connections.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Flux prevents oxidation during soldering.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one advantage of soldering.",
+      "type": "input",
+      "answer": ["low temperature", "does not melt base metal", "good for electronics", "fast"]
+    },
+    {
+      "text": "Give one difference between soldering and brazing.",
+      "type": "input",
+      "answer": ["temperature used", "solder melts below base metal", "brazing uses higher temp", "strength of joint"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Tools & Equipment",
+  "quiz": [
+    {
+      "text": "Which tool is used to measure length accurately?",
+      "type": "choice",
+      "choices": ["Vernier caliper", "Hammer", "Screwdriver", "Lathe"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used for cutting sheet metal?",
+      "type": "choice",
+      "choices": ["Tin snips", "Chisel", "Drill", "File"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used to remove material from a workpiece?",
+      "type": "choice",
+      "choices": ["File", "Hammer", "Drill", "Screwdriver"],
+      "answer": 0
+    },
+    {
+      "text": "Which power tool is used to make holes?",
+      "type": "choice",
+      "choices": ["Drill", "Saw", "Lathe", "Grinder"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used to tighten or loosen screws?",
+      "type": "choice",
+      "choices": ["Screwdriver", "Pliers", "Wrench", "Hammer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A hammer is a measuring tool.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Pliers can grip and bend materials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A chisel is used to cut or shape material.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one hand tool.",
+      "type": "input",
+      "answer": ["hammer", "screwdriver", "pliers", "chisel", "file"]
+    },
+    {
+      "text": "Give one power tool.",
+      "type": "input",
+      "answer": ["drill", "saw", "grinder", "lathe", "sander"]
+    }
+  ]
+}
+]

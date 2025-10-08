@@ -1,0 +1,1420 @@
+[
+{
+  "subject": "Computer Science",
+  "topic": "Algorithms",
+  "quiz": [
+    {
+      "text": "What is an algorithm?",
+      "type": "choice",
+      "choices": [
+        "A step-by-step procedure to solve a problem",
+        "A programming language",
+        "A computer hardware component",
+        "A type of database"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is NOT a characteristic of a good algorithm?",
+      "type": "choice",
+      "choices": [
+        "Unambiguous",
+        "Finite",
+        "Complex",
+        "Effective"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "What does 'efficiency' in algorithms typically refer to?",
+      "type": "choice",
+      "choices": [
+        "Time and space complexity",
+        "Number of errors",
+        "Length of code",
+        "Programming language used"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which algorithm technique involves breaking a problem into smaller subproblems?",
+      "type": "choice",
+      "choices": [
+        "Divide and conquer",
+        "Brute force",
+        "Backtracking",
+        "Greedy method"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What is the output of an algorithm?",
+      "type": "choice",
+      "choices": [
+        "The result produced after execution",
+        "The input data",
+        "The code itself",
+        "The programming language"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An algorithm must always terminate after a finite number of steps.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Algorithms can be written in natural language.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: An algorithm’s correctness means it produces the correct output for all inputs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to represent an algorithm.",
+      "type": "input",
+      "answer": ["flowchart", "pseudocode", "natural language", "diagram"]
+    },
+    {
+      "text": "What is a 'loop' in an algorithm?",
+      "type": "input",
+      "answer": ["a set of instructions repeated", "iteration", "repetition"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Communication Protocols",
+  "quiz": [
+    {
+      "text": "What is a communication protocol?",
+      "type": "choice",
+      "choices": [
+        "A set of rules for data exchange",
+        "A type of computer virus",
+        "A programming language",
+        "A hardware device"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which protocol is commonly used for sending emails?",
+      "type": "choice",
+      "choices": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "TCP"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What does TCP stand for?",
+      "type": "choice",
+      "choices": [
+        "Transmission Control Protocol",
+        "Total Control Program",
+        "Transfer Communication Process",
+        "Timed Control Procedure"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which protocol is used to transfer files between computers?",
+      "type": "choice",
+      "choices": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "IP"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What layer of the OSI model does IP operate at?",
+      "type": "choice",
+      "choices": [
+        "Network layer",
+        "Physical layer",
+        "Application layer",
+        "Transport layer"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Protocols ensure data is transmitted correctly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: HTTP is used for secure communication.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Protocols can be software or hardware based.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a protocol used for secure internet communication.",
+      "type": "input",
+      "answer": ["https", "ssl", "tls"]
+    },
+    {
+      "text": "What is the purpose of a handshake in communication protocols?",
+      "type": "input",
+      "answer": ["to establish connection", "connection setup", "synchronize sender and receiver"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Communication Protocols, World Wide Web and The Internet",
+  "quiz": [
+    {
+      "text": "What does URL stand for?",
+      "type": "choice",
+      "choices": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Retrieval Link", "Unified Resource Locator"],
+      "answer": 0
+    },
+    {
+      "text": "Which protocol is primarily used to view web pages?",
+      "type": "choice",
+      "choices": ["HTTP", "FTP", "SMTP", "TCP"],
+      "answer": 0
+    },
+    {
+      "text": "What does DNS stand for?",
+      "type": "choice",
+      "choices": ["Domain Name System", "Data Network Service", "Direct Name Server", "Domain Number System"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of DNS?",
+      "type": "choice",
+      "choices": ["To translate domain names to IP addresses", "To store web pages", "To send emails", "To host websites"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is NOT a common internet service?",
+      "type": "choice",
+      "choices": ["FTP", "HTTP", "SMTP", "LCD"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: The World Wide Web and the Internet are the same thing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: HTTP is an unsecured protocol.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: HTTPS encrypts data sent between client and server.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one web browser.",
+      "type": "input",
+      "answer": ["chrome", "firefox", "edge", "safari"]
+    },
+    {
+      "text": "What is an IP address used for?",
+      "type": "input",
+      "answer": ["identifying devices on a network", "device address", "network identification"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Computer Systems",
+  "quiz": [
+    {
+      "text": "What is the central processing unit (CPU) often called?",
+      "type": "choice",
+      "choices": ["The brain of the computer", "Memory", "Storage device", "Input device"],
+      "answer": 0
+    },
+    {
+      "text": "Which component stores data temporarily while the computer is on?",
+      "type": "choice",
+      "choices": ["RAM", "Hard Drive", "ROM", "CPU"],
+      "answer": 0
+    },
+    {
+      "text": "What does ROM stand for?",
+      "type": "choice",
+      "choices": ["Read Only Memory", "Random Operating Memory", "Rapid Output Memory", "Read Operation Module"],
+      "answer": 0
+    },
+    {
+      "text": "Which device is used to permanently store data?",
+      "type": "choice",
+      "choices": ["Hard Drive", "RAM", "CPU", "Cache"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the computer executes instructions?",
+      "type": "choice",
+      "choices": ["CPU", "Monitor", "Keyboard", "Printer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: RAM loses data when the computer is turned off.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The hard drive is volatile memory.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The CPU contains the ALU (Arithmetic Logic Unit).",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of input device.",
+      "type": "input",
+      "answer": ["keyboard", "mouse", "scanner", "microphone"]
+    },
+    {
+      "text": "What is the purpose of cache memory?",
+      "type": "input",
+      "answer": ["to store frequently used data", "speed up processing", "temporary storage"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Databases",
+  "quiz": [
+    {
+      "text": "What is a database?",
+      "type": "choice",
+      "choices": [
+        "An organized collection of data",
+        "A programming language",
+        "A type of hardware",
+        "A software virus"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a database management system (DBMS)?",
+      "type": "choice",
+      "choices": [
+        "MySQL",
+        "HTML",
+        "CSS",
+        "HTTP"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What does SQL stand for?",
+      "type": "choice",
+      "choices": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Sequential Query Language",
+        "Standard Query List"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which command is used to retrieve data from a database?",
+      "type": "choice",
+      "choices": [
+        "SELECT",
+        "INSERT",
+        "DELETE",
+        "UPDATE"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What is a primary key?",
+      "type": "choice",
+      "choices": [
+        "A unique identifier for each record",
+        "A password to access the database",
+        "A type of data",
+        "A foreign key"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A foreign key links two tables together.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Databases store data in tables.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: SQL can modify data in a database.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of database.",
+      "type": "input",
+      "answer": ["relational", "nosql", "hierarchical"]
+    },
+    {
+      "text": "What is a query?",
+      "type": "input",
+      "answer": ["a request for data", "data retrieval command", "search command"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Embedded Systems",
+  "quiz": [
+    {
+      "text": "What is an embedded system?",
+      "type": "choice",
+      "choices": [
+        "A computer system built into a larger device",
+        "A standalone desktop computer",
+        "A type of software",
+        "A network device"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of an embedded system?",
+      "type": "choice",
+      "choices": [
+        "Microwave oven",
+        "Laptop",
+        "Smartphone",
+        "Tablet"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Embedded systems typically have:",
+      "type": "choice",
+      "choices": [
+        "Limited resources and dedicated functions",
+        "Unlimited resources and multitasking",
+        "High power consumption",
+        "General purpose design"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which processor type is commonly used in embedded systems?",
+      "type": "choice",
+      "choices": [
+        "Microcontroller",
+        "CPU",
+        "GPU",
+        "FPGA"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Embedded systems are usually designed to:",
+      "type": "choice",
+      "choices": [
+        "Perform specific control tasks",
+        "Run general applications",
+        "Store large files",
+        "Browse the internet"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Embedded systems always require user interaction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Embedded systems are found in cars.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Embedded systems use real-time operating systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of an embedded system.",
+      "type": "input",
+      "answer": ["microwave oven", "car engine control", "traffic light", "washing machine"]
+    },
+    {
+      "text": "What is a microcontroller?",
+      "type": "input",
+      "answer": ["a small computer on a single chip", "integrated processor"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "History of Computing",
+  "quiz": [
+    {
+      "text": "Who is known as the father of the computer?",
+      "type": "choice",
+      "choices": ["Charles Babbage", "Alan Turing", "John von Neumann", "Bill Gates"],
+      "answer": 0
+    },
+    {
+      "text": "What was the name of the first programmable computer?",
+      "type": "choice",
+      "choices": ["ENIAC", "UNIVAC", "Colossus", "Analytical Engine"],
+      "answer": 3
+    },
+    {
+      "text": "When was the first electronic computer built?",
+      "type": "choice",
+      "choices": ["1940s", "1950s", "1960s", "1930s"],
+      "answer": 0
+    },
+    {
+      "text": "What language did Alan Turing help develop?",
+      "type": "choice",
+      "choices": ["Turing Machine concept", "Java", "Python", "C++"],
+      "answer": 0
+    },
+    {
+      "text": "Who co-founded Microsoft?",
+      "type": "choice",
+      "choices": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Larry Page"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The internet was invented in the 1960s.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The first computer used vacuum tubes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ada Lovelace wrote the first computer algorithm.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one early computer pioneer.",
+      "type": "input",
+      "answer": ["charles babbage", "alan turing", "ada lovelace", "john von neumann"]
+    },
+    {
+      "text": "What is the significance of the ENIAC?",
+      "type": "input",
+      "answer": ["first electronic general-purpose computer", "early programmable computer"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "JavaScript",
+  "quiz": [
+    {
+      "text": "What type of language is JavaScript?",
+      "type": "choice",
+      "choices": [
+        "Scripting language",
+        "Markup language",
+        "Programming language",
+        "Query language"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which symbol is used to comment a single line in JavaScript?",
+      "type": "choice",
+      "choices": [
+        "//",
+        "/*",
+        "#",
+        "<!--"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What does 'var' declare in JavaScript?",
+      "type": "choice",
+      "choices": [
+        "A variable",
+        "A function",
+        "A constant",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which method is used to print output to the console?",
+      "type": "choice",
+      "choices": [
+        "console.log()",
+        "print()",
+        "echo()",
+        "console.print()"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which keyword is used to create a function in JavaScript?",
+      "type": "choice",
+      "choices": [
+        "function",
+        "func",
+        "def",
+        "method"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: JavaScript can only be run on web browsers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: JavaScript is case-sensitive.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: JavaScript is used for both client-side and server-side programming.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one data type in JavaScript.",
+      "type": "input",
+      "answer": ["string", "number", "boolean", "object", "undefined", "null"]
+    },
+    {
+      "text": "What is the correct syntax to create a variable in JavaScript?",
+      "type": "input",
+      "answer": ["var x;", "let x;", "const x;"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Logic Gates",
+  "quiz": [
+    {
+      "text": "What does an AND gate output when both inputs are 1?",
+      "type": "choice",
+      "choices": ["1", "0", "Depends", "Error"],
+      "answer": 0
+    },
+    {
+      "text": "Which logic gate outputs 1 if at least one input is 1?",
+      "type": "choice",
+      "choices": ["OR", "AND", "NOT", "NAND"],
+      "answer": 0
+    },
+    {
+      "text": "What is the output of a NOT gate when input is 0?",
+      "type": "choice",
+      "choices": ["1", "0", "Same as input", "Error"],
+      "answer": 0
+    },
+    {
+      "text": "Which gate outputs 0 only when all inputs are 1?",
+      "type": "choice",
+      "choices": ["NAND", "NOR", "AND", "OR"],
+      "answer": 0
+    },
+    {
+      "text": "Which gate outputs 1 only when all inputs are 0?",
+      "type": "choice",
+      "choices": ["NOR", "NAND", "AND", "OR"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The AND gate output is 0 if any input is 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The OR gate outputs 1 only when both inputs are 1.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The NOT gate inverts the input.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one basic logic gate.",
+      "type": "input",
+      "answer": ["and", "or", "not", "nand", "nor", "xor", "xnor"]
+    },
+    {
+      "text": "What is the symbol for the NOT gate?",
+      "type": "input",
+      "answer": ["triangle with circle", "inverter symbol"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Machine Learning and Artificial Intelligence",
+  "quiz": [
+    {
+      "text": "What is Artificial Intelligence (AI)?",
+      "type": "choice",
+      "choices": [
+        "The simulation of human intelligence by machines",
+        "A type of computer virus",
+        "A programming language",
+        "A database system"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of machine learning?",
+      "type": "choice",
+      "choices": [
+        "Spam email filtering",
+        "Manual data entry",
+        "Typing a document",
+        "Browsing the internet"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What does supervised learning require?",
+      "type": "choice",
+      "choices": [
+        "Labeled data",
+        "Unlabeled data",
+        "Random data",
+        "No data"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which AI technique is used to recognize patterns?",
+      "type": "choice",
+      "choices": [
+        "Neural networks",
+        "Databases",
+        "HTML",
+        "Compilers"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What is a common use of AI in everyday life?",
+      "type": "choice",
+      "choices": [
+        "Voice assistants like Siri or Alexa",
+        "Manual typing",
+        "Printing documents",
+        "Watching videos"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: AI can learn from data without being explicitly programmed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Machine learning is a subset of AI.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: AI and machine learning are the same thing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one application of AI.",
+      "type": "input",
+      "answer": ["voice assistant", "image recognition", "spam filtering", "chatbots"]
+    },
+    {
+      "text": "What does supervised learning use to train models?",
+      "type": "input",
+      "answer": ["labeled data", "training data"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Modelling and Simulation",
+  "quiz": [
+    {
+      "text": "What is a model in computer science?",
+      "type": "choice",
+      "choices": [
+        "A simplified representation of a system",
+        "A type of programming language",
+        "A software bug",
+        "An input device"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Simulation is used to:",
+      "type": "choice",
+      "choices": [
+        "Imitate real-world processes",
+        "Write code",
+        "Store data",
+        "Design websites"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of a simulation?",
+      "type": "choice",
+      "choices": [
+        "Flight simulator",
+        "Word processor",
+        "Calculator",
+        "Database"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Modelling helps in:",
+      "type": "choice",
+      "choices": [
+        "Predicting system behavior",
+        "Creating viruses",
+        "Editing images",
+        "Playing games"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Simulations are often used in:",
+      "type": "choice",
+      "choices": [
+        "Training and testing",
+        "Printing documents",
+        "Browsing the web",
+        "Listening to music"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A model always perfectly represents the real system.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Simulation can help in understanding complex systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Modelling and simulation are only used in gaming.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one field where simulation is commonly used.",
+      "type": "input",
+      "answer": ["aviation", "medicine", "engineering", "military"]
+    },
+    {
+      "text": "What is the purpose of modelling?",
+      "type": "input",
+      "answer": ["to simplify reality", "to represent a system"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Python",
+  "quiz": [
+    {
+      "text": "Which symbol is used to start a comment in Python?",
+      "type": "choice",
+      "choices": ["#", "//", "/*", "<!--"],
+      "answer": 0
+    },
+    {
+      "text": "What is the correct file extension for Python files?",
+      "type": "choice",
+      "choices": [".py", ".java", ".js", ".txt"],
+      "answer": 0
+    },
+    {
+      "text": "How do you print output in Python?",
+      "type": "choice",
+      "choices": ["print()", "echo()", "console.log()", "printf()"],
+      "answer": 0
+    },
+    {
+      "text": "Which data type is used to store text in Python?",
+      "type": "choice",
+      "choices": ["string", "int", "float", "bool"],
+      "answer": 0
+    },
+    {
+      "text": "How do you define a function in Python?",
+      "type": "choice",
+      "choices": ["def", "function", "fun", "define"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Python is case-sensitive.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Indentation is important in Python.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Python is mainly used for web design.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one Python data type.",
+      "type": "input",
+      "answer": ["string", "int", "float", "bool", "list", "dict"]
+    },
+    {
+      "text": "How do you start a for loop in Python?",
+      "type": "input",
+      "answer": ["for", "for i in range", "for loop"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "User Experience and User Interface",
+  "quiz": [
+    {
+      "text": "What does UI stand for?",
+      "type": "choice",
+      "choices": [
+        "User Interface",
+        "Universal Internet",
+        "Unified Integration",
+        "User Interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What is the main goal of UX design?",
+      "type": "choice",
+      "choices": [
+        "Improve user satisfaction",
+        "Write code",
+        "Design logos",
+        "Develop hardware"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of UI element?",
+      "type": "choice",
+      "choices": [
+        "Button",
+        "Database",
+        "Server",
+        "Algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Good UX design focuses on:",
+      "type": "choice",
+      "choices": [
+        "Usability and accessibility",
+        "Fast coding",
+        "Complex animations",
+        "Hardware design"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is often used to create UI designs?",
+      "type": "choice",
+      "choices": [
+        "Sketch",
+        "Excel",
+        "Python",
+        "MySQL"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "True or false: UX only deals with how a product looks.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Accessibility means making a product usable by everyone.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: UI design includes layout and visual design.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one principle of good UX design.",
+      "type": "input",
+      "answer": ["usability", "accessibility", "consistency", "feedback"]
+    },
+    {
+      "text": "What is the purpose of a wireframe in UI design?",
+      "type": "input",
+      "answer": ["layout plan", "prototype", "design sketch"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Computers and Society",
+  "quiz": [
+    {
+      "text": "Which of the following is a positive impact of computers on society?",
+      "type": "choice",
+      "choices": ["Improved communication", "Increased cybercrime", "Job displacement", "Digital addiction"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a negative impact of computers on society?",
+      "type": "choice",
+      "choices": ["Cybersecurity threats", "Faster data processing", "Remote learning", "Improved healthcare"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following helps protect privacy online?",
+      "type": "choice",
+      "choices": ["Encryption", "Sharing passwords", "Clicking unknown links", "Using weak passwords"],
+      "answer": 0
+    },
+    {
+      "text": "Digital divide refers to:",
+      "type": "choice",
+      "choices": ["Unequal access to technology", "Equal distribution of computers", "Faster internet connections", "Computer hardware failures"],
+      "answer": 0
+    },
+    {
+      "text": "Which legislation helps protect personal data online?",
+      "type": "choice",
+      "choices": ["GDPR", "HTTP", "TCP", "HTML"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Computers have no impact on employment trends.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Social media can affect mental health.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All computer use is beneficial to society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a positive societal effect of computers.",
+      "type": "input",
+      "answer": ["online learning", "telemedicine", "improved communication", "automation of tasks"]
+    },
+    {
+      "text": "Name one way computers can negatively impact society.",
+      "type": "input",
+      "answer": ["cybercrime", "job loss", "digital addiction", "privacy breaches"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Data Analysis",
+  "quiz": [
+    {
+      "text": "What is the first step in data analysis?",
+      "type": "choice",
+      "choices": ["Collecting data", "Drawing conclusions", "Reporting results", "Deleting data"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a method of data representation?",
+      "type": "choice",
+      "choices": ["Charts and graphs", "Programming languages", "Operating systems", "Communication protocols"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of chart is best for showing proportions of a whole?",
+      "type": "choice",
+      "choices": ["Pie chart", "Line graph", "Histogram", "Scatter plot"],
+      "answer": 0
+    },
+    {
+      "text": "What does outlier mean in data analysis?",
+      "type": "choice",
+      "choices": ["A value far from other data points", "The most frequent value", "The average of data", "Data with missing values"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure indicates the spread of data?",
+      "type": "choice",
+      "choices": ["Standard deviation", "Mean", "Mode", "Median"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Data analysis only involves collecting data.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Visualization helps in understanding data trends.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Outliers should always be removed from data sets.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of data visualization.",
+      "type": "input",
+      "answer": ["bar chart", "pie chart", "line graph", "scatter plot"]
+    },
+    {
+      "text": "Name one method to summarize large data sets.",
+      "type": "input",
+      "answer": ["mean", "median", "mode", "frequency table"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Data Representation",
+  "quiz": [
+    {
+      "text": "Which system represents data using only 0s and 1s?",
+      "type": "choice",
+      "choices": ["Binary", "Decimal", "Octal", "Hexadecimal"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit is used to measure digital data?",
+      "type": "choice",
+      "choices": ["Byte", "Meter", "Liter", "Newton"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of lossless compression?",
+      "type": "choice",
+      "choices": ["ZIP", "MP3", "JPEG", "MPEG"],
+      "answer": 0
+    },
+    {
+      "text": "Which representation stores characters as numbers?",
+      "type": "choice",
+      "choices": ["ASCII", "Binary search", "TCP", "HTML"],
+      "answer": 0
+    },
+    {
+      "text": "Which data type is suitable for True/False values?",
+      "type": "choice",
+      "choices": ["Boolean", "Integer", "Character", "Float"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Analog data can take any value within a range.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Digital data is continuous.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Hexadecimal uses 16 symbols.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a data type.",
+      "type": "input",
+      "answer": ["integer", "float", "boolean", "character"]
+    },
+    {
+      "text": "Name one way to compress data without losing information.",
+      "type": "input",
+      "answer": ["lossless compression", "ZIP", "run-length encoding", "Huffman coding"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Digital and Analogue Input",
+  "quiz": [
+    {
+      "text": "Which input type can only take discrete values?",
+      "type": "choice",
+      "choices": ["Digital", "Analogue", "Continuous", "Voltage"],
+      "answer": 0
+    },
+    {
+      "text": "Which input type can take any value within a range?",
+      "type": "choice",
+      "choices": ["Analogue", "Digital", "Boolean", "Binary"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts analogue signals to digital?",
+      "type": "choice",
+      "choices": ["ADC (Analogue to Digital Converter)", "DAC", "CPU", "GPU"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts digital signals to analogue?",
+      "type": "choice",
+      "choices": ["DAC (Digital to Analogue Converter)", "ADC", "Router", "Monitor"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of a digital input device?",
+      "type": "choice",
+      "choices": ["Keyboard", "Microphone", "Thermistor", "Photocell"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Analogue signals are continuous.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Digital input can only represent a limited number of values.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ADC converts digital signals into analogue form.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of an analogue input device.",
+      "type": "input",
+      "answer": ["thermistor", "microphone", "photocell", "potentiometer"]
+    },
+    {
+      "text": "Name one device that converts analogue to digital signals.",
+      "type": "input",
+      "answer": ["ADC", "Analogue to Digital Converter"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "HTML/CSS",
+  "quiz": [
+    {
+      "text": "Which HTML tag is used to create a hyperlink?",
+      "type": "choice",
+      "choices": ["<a>", "<p>", "<div>", "<span>"],
+      "answer": 0
+    },
+    {
+      "text": "Which CSS property changes the background color of an element?",
+      "type": "choice",
+      "choices": ["background-color", "color", "font-size", "margin"],
+      "answer": 0
+    },
+    {
+      "text": "Which HTML tag is used for an unordered list?",
+      "type": "choice",
+      "choices": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "answer": 0
+    },
+    {
+      "text": "Which CSS property changes the text color?",
+      "type": "choice",
+      "choices": ["color", "background-color", "border", "padding"],
+      "answer": 0
+    },
+    {
+      "text": "Which attribute is used to link a CSS file to an HTML file?",
+      "type": "choice",
+      "choices": ["href", "src", "alt", "id"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The <div> tag is used to define a section or division in HTML.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CSS can only be applied externally.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: <h1> defines the largest heading in HTML.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of an HTML form element.",
+      "type": "input",
+      "answer": ["input", "textarea", "select", "button"]
+    },
+    {
+      "text": "Name one CSS property that affects spacing around elements.",
+      "type": "input",
+      "answer": ["margin", "padding", "border-spacing"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Pseudocode and Flowcharts",
+  "quiz": [
+    {
+      "text": "Which symbol is used to represent a process in a flowchart?",
+      "type": "choice",
+      "choices": ["Oval", "Rectangle", "Diamond", "Parallelogram"],
+      "answer": 1
+    },
+    {
+      "text": "Which symbol represents a decision in a flowchart?",
+      "type": "choice",
+      "choices": ["Diamond", "Rectangle", "Circle", "Parallelogram"],
+      "answer": 0
+    },
+    {
+      "text": "In pseudocode, which keyword is used to start a loop?",
+      "type": "choice",
+      "choices": ["FOR", "IF", "INPUT", "OUTPUT"],
+      "answer": 0
+    },
+    {
+      "text": "What symbol is used for input/output in a flowchart?",
+      "type": "choice",
+      "choices": ["Parallelogram", "Rectangle", "Diamond", "Oval"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Flowcharts can only be used for computer programs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Pseudocode is written in a programming language.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Diamonds in flowcharts represent decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "In pseudocode, which keyword would you use to take user input?",
+      "type": "input",
+      "answer": ["INPUT", "input", "read", "get"]
+    },
+    {
+      "text": "Name one advantage of using flowcharts.",
+      "type": "input",
+      "answer": ["visual representation", "easy to understand", "planning", "clarity"]
+    },
+    {
+      "text": "What keyword is commonly used to end a loop in pseudocode?",
+      "type": "input",
+      "answer": ["END FOR", "END", "NEXT", "END LOOP"]
+    }
+  ]
+},
+{
+  "subject": "Computer Science",
+  "topic": "Software Design and Development",
+  "quiz": [
+    {
+      "text": "Which phase of software development involves gathering requirements?",
+      "type": "choice",
+      "choices": ["Design", "Implementation", "Analysis", "Testing"],
+      "answer": 2
+    },
+    {
+      "text": "Which model of software development is iterative and incremental?",
+      "type": "choice",
+      "choices": ["Waterfall", "Spiral", "V-Model", "Big Bang"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of testing is done by the developers before releasing software?",
+      "type": "choice",
+      "choices": ["Unit Testing", "Acceptance Testing", "Beta Testing", "System Testing"],
+      "answer": 0
+    },
+    {
+      "text": "Which software development phase produces flowcharts and pseudocode?",
+      "type": "choice",
+      "choices": ["Design", "Analysis", "Implementation", "Testing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Agile methodology is more flexible than the Waterfall model.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Software maintenance occurs only when new features are added.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Prototyping helps users understand the software before it is completed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one advantage of modular programming.",
+      "type": "input",
+      "answer": ["reusability", "easier debugging", "maintainability", "clarity"]
+    },
+    {
+      "text": "Give one example of a software testing type.",
+      "type": "input",
+      "answer": ["unit testing", "integration testing", "system testing", "acceptance testing"]
+    },
+    {
+      "text": "What is the final phase of the software development lifecycle called?",
+      "type": "input",
+      "answer": ["maintenance", "deployment", "implementation", "support"]
+    }
+  ]
+}
+]

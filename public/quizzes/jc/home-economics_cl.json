@@ -1,0 +1,1465 @@
+[
+{
+  "subject": "Home Economics",
+  "topic": "Consumers",
+  "quiz": [
+    {
+      "text": "Which of the following is a consumer right?",
+      "type": "choice",
+      "choices": ["Right to education", "Right to safety", "Right to vote", "Right to marriage"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Consumers are only individuals, not groups or organizations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What term describes someone who buys and uses goods or services?",
+      "type": "input",
+      "answer": ["consumer", "customer", "buyer"]
+    },
+    {
+      "text": "True or false: A consumer can complain if a product is faulty.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organization protects consumer rights in Ireland?",
+      "type": "choice",
+      "choices": ["EPA", "CCPC", "HSE", "FSAI"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Advertising can influence consumer decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is a consumer responsibility?",
+      "type": "choice",
+      "choices": ["Throwing products away", "Comparing prices before buying", "Breaking the law", "Ignoring labels"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for false or misleading information about a product.",
+      "type": "input",
+      "answer": ["misleading advertising", "false advertising"]
+    },
+    {
+      "text": "Which right allows consumers to choose between products?",
+      "type": "choice",
+      "choices": ["Right to choice", "Right to safety", "Right to information", "Right to complain"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a complaint made by a consumer about a product or service.",
+      "type": "input",
+      "answer": ["consumer complaint", "complaint"]
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Cooking Food",
+  "quiz": [
+    {
+      "text": "Which of these is a dry heat cooking method?",
+      "type": "choice",
+      "choices": ["Boiling", "Steaming", "Roasting", "Poaching"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Boiling cooks food by surrounding it with hot water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which vitamin is most likely lost during overcooking?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin B1 (Thiamine)", "Vitamin D", "Vitamin K"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Frying is a method of cooking food using fat or oil.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which method uses water vapour to cook food?",
+      "type": "choice",
+      "choices": ["Grilling", "Steaming", "Baking", "Roasting"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Cooking destroys all bacteria in food instantly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which method is suitable for tender cuts of meat?",
+      "type": "choice",
+      "choices": ["Stewing", "Braising", "Grilling", "Simmering"],
+      "answer": 2
+    },
+    {
+      "text": "Type the term for cooking food slowly in liquid at low temperature.",
+      "type": "input",
+      "answer": ["simmering", "stewing", "slow cooking"]
+    },
+    {
+      "text": "Type the method of cooking food in the oven using dry heat.",
+      "type": "input",
+      "answer": ["baking", "roasting"]
+    },
+    {
+      "text": "Which cooking method is healthiest for vegetables?",
+      "type": "choice",
+      "choices": ["Deep frying", "Steaming", "Boiling until soft", "Roasting with oil"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Digestion",
+  "quiz": [
+    {
+      "text": "Where does digestion begin in the human body?",
+      "type": "choice",
+      "choices": ["Stomach", "Mouth", "Small intestine", "Esophagus"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The stomach produces acid to help break down food.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organ absorbs most nutrients from food?",
+      "type": "choice",
+      "choices": ["Large intestine", "Small intestine", "Liver", "Pancreas"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Enzymes help speed up the digestion process.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organ produces bile to help digest fats?",
+      "type": "choice",
+      "choices": ["Liver", "Pancreas", "Gallbladder", "Stomach"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Digestion in the large intestine mainly involves chemical breakdown of proteins.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which part of the digestive system stores undigested food before elimination?",
+      "type": "choice",
+      "choices": ["Small intestine", "Large intestine", "Rectum", "Esophagus"],
+      "answer": 2
+    },
+    {
+      "text": "Type the enzyme in saliva that begins starch digestion.",
+      "type": "input",
+      "answer": ["amylase", "salivary amylase"]
+    },
+    {
+      "text": "Type the term for the muscular movement that pushes food through the digestive system.",
+      "type": "input",
+      "answer": ["peristalsis"]
+    },
+    {
+      "text": "Which organ produces enzymes for digestion but is not part of the digestive tract?",
+      "type": "choice",
+      "choices": ["Liver", "Pancreas", "Stomach", "Mouth"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Fashion & Clothes",
+  "quiz": [
+    {
+      "text": "Which fibre is natural and comes from sheep?",
+      "type": "choice",
+      "choices": ["Cotton", "Wool", "Polyester", "Silk"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Polyester is a synthetic fibre.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is a basic clothing care tip?",
+      "type": "choice",
+      "choices": ["Iron all clothes daily", "Follow washing labels", "Dry clean everything", "Use bleach on all fabrics"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Silk is strong and resistant to moisture.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which clothing item is designed to fit closely and show body shape?",
+      "type": "choice",
+      "choices": ["Loose fit", "Slim fit", "Baggy", "Oversized"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Fashion trends never repeat over time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which fibre comes from plants?",
+      "type": "choice",
+      "choices": ["Wool", "Cotton", "Silk", "Nylon"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for the label showing fibre content and washing instructions.",
+      "type": "input",
+      "answer": ["care label", "washing label"]
+    },
+    {
+      "text": "Type the fibre obtained from silkworms.",
+      "type": "input",
+      "answer": ["silk"]
+    },
+    {
+      "text": "Which clothing fibre is commonly used for sportswear due to its durability and stretch?",
+      "type": "choice",
+      "choices": ["Cotton", "Polyester", "Wool", "Silk"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Food Choices, Packaging and Labelling",
+  "quiz": [
+    {
+      "text": "Which factor influences a person’s food choice the most?",
+      "type": "choice",
+      "choices": ["Price", "Taste", "Advertising", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Nutritional labels help consumers make healthier choices.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of food packaging is most environmentally friendly?",
+      "type": "choice",
+      "choices": ["Plastic", "Glass", "Metal", "All are equal"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Expiry dates indicate when a food becomes unsafe to eat.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which label shows the ingredients of a food product?",
+      "type": "choice",
+      "choices": ["Nutrition label", "Ingredient list", "Allergy warning", "Barcode"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Packaging only protects food and has no impact on marketing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which factor can affect a consumer’s food choice due to personal beliefs?",
+      "type": "choice",
+      "choices": ["Religion", "Price", "Advertising", "Color of packaging"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the label showing nutrients like fat, sugar, and protein.",
+      "type": "input",
+      "answer": ["nutrition label", "nutritional information"]
+    },
+    {
+      "text": "Type the term for labels that warn consumers about allergens in food.",
+      "type": "input",
+      "answer": ["allergy warning", "allergen label"]
+    },
+    {
+      "text": "Which of these factors affects food choice the least?",
+      "type": "choice",
+      "choices": ["Taste", "Brand", "Packaging color", "Height of consumer"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Food Safety & Hygiene",
+  "quiz": [
+    {
+      "text": "Which temperature range is called the 'danger zone' for bacterial growth?",
+      "type": "choice",
+      "choices": ["0–5°C", "5–60°C", "60–100°C", "Above 100°C"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Hand washing is the most important step in preventing foodborne illness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which practice prevents cross-contamination?",
+      "type": "choice",
+      "choices": ["Using same knife for raw meat and vegetables", "Washing hands and surfaces", "Leaving food out at room temperature", "Storing cooked food with raw meat"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Cooking food thoroughly kills most harmful bacteria.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which method safely thaws frozen meat?",
+      "type": "choice",
+      "choices": ["On the kitchen counter", "In the fridge", "In warm water", "Under direct sunlight"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Food can be stored safely in any container regardless of cleanliness.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which cleaning agent is recommended for kitchen surfaces?",
+      "type": "choice",
+      "choices": ["Soap and water", "Bleach solution", "Water only", "Oil"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for illness caused by consuming contaminated food.",
+      "type": "input",
+      "answer": ["food poisoning", "foodborne illness"]
+    },
+    {
+      "text": "Type the term for microorganisms that can make food unsafe to eat.",
+      "type": "input",
+      "answer": ["bacteria", "pathogens"]
+    },
+    {
+      "text": "Which of these is NOT a good food hygiene practice?",
+      "type": "choice",
+      "choices": ["Washing hands before handling food", "Separating raw and cooked food", "Using clean utensils", "Using the same cutting board for raw chicken and salad without washing"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Foods",
+  "quiz": [
+    {
+      "text": "Which nutrient is the main source of energy for the body?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Fat", "Vitamin C"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Fat-soluble vitamins include A, D, E, and K.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which mineral is important for healthy bones and teeth?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Sodium", "Zinc"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Protein is mainly used to build and repair tissues.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which vitamin is found in citrus fruits and helps prevent scurvy?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Carbohydrates are only found in sugary foods.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which nutrient helps in transporting oxygen in the blood?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Magnesium", "Potassium"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for nutrients that are required in small amounts for body functions.",
+      "type": "input",
+      "answer": ["vitamins", "minerals", "micronutrients"]
+    },
+    {
+      "text": "Type the nutrient that is the main component of muscle tissue.",
+      "type": "input",
+      "answer": ["protein", "proteins"]
+    },
+    {
+      "text": "Which type of fat is considered unhealthy?",
+      "type": "choice",
+      "choices": ["Saturated fat", "Unsaturated fat", "Omega-3", "Polyunsaturated fat"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Health and Wellbeing",
+  "quiz": [
+    {
+      "text": "True or false: Regular exercise improves mental health as well as physical health.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which nutrient is important for maintaining healthy skin and hair?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sleep has no impact on overall wellbeing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which activity is part of a healthy lifestyle?",
+      "type": "choice",
+      "choices": ["Smoking", "Regular exercise", "Skipping meals", "Excessive drinking"],
+      "answer": 1
+    },
+    {
+      "text": "Which mineral is important for strong bones and teeth?",
+      "type": "choice",
+      "choices": ["Calcium", "Iron", "Sodium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Stress management techniques can improve wellbeing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which vitamin is produced when skin is exposed to sunlight?",
+      "type": "choice",
+      "choices": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin A"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for activities that maintain or improve physical health.",
+      "type": "input",
+      "answer": ["exercise", "physical activity", "workouts"]
+    },
+    {
+      "text": "Type the term for the mental and emotional state of being healthy and balanced.",
+      "type": "input",
+      "answer": ["wellbeing", "well-being", "mental health"]
+    },
+    {
+      "text": "Which of the following is harmful to health if consumed excessively?",
+      "type": "choice",
+      "choices": ["Water", "Sugar", "Fiber", "Protein"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Home Baking",
+  "quiz": [
+    {
+      "text": "Which ingredient is used as a raising agent in baking?",
+      "type": "choice",
+      "choices": ["Sugar", "Salt", "Baking powder", "Butter"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Yeast is a type of biological raising agent.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fat is commonly used for making flaky pastry?",
+      "type": "choice",
+      "choices": ["Butter", "Margarine", "Lard", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Overmixing batter can make baked goods tough.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which sugar is often sprinkled on top of baked goods for decoration?",
+      "type": "choice",
+      "choices": ["Granulated sugar", "Caster sugar", "Icing sugar", "Brown sugar"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Baking soda requires an acid to activate it.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which flour type is best for making bread?",
+      "type": "choice",
+      "choices": ["Plain flour", "Self-raising flour", "Strong bread flour", "Cornflour"],
+      "answer": 2
+    },
+    {
+      "text": "Type the process of gently folding air into egg whites.",
+      "type": "input",
+      "answer": ["whisking", "folding", "beating"]
+    },
+    {
+      "text": "Type the term for cooking baked goods in an oven using dry heat.",
+      "type": "input",
+      "answer": ["baking"]
+    },
+    {
+      "text": "Which ingredient gives sweetness and helps in browning baked goods?",
+      "type": "choice",
+      "choices": ["Salt", "Sugar", "Flour", "Yeast"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Home Hygiene & Safety",
+  "quiz": [
+    {
+      "text": "True or false: Regular cleaning of surfaces prevents the spread of germs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which practice reduces the risk of fire at home?",
+      "type": "choice",
+      "choices": ["Leaving candles unattended", "Checking electrical appliances", "Overloading sockets", "Smoking indoors"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Food and chemicals should be stored together for convenience.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is a safe way to prevent slips and falls?",
+      "type": "choice",
+      "choices": ["Leaving spills on the floor", "Using non-slip mats", "Running indoors", "Wearing loose shoes"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Smoke alarms should be tested regularly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which household item can be used to disinfect surfaces?",
+      "type": "choice",
+      "choices": ["Bleach", "Sugar", "Salt", "Flour"],
+      "answer": 0
+    },
+    {
+      "text": "Which safety precaution is important when using electrical appliances?",
+      "type": "choice",
+      "choices": ["Keeping them away from water", "Plugging in multiple devices", "Touching with wet hands", "Covering them with cloths"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for germs that can cause disease.",
+      "type": "input",
+      "answer": ["pathogens", "microbes", "bacteria"]
+    },
+    {
+      "text": "Type the term for keeping the home and personal surroundings clean and safe.",
+      "type": "input",
+      "answer": ["hygiene", "cleanliness"]
+    },
+    {
+      "text": "Which item helps prevent burns in the kitchen?",
+      "type": "choice",
+      "choices": ["Oven gloves", "Scissors", "Towel", "Spoon"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "House Choice & Design",
+  "quiz": [
+    {
+      "text": "Which factor is most important when choosing a house location?",
+      "type": "choice",
+      "choices": ["Proximity to schools and work", "Color of walls", "Furniture style", "Type of curtains"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Energy efficiency is an important consideration in house design.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of house is built in a row and shares side walls with neighbors?",
+      "type": "choice",
+      "choices": ["Detached", "Semi-detached", "Terraced", "Bungalow"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Ventilation is not necessary in modern houses.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which room is usually located at the front of a house for receiving guests?",
+      "type": "choice",
+      "choices": ["Living room", "Bedroom", "Kitchen", "Bathroom"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Safety features, such as smoke alarms and fire exits, should be included in house design.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of lighting is ideal for task areas such as kitchens and study rooms?",
+      "type": "choice",
+      "choices": ["Ambient lighting", "Task lighting", "Decorative lighting", "Natural lighting"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for designing a house layout that makes efficient use of space.",
+      "type": "input",
+      "answer": ["space planning", "efficient layout"]
+    },
+    {
+      "text": "Type the term for designing homes to reduce energy consumption and environmental impact.",
+      "type": "input",
+      "answer": ["eco-friendly design", "sustainable design", "green building"]
+    },
+    {
+      "text": "Which factor affects the cost of a house the most?",
+      "type": "choice",
+      "choices": ["Location", "Paint color", "Curtains", "Furniture style"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Menu Planning",
+  "quiz": [
+    {
+      "text": "Which of the following is important when planning a balanced menu?",
+      "type": "choice",
+      "choices": ["Variety of nutrients", "Cost of ingredients", "Time to prepare", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: A menu should include a mix of protein, carbohydrates, and vegetables.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which meal is usually served in the morning?",
+      "type": "choice",
+      "choices": ["Breakfast", "Lunch", "Dinner", "Supper"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Leftovers should never be used in menu planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which nutrient is usually emphasized in a high-energy menu for athletes?",
+      "type": "choice",
+      "choices": ["Carbohydrates", "Fats", "Vitamins", "Minerals"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Seasonal ingredients can reduce menu costs and improve freshness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of menu provides the same dishes every day?",
+      "type": "choice",
+      "choices": ["Cyclic menu", "A la carte menu", "Static menu", "Special menu"],
+      "answer": 2
+    },
+    {
+      "text": "Type the term for planning meals in advance to ensure nutrition and variety.",
+      "type": "input",
+      "answer": ["menu planning", "meal planning"]
+    },
+    {
+      "text": "Type the term for menus designed to meet the dietary needs of specific groups.",
+      "type": "input",
+      "answer": ["special diets", "dietary menus"]
+    },
+    {
+      "text": "Which factor is least important when planning a menu for a small family meal?",
+      "type": "choice",
+      "choices": ["Nutritional balance", "Cost", "Color of plates", "Time to cook"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Money Management",
+  "quiz": [
+    {
+      "text": "Which of the following is a way to save money?",
+      "type": "choice",
+      "choices": ["Spending on luxury items", "Budgeting", "Borrowing from friends", "Ignoring bills"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Keeping track of expenses helps manage money better.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which item is considered an essential monthly expense?",
+      "type": "choice",
+      "choices": ["Rent", "Cinema tickets", "Holiday travel", "Concert tickets"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Using credit cards without paying on time can create debt.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of the following is a financial goal?",
+      "type": "choice",
+      "choices": ["Saving for a holiday", "Eating out daily", "Buying every new gadget", "Skipping bills"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Budgeting means spending money without planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is a form of saving money?",
+      "type": "choice",
+      "choices": ["Investing in stocks", "Daily fast food", "Buying unnecessary items", "Gambling"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for planning how to spend and save money.",
+      "type": "input",
+      "answer": ["budgeting", "financial planning"]
+    },
+    {
+      "text": "Type the term for money owed to a bank or lender.",
+      "type": "input",
+      "answer": ["debt", "loan"]
+    },
+    {
+      "text": "Which of the following reduces financial risk?",
+      "type": "choice",
+      "choices": ["Insurance", "Ignoring bills", "Overdraft use", "Gambling"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Nutrition",
+  "quiz": [
+    {
+      "text": "Which nutrient is the main source of energy for the body?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Fat", "Vitamin C"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Vitamins and minerals are micronutrients needed in small amounts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which nutrient helps build and repair muscles?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Fat", "Water"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fiber is important for healthy digestion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which vitamin is found in citrus fruits and prevents scurvy?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Eating only one type of food provides all necessary nutrients.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which mineral is important for transporting oxygen in the blood?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Potassium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "text": "Type the nutrient that regulates body temperature and removes waste.",
+      "type": "input",
+      "answer": ["water", "fluid"]
+    },
+    {
+      "text": "Type the nutrient group that provides vitamins and minerals but little energy.",
+      "type": "input",
+      "answer": ["micronutrients", "vitamins and minerals"]
+    },
+    {
+      "text": "Which type of fat is considered healthy for the heart?",
+      "type": "choice",
+      "choices": ["Saturated fat", "Trans fat", "Unsaturated fat", "Hydrogenated fat"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Sewing",
+  "quiz": [
+    {
+      "text": "Which tool is used to join fabrics with thread?",
+      "type": "choice",
+      "choices": ["Needle", "Scissors", "Tape measure", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A thimble protects your finger while sewing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which stitch is used to prevent fabric edges from fraying?",
+      "type": "choice",
+      "choices": ["Running stitch", "Backstitch", "Overlock stitch", "Basting stitch"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Pins are used to hold fabric pieces in place before sewing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool measures fabric accurately?",
+      "type": "choice",
+      "choices": ["Tape measure", "Scissors", "Needle", "Thread"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Basting stitches are permanent.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of sewing machine stitch is used for strong seams?",
+      "type": "choice",
+      "choices": ["Zigzag stitch", "Straight stitch", "Overlock stitch", "Decorative stitch"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for thread used to sew fabrics together.",
+      "type": "input",
+      "answer": ["thread", "sewing thread"]
+    },
+    {
+      "text": "Type the term for the process of removing stitches.",
+      "type": "input",
+      "answer": ["unpicking", "seam ripping"]
+    },
+    {
+      "text": "Which of these is used to cut fabric?",
+      "type": "choice",
+      "choices": ["Needle", "Scissors", "Thimble", "Tape measure"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Shopping",
+  "quiz": [
+    {
+      "text": "Which is the most important factor to consider before buying food?",
+      "type": "choice",
+      "choices": ["Taste only", "Price only", "Nutritional value", "Packaging color"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Comparing prices helps save money.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of impulse buying?",
+      "type": "choice",
+      "choices": ["Buying only what is on your shopping list", "Buying extra items at checkout", "Using coupons", "Planning meals ahead"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Reading labels helps consumers make informed choices.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which payment method is safest for online shopping?",
+      "type": "choice",
+      "choices": ["Cash on delivery", "Credit card", "Personal check", "Bartering"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: It is unnecessary to check the expiry date before buying food.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which factor affects the choice of where to shop?",
+      "type": "choice",
+      "choices": ["Distance", "Variety of products", "Price", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Type the term for the planned list of items to buy.",
+      "type": "input",
+      "answer": ["shopping list", "list of items"]
+    },
+    {
+      "text": "Type the term for the money returned to a buyer when a product is faulty or unsatisfactory.",
+      "type": "input",
+      "answer": ["refund"]
+    },
+    {
+      "text": "Which is a strategy to avoid overspending?",
+      "type": "choice",
+      "choices": ["Making a budget", "Impulse buying", "Ignoring prices", "Shopping when hungry"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Special Diets",
+  "quiz": [
+    {
+      "text": "Which diet excludes all animal products?",
+      "type": "choice",
+      "choices": ["Vegetarian", "Vegan", "Gluten-free", "Dairy-free"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: People with lactose intolerance should avoid milk and dairy products.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which nutrient must vegetarians ensure they get enough of?",
+      "type": "choice",
+      "choices": ["Vitamin B12", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Gluten-free diets are only necessary for people with celiac disease.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which diet limits salt intake to reduce blood pressure?",
+      "type": "choice",
+      "choices": ["Low-salt diet", "High-protein diet", "Vegan diet", "Low-carb diet"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: People with food allergies should carefully read food labels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which diet is designed for people with high cholesterol?",
+      "type": "choice",
+      "choices": ["Low-fat diet", "High-fat diet", "Vegan diet", "Gluten-free diet"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a diet that excludes meat but may include eggs and dairy.",
+      "type": "input",
+      "answer": ["vegetarian diet", "vegetarian"]
+    },
+    {
+      "text": "Type the term for avoiding specific foods due to allergy or intolerance.",
+      "type": "input",
+      "answer": ["restricted diet", "elimination diet"]
+    },
+    {
+      "text": "Which nutrient should vegans supplement due to limited dietary sources?",
+      "type": "choice",
+      "choices": ["Vitamin B12", "Vitamin C", "Vitamin A", "Vitamin D"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Sustainability: Food",
+  "quiz": [
+    {
+      "text": "Which practice reduces food waste at home?",
+      "type": "choice",
+      "choices": ["Planning meals", "Buying in bulk without planning", "Throwing leftovers", "Overcooking meals"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Eating seasonal fruits and vegetables is better for the environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an environmentally friendly food source?",
+      "type": "choice",
+      "choices": ["Locally grown produce", "Imported out-of-season foods", "Highly processed foods", "Excess packaging foods"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Reducing meat consumption can help reduce greenhouse gas emissions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which method of food preservation is considered sustainable?",
+      "type": "choice",
+      "choices": ["Freezing leftovers", "Throwing away excess food", "Using non-recyclable containers", "Buying excessive packaged food"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Composting food scraps is harmful to the environment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which packaging is more sustainable?",
+      "type": "choice",
+      "choices": ["Plastic wrap", "Glass jars", "Aluminium foil", "Polystyrene trays"],
+      "answer": 1
+    },
+    {
+      "text": "Type the term for producing and consuming food in a way that protects the environment.",
+      "type": "input",
+      "answer": ["sustainable food", "sustainable eating", "sustainable agriculture"]
+    },
+    {
+      "text": "Type the term for using food before it spoils to reduce waste.",
+      "type": "input",
+      "answer": ["food conservation", "using leftovers", "reducing food waste"]
+    },
+    {
+      "text": "Which factor contributes most to reducing the carbon footprint of meals?",
+      "type": "choice",
+      "choices": ["Eating more plant-based foods", "Buying imported foods", "Overcooking meals", "Using disposable containers"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Sustainability: Home",
+  "quiz": [
+    {
+      "text": "Which energy source is renewable and better for the environment?",
+      "type": "choice",
+      "choices": ["Solar energy", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Turning off lights when not in use reduces energy consumption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which method helps reduce water usage at home?",
+      "type": "choice",
+      "choices": ["Fixing leaks", "Leaving taps running", "Washing dishes with tap on", "Overwatering gardens"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Insulating your home helps save energy and money.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which practice reduces waste in the home?",
+      "type": "choice",
+      "choices": ["Recycling", "Throwing everything in bin", "Buying disposable items", "Using non-recyclable packaging"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Energy-efficient appliances use more electricity than standard ones.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which item helps monitor electricity usage at home?",
+      "type": "choice",
+      "choices": ["Energy meter", "Thermometer", "Smoke alarm", "Fire extinguisher"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for using resources in a way that does not harm the environment.",
+      "type": "input",
+      "answer": ["sustainability", "sustainable living"]
+    },
+    {
+      "text": "Type the term for waste that can be reused or converted into new products.",
+      "type": "input",
+      "answer": ["recyclable waste", "recyclables"]
+    },
+    {
+      "text": "Which home improvement can save water in the garden?",
+      "type": "choice",
+      "choices": ["Installing a rainwater collection system", "Leaving hoses on", "Watering during midday", "Overwatering plants"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Sustainability: Textiles",
+  "quiz": [
+    {
+      "text": "Which textile is considered more sustainable?",
+      "type": "choice",
+      "choices": ["Organic cotton", "Polyester", "Nylon", "Acrylic"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fast fashion contributes to environmental pollution.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which action reduces textile waste?",
+      "type": "choice",
+      "choices": ["Donating old clothes", "Throwing clothes in bin", "Buying cheap fast fashion", "Ignoring fabric recycling"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Choosing high-quality fabrics can increase the lifespan of clothing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which textile is made from recycled plastic bottles?",
+      "type": "choice",
+      "choices": ["Recycled polyester", "Wool", "Cotton", "Silk"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Washing clothes less frequently can help reduce environmental impact.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which practice helps reduce water consumption in textile production?",
+      "type": "choice",
+      "choices": ["Using natural dyes", "Using synthetic dyes", "Overwashing fabrics", "Discarding unused fabric"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for making clothes that last longer and reduce waste.",
+      "type": "input",
+      "answer": ["sustainable fashion", "slow fashion"]
+    },
+    {
+      "text": "Type the term for reusing or converting old textiles into new products.",
+      "type": "input",
+      "answer": ["textile recycling", "recycling fabrics"]
+    },
+    {
+      "text": "Which factor encourages sustainable textile choices?",
+      "type": "choice",
+      "choices": ["Buying durable clothing", "Buying cheap fast fashion", "Wearing once and throwing away", "Using single-use fabrics"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Technology, Safety and Services in the Home",
+  "quiz": [
+    {
+      "text": "Which appliance is designed to keep food cold and safe to eat?",
+      "type": "choice",
+      "choices": ["Refrigerator", "Microwave", "Toaster", "Kettle"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Smoke alarms should be installed in the kitchen only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which safety feature prevents electric shocks in the home?",
+      "type": "choice",
+      "choices": ["Circuit breaker", "Curtains", "Doorbell", "Rug"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fire extinguishers are essential safety devices in the home.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which service helps deliver household appliances or furniture to your home?",
+      "type": "choice",
+      "choices": ["Home delivery", "Recycling service", "Cleaning service", "Postal service"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Using frayed electrical cords is safe.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which appliance is commonly used to cook or reheat food quickly?",
+      "type": "choice",
+      "choices": ["Microwave", "Refrigerator", "Iron", "Blender"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for equipment designed to perform household tasks efficiently.",
+      "type": "input",
+      "answer": ["appliances", "household appliances"]
+    },
+    {
+      "text": "Type the term for measures taken to avoid accidents and injuries at home.",
+      "type": "input",
+      "answer": ["safety", "home safety"]
+    },
+    {
+      "text": "Which device detects smoke or fire in the home?",
+      "type": "choice",
+      "choices": ["Smoke alarm", "Thermostat", "Light switch", "Doorbell"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Textile Care",
+  "quiz": [
+    {
+      "text": "Which method removes stains from fabric effectively?",
+      "type": "choice",
+      "choices": ["Pre-treating with detergent", "Ignoring stains", "Rubbing harshly", "Using water only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ironing clothes at the correct temperature prevents damage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which symbol on a clothing label indicates machine washing?",
+      "type": "choice",
+      "choices": ["Tub symbol", "Triangle", "Square with circle", "Iron symbol"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Drying delicate fabrics in direct sunlight is recommended.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which cleaning method uses water and detergent for clothes?",
+      "type": "choice",
+      "choices": ["Washing", "Dry cleaning", "Brushing", "Spot cleaning"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Following care labels helps prolong the life of textiles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which appliance is used to remove wrinkles from clothing?",
+      "type": "choice",
+      "choices": ["Iron", "Washing machine", "Dryer", "Vacuum cleaner"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for cleaning clothes without using water, usually with solvents.",
+      "type": "input",
+      "answer": ["dry cleaning"]
+    },
+    {
+      "text": "Type the term for a product used to soften or protect fabrics during washing.",
+      "type": "input",
+      "answer": ["fabric conditioner", "softener"]
+    },
+    {
+      "text": "Which practice prevents clothes from shrinking during washing?",
+      "type": "choice",
+      "choices": ["Washing at correct temperature", "Using hot water always", "Overdrying", "Rubbing fabrics harshly"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Textiles & Fabrics",
+  "quiz": [
+    {
+      "text": "Which natural fiber comes from sheep?",
+      "type": "choice",
+      "choices": ["Wool", "Silk", "Cotton", "Polyester"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polyester is a synthetic fiber.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fabric is known for being strong and durable?",
+      "type": "choice",
+      "choices": ["Denim", "Silk", "Linen", "Wool"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Silk is a natural fiber produced by insects.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fiber is commonly used for making T-shirts?",
+      "type": "choice",
+      "choices": ["Cotton", "Wool", "Silk", "Nylon"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Linen comes from the stems of the flax plant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which fiber is biodegradable and environmentally friendly?",
+      "type": "choice",
+      "choices": ["Cotton", "Polyester", "Nylon", "Acrylic"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for fibers made from petroleum-based chemicals.",
+      "type": "input",
+      "answer": ["synthetic fibers", "man-made fibers"]
+    },
+    {
+      "text": "Type the term for fabrics made from plant or animal sources.",
+      "type": "input",
+      "answer": ["natural fibers", "natural fabrics"]
+    },
+    {
+      "text": "Which property is important when choosing fabric for sportswear?",
+      "type": "choice",
+      "choices": ["Breathability", "Shininess", "Thickness", "Weight"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "The Family",
+  "quiz": [
+    {
+      "text": "Which role is part of a typical nuclear family?",
+      "type": "choice",
+      "choices": ["Mother", "Neighbor", "Teacher", "Doctor"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A single-parent family has only one parent caring for children.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of family includes grandparents, parents, and children living together?",
+      "type": "choice",
+      "choices": ["Extended family", "Nuclear family", "Single-parent family", "Blended family"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Family roles can change over time due to circumstances.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which activity helps strengthen family relationships?",
+      "type": "choice",
+      "choices": ["Sharing meals together", "Ignoring each other", "Arguing frequently", "Avoiding communication"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Respect and communication are important in a healthy family.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of family is formed when two families combine through marriage?",
+      "type": "choice",
+      "choices": ["Blended family", "Extended family", "Nuclear family", "Single-parent family"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for family members related by blood.",
+      "type": "input",
+      "answer": ["relatives", "blood relatives", "family members"]
+    },
+    {
+      "text": "Type the term for a family living in the same household for support and care.",
+      "type": "input",
+      "answer": ["household", "family unit"]
+    },
+    {
+      "text": "Which factor can affect family dynamics?",
+      "type": "choice",
+      "choices": ["Financial situation", "Communication", "Health", "All of the above"],
+      "answer": 3
+    }
+  ]
+}
+]

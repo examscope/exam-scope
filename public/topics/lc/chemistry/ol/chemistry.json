@@ -1,0 +1,26 @@
+{
+  "certificate": "lc",
+  "subject": "chemistry",
+  "level": "ol",
+  "topics": [
+    "Acids, Bases & PH",
+    "Atomic Structure",
+    "Chemical Equilibrium",
+    "Experiment Questions",
+    "Fuels & Thermochemistry",
+    "Gas Laws, moles & Gas Properties",
+    "Ionic & Covalent Bonding",
+    "Option: Atmospheric Chemistry",
+    "Option: Industrial Chemistry",
+    "Option: Materials & Polymers",
+    "Option: Metals",
+    "Organic Chemistry",
+    "Oxidation & Reduction",
+    "Periodic Table",
+    "Radioactivity",
+    "Rates of Reaction",
+    "Spectrometry & Chromatography",
+    "Stoichiometry, Formulae & Equations",
+    "Water & Water Analysis"
+  ]
+}

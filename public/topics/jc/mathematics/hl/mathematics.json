@@ -1,0 +1,28 @@
+{
+  "certificate": "jc",
+  "subject": "mathematics",
+  "level": "hl",
+  "topics": [
+    "Algebra - Expressions",
+    "Algebra - Factorising",
+    "Algebra - Inequalities",
+    "Algebra - Solving Equations",
+    "Algebra - Word Problems",
+    "Area & Volume",
+    "Co-ordinate Geometry",
+    "Constructions",
+    "Counting/Permutations",
+    "Distance, Speed & Time",
+    "Financial Maths",
+    "Functions & Graphing Functions",
+    "Geometry",
+    "Number Systems",
+    "Numbers Patterns",
+    "Probability",
+    "Sets",
+    "Statistics",
+    "Transformation Geometry",
+    "Trigonometry",
+    "Working with Graphs"
+  ]
+}

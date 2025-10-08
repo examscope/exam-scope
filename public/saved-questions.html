@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="/images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Saved Questions</title>
+</head>
+<body>
+    <div class="preview-modal">
+        <div class="preview-wrapper">
+            <i class="fa-solid fa-xmark preview-close" onclick="closePreviewModal()"></i>
+
+            <div class="exam-question" style="border: 0;">
+                <div class="preview-title">2025 - Question 5 - Bacteria</div>
+
+                <div class="exam-wrapper">
+                    <div class="exam-type pap-type-mock">Mock Exam</div>
+
+                    <div class="exam-ques-container">
+                    </div>
+
+                    <div class="exam-view-container">
+                        <div class="btn-view">View Marking Scheme <i class="fa-regular fa-eye exam-eye-icon exam-eye-open"></i> <i class="fa-regular fa-eye-slash exam-eye-icon exam-eye-slash"></i></div>
+                    </div>
+
+                    <div class="scheme-img-container">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-title">Saved Questions</div>
+            <div class="home-para">Manage your saved questions, keeping them stored together for quick access.</div>
+            <div class="home-nav">
+                <a href="index.html" class="nav-link">Exam Questions <div class="home-hr-fill"></div></a>
+                <a href="my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="past-papers.html" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="saved-questions.html" class="nav-link nav-link-active">Saved Questions <div class="home-hr-fill hr-fill-active"></div></a>
+                <a href="worksheet-builder.html" class="nav-link">Worksheet Builder <div class="home-hr-fill"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="sav-container main-container">
+                <div class="sav-col">
+                    <!-- 
+                    <div class="sav-flex">
+                        <div class="sav-box">
+                            <div class="sav-img-container">
+                                <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/cfb31b9d-8f7d-4fa4-9e82-1bc40bf1bbcc.png" alt="Exam Question" class="sav-img">
+                            </div>
+                            <div class="sav-content">
+                                <div class="sav-heads">
+                                    <div class="sav-title">Maths</div>
+                                    <div class="sav-point"></div>
+                                    <div class="sav-level">Higher Level</div>
+                                </div>
+                                <div class="sav-info">2022 - Question 1 - Cubics</div>
+                                <div class="sav-type">State exam</div>
+                            </div>
+                            <div class="sav-hr"></div>
+                            <div class="sav-btn-flex">
+                                <div class="btn-sav btn-remove">Remove</div>
+                                <div class="btn-sav btn-show">Show Question</div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+                </div>
+
+                <div class="sav-filter-container" style="overflow: visible;">
+                        <div class="sav-filter"> <!-- This is the sticky element -->
+                            <div class="exam-filter-section">
+                                <div class="exam-filter-label">Question type</div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box filter-box-active"><i class="fa-solid fa-check filter-check filter-check-active"></i></div>
+                                    <div class="exam-filter-txt">All Exams <span class="exam-filter-txt filter-amount">(34)</span></div>
+                                </div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                    <div class="exam-filter-txt">State Exams <span class="exam-filter-txt filter-amount">(18)</span></div>
+                                </div>
+                                <div class="exam-filter-flex">
+                                    <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                    <div class="exam-filter-txt">Mock Exams <span class="exam-filter-txt filter-amount">(16)</span></div>
+                                </div>
+                            </div>  <!-- SUBJECT, YEAR, LEVEL. ? -->
+                            <!-- 
+                                <div class="exam-filter-section done-section"> 
+                                    <div class="exam-filter-label">Exam Level</div>
+                                    <div class="exam-filter-flex">
+                                        <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                        <div class="exam-filter-txt">Higher <span class="exam-filter-txt filter-amount">(3)</span></div>
+                                    </div>
+                                    <div class="exam-filter-flex">
+                                        <div class="exam-filter-box"><i class="fa-solid fa-check filter-check"></i></div>
+                                        <div class="exam-filter-txt">Ordinary <span class="exam-filter-txt filter-amount">(31)</span></div>
+                                    </div>
+                                </div>
+                            -->
+                        </div>
+                </div>
+            </div>
+
+            <div class="sav-empty" style="display: none;">
+                <i class="fa-solid fa-folder-open sav-empty-icon"></i>
+                <div class="sav-empty-title">No questions found</div>
+                <div class="sav-empty-txt">Nothing saved so far. Browse exam questions to keep track of important or tricky questions.</div>
+                <a href="index.html" class="sav-empty-btn">Explore questions</a>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

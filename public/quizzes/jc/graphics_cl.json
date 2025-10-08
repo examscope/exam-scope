@@ -1,0 +1,1195 @@
+[
+{
+  "subject": "Graphics",
+  "topic": "Area Conversion",
+  "quiz": [
+    {
+      "text": "Convert 2 m² to cm².",
+      "type": "input",
+      "answer": ["20000", "20000 cm²", "20000cm2"]
+    },
+    {
+      "text": "True or false: 1 km² equals 100,000 m².",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which is the correct conversion of 500 cm² to m²?",
+      "type": "choice",
+      "choices": ["0.05 m²", "5 m²", "0.5 m²", "50 m²"],
+      "answer": 0
+    },
+    {
+      "text": "Convert 0.75 m² to cm².",
+      "type": "input",
+      "answer": ["7500", "7500 cm²", "7500cm2"]
+    },
+    {
+      "text": "True or false: 1 m² = 10,000 cm².",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which is 3,000 cm² in m²?",
+      "type": "choice",
+      "choices": ["0.3 m²", "0.03 m²", "0.003 m²", "3 m²"],
+      "answer": 1
+    },
+    {
+      "text": "Convert 4.2 m² to cm².",
+      "type": "input",
+      "answer": ["42000", "42000 cm²", "42000cm2"]
+    },
+    {
+      "text": "True or false: 1 cm² = 0.0001 m².",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which is correct: 2500 cm² in m²?",
+      "type": "choice",
+      "choices": ["0.025 m²", "0.25 m²", "2.5 m²", "25 m²"],
+      "answer": 0
+    },
+    {
+      "text": "Convert 6.5 m² to cm².",
+      "type": "input",
+      "answer": ["65000", "65000 cm²", "65000cm2"]
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Auxiliary Projection",
+  "quiz": [
+    {
+      "text": "True or false: Auxiliary views are used to show the true shape of inclined surfaces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of an auxiliary view?",
+      "type": "choice",
+      "choices": ["Front view", "Side view", "Top view", "Inclined view"],
+      "answer": 3
+    },
+    {
+      "text": "Input the main purpose of an auxiliary projection.",
+      "type": "input",
+      "answer": ["to show true shape", "show true shape of inclined surfaces", "true shape"]
+    },
+    {
+      "text": "True or false: Auxiliary projections are only used for horizontal surfaces.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which line is usually used as a reference for auxiliary views?",
+      "type": "choice",
+      "choices": ["Principal plane", "Ground line", "Height line", "Inclined plane"],
+      "answer": 1
+    },
+    {
+      "text": "Name one common type of auxiliary view.",
+      "type": "input",
+      "answer": ["primary auxiliary", "secondary auxiliary", "auxiliary view"]
+    },
+    {
+      "text": "True or false: The scale of an auxiliary view is always different from the principal views.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is shown accurately in an auxiliary view?",
+      "type": "choice",
+      "choices": ["Inclined surface", "Vertical edge", "Horizontal base", "Corner joint"],
+      "answer": 0
+    },
+    {
+      "text": "Input one advantage of using an auxiliary view.",
+      "type": "input",
+      "answer": ["clarity", "shows true shape", "better dimensioning"]
+    },
+    {
+      "text": "True or false: Auxiliary views help in dimensioning inclined surfaces.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Axonometric/Isometric",
+  "quiz": [
+    {
+      "text": "True or false: In isometric drawings, all axes are drawn at 120° to each other.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of axonometric view shows all three axes equally foreshortened?",
+      "type": "choice",
+      "choices": ["Isometric", "Dimetric", "Trimetric", "Perspective"],
+      "answer": 0
+    },
+    {
+      "text": "Input the main purpose of axonometric projection.",
+      "type": "input",
+      "answer": ["to show 3D objects", "represent 3D on 2D", "3D view on paper"]
+    },
+    {
+      "text": "True or false: In dimetric projection, two axes have equal foreshortening.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is NOT an axonometric type?",
+      "type": "choice",
+      "choices": ["Isometric", "Oblique", "Dimetric", "Trimetric"],
+      "answer": 1
+    },
+    {
+      "text": "Name one advantage of isometric drawings.",
+      "type": "input",
+      "answer": ["easy to measure", "visual clarity", "simple to construct"]
+    },
+    {
+      "text": "True or false: Axonometric drawings show objects in true size along all axes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which axis is typically vertical in isometric drawing?",
+      "type": "choice",
+      "choices": ["X-axis", "Y-axis", "Z-axis", "W-axis"],
+      "answer": 2
+    },
+    {
+      "text": "Input one situation where isometric drawing is used.",
+      "type": "input",
+      "answer": ["engineering design", "technical drawing", "mechanical parts"]
+    },
+    {
+      "text": "True or false: Axonometric projections are perspective drawings.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "CAD",
+  "quiz": [
+    {
+      "text": "True or false: CAD stands for Computer Aided Design.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is a main advantage of using CAD?",
+      "type": "choice",
+      "choices": ["Faster revisions", "Hand accuracy errors", "Paper saving only", "Manual sketches"],
+      "answer": 0
+    },
+    {
+      "text": "Input one common use of CAD in schools.",
+      "type": "input",
+      "answer": ["engineering", "architecture", "design projects", "technical drawing"]
+    },
+    {
+      "text": "True or false: CAD can only be used to create 2D drawings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of the following is a CAD file format?",
+      "type": "choice",
+      "choices": [".dwg", ".txt", ".jpg", ".mp3"],
+      "answer": 0
+    },
+    {
+      "text": "Name one software commonly used for CAD.",
+      "type": "input",
+      "answer": ["AutoCAD", "SolidWorks", "Fusion 360", "SketchUp"]
+    },
+    {
+      "text": "True or false: CAD allows precise measurements and scaling.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which CAD feature helps in creating repeated patterns or objects?",
+      "type": "choice",
+      "choices": ["Array", "Mirror", "Line tool", "Extrude"],
+      "answer": 0
+    },
+    {
+      "text": "Input one benefit of using CAD over manual drawing.",
+      "type": "input",
+      "answer": ["speed", "accuracy", "ease of editing", "3D modeling"]
+    },
+    {
+      "text": "True or false: CAD is only useful for engineers.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Circles & Circles in Contact",
+  "quiz": [
+    {
+      "text": "True or false: Two circles in contact touch at exactly one point.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the line joining the centers of two touching circles?",
+      "type": "choice",
+      "choices": ["Radius", "Diameter", "Center line", "Line of centers"],
+      "answer": 3
+    },
+    {
+      "text": "Input one reason for drawing circles in contact in engineering drawings.",
+      "type": "input",
+      "answer": ["gears", "pulleys", "mechanical parts", "wheels"]
+    },
+    {
+      "text": "True or false: Tangent circles overlap each other.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which tool is commonly used to draw circles in technical drawing?",
+      "type": "choice",
+      "choices": ["Compass", "Protractor", "Set square", "Ruler"],
+      "answer": 0
+    },
+    {
+      "text": "Input one real-life example of circles in contact.",
+      "type": "input",
+      "answer": ["gear wheels", "roller bearings", "clock parts"]
+    },
+    {
+      "text": "True or false: All circles in contact are concentric.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is NOT a type of circle contact?",
+      "type": "choice",
+      "choices": ["Internal", "External", "Intersecting", "Tangent"],
+      "answer": 2
+    },
+    {
+      "text": "Input the term for the distance between centers of two touching circles.",
+      "type": "input",
+      "answer": ["sum of radii", "distance between centers"]
+    },
+    {
+      "text": "True or false: Circles in contact are used to design gears.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Conic Section (Ellipses and Parabolas)",
+  "quiz": [
+    {
+      "text": "True or false: An ellipse has two focal points.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which shape is formed when a plane cuts parallel to the side of a cone?",
+      "type": "choice",
+      "choices": ["Ellipse", "Parabola", "Circle", "Hyperbola"],
+      "answer": 1
+    },
+    {
+      "text": "Input one application of parabolas in real life.",
+      "type": "input",
+      "answer": ["satellite dishes", "reflectors", "bridges"]
+    },
+    {
+      "text": "True or false: The major axis is the longest diameter of an ellipse.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is a property of ellipses?",
+      "type": "choice",
+      "choices": ["Single focus", "Two foci", "No axes", "Infinite vertices"],
+      "answer": 1
+    },
+    {
+      "text": "Input one method used to draw an ellipse.",
+      "type": "input",
+      "answer": ["concentric circles method", "string method", "trammel method"]
+    },
+    {
+      "text": "True or false: Parabolas reflect light and sound to their focus.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term refers to the line through the center of an ellipse?",
+      "type": "choice",
+      "choices": ["Major axis", "Minor axis", "Focal line", "Vertex line"],
+      "answer": 0
+    },
+    {
+      "text": "Input one example of ellipses in engineering or design.",
+      "type": "input",
+      "answer": ["ovals in bridges", "gears", "stadium tracks"]
+    },
+    {
+      "text": "True or false: Conic sections include circles, ellipses, parabolas, and hyperbolas.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Developments & Solids in Contact",
+  "quiz": [
+    {
+      "text": "True or false: Development drawings show a 3D object flattened out.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of a development drawing?",
+      "type": "choice",
+      "choices": ["Cylinder pattern", "Circle diagram", "Isometric cube", "Parabola graph"],
+      "answer": 0
+    },
+    {
+      "text": "Input one reason why developments of solids are drawn.",
+      "type": "input",
+      "answer": ["sheet metal work", "packaging design", "manufacturing", "folding boxes"]
+    },
+    {
+      "text": "True or false: Solids in contact touch at multiple points.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is commonly used to measure lines on development drawings?",
+      "type": "choice",
+      "choices": ["Ruler", "Compass", "Set square", "Protractor"],
+      "answer": 0
+    },
+    {
+      "text": "Input one real-life example of solids in contact.",
+      "type": "input",
+      "answer": ["gear wheels", "stacked boxes", "machinery parts"]
+    },
+    {
+      "text": "True or false: Only cubes and prisms can be developed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is NOT a type of solid commonly used in development?",
+      "type": "choice",
+      "choices": ["Cylinder", "Sphere", "Cone", "Line"],
+      "answer": 3
+    },
+    {
+      "text": "Input the term for the edge where two solids meet in contact.",
+      "type": "input",
+      "answer": ["line of contact", "contact edge"]
+    },
+    {
+      "text": "True or false: Developments are essential in sheet metal fabrication.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Enlargements/Reductions",
+  "quiz": [
+    {
+      "text": "True or false: Enlargement drawings increase the size of an object proportionally.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is commonly used to create accurate enlargements?",
+      "type": "choice",
+      "choices": ["Proportional dividers", "Compass", "Set square", "T-square"],
+      "answer": 0
+    },
+    {
+      "text": "Input one real-life use of enlargement drawings.",
+      "type": "input",
+      "answer": ["maps", "engineering diagrams", "architectural plans", "blueprints"]
+    },
+    {
+      "text": "True or false: Reductions decrease an object’s size without changing proportions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the ratio between original and new size?",
+      "type": "choice",
+      "choices": ["Scale factor", "Aspect ratio", "Focal length", "Gradient"],
+      "answer": 0
+    },
+    {
+      "text": "Input the term used when reducing a drawing to half its original size.",
+      "type": "input",
+      "answer": ["half-scale", "reduction", "scale 1:2"]
+    },
+    {
+      "text": "True or false: Enlargements distort the original shape.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is a common application of reductions?",
+      "type": "choice",
+      "choices": ["Technical drawing", "Model making", "Architectural miniatures", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Input one advantage of using scale drawings.",
+      "type": "input",
+      "answer": ["visualization", "accuracy", "planning", "saving space"]
+    },
+    {
+      "text": "True or false: Scale factor = New length ÷ Original length.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Geometric Constructions",
+  "quiz": [
+    {
+      "text": "True or false: A perpendicular bisector divides a line segment into two equal parts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which tool is essential for geometric constructions?",
+      "type": "choice",
+      "choices": ["Compass", "Ruler", "Protractor", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Input one example of a geometric construction in real life.",
+      "type": "input",
+      "answer": ["triangulation", "engineering design", "architectural layout"]
+    },
+    {
+      "text": "True or false: Only circles can be drawn using a compass.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these constructions can be done with a compass and straightedge?",
+      "type": "choice",
+      "choices": ["Angle bisector", "Perpendicular line", "Equilateral triangle", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Input the term for a point where two lines meet.",
+      "type": "input",
+      "answer": ["intersection", "vertex"]
+    },
+    {
+      "text": "True or false: Constructions help in accurate drafting without measurements.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is NOT a standard geometric construction?",
+      "type": "choice",
+      "choices": ["Angle trisection", "Bisecting a line", "Drawing a perpendicular", "Constructing an equilateral triangle"],
+      "answer": 0
+    },
+    {
+      "text": "Input one use of geometric constructions in architecture.",
+      "type": "input",
+      "answer": ["roof design", "floor plan", "structural layout"]
+    },
+    {
+      "text": "True or false: Compass and straightedge constructions are part of classical geometry.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Geometric Solids",
+  "quiz": [
+    {
+      "text": "True or false: A cube is an example of a geometric solid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is NOT a geometric solid?",
+      "type": "choice",
+      "choices": ["Sphere", "Cone", "Circle", "Cylinder"],
+      "answer": 2
+    },
+    {
+      "text": "Input one real-life example of a geometric solid.",
+      "type": "input",
+      "answer": ["dice", "traffic cone", "cylindrical can"]
+    },
+    {
+      "text": "True or false: All geometric solids have faces, edges, and vertices.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these solids has only curved surfaces?",
+      "type": "choice",
+      "choices": ["Sphere", "Cube", "Pyramid", "Prism"],
+      "answer": 0
+    },
+    {
+      "text": "Input the term for a flat surface of a solid.",
+      "type": "input",
+      "answer": ["face", "surface"]
+    },
+    {
+      "text": "True or false: A cylinder has two circular faces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which solid is formed by rotating a rectangle around one of its sides?",
+      "type": "choice",
+      "choices": ["Cylinder", "Cone", "Sphere", "Cube"],
+      "answer": 0
+    },
+    {
+      "text": "Input one application of geometric solids in engineering.",
+      "type": "input",
+      "answer": ["machinery parts", "building design", "structural components"]
+    },
+    {
+      "text": "True or false: A cone has one vertex and one circular base.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Graphs",
+  "quiz": [
+    {
+      "text": "True or false: The x-axis usually represents the independent variable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of graph is best for showing proportions?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Scatter plot"],
+      "answer": 2
+    },
+    {
+      "text": "Input one use of graphs in real life.",
+      "type": "input",
+      "answer": ["weather tracking", "stock market", "population studies"]
+    },
+    {
+      "text": "True or false: A bar chart is useful for showing trends over time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of graph shows the relationship between two continuous variables?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Input the term for the vertical axis on a graph.",
+      "type": "input",
+      "answer": ["y-axis", "ordinate"]
+    },
+    {
+      "text": "True or false: Scatter plots can help identify correlations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of graph is useful for comparing quantities across categories?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Scatter plot"],
+      "answer": 1
+    },
+    {
+      "text": "Input one example of a graph used in business.",
+      "type": "input",
+      "answer": ["sales report", "market trends", "financial analysis"]
+    },
+    {
+      "text": "True or false: Histograms are used for grouped continuous data.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Orthographic Projection",
+  "quiz": [
+    {
+      "text": "True or false: Orthographic projection shows multiple views of an object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which view is usually drawn at the top in orthographic projection?",
+      "type": "choice",
+      "choices": ["Front view", "Top view", "Side view", "Isometric view"],
+      "answer": 1
+    },
+    {
+      "text": "Input one practical application of orthographic projection.",
+      "type": "input",
+      "answer": ["engineering drawings", "technical plans", "architecture"]
+    },
+    {
+      "text": "True or false: Orthographic projection distorts the object’s dimensions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is NOT a standard view in orthographic projection?",
+      "type": "choice",
+      "choices": ["Front view", "Side view", "Top view", "Perspective view"],
+      "answer": 3
+    },
+    {
+      "text": "Input the term for a line that separates two views in a drawing.",
+      "type": "input",
+      "answer": ["projection line", "extension line"]
+    },
+    {
+      "text": "True or false: Orthographic projection helps in visualising complex objects accurately.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which view is used to show the height and width of an object?",
+      "type": "choice",
+      "choices": ["Front view", "Top view", "Side view", "Isometric view"],
+      "answer": 0
+    },
+    {
+      "text": "Input one advantage of orthographic projection over pictorial drawings.",
+      "type": "input",
+      "answer": ["accurate dimensions", "technical clarity", "easier manufacturing"]
+    },
+    {
+      "text": "True or false: Orthographic projection can include hidden lines to show obscured edges.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Perspective",
+  "quiz": [
+    {
+      "text": "In one-point perspective, how many vanishing points are used?",
+      "type": "choice",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 0
+    },
+    {
+      "text": "Two-point perspective is used mainly for which type of objects?",
+      "type": "choice",
+      "choices": ["Cylinders", "Buildings", "Spheres", "Planes"],
+      "answer": 1
+    },
+    {
+      "text": "Which line in perspective drawing recedes towards the vanishing point?",
+      "type": "choice",
+      "choices": ["Vertical line", "Horizontal line", "Orthogonal line", "Parallel line"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: In perspective, objects appear smaller as they move closer to the vanishing point.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What type of perspective uses three vanishing points?",
+      "type": "choice",
+      "choices": ["One-point", "Two-point", "Three-point", "Isometric"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Horizon line is always at the top of the drawing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Objects farther from the viewer appear smaller.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Type the term for the line where sky meets ground in perspective drawing.",
+      "type": "input",
+      "answer": ["horizon line", "horizon"]
+    },
+    {
+      "text": "Type the name for the point where parallel lines converge in perspective.",
+      "type": "input",
+      "answer": ["vanishing point", "point of convergence"]
+    },
+    {
+      "text": "Which perspective type keeps all sides parallel without vanishing points?",
+      "type": "choice",
+      "choices": ["Isometric", "Two-point", "One-point", "Three-point"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Pictorial Drawing",
+  "quiz": [
+    {
+      "text": "Which type of pictorial drawing shows an object in 3D with all sides visible equally?",
+      "type": "choice",
+      "choices": ["Isometric", "Perspective", "Plan", "Elevation"],
+      "answer": 0
+    },
+    {
+      "text": "Oblique pictorial drawings are distinguished by which feature?",
+      "type": "choice",
+      "choices": ["All angles are true", "Front face is parallel to the plane of projection", "All edges are foreshortened", "They have no depth"],
+      "answer": 1
+    },
+    {
+      "text": "Which pictorial drawing type foreshortens the receding lines to show depth?",
+      "type": "choice",
+      "choices": ["Isometric", "Cavalier oblique", "Cabinet oblique", "Two-point perspective"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Pictorial drawings show only one view of an object.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: In isometric drawings, all vertical lines remain vertical.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "How many axes are used in isometric pictorial drawing?",
+      "type": "choice",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Cavalier oblique drawings shorten the receding lines by half.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Type the name of the drawing that shows an object in 3D with one face in true shape and receding lines at an angle.",
+      "type": "input",
+      "answer": ["oblique", "oblique drawing"]
+    },
+    {
+      "text": "Type the term for a drawing showing an object with equal angles between axes to represent 3D.",
+      "type": "input",
+      "answer": ["isometric", "isometric drawing"]
+    },
+    {
+      "text": "Which pictorial drawing type shows objects as they appear to the eye?",
+      "type": "choice",
+      "choices": ["Orthographic", "Perspective", "Isometric", "Plan"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Polygons & Spatial Ability Skills",
+  "quiz": [
+    {
+      "text": "How many sides does a hexagon have?",
+      "type": "choice",
+      "choices": ["5", "6", "7", "8"],
+      "answer": 1
+    },
+    {
+      "text": "Which polygon has all sides and angles equal?",
+      "type": "choice",
+      "choices": ["Rectangle", "Square", "Regular polygon", "Parallelogram"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A polygon must have at least three sides.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: An irregular polygon has all sides equal.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which skill helps in visualizing how objects appear from different angles?",
+      "type": "choice",
+      "choices": ["Spatial ability", "Arithmetic", "Memory", "Measurement"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Spatial ability is useful for understanding 3D objects from 2D drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which polygon has the maximum number of diagonals for six sides?",
+      "type": "choice",
+      "choices": ["Hexagon", "Pentagon", "Heptagon", "Octagon"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a polygon where all angles are equal but sides may differ.",
+      "type": "input",
+      "answer": ["equiangular polygon", "equiangular"]
+    },
+    {
+      "text": "Type the term for the skill of imagining rotation or transformation of shapes in 3D.",
+      "type": "input",
+      "answer": ["spatial visualization", "spatial ability"]
+    },
+    {
+      "text": "Which polygon has five sides?",
+      "type": "choice",
+      "choices": ["Pentagon", "Hexagon", "Octagon", "Triangle"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Rotation of Objects",
+  "quiz": [
+    {
+      "text": "Rotation of an object is measured in which unit?",
+      "type": "choice",
+      "choices": ["Meters", "Degrees", "Liters", "Newtons"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Rotating an object changes its size.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which point remains fixed during rotation?",
+      "type": "choice",
+      "choices": ["Vertex", "Axis", "Center of rotation", "Edge"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Clockwise rotation is always positive.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "If an object rotates 90° anticlockwise, how many degrees has it turned?",
+      "type": "choice",
+      "choices": ["45°", "90°", "180°", "270°"],
+      "answer": 1
+    },
+    {
+      "text": "Type the name for the fixed point about which a figure rotates.",
+      "type": "input",
+      "answer": ["center of rotation", "rotation center", "pivot"]
+    },
+    {
+      "text": "Type the term for rotation in the opposite direction to the hands of a clock.",
+      "type": "input",
+      "answer": ["anticlockwise", "counterclockwise"]
+    },
+    {
+      "text": "True or false: Rotating a square 180° gives a different shape.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which rotation turns an object completely around its center?",
+      "type": "choice",
+      "choices": ["180°", "90°", "360°", "270°"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Rotations preserve the size and shape of objects.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Sketching & Shading",
+  "quiz": [
+    {
+      "text": "Which type of line is used for outlining an object in a sketch?",
+      "type": "choice",
+      "choices": ["Dashed line", "Continuous line", "Dotted line", "Hidden line"],
+      "answer": 1
+    },
+    {
+      "text": "Shading helps to show which aspect of a drawing?",
+      "type": "choice",
+      "choices": ["Texture", "Depth and volume", "Scale", "Color only"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Hatching uses parallel lines to create shading effects.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cross-hatching involves overlapping sets of lines.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which pencil grade is darkest for shading?",
+      "type": "choice",
+      "choices": ["2H", "HB", "2B", "6B"],
+      "answer": 3
+    },
+    {
+      "text": "Type the term for lightest part of a shaded object where light falls directly.",
+      "type": "input",
+      "answer": ["highlight", "light spot"]
+    },
+    {
+      "text": "Type the term for the darkest part of a shaded object away from the light source.",
+      "type": "input",
+      "answer": ["shadow", "core shadow", "dark area"]
+    },
+    {
+      "text": "True or false: Shading cannot show the curvature of a surface.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which technique uses dots instead of lines for shading?",
+      "type": "choice",
+      "choices": ["Stippling", "Hatching", "Cross-hatching", "Scribbling"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sketching is always done in color.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Tangents",
+  "quiz": [
+    {
+      "text": "A tangent touches a circle at how many points?",
+      "type": "choice",
+      "choices": ["0", "1", "2", "3"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A tangent can cross a circle.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "The line perpendicular to a tangent at the point of contact passes through what?",
+      "type": "choice",
+      "choices": ["Center of the circle", "Edge of the circle", "Any point outside", "Diameter only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Two tangents can be drawn from an external point to a circle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes a line that touches two circles externally?",
+      "type": "choice",
+      "choices": ["Common tangent", "Secant", "Chord", "Radius"],
+      "answer": 0
+    },
+    {
+      "text": "Type the point where a tangent touches a circle.",
+      "type": "input",
+      "answer": ["point of contact", "contact point"]
+    },
+    {
+      "text": "Type the line joining the center of a circle to the point of contact with a tangent.",
+      "type": "input",
+      "answer": ["radius", "center line"]
+    },
+    {
+      "text": "True or false: A tangent is always perpendicular to the radius at the point of contact.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of tangent touches a circle from inside?",
+      "type": "choice",
+      "choices": ["Internal tangent", "External tangent", "Secant", "Chord"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tangents exist only for circles.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Transformation Geometry",
+  "quiz": [
+    {
+      "text": "Which transformation flips a shape over a line?",
+      "type": "choice",
+      "choices": ["Translation", "Reflection", "Rotation", "Dilation"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Translation changes the size of a shape.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which transformation rotates a shape around a fixed point?",
+      "type": "choice",
+      "choices": ["Rotation", "Reflection", "Translation", "Enlargement"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rotation preserves the shape and size of an object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which transformation enlarges or reduces a shape proportionally?",
+      "type": "choice",
+      "choices": ["Translation", "Rotation", "Dilation", "Reflection"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Reflection produces a mirror image.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which transformation slides a shape from one position to another?",
+      "type": "choice",
+      "choices": ["Translation", "Rotation", "Reflection", "Dilation"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a transformation that changes size but keeps shape the same.",
+      "type": "input",
+      "answer": ["dilation", "scaling", "enlargement", "reduction"]
+    },
+    {
+      "text": "Type the term for a fixed point around which rotation occurs.",
+      "type": "input",
+      "answer": ["center of rotation", "rotation center", "pivot point"]
+    },
+    {
+      "text": "Which transformation uses a line to create a mirrored shape?",
+      "type": "choice",
+      "choices": ["Reflection", "Translation", "Rotation", "Enlargement"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Graphics",
+  "topic": "Trigonometry",
+  "quiz": [
+    {
+      "text": "Which trigonometric ratio is opposite over hypotenuse?",
+      "type": "choice",
+      "choices": ["Sine", "Cosine", "Tangent", "Cotangent"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Cosine is defined as adjacent over hypotenuse.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which ratio is opposite over adjacent in a right triangle?",
+      "type": "choice",
+      "choices": ["Sine", "Cosine", "Tangent", "Secant"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Tangent equals sine divided by cosine.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which ratio is the reciprocal of sine?",
+      "type": "choice",
+      "choices": ["Cosecant", "Secant", "Cotangent", "Cosine"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Trigonometry is only used with right-angled triangles.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which ratio is the reciprocal of cosine?",
+      "type": "choice",
+      "choices": ["Secant", "Cosecant", "Tangent", "Cotangent"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the longest side of a right triangle.",
+      "type": "input",
+      "answer": ["hypotenuse"]
+    },
+    {
+      "text": "Type the trigonometric ratio defined as adjacent over opposite.",
+      "type": "input",
+      "answer": ["cotangent", "cot"]
+    },
+    {
+      "text": "Which trigonometric ratio equals 1 divided by tangent?",
+      "type": "choice",
+      "choices": ["Cotangent", "Cosecant", "Secant", "Sine"],
+      "answer": 0
+    }
+  ]
+}
+]

@@ -1,0 +1,734 @@
+[
+{
+  "subject": "CSPE",
+  "topic": "Caring for the Environment",
+  "quiz": [
+    {
+      "text": "Which of these is a renewable energy source?",
+      "type": "choice",
+      "choices": ["Solar power", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice helps reduce waste?",
+      "type": "choice",
+      "choices": ["Recycling", "Littering", "Burning trash", "Overpackaging"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these contributes most to global warming?",
+      "type": "choice",
+      "choices": ["Fossil fuels", "Wind power", "Solar power", "Hydroelectricity"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these protects biodiversity?",
+      "type": "choice",
+      "choices": ["Nature reserves", "Deforestation", "Overfishing", "Pollution"],
+      "answer": 0
+    },
+    {
+      "text": "Which activity reduces air pollution?",
+      "type": "choice",
+      "choices": ["Using public transport", "Driving more cars", "Burning coal", "Flaring gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Recycling paper helps save trees.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Planting more trees contributes to carbon absorption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Using plastic bags is environmentally friendly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one renewable energy source.",
+      "type": "input",
+      "answer": ["solar power", "wind power", "hydroelectricity", "geothermal"]
+    },
+    {
+      "text": "Give one way to reduce waste.",
+      "type": "input",
+      "answer": ["recycling", "composting", "reusing", "reducing packaging"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "European Union",
+  "quiz": [
+    {
+      "text": "When was the European Union officially established?",
+      "type": "choice",
+      "choices": ["1993", "1950", "2000", "1986"],
+      "answer": 0
+    },
+    {
+      "text": "Which city is the EU headquarters located in?",
+      "type": "choice",
+      "choices": ["Brussels", "Paris", "Rome", "Berlin"],
+      "answer": 0
+    },
+    {
+      "text": "Which EU institution proposes legislation?",
+      "type": "choice",
+      "choices": ["European Commission", "European Parliament", "Council of Europe", "ECJ"],
+      "answer": 0
+    },
+    {
+      "text": "Which EU country is not part of the Eurozone?",
+      "type": "choice",
+      "choices": ["Poland", "Germany", "France", "Italy"],
+      "answer": 0
+    },
+    {
+      "text": "Which EU institution represents member states?",
+      "type": "choice",
+      "choices": ["Council of the EU", "European Parliament", "European Commission", "ECB"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The EU has a single currency used by all members.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The European Commission can propose new laws.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Every EU member country must adopt the euro.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one EU institution.",
+      "type": "input",
+      "answer": ["european commission", "european parliament", "council of the eu", "ecj"]
+    },
+    {
+      "text": "Give one EU country not using the euro.",
+      "type": "input",
+      "answer": ["poland", "hungary", "sweden", "denmark"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Fair Trade",
+  "quiz": [
+    {
+      "text": "What is the main goal of fair trade?",
+      "type": "choice",
+      "choices": ["Ensure fair wages for producers", "Increase corporate profits", "Reduce taxes", "Promote automation"],
+      "answer": 0
+    },
+    {
+      "text": "Which product is commonly associated with fair trade?",
+      "type": "choice",
+      "choices": ["Coffee", "Cars", "Smartphones", "Software"],
+      "answer": 0
+    },
+    {
+      "text": "Fair trade helps farmers in which way?",
+      "type": "choice",
+      "choices": ["Receive fair prices", "Work longer hours", "Reduce quality standards", "Pay more taxes"],
+      "answer": 0
+    },
+    {
+      "text": "Which symbol indicates a product is fair trade certified?",
+      "type": "choice",
+      "choices": ["Fairtrade mark", "Organic seal", "Recycling logo", "CE mark"],
+      "answer": 0
+    },
+    {
+      "text": "Fair trade promotes which of the following?",
+      "type": "choice",
+      "choices": ["Sustainable farming practices", "Child labour", "Deforestation", "Exploitation of workers"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fair trade focuses on ethical treatment of producers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fair trade allows companies to exploit farmers for cheaper goods.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Only coffee can be fair trade certified.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one product commonly certified as fair trade.",
+      "type": "input",
+      "answer": ["coffee", "chocolate", "tea", "cocoa"]
+    },
+    {
+      "text": "Give one main goal of fair trade.",
+      "type": "input",
+      "answer": ["fair wages", "ethical treatment", "sustainable farming", "supporting producers"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Human Rights & Dignity",
+  "quiz": [
+    {
+      "text": "Which document lists fundamental human rights?",
+      "type": "choice",
+      "choices": ["Universal Declaration of Human Rights", "Magna Carta", "Code of Hammurabi", "Napoleonic Code"],
+      "answer": 0
+    },
+    {
+      "text": "Which right protects freedom of speech?",
+      "type": "choice",
+      "choices": ["Civil rights", "Property rights", "Voting rights", "Trade rights"],
+      "answer": 0
+    },
+    {
+      "text": "The right to education is an example of which type of right?",
+      "type": "choice",
+      "choices": ["Economic, social and cultural right", "Civil and political right", "Property right", "Voting right"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a violation of human dignity?",
+      "type": "choice",
+      "choices": ["Discrimination", "Healthcare access", "Fair trial", "Freedom of speech"],
+      "answer": 0
+    },
+    {
+      "text": "Which organization works to promote human rights worldwide?",
+      "type": "choice",
+      "choices": ["United Nations", "NATO", "IMF", "World Bank"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every person is entitled to human rights regardless of nationality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Human dignity can be ignored by governments legally.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The right to life is a fundamental human right.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one fundamental human right.",
+      "type": "input",
+      "answer": ["freedom of speech", "right to education", "right to life", "freedom of religion"]
+    },
+    {
+      "text": "Give one organization that protects human rights.",
+      "type": "input",
+      "answer": ["united nations", "amnesty international", "human rights watch", "red cross"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Name this person",
+  "quiz": [
+    {
+      "text": "Who is known for leading India to independence through non-violent protest?",
+      "type": "choice",
+      "choices": ["Mahatma Gandhi", "Nelson Mandela", "Martin Luther King Jr.", "Winston Churchill"],
+      "answer": 0
+    },
+    {
+      "text": "Who fought against apartheid in South Africa?",
+      "type": "choice",
+      "choices": ["Nelson Mandela", "Mahatma Gandhi", "Abraham Lincoln", "Franklin D. Roosevelt"],
+      "answer": 0
+    },
+    {
+      "text": "Who delivered the 'I Have a Dream' speech in the USA?",
+      "type": "choice",
+      "choices": ["Martin Luther King Jr.", "Barack Obama", "Frederick Douglass", "Malcolm X"],
+      "answer": 0
+    },
+    {
+      "text": "Who was the first female Prime Minister of the UK?",
+      "type": "choice",
+      "choices": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Indira Gandhi"],
+      "answer": 0
+    },
+    {
+      "text": "Who is considered the father of modern democracy in the US?",
+      "type": "choice",
+      "choices": ["Thomas Jefferson", "George Washington", "Benjamin Franklin", "James Madison"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Mahatma Gandhi used violence to achieve independence.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Nelson Mandela became President of South Africa.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Martin Luther King Jr. fought for civil rights in South Africa.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one leader known for non-violent protest.",
+      "type": "input",
+      "answer": ["mahatma gandhi", "martin luther king jr.", "nelson mandela"]
+    },
+    {
+      "text": "Give one world leader who fought for equality.",
+      "type": "input",
+      "answer": ["nelson mandela", "martin luther king jr.", "mahatma gandhi"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Politics & Government",
+  "quiz": [
+    {
+      "text": "What is the lower house of the Irish parliament called?",
+      "type": "choice",
+      "choices": ["Dáil Éireann", "Seanad Éireann", "House of Commons", "Senate"],
+      "answer": 0
+    },
+    {
+      "text": "Who is the head of the Irish government?",
+      "type": "choice",
+      "choices": ["Taoiseach", "President", "Prime Minister", "Chancellor"],
+      "answer": 0
+    },
+    {
+      "text": "What type of government does Ireland have?",
+      "type": "choice",
+      "choices": ["Parliamentary democracy", "Absolute monarchy", "Dictatorship", "Federal state"],
+      "answer": 0
+    },
+    {
+      "text": "Who represents Ireland at the United Nations?",
+      "type": "choice",
+      "choices": ["Ambassador to the UN", "Taoiseach", "President", "Minister for Foreign Affairs"],
+      "answer": 0
+    },
+    {
+      "text": "Which institution reviews proposed laws in Ireland?",
+      "type": "choice",
+      "choices": ["Seanad Éireann", "Dáil Éireann", "President", "Supreme Court"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Taoiseach is the President of Ireland.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ireland is a parliamentary democracy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Dáil Éireann is the upper house of parliament.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give the name of the head of the Irish government.",
+      "type": "input",
+      "answer": ["taoiseach"]
+    },
+    {
+      "text": "Give the name of the lower house of the Irish parliament.",
+      "type": "input",
+      "answer": ["dáil éireann", "dail eireann"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Refugees & Racism",
+  "quiz": [
+    {
+      "text": "What is a refugee?",
+      "type": "choice",
+      "choices": ["A person forced to flee their country due to conflict", "A tourist", "An immigrant for work", "A student studying abroad"],
+      "answer": 0
+    },
+    {
+      "text": "Which organization helps protect refugees worldwide?",
+      "type": "choice",
+      "choices": ["UNHCR", "WHO", "UNICEF", "IMF"],
+      "answer": 0
+    },
+    {
+      "text": "Racism can be defined as?",
+      "type": "choice",
+      "choices": ["Discrimination based on race", "Friendship between people", "International trade", "Voting rights"],
+      "answer": 0
+    },
+    {
+      "text": "Which action helps reduce racism?",
+      "type": "choice",
+      "choices": ["Education about diversity", "Ignoring diversity", "Segregation", "Excluding people"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of supporting refugees?",
+      "type": "choice",
+      "choices": ["Providing shelter", "Discrimination", "Eviction", "Exclusion from schools"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Refugees leave their country voluntarily for tourism.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Racism is a violation of human rights.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All refugees are immigrants seeking work.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one organization that helps refugees.",
+      "type": "input",
+      "answer": ["unhcr", "united nations high commissioner for refugees"]
+    },
+    {
+      "text": "Give one action that helps combat racism.",
+      "type": "input",
+      "answer": ["education", "promoting diversity", "anti-discrimination", "inclusion"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "The Law and Justice",
+  "quiz": [
+    {
+      "text": "Which body makes laws in Ireland?",
+      "type": "choice",
+      "choices": ["Oireachtas", "Taoiseach", "President", "Supreme Court"],
+      "answer": 0
+    },
+    {
+      "text": "Which court is the highest in Ireland?",
+      "type": "choice",
+      "choices": ["Supreme Court", "District Court", "Circuit Court", "High Court"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of the law?",
+      "type": "choice",
+      "choices": ["To maintain order and protect rights", "To punish only", "To confuse citizens", "To control trade"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a criminal offence?",
+      "type": "choice",
+      "choices": ["Theft", "Helping a neighbour", "Voting", "Volunteering"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle ensures everyone is equal before the law?",
+      "type": "choice",
+      "choices": ["Rule of law", "Absolute power", "Dictatorship", "Monarchy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Laws only apply to some people in society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The law protects individual rights.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Courts can decide if laws are being followed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one court in Ireland.",
+      "type": "input",
+      "answer": ["supreme court", "district court", "circuit court", "high court"]
+    },
+    {
+      "text": "Give one purpose of the law.",
+      "type": "input",
+      "answer": ["maintain order", "protect rights", "ensure justice", "regulate behaviour"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Third World Problems",
+  "quiz": [
+    {
+      "text": "Which of the following is a common problem in third world countries?",
+      "type": "choice",
+      "choices": ["Poverty", "High-speed internet", "Advanced healthcare", "Space exploration"],
+      "answer": 0
+    },
+    {
+      "text": "Which issue is linked to lack of clean water?",
+      "type": "choice",
+      "choices": ["Disease", "Traffic jams", "Tourism", "Luxury housing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor often limits education in third world countries?",
+      "type": "choice",
+      "choices": ["Poverty", "Abundance of teachers", "Government funding surplus", "Overpopulation of universities"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a solution to hunger in developing countries?",
+      "type": "choice",
+      "choices": ["Food aid programs", "Increasing taxes", "Building skyscrapers", "Reducing schools"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these contributes to poor healthcare?",
+      "type": "choice",
+      "choices": ["Lack of hospitals", "High literacy rates", "Good sanitation", "Abundant doctors"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Poverty is only caused by laziness.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Lack of clean water can lead to disease.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Third world problems can be solved by international aid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one problem faced by developing countries.",
+      "type": "input",
+      "answer": ["poverty", "hunger", "disease", "lack of education"]
+    },
+    {
+      "text": "Give one solution to help third world problems.",
+      "type": "input",
+      "answer": ["international aid", "food programs", "building hospitals", "education initiatives"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "United Nations",
+  "quiz": [
+    {
+      "text": "When was the United Nations founded?",
+      "type": "choice",
+      "choices": ["1945", "1919", "1939", "1960"],
+      "answer": 0
+    },
+    {
+      "text": "Where is the UN headquarters located?",
+      "type": "choice",
+      "choices": ["New York", "Geneva", "London", "Paris"],
+      "answer": 0
+    },
+    {
+      "text": "Which UN body focuses on peacekeeping?",
+      "type": "choice",
+      "choices": ["Security Council", "General Assembly", "Economic Council", "Health Council"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a UN initiative?",
+      "type": "choice",
+      "choices": ["Sustainable Development Goals", "Cold War", "Marshall Plan", "Eurozone"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle guides the UN?",
+      "type": "choice",
+      "choices": ["Maintaining international peace and security", "Increasing trade tariffs", "Expanding empires", "Limiting human rights"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The UN was founded after World War II.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The UN only helps one country at a time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The UN promotes human rights worldwide.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one main goal of the United Nations.",
+      "type": "input",
+      "answer": ["peacekeeping", "human rights", "international cooperation", "security"]
+    },
+    {
+      "text": "Give the location of the UN headquarters.",
+      "type": "input",
+      "answer": ["new york", "new york city"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Your local community...",
+  "quiz": [
+    {
+      "text": "Which of these is part of a local community?",
+      "type": "choice",
+      "choices": ["Schools, shops, parks", "Space stations", "Mount Everest", "Amazon rainforest"],
+      "answer": 0
+    },
+    {
+      "text": "Who helps keep the community safe?",
+      "type": "choice",
+      "choices": ["Police", "Astronauts", "Athletes", "Chefs"],
+      "answer": 0
+    },
+    {
+      "text": "Which service is important in a local community?",
+      "type": "choice",
+      "choices": ["Healthcare", "Skydiving", "Video gaming", "Space travel"],
+      "answer": 0
+    },
+    {
+      "text": "Which group helps organise local events?",
+      "type": "choice",
+      "choices": ["Community councils", "Air traffic controllers", "Pilots", "Movie directors"],
+      "answer": 0
+    },
+    {
+      "text": "What helps improve a local environment?",
+      "type": "choice",
+      "choices": ["Recycling programs", "Mining in parks", "Polluting rivers", "Building factories everywhere"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Your local community has no impact on your daily life.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Volunteering helps the local community.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Parks and playgrounds are not part of a community.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one service that benefits your local community.",
+      "type": "input",
+      "answer": ["healthcare", "police", "schools", "parks"]
+    },
+    {
+      "text": "Give one way to help improve your local community.",
+      "type": "input",
+      "answer": ["volunteering", "recycling", "community clean-ups", "supporting local businesses"]
+    }
+  ]
+},
+{
+  "subject": "CSPE",
+  "topic": "Your School...",
+  "quiz": [
+    {
+      "text": "Who manages a school?",
+      "type": "choice",
+      "choices": ["Principal", "Mayor", "Taoiseach", "Coach"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a school activity?",
+      "type": "choice",
+      "choices": ["Classes, clubs, sports", "Space travel", "Mining", "Banking"],
+      "answer": 0
+    },
+    {
+      "text": "What helps maintain school safety?",
+      "type": "choice",
+      "choices": ["Rules and supervision", "No rules", "Pollution", "Space research"],
+      "answer": 0
+    },
+    {
+      "text": "Which group represents student interests?",
+      "type": "choice",
+      "choices": ["Student council", "Police", "Parents", "Astronauts"],
+      "answer": 0
+    },
+    {
+      "text": "Which action helps improve a school environment?",
+      "type": "choice",
+      "choices": ["Keeping it clean", "Littering", "Breaking equipment", "Ignoring safety rules"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Students have no responsibilities in school.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Clubs and sports are part of school life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Following rules does not affect school safety.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one way students can help improve their school.",
+      "type": "input",
+      "answer": ["keeping it clean", "volunteering", "joining clubs", "helping peers"]
+    },
+    {
+      "text": "Give one person responsible for managing the school.",
+      "type": "input",
+      "answer": ["principal", "head teacher"]
+    }
+  ]
+}
+]

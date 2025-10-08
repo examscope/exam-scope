@@ -1,0 +1,612 @@
+[
+{
+  "subject": "Politics and Society",
+  "topic": "1: Power and decision-making at national and European level",
+  "quiz": [
+    {
+      "text": "Which body makes laws at the national level in Ireland?",
+      "type": "choice",
+      "choices": ["Oireachtas", "European Parliament", "European Commission", "Council of Ministers"],
+      "answer": 0
+    },
+    {
+      "text": "Which institution represents citizens in the European Union?",
+      "type": "choice",
+      "choices": ["European Parliament", "European Council", "European Court of Justice", "European Commission"],
+      "answer": 0
+    },
+    {
+      "text": "Who is the head of government in Ireland?",
+      "type": "choice",
+      "choices": ["Taoiseach", "President", "Minister for Finance", "Ceann Comhairle"],
+      "answer": 0
+    },
+    {
+      "text": "Which EU body proposes new laws?",
+      "type": "choice",
+      "choices": ["European Commission", "European Parliament", "Council of the EU", "European Court of Justice"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a key decision-making method in the EU?",
+      "type": "choice",
+      "choices": ["Qualified majority voting", "Referendum only", "Monarchy decree", "Unanimous veto only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The European Court of Justice can overrule national laws.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Taoiseach is elected directly by citizens.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Council of the EU represents member states' governments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write one function of the European Parliament.",
+      "type": "input",
+      "answer": ["passing laws", "approving budgets", "representing citizens"]
+    },
+    {
+      "text": "Name one method used to make decisions in the Oireachtas.",
+      "type": "input",
+      "answer": ["voting", "committee discussion", "debate"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "1: Power and decision-making in the school",
+  "quiz": [
+    {
+      "text": "Who makes decisions about school rules?",
+      "type": "choice",
+      "choices": ["Principal", "Teachers only", "Students only", "Parents only"],
+      "answer": 0
+    },
+    {
+      "text": "Which body represents students in school decisions?",
+      "type": "choice",
+      "choices": ["Student Council", "Board of Management", "Parents' Association", "Teachers' Union"],
+      "answer": 0
+    },
+    {
+      "text": "Who manages financial decisions in the school?",
+      "type": "choice",
+      "choices": ["Board of Management", "Principal", "Student Council", "Teachers' Union"],
+      "answer": 0
+    },
+    {
+      "text": "Which group can suggest changes to school policy?",
+      "type": "choice",
+      "choices": ["Teachers, students and parents", "Only the principal", "Only teachers", "Only students"],
+      "answer": 0
+    },
+    {
+      "text": "Decisions in school are usually made through which method?",
+      "type": "choice",
+      "choices": ["Voting and consultation", "Monarchy rule", "Referendum only", "Random selection"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Students have no voice in school decision-making.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The principal must consult the Board of Management for major changes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Parents have no role in school governance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write one role of the Student Council.",
+      "type": "input",
+      "answer": ["representing students", "organising events", "advising management"]
+    },
+    {
+      "text": "Give one example of a decision students can influence in school.",
+      "type": "input",
+      "answer": ["school rules", "clubs", "events", "uniform policy"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "2: Effectively contributing to communities",
+  "quiz": [
+    {
+      "text": "Which of the following is a way to contribute to a community?",
+      "type": "choice",
+      "choices": ["Volunteering", "Ignoring problems", "Only focusing on personal gain", "Avoiding participation"],
+      "answer": 0
+    },
+    {
+      "text": "Which group can help organise community projects?",
+      "type": "choice",
+      "choices": ["Community associations", "Government only", "Businesses only", "Students only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a benefit of community involvement?",
+      "type": "choice",
+      "choices": ["Stronger relationships", "Isolation", "Less safety", "Lower support networks"],
+      "answer": 0
+    },
+    {
+      "text": "What is one way young people can contribute to their local community?",
+      "type": "choice",
+      "choices": ["Joining a volunteer group", "Staying home", "Avoiding events", "Skipping school projects"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of civic engagement?",
+      "type": "choice",
+      "choices": ["Voting", "Skipping school", "Ignoring neighbours", "Private hobbies only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Contributing to a community only benefits others, not yourself.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Volunteer work can improve personal skills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Effective contribution requires communication and cooperation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write one example of contributing to a community.",
+      "type": "input",
+      "answer": ["volunteering", "organising events", "clean-up projects"]
+    },
+    {
+      "text": "Give one reason why community participation is important.",
+      "type": "input",
+      "answer": ["strengthens relationships", "helps others", "builds skills"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "2: Rights and responsibilities in communication with others",
+  "quiz": [
+    {
+      "text": "Which of the following is a right in communication?",
+      "type": "choice",
+      "choices": ["Freedom of expression", "Ignoring others", "Talking only to friends", "Spreading false information"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a responsibility in communication?",
+      "type": "choice",
+      "choices": ["Respecting others", "Interrupting constantly", "Ignoring rules", "Using offensive language"],
+      "answer": 0
+    },
+    {
+      "text": "Which medium allows instant communication worldwide?",
+      "type": "choice",
+      "choices": ["Internet", "Letters", "Telegrams", "Carrier pigeons"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle ensures fair communication in society?",
+      "type": "choice",
+      "choices": ["Listening to others", "Ignoring feedback", "Only speaking loudly", "Avoiding communication"],
+      "answer": 0
+    },
+    {
+      "text": "What is one way to respect rights in communication?",
+      "type": "choice",
+      "choices": ["Avoid spreading false information", "Interrupt others", "Talk over others", "Ignore opinions"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Everyone has the right to express opinions peacefully.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Responsibilities in communication include honesty and respect.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Freedom of expression allows hurting others without consequences.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write one responsibility people have when communicating online.",
+      "type": "input",
+      "answer": ["being respectful", "avoiding harmful content", "checking facts"]
+    },
+    {
+      "text": "Give one example of a right in communication.",
+      "type": "input",
+      "answer": ["freedom of speech", "right to express opinion", "right to ask questions"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "3: Human rights and responsibilities in Europe and the wider world",
+  "quiz": [
+    {
+      "text": "Which document protects human rights in Europe?",
+      "type": "choice",
+      "choices": ["European Convention on Human Rights", "Treaty of Lisbon", "EU Charter of Citizens", "European Union Treaty"],
+      "answer": 0
+    },
+    {
+      "text": "Which body enforces human rights in Europe?",
+      "type": "choice",
+      "choices": ["European Court of Human Rights", "European Commission", "European Parliament", "Council of Europe"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a fundamental human right?",
+      "type": "choice",
+      "choices": ["Freedom of expression", "Driving without a license", "Owning weapons freely", "Avoiding taxes"],
+      "answer": 0
+    },
+    {
+      "text": "Which international organisation promotes human rights worldwide?",
+      "type": "choice",
+      "choices": ["United Nations", "NATO", "World Bank", "IMF"],
+      "answer": 0
+    },
+    {
+      "text": "What responsibility accompanies human rights?",
+      "type": "choice",
+      "choices": ["Respecting others' rights", "Ignoring laws", "Focusing only on self", "Breaking rules when convenient"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Human rights are the same in every country.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Every individual has responsibilities to respect others' rights.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The UN can enforce human rights globally without cooperation from states.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write one example of a human right in Europe.",
+      "type": "input",
+      "answer": ["freedom of speech", "right to education", "right to life"]
+    },
+    {
+      "text": "Give one responsibility people have regarding human rights.",
+      "type": "input",
+      "answer": ["respecting others", "not discriminating", "obeying laws"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "3: Human rights and responsibilities in Ireland",
+  "quiz": [
+    {
+      "text": "Which Irish law protects human rights?",
+      "type": "choice",
+      "choices": ["Constitution of Ireland", "Treaty of Lisbon", "European Union Treaty", "Local council rules"],
+      "answer": 0
+    },
+    {
+      "text": "Which body investigates human rights complaints in Ireland?",
+      "type": "choice",
+      "choices": ["Irish Human Rights and Equality Commission", "Supreme Court only", "Oireachtas", "Department of Finance"],
+      "answer": 0
+    },
+    {
+      "text": "Which right is guaranteed by the Irish Constitution?",
+      "type": "choice",
+      "choices": ["Freedom of speech", "Right to free housing", "Free healthcare for all", "Unlimited voting age"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a responsibility of Irish citizens?",
+      "type": "choice",
+      "choices": ["Respecting laws", "Ignoring taxes", "Avoiding voting", "Breaking curfew freely"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these groups monitors equality and rights in Ireland?",
+      "type": "choice",
+      "choices": ["IHREC", "Gardaí only", "Oireachtas committees only", "Supreme Court only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every person in Ireland has the right to fair treatment under the law.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Citizens have no responsibilities regarding the rights of others.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Irish Constitution only applies to citizens, not residents.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write one human right guaranteed in Ireland.",
+      "type": "input",
+      "answer": ["freedom of speech", "right to education", "right to vote"]
+    },
+    {
+      "text": "Give one responsibility of Irish citizens in protecting human rights.",
+      "type": "input",
+      "answer": ["respecting laws", "not discriminating", "respecting others' rights"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "4: Globalisation and identity",
+  "quiz": [
+    {
+      "text": "Which of the following is a feature of globalisation?",
+      "type": "choice",
+      "choices": ["Increased trade", "Closed borders", "Local-only production", "Reduced communication"],
+      "answer": 0
+    },
+    {
+      "text": "Globalisation can influence identity through:",
+      "type": "choice",
+      "choices": ["Culture exchange", "Isolation", "Ignoring media", "Limiting travel"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an effect of globalisation on national identity?",
+      "type": "choice",
+      "choices": ["Cultural blending", "No influence", "Complete isolation", "Identity remains unchanged"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector is most affected by globalisation?",
+      "type": "choice",
+      "choices": ["Economy", "Only schools", "Local parks", "Private gardens"],
+      "answer": 0
+    },
+    {
+      "text": "Which technology has accelerated globalisation?",
+      "type": "choice",
+      "choices": ["Internet", "Typewriter", "Telegraph only", "Windmill"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Globalisation only has positive effects.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Globalisation can influence languages and communication styles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Globalisation has no impact on culture.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of globalisation affecting personal identity.",
+      "type": "input",
+      "answer": ["learning foreign languages", "consuming global media", "adopting new cultural habits"]
+    },
+    {
+      "text": "Write one effect of globalisation on communities.",
+      "type": "input",
+      "answer": ["cultural blending", "economic growth", "social change"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "4: Sustainable development",
+  "quiz": [
+    {
+      "text": "Which of the following is a goal of sustainable development?",
+      "type": "choice",
+      "choices": ["Protecting the environment", "Increasing pollution", "Overusing resources", "Ignoring climate change"],
+      "answer": 0
+    },
+    {
+      "text": "Which resource should be used sustainably?",
+      "type": "choice",
+      "choices": ["Water", "Air", "Sunlight", "Internet"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector can contribute to sustainable development?",
+      "type": "choice",
+      "choices": ["Energy", "Fashion only", "Cinema only", "Sports only"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice supports sustainability?",
+      "type": "choice",
+      "choices": ["Recycling", "Throwing waste everywhere", "Overconsumption", "Ignoring regulations"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation promotes sustainable development globally?",
+      "type": "choice",
+      "choices": ["United Nations", "NATO", "IMF", "OECD only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sustainable development focuses only on economic growth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Using renewable energy supports sustainability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Sustainable development ignores social needs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write one way individuals can promote sustainable development.",
+      "type": "input",
+      "answer": ["recycling", "using renewable energy", "reducing waste"]
+    },
+    {
+      "text": "Give one long-term benefit of sustainable development.",
+      "type": "input",
+      "answer": ["protecting environment", "future resource availability", "reducing climate change"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "Data-Based questions",
+  "quiz": [
+    {
+      "text": "Which type of graph is best for showing trends over time?",
+      "type": "choice",
+      "choices": ["Line graph", "Pie chart", "Bar chart", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of graph is best for showing percentages of a whole?",
+      "type": "choice",
+      "choices": ["Pie chart", "Line graph", "Scatter plot", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure indicates the middle value in a data set?",
+      "type": "choice",
+      "choices": ["Median", "Mean", "Mode", "Range"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure shows the average of a data set?",
+      "type": "choice",
+      "choices": ["Mean", "Median", "Mode", "Variance"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure shows the most frequently occurring value?",
+      "type": "choice",
+      "choices": ["Mode", "Mean", "Median", "Range"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Data can be both qualitative and quantitative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A bar chart can be used to compare categories.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pie charts are best for showing changes over time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of quantitative data.",
+      "type": "input",
+      "answer": ["population", "number of students", "temperature"]
+    },
+    {
+      "text": "Give one example of qualitative data.",
+      "type": "input",
+      "answer": ["gender", "opinion", "colour of cars"]
+    }
+  ]
+},
+{
+  "subject": "Politics and Society",
+  "topic": "Key Thinkers",
+  "quiz": [
+    {
+      "text": "Who is known as the father of modern democracy?",
+      "type": "choice",
+      "choices": ["John Locke", "Karl Marx", "Plato", "Niccolò Machiavelli"],
+      "answer": 0
+    },
+    {
+      "text": "Which thinker wrote 'The Social Contract'?",
+      "type": "choice",
+      "choices": ["Jean-Jacques Rousseau", "John Locke", "Adam Smith", "Thomas Hobbes"],
+      "answer": 0
+    },
+    {
+      "text": "Which thinker is associated with communism?",
+      "type": "choice",
+      "choices": ["Karl Marx", "John Locke", "Jean-Jacques Rousseau", "Aristotle"],
+      "answer": 0
+    },
+    {
+      "text": "Which philosopher focused on human rights and natural law?",
+      "type": "choice",
+      "choices": ["John Locke", "Karl Marx", "Thomas Hobbes", "Jean-Jacques Rousseau"],
+      "answer": 0
+    },
+    {
+      "text": "Which thinker wrote 'The Prince' about power and politics?",
+      "type": "choice",
+      "choices": ["Niccolò Machiavelli", "Plato", "Aristotle", "Jean-Jacques Rousseau"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: John Locke influenced liberal political theory.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Karl Marx wrote extensively on capitalism.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rousseau believed society should control all individual freedoms.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one key idea from John Locke.",
+      "type": "input",
+      "answer": ["natural rights", "life, liberty, property", "government by consent"]
+    },
+    {
+      "text": "Give one key idea from Karl Marx.",
+      "type": "input",
+      "answer": ["class struggle", "communism", "economic equality"]
+    }
+  ]
+}
+]

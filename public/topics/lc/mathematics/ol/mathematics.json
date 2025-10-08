@@ -1,0 +1,26 @@
+{
+  "certificate": "lc",
+  "subject": "mathematics",
+  "level": "ol",
+  "topics": [
+    "Algebra",
+    "Algebra - Equations",
+    "Area & Volume",
+    "Co-Ordinate Geometry of the Line",
+    "Co-Ordinate Geometry the Circle",
+    "Complex Numbers",
+    "Counting",
+    "Differentiation",
+    "Financial Maths",
+    "Functions",
+    "Geometry",
+    "Geometry (Proofs and Constructions)",
+    "Graphing Functions",
+    "Indices",
+    "Number Systems",
+    "Probability",
+    "Sequences & Series",
+    "Statistics",
+    "Trigonometry"
+  ]
+}

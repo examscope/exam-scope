@@ -1,0 +1,1325 @@
+[
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Expressions",
+  "quiz": [
+    {
+      "text": "Simplify: 3x + 5x - 2",
+      "type": "choice",
+      "choices": ["8x - 2", "15x", "2x + 5", "8x + 2"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 4y - 7 + 3y + 2",
+      "type": "choice",
+      "choices": ["7y - 5", "7y + 5", "y - 5", "7y - 9"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 7m + 2n - 3m + n",
+      "type": "choice",
+      "choices": ["4m + 3n", "10m + 3n", "4m + n", "10m + n"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 9p - 4p + 7",
+      "type": "choice",
+      "choices": ["5p + 7", "13p", "5p - 7", "9p + 7"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 6a + 8 - 2a - 3",
+      "type": "choice",
+      "choices": ["4a + 5", "8a + 5", "4a + 11", "6a + 5"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 2x + 3x + x - 4",
+      "type": "choice",
+      "choices": ["6x - 4", "5x - 4", "6x + 4", "5x + 4"],
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 3y + 2 - y + 7",
+      "type": "choice",
+      "choices": ["2y + 9", "4y + 9", "2y + 5", "4y + 5"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 2(x + 3) = 2x + 3",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: x^2 + 2x + 3 and 2x + x^2 + 3 are equivalent expressions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 5x - 2x = 3x",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Factorising",
+  "quiz": [
+    {
+      "text": "Factorise: x^2 + 5x",
+      "type": "choice",
+      "choices": ["x(x + 5)", "x(x - 5)", "(x + 5)(x + 5)", "x^2(1 + 5)"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: a^2 - 9",
+      "type": "choice",
+      "choices": ["(a - 3)(a + 3)", "(a - 9)(a + 9)", "a(a - 9)", "(a + 3)^2"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: 6y + 9",
+      "type": "choice",
+      "choices": ["3(2y + 3)", "2(3y + 9)", "6(y + 9)", "3y + 3"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: x^2 + 2x + 1",
+      "type": "choice",
+      "choices": ["(x + 1)^2", "(x - 1)^2", "x(x + 2)", "(x + 1)(x - 1)"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: 4p^2 - 16",
+      "type": "choice",
+      "choices": ["4(p - 2)(p + 2)", "4(p - 4)(p + 4)", "2(p - 4)(p + 4)", "(2p - 4)(2p + 4)"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: 3x^2 + 6x",
+      "type": "choice",
+      "choices": ["3x(x + 2)", "3(x^2 + 2x)", "x(3x + 6)", "3(x + 2)^2"],
+      "answer": 0
+    },
+    {
+      "text": "Factorise: y^2 - 16y + 64",
+      "type": "choice",
+      "choices": ["(y - 8)^2", "(y + 8)^2", "(y - 4)^2", "(y - 16)(y + 4)"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Factorising 6y + 9 gives 3(2y + 3)",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: x^2 + 2x + 1 factorises as (x + 1)^2",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: x^2 - 9 factorises as (x - 3)(x + 3)",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Inequalities",
+  "quiz": [
+    {
+      "text": "Solve for x: 2x + 5 > 9",
+      "type": "choice",
+      "choices": ["x > 2", "x < 2", "x > 7", "x < 7"],
+      "answer": 0
+    },
+    {
+      "text": "Solve for y: 3y - 4 < 11",
+      "type": "choice",
+      "choices": ["y < 5", "y > 5", "y < 7", "y > 7"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 5x + 2 ≤ 12",
+      "type": "choice",
+      "choices": ["x ≤ 2", "x ≥ 2", "x ≤ 10", "x ≥ 10"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 7 - 2x ≥ 3",
+      "type": "choice",
+      "choices": ["x ≤ 2", "x ≥ 2", "x ≤ -2", "x ≥ -2"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: -3y + 5 > 2",
+      "type": "choice",
+      "choices": ["y < 1", "y > 1", "y < -1", "y > -1"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 4x - 7 < 5",
+      "type": "choice",
+      "choices": ["x < 3", "x > 3", "x < -3", "x > -3"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 6 - x ≥ 2",
+      "type": "choice",
+      "choices": ["x ≤ 4", "x ≥ 4", "x ≤ -4", "x ≥ -4"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Reversing an inequality is required when multiplying both sides by a negative number.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: x > 3 is the same as 3 < x",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Solving inequalities follows the same rules as solving equations.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Solving Equations",
+  "quiz": [
+    {
+      "text": "Solve: 2x + 5 = 11",
+      "type": "choice",
+      "choices": ["x = 3", "x = 2", "x = 8", "x = 5"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 3y - 4 = 11",
+      "type": "choice",
+      "choices": ["y = 5", "y = 7", "y = 3", "y = 15"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 5x + 2 = 12",
+      "type": "choice",
+      "choices": ["x = 2", "x = 5", "x = 10", "x = -2"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 7 - 2x = 3",
+      "type": "choice",
+      "choices": ["x = 2", "x = -2", "x = 1", "x = -1"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: -3y + 5 = 2",
+      "type": "choice",
+      "choices": ["y = 1", "y = -1", "y = 2", "y = -2"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 4x - 7 = 5",
+      "type": "choice",
+      "choices": ["x = 3", "x = -3", "x = 1", "x = 2"],
+      "answer": 0
+    },
+    {
+      "text": "Solve: 6 - x = 2",
+      "type": "choice",
+      "choices": ["x = 4", "x = -4", "x = 2", "x = -2"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Both sides of an equation can be multiplied by the same number without changing the solution.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Subtracting the same number from both sides keeps the equation balanced.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You must reverse the sign when adding the same number to both sides.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Word Problems",
+  "quiz": [
+    {
+      "text": "A number increased by 7 is 15. Find the number.",
+      "type": "choice",
+      "choices": ["8", "22", "7", "15"],
+      "answer": 0
+    },
+    {
+      "text": "Twice a number minus 5 is 9. Find the number.",
+      "type": "choice",
+      "choices": ["7", "2", "14", "9"],
+      "answer": 0
+    },
+    {
+      "text": "The sum of three consecutive numbers is 27. Find the numbers.",
+      "type": "choice",
+      "choices": ["8, 9, 10", "7, 8, 9", "9, 10, 11", "6, 7, 8"],
+      "answer": 0
+    },
+    {
+      "text": "The perimeter of a rectangle is 24 cm. Length = 7 cm. Find the width.",
+      "type": "choice",
+      "choices": ["5 cm", "10 cm", "6 cm", "4 cm"],
+      "answer": 0
+    },
+    {
+      "text": "A number divided by 3 and then increased by 4 gives 10. Find the number.",
+      "type": "choice",
+      "choices": ["18", "12", "14", "20"],
+      "answer": 0
+    },
+    {
+      "text": "The sum of two numbers is 20. One number is 8. Find the other number.",
+      "type": "choice",
+      "choices": ["12", "8", "20", "10"],
+      "answer": 0
+    },
+    {
+      "text": "A car travels 60 km more than another car. The total distance is 180 km. Find the distances.",
+      "type": "choice",
+      "choices": ["60 km and 120 km", "50 km and 130 km", "70 km and 110 km", "90 km and 90 km"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Word problems always require forming an equation first.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Checking your answer in the context of the problem is unnecessary.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Consecutive numbers can be represented by x, x+1, x+2, ...",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Area & Volume",
+  "quiz": [
+    {
+      "text": "Find the area of a rectangle with length 8 cm and width 5 cm.",
+      "type": "choice",
+      "choices": ["40 cm²", "13 cm²", "20 cm²", "45 cm²"],
+      "answer": 0
+    },
+    {
+      "text": "Find the area of a triangle with base 10 cm and height 6 cm.",
+      "type": "choice",
+      "choices": ["30 cm²", "16 cm²", "60 cm²", "36 cm²"],
+      "answer": 0
+    },
+    {
+      "text": "Find the volume of a cube with side 4 cm.",
+      "type": "choice",
+      "choices": ["64 cm³", "16 cm³", "12 cm³", "8 cm³"],
+      "answer": 0
+    },
+    {
+      "text": "Find the volume of a cuboid with length 5 cm, width 3 cm, height 2 cm.",
+      "type": "choice",
+      "choices": ["30 cm³", "10 cm³", "15 cm³", "25 cm³"],
+      "answer": 0
+    },
+    {
+      "text": "Find the area of a circle with radius 7 cm. (Use π ≈ 3.14)",
+      "type": "choice",
+      "choices": ["153.86 cm²", "21.98 cm²", "43.96 cm²", "100 cm²"],
+      "answer": 0
+    },
+    {
+      "text": "Find the surface area of a cube with side 5 cm.",
+      "type": "choice",
+      "choices": ["150 cm²", "125 cm²", "75 cm²", "100 cm²"],
+      "answer": 0
+    },
+    {
+      "text": "Find the volume of a cylinder with radius 3 cm and height 10 cm. (Use π ≈ 3.14)",
+      "type": "choice",
+      "choices": ["282.6 cm³", "94.2 cm³", "188.4 cm³", "314 cm³"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Area is measured in square units.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Volume is measured in cubic units.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The formula for the area of a triangle is (1/2) × base × height.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Co-ordinate Geometry",
+  "quiz": [
+    {
+      "text": "Find the midpoint of points A(2,3) and B(6,7).",
+      "type": "choice",
+      "choices": ["(4,5)", "(3,5)", "(4,7)", "(2,5)"],
+      "answer": 0
+    },
+    {
+      "text": "Find the slope of the line passing through (1,2) and (3,6).",
+      "type": "choice",
+      "choices": ["2", "1", "3", "4"],
+      "answer": 0
+    },
+    {
+      "text": "Find the distance between points (0,0) and (3,4).",
+      "type": "choice",
+      "choices": ["5", "7", "6", "4"],
+      "answer": 0
+    },
+    {
+      "text": "Which quadrant contains (-3,5)?",
+      "type": "choice",
+      "choices": ["2nd quadrant", "1st quadrant", "3rd quadrant", "4th quadrant"],
+      "answer": 0
+    },
+    {
+      "text": "Find the equation of a line with slope 2 passing through (1,3).",
+      "type": "choice",
+      "choices": ["y = 2x + 1", "y = 2x + 3", "y = x + 2", "y = 2x - 1"],
+      "answer": 1
+    },
+    {
+      "text": "Find the x-intercept of y = 2x - 6.",
+      "type": "choice",
+      "choices": ["3", "-3", "6", "-6"],
+      "answer": 0
+    },
+    {
+      "text": "Find the y-intercept of y = -x + 4.",
+      "type": "choice",
+      "choices": ["4", "-4", "1", "-1"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The slope of a horizontal line is zero.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The slope of a vertical line is zero.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The midpoint formula is ((x1 + x2)/2, (y1 + y2)/2).",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Constructions",
+  "quiz": [
+    {
+      "text": "Which tool is used to draw a perpendicular bisector of a line?",
+      "type": "choice",
+      "choices": ["Compass", "Protractor", "Ruler", "Set square"],
+      "answer": 0
+    },
+    {
+      "text": "Which construction is used to divide an angle into two equal parts?",
+      "type": "choice",
+      "choices": ["Angle bisector", "Perpendicular", "Parallel line", "Median"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is required to draw an arc of a circle?",
+      "type": "choice",
+      "choices": ["Compass", "Protractor", "Ruler", "Set square"],
+      "answer": 0
+    },
+    {
+      "text": "To construct a triangle given three sides, which method is used?",
+      "type": "choice",
+      "choices": ["SSS", "SAS", "ASA", "AAS"],
+      "answer": 0
+    },
+    {
+      "text": "Which construction gives the perpendicular from a point to a line?",
+      "type": "choice",
+      "choices": ["Perpendicular line", "Angle bisector", "Parallel line", "Median"],
+      "answer": 0
+    },
+    {
+      "text": "Constructing a circle through a given point requires the center and ___?",
+      "type": "choice",
+      "choices": ["Radius", "Diameter", "Chord", "Tangent"],
+      "answer": 0
+    },
+    {
+      "text": "Which construction is used to find the centroid of a triangle?",
+      "type": "choice",
+      "choices": ["Intersection of medians", "Intersection of altitudes", "Intersection of angle bisectors", "Intersection of perpendicular bisectors"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A perpendicular bisector divides a line segment into two equal parts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A median always passes through the centroid of a triangle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A compass can only draw circles of fixed radius.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Counting/Permutations",
+  "quiz": [
+    {
+      "text": "How many ways can 3 books be arranged on a shelf?",
+      "type": "choice",
+      "choices": ["6", "9", "3", "12"],
+      "answer": 0
+    },
+    {
+      "text": "How many ways can 4 students sit in a row of 4 chairs?",
+      "type": "choice",
+      "choices": ["24", "16", "12", "8"],
+      "answer": 0
+    },
+    {
+      "text": "How many 2-digit numbers can be formed using 1, 2, 3 with no repetition?",
+      "type": "choice",
+      "choices": ["6", "9", "3", "12"],
+      "answer": 0
+    },
+    {
+      "text": "How many ways can 5 different coloured flags be arranged in a line?",
+      "type": "choice",
+      "choices": ["120", "60", "24", "20"],
+      "answer": 0
+    },
+    {
+      "text": "How many permutations are there of the letters in 'MAT'?",
+      "type": "choice",
+      "choices": ["6", "3", "9", "12"],
+      "answer": 0
+    },
+    {
+      "text": "How many 3-digit numbers can be formed using digits 1,2,3,4 with repetition allowed?",
+      "type": "choice",
+      "choices": ["64", "24", "12", "16"],
+      "answer": 0
+    },
+    {
+      "text": "How many ways can 3 out of 5 objects be selected and arranged?",
+      "type": "choice",
+      "choices": ["60", "20", "10", "15"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Permutations consider the order of arrangement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Combinations consider the order of arrangement.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 3! = 6",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Distance, Speed & Time",
+  "quiz": [
+    {
+      "text": "A car travels 120 km in 2 hours. Find its speed.",
+      "type": "choice",
+      "choices": ["60 km/h", "30 km/h", "120 km/h", "240 km/h"],
+      "answer": 0
+    },
+    {
+      "text": "A train travels at 80 km/h for 3 hours. How far does it go?",
+      "type": "choice",
+      "choices": ["240 km", "160 km", "180 km", "300 km"],
+      "answer": 0
+    },
+    {
+      "text": "A runner covers 10 km in 50 minutes. What is the speed in km/h?",
+      "type": "choice",
+      "choices": ["12 km/h", "10 km/h", "15 km/h", "20 km/h"],
+      "answer": 0
+    },
+    {
+      "text": "If speed = distance / time, find the time for 150 km at 50 km/h.",
+      "type": "choice",
+      "choices": ["3 h", "2 h", "4 h", "5 h"],
+      "answer": 0
+    },
+    {
+      "text": "A cyclist travels 36 km at 12 km/h. How long does it take?",
+      "type": "choice",
+      "choices": ["3 h", "2 h", "4 h", "5 h"],
+      "answer": 0
+    },
+    {
+      "text": "A car travels 100 km in 2.5 hours. Find its speed.",
+      "type": "choice",
+      "choices": ["40 km/h", "50 km/h", "60 km/h", "45 km/h"],
+      "answer": 0
+    },
+    {
+      "text": "A train goes 360 km in 4 hours. Find its speed.",
+      "type": "choice",
+      "choices": ["90 km/h", "80 km/h", "100 km/h", "85 km/h"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Distance = Speed × Time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Speed and velocity are always the same.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Time = Distance / Speed",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Financial Maths",
+  "quiz": [
+    {
+      "text": "If you invest €100 at 10% simple interest for 2 years, how much interest is earned?",
+      "type": "choice",
+      "choices": ["€20", "€10", "€25", "€30"],
+      "answer": 0
+    },
+    {
+      "text": "If €200 is invested at 5% simple interest for 3 years, find the interest.",
+      "type": "choice",
+      "choices": ["€30", "€25", "€20", "€15"],
+      "answer": 0
+    },
+    {
+      "text": "If €500 is borrowed at 4% simple interest for 2 years, what is the total repayment?",
+      "type": "choice",
+      "choices": ["€540", "€500", "€520", "€550"],
+      "answer": 0
+    },
+    {
+      "text": "Find the compound interest on €1000 at 5% for 2 years.",
+      "type": "choice",
+      "choices": ["€102.50", "€100", "€105", "€95"],
+      "answer": 0
+    },
+    {
+      "text": "What is the future value of €200 at 10% compound interest for 2 years?",
+      "type": "choice",
+      "choices": ["€242", "€220", "€240", "€210"],
+      "answer": 0
+    },
+    {
+      "text": "If €400 earns €40 simple interest in 2 years, find the rate of interest.",
+      "type": "choice",
+      "choices": ["5%", "10%", "8%", "4%"],
+      "answer": 0
+    },
+    {
+      "text": "If €600 grows to €660 in 2 years at simple interest, what was the annual rate?",
+      "type": "choice",
+      "choices": ["5%", "4%", "6%", "8%"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Compound interest is always greater than simple interest over the same time period (if the rate is positive).",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Simple interest is calculated only on the original amount.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Interest rate is usually given per year.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Functions & Graphing Functions",
+  "quiz": [
+    {
+      "text": "If f(x) = 2x + 3, find f(2).",
+      "type": "choice",
+      "choices": ["7", "5", "6", "8"],
+      "answer": 0
+    },
+    {
+      "text": "If f(x) = x², what is f(3)?",
+      "type": "choice",
+      "choices": ["9", "6", "3", "12"],
+      "answer": 0
+    },
+    {
+      "text": "If f(x) = x + 4, what is f(-2)?",
+      "type": "choice",
+      "choices": ["2", "6", "-6", "-2"],
+      "answer": 0
+    },
+    {
+      "text": "If f(x) = 3x - 1, find f(0).",
+      "type": "choice",
+      "choices": ["-1", "0", "1", "3"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph shape represents y = x²?",
+      "type": "choice",
+      "choices": ["Parabola", "Straight line", "Circle", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "If f(x) = 2x, what is f(5)?",
+      "type": "choice",
+      "choices": ["10", "7", "12", "8"],
+      "answer": 0
+    },
+    {
+      "text": "If f(x) = x - 7, what is f(10)?",
+      "type": "choice",
+      "choices": ["3", "17", "7", "-7"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The graph of y = 2x + 1 is a straight line.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The graph of y = x² is a straight line.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Functions can only take positive input values.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Geometry",
+  "quiz": [
+    {
+      "text": "What is the sum of the angles in a triangle?",
+      "type": "choice",
+      "choices": ["180°", "90°", "360°", "270°"],
+      "answer": 0
+    },
+    {
+      "text": "A square has how many right angles?",
+      "type": "choice",
+      "choices": ["4", "3", "2", "1"],
+      "answer": 0
+    },
+    {
+      "text": "Which shape has only one pair of parallel sides?",
+      "type": "choice",
+      "choices": ["Trapezium", "Rectangle", "Square", "Parallelogram"],
+      "answer": 0
+    },
+    {
+      "text": "What is the area of a rectangle with length 5 and width 3?",
+      "type": "choice",
+      "choices": ["15", "8", "10", "12"],
+      "answer": 0
+    },
+    {
+      "text": "A circle has a radius of 7. Find the diameter.",
+      "type": "choice",
+      "choices": ["14", "7", "21", "49"],
+      "answer": 0
+    },
+    {
+      "text": "The sum of the interior angles of a pentagon is?",
+      "type": "choice",
+      "choices": ["540°", "360°", "180°", "720°"],
+      "answer": 0
+    },
+    {
+      "text": "If one angle of a triangle is 90°, the triangle is called?",
+      "type": "choice",
+      "choices": ["Right-angled", "Equilateral", "Isosceles", "Scalene"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All sides of a rectangle are equal.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A square is a type of parallelogram.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The sum of the angles in any quadrilateral is 360°.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Number Systems",
+  "quiz": [
+    {
+      "text": "Which of the following is a prime number?",
+      "type": "choice",
+      "choices": ["7", "8", "9", "12"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the smallest natural number?",
+      "type": "choice",
+      "choices": ["1", "0", "2", "-1"],
+      "answer": 0
+    },
+    {
+      "text": "Which number is a perfect square?",
+      "type": "choice",
+      "choices": ["16", "18", "20", "14"],
+      "answer": 0
+    },
+    {
+      "text": "The reciprocal of 5 is?",
+      "type": "choice",
+      "choices": ["1/5", "5", "-5", "0.5"],
+      "answer": 0
+    },
+    {
+      "text": "Which number is divisible by 3?",
+      "type": "choice",
+      "choices": ["12", "14", "16", "17"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an irrational number?",
+      "type": "choice",
+      "choices": ["√2", "4", "9", "1/2"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these numbers is even?",
+      "type": "choice",
+      "choices": ["8", "7", "9", "15"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 1 is a prime number.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Every even number is divisible by 2.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: √4 is an integer.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Number Patterns",
+  "quiz": [
+    {
+      "text": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+      "type": "choice",
+      "choices": ["10", "12", "9", "11"],
+      "answer": 0
+    },
+    {
+      "text": "Find the next number: 3, 6, 12, 24, ...",
+      "type": "choice",
+      "choices": ["48", "36", "30", "60"],
+      "answer": 0
+    },
+    {
+      "text": "What is the common difference in the sequence 5, 8, 11, 14, ...?",
+      "type": "choice",
+      "choices": ["3", "2", "4", "5"],
+      "answer": 0
+    },
+    {
+      "text": "Identify the pattern: 1, 4, 9, 16, ...",
+      "type": "choice",
+      "choices": ["Squares of natural numbers", "Cubes of natural numbers", "Even numbers", "Odd numbers"],
+      "answer": 0
+    },
+    {
+      "text": "Find the next number: 2, 6, 18, 54, ...",
+      "type": "choice",
+      "choices": ["162", "108", "120", "216"],
+      "answer": 0
+    },
+    {
+      "text": "What is the next number in 10, 20, 40, 80, ...?",
+      "type": "choice",
+      "choices": ["160", "100", "200", "120"],
+      "answer": 0
+    },
+    {
+      "text": "Complete the sequence: 1, 1, 2, 3, 5, ...",
+      "type": "choice",
+      "choices": ["8", "7", "10", "6"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The sequence 3, 6, 12, 24 is arithmetic.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 2, 4, 6, 8 is an arithmetic sequence.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 1, 4, 9, 16 is a geometric sequence.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Probability",
+  "quiz": [
+    {
+      "text": "If you flip a coin, what is the probability of getting heads?",
+      "type": "choice",
+      "choices": ["1/2", "1/3", "1/4", "1"],
+      "answer": 0
+    },
+    {
+      "text": "Rolling a die, the probability of getting a 5 is?",
+      "type": "choice",
+      "choices": ["1/6", "1/5", "1/4", "1/2"],
+      "answer": 0
+    },
+    {
+      "text": "A bag has 3 red balls and 2 blue balls. Probability of picking a blue ball?",
+      "type": "choice",
+      "choices": ["2/5", "3/5", "1/2", "1/5"],
+      "answer": 0
+    },
+    {
+      "text": "If a card is drawn from a standard deck, probability of an Ace?",
+      "type": "choice",
+      "choices": ["1/13", "1/52", "1/4", "1/12"],
+      "answer": 0
+    },
+    {
+      "text": "Probability of rolling an even number on a die?",
+      "type": "choice",
+      "choices": ["1/2", "1/3", "1/6", "2/3"],
+      "answer": 0
+    },
+    {
+      "text": "A bag has 4 green and 6 yellow balls. Probability of picking green?",
+      "type": "choice",
+      "choices": ["2/5", "4/10", "1/2", "3/5"],
+      "answer": 0
+    },
+    {
+      "text": "If you roll two dice, probability both show 6?",
+      "type": "choice",
+      "choices": ["1/36", "1/12", "1/6", "1/18"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Probability of an impossible event is 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Probability is always between 0 and 1.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Probability can be negative.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Sets",
+  "quiz": [
+    {
+      "text": "Which symbol represents a subset?",
+      "type": "choice",
+      "choices": ["⊆", "∈", "∪", "∩"],
+      "answer": 0
+    },
+    {
+      "text": "What does ∪ represent in set theory?",
+      "type": "choice",
+      "choices": ["Union", "Intersection", "Subset", "Element of"],
+      "answer": 0
+    },
+    {
+      "text": "Which element belongs to set A = {1,2,3}?",
+      "type": "choice",
+      "choices": ["2", "4", "5", "6"],
+      "answer": 0
+    },
+    {
+      "text": "If B = {x | x is even and 1 ≤ x ≤ 10}, how many elements in B?",
+      "type": "choice",
+      "choices": ["5", "4", "6", "3"],
+      "answer": 0
+    },
+    {
+      "text": "Which set represents {x | x > 0 and x < 5}?",
+      "type": "choice",
+      "choices": ["{1,2,3,4}", "{0,1,2,3,4,5}", "{5,6,7}", "{0,5}"],
+      "answer": 0
+    },
+    {
+      "text": "If A = {1,2,3} and B = {3,4}, what is A ∩ B?",
+      "type": "choice",
+      "choices": ["{3}", "{1,2,3,4}", "{1,2}", "{}"],
+      "answer": 0
+    },
+    {
+      "text": "If A = {1,2} and B = {3,4}, what is A ∪ B?",
+      "type": "choice",
+      "choices": ["{1,2,3,4}", "{1,2}", "{3,4}", "{}"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every set is a subset of itself.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The empty set has no elements.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Two sets with no common elements are called disjoint sets.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "quiz": [
+    {
+      "text": "What is the mean of 2, 4, 6, 8?",
+      "type": "choice",
+      "choices": ["5", "4", "6", "7"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is the median of 3, 7, 9, 12, 15?",
+      "type": "choice",
+      "choices": ["9", "7", "12", "8"],
+      "answer": 0
+    },
+    {
+      "text": "The mode of 4, 4, 5, 6, 6, 6, 7 is?",
+      "type": "choice",
+      "choices": ["6", "4", "5", "7"],
+      "answer": 0
+    },
+    {
+      "text": "Range of the data set 10, 12, 15, 20 is?",
+      "type": "choice",
+      "choices": ["10", "8", "5", "12"],
+      "answer": 0
+    },
+    {
+      "text": "If the data set is 2, 4, 6, 8, the sum is?",
+      "type": "choice",
+      "choices": ["20", "18", "16", "14"],
+      "answer": 0
+    },
+    {
+      "text": "Which represents a frequency table?",
+      "type": "choice",
+      "choices": ["A table showing how often each value occurs", "A pie chart", "A line graph", "A bar chart"],
+      "answer": 0
+    },
+    {
+      "text": "What type of graph shows data divided into sectors?",
+      "type": "choice",
+      "choices": ["Pie chart", "Histogram", "Line graph", "Bar chart"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The mean is always one of the numbers in the data set.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Median divides the data set into two equal halves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mode is the value that occurs most frequently.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Transformation Geometry",
+  "quiz": [
+    {
+      "text": "Which transformation flips a shape over a line?",
+      "type": "choice",
+      "choices": ["Reflection", "Rotation", "Translation", "Enlargement"],
+      "answer": 0
+    },
+    {
+      "text": "Which transformation moves a shape without rotating or flipping it?",
+      "type": "choice",
+      "choices": ["Translation", "Reflection", "Rotation", "Dilation"],
+      "answer": 0
+    },
+    {
+      "text": "A 90° turn clockwise around a point is a type of?",
+      "type": "choice",
+      "choices": ["Rotation", "Translation", "Reflection", "Enlargement"],
+      "answer": 0
+    },
+    {
+      "text": "Scaling a shape larger or smaller is called?",
+      "type": "choice",
+      "choices": ["Enlargement", "Rotation", "Translation", "Reflection"],
+      "answer": 0
+    },
+    {
+      "text": "Which transformation preserves shape but may change size?",
+      "type": "choice",
+      "choices": ["Enlargement", "Translation", "Rotation", "Reflection"],
+      "answer": 0
+    },
+    {
+      "text": "The centre of rotation is the fixed point about which a shape is rotated.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "Rotating a shape 180° is the same as two 90° rotations in the same direction.",
+      "type": "choice",
+      "choices": ["True", "False", "Depends", "Sometimes"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A reflection changes the size of a shape.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A translation preserves distances and angles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Enlargements always have a scale factor greater than 1.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "quiz": [
+    {
+      "text": "sin θ is the ratio of?",
+      "type": "choice",
+      "choices": ["Opposite/Hypotenuse", "Adjacent/Hypotenuse", "Opposite/Adjacent", "Hypotenuse/Adjacent"],
+      "answer": 0
+    },
+    {
+      "text": "cos θ is the ratio of?",
+      "type": "choice",
+      "choices": ["Adjacent/Hypotenuse", "Opposite/Hypotenuse", "Opposite/Adjacent", "Hypotenuse/Adjacent"],
+      "answer": 0
+    },
+    {
+      "text": "tan θ is the ratio of?",
+      "type": "choice",
+      "choices": ["Opposite/Adjacent", "Adjacent/Hypotenuse", "Opposite/Hypotenuse", "Hypotenuse/Adjacent"],
+      "answer": 0
+    },
+    {
+      "text": "Which function is the reciprocal of sin?",
+      "type": "choice",
+      "choices": ["cosec", "sec", "cot", "cos"],
+      "answer": 0
+    },
+    {
+      "text": "Which function is the reciprocal of cos?",
+      "type": "choice",
+      "choices": ["sec", "cosec", "cot", "sin"],
+      "answer": 0
+    },
+    {
+      "text": "Which function is the reciprocal of tan?",
+      "type": "choice",
+      "choices": ["cot", "sec", "cosec", "sin"],
+      "answer": 0
+    },
+    {
+      "text": "In a right-angled triangle, the hypotenuse is always opposite the right angle.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: sin² θ + cos² θ = 1 for any angle θ.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: tan θ = sin θ / cos θ",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: In a triangle, sine of an angle is always less than 1.",
+      "type": "truefalse",
+      "answer": true
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Working with Graphs",
+  "quiz": [
+    {
+      "text": "What is the slope of a horizontal line?",
+      "type": "choice",
+      "choices": ["0", "1", "Undefined", "-1"],
+      "answer": 0
+    },
+    {
+      "text": "What is the slope of a vertical line?",
+      "type": "choice",
+      "choices": ["Undefined", "0", "1", "-1"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph represents y = 2x + 3?",
+      "type": "choice",
+      "choices": ["A straight line", "A parabola", "A circle", "A hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "The y-intercept of a line is where x = 0.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "The x-intercept of a line is where y = 0.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "A line with negative slope goes down as you move from left to right.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "A line with positive slope goes up as you move from left to right.",
+      "type": "choice",
+      "choices": ["True", "False", "Sometimes", "Depends"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The slope of y = -3x + 5 is -3.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Two lines with the same slope are parallel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A line perpendicular to y = 2x + 1 has slope 2.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+}
+]

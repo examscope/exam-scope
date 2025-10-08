@@ -1,0 +1,1574 @@
+[
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Cubics",
+  "quiz": [
+    {
+      "text": "A cubic equation has the general form:",
+      "type": "choice",
+      "choices": ["ax³ + bx² + cx + d = 0", "ax² + bx + c = 0", "ax + b = 0", "x⁴ + ax³ + bx² + c = 0"],
+      "answer": 0
+    },
+    {
+      "text": "A cubic equation can have how many real roots at most?",
+      "type": "choice",
+      "choices": ["3", "2", "1", "4"],
+      "answer": 0
+    },
+    {
+      "text": "If a cubic has roots r₁, r₂, r₃, the sum of roots is given by:",
+      "type": "choice",
+      "choices": ["-b/a", "c/a", "d/a", "b/a"],
+      "answer": 0
+    },
+    {
+      "text": "Which method can solve cubic equations?",
+      "type": "choice",
+      "choices": ["Factorisation", "Differentiation", "Integration", "Addition only"],
+      "answer": 0
+    },
+    {
+      "text": "Cubic graphs can have at most how many turning points?",
+      "type": "choice",
+      "choices": ["2", "3", "1", "4"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every cubic equation has at least one real root.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cubic equations can never have complex roots.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cubic equations always cross the x-axis three times.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the highest power in a cubic equation?",
+      "type": "input",
+      "answer": ["3", "three"]
+    },
+    {
+      "text": "How many roots can a cubic have at most?",
+      "type": "input",
+      "answer": ["3", "three"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Expressions & Factorising",
+  "quiz": [
+    {
+      "text": "Which is an example of factorising a quadratic expression?",
+      "type": "choice",
+      "choices": ["x² + 5x + 6 = (x + 2)(x + 3)", "x² + 5x + 6 = x² + 6", "x² + 5x + 6 = 5x + 6", "x² + 5x + 6 = x² + x + 6"],
+      "answer": 0
+    },
+    {
+      "text": "The common factor in 6x² + 9x is:",
+      "type": "choice",
+      "choices": ["3x", "6", "9", "x²"],
+      "answer": 0
+    },
+    {
+      "text": "Which identity represents a difference of squares?",
+      "type": "choice",
+      "choices": ["a² - b² = (a - b)(a + b)", "a² + b² = (a + b)(a - b)", "a² + b² = (a + b)²", "a² - b² = a² + b²"],
+      "answer": 0
+    },
+    {
+      "text": "Factorising helps in:",
+      "type": "choice",
+      "choices": ["Simplifying expressions", "Calculating derivatives", "Finding integrals", "Graph drawing only"],
+      "answer": 0
+    },
+    {
+      "text": "The expression x² + 6x + 9 can be factorised as:",
+      "type": "choice",
+      "choices": ["(x + 3)²", "(x + 9)²", "(x + 6)(x + 3)", "(x + 1)(x + 9)"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Factorising is used to simplify expressions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Factorising always requires complex numbers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Expressions can sometimes be factorised in more than one way.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the process of writing brackets called?",
+      "type": "input",
+      "answer": ["factorising"]
+    },
+    {
+      "text": "What is the process of removing brackets called?",
+      "type": "input",
+      "answer": ["expanding"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Inequalities",
+  "quiz": [
+    {
+      "text": "Which symbol represents 'less than or equal to'?",
+      "type": "choice",
+      "choices": ["≤", "≥", ">", "<"],
+      "answer": 0
+    },
+    {
+      "text": "Solving 2x + 5 < 11 gives:",
+      "type": "choice",
+      "choices": ["x < 3", "x > 3", "x ≤ 3", "x ≥ 3"],
+      "answer": 0
+    },
+    {
+      "text": "Multiplying an inequality by a negative number:",
+      "type": "choice",
+      "choices": ["Reverses the inequality sign", "Does not change it", "Always makes it > 0", "Eliminates it"],
+      "answer": 0
+    },
+    {
+      "text": "Inequalities can represent:",
+      "type": "choice",
+      "choices": ["Ranges of values", "Only one value", "Complex numbers only", "No solutions"],
+      "answer": 0
+    },
+    {
+      "text": "x² > 4 can be written as:",
+      "type": "choice",
+      "choices": ["x > 2 or x < -2", "x > 2 only", "x < 2 only", "x = 2"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Inequalities always have only one solution.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: You can graph inequalities on a number line.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Adding the same number to both sides does not change the inequality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What word means larger in an inequality?",
+      "type": "input",
+      "answer": ["greater"]
+    },
+    {
+      "text": "What word means smaller in an inequality?",
+      "type": "input",
+      "answer": ["less"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Quadratics",
+  "quiz": [
+    {
+      "text": "A quadratic equation has the general form:",
+      "type": "choice",
+      "choices": ["ax² + bx + c = 0", "ax³ + bx² + cx + d = 0", "ax + b = 0", "x⁴ + ax³ + bx² + c = 0"],
+      "answer": 0
+    },
+    {
+      "text": "The graph of a quadratic equation is called a:",
+      "type": "choice",
+      "choices": ["Parabola", "Line", "Circle", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "The roots of x² - 5x + 6 = 0 are:",
+      "type": "choice",
+      "choices": ["2 and 3", "1 and 6", "5 only", "-2 and -3"],
+      "answer": 0
+    },
+    {
+      "text": "The quadratic formula is used to:",
+      "type": "choice",
+      "choices": ["Find roots of ax² + bx + c = 0", "Find slope", "Draw graphs only", "Solve inequalities"],
+      "answer": 0
+    },
+    {
+      "text": "If a quadratic has a negative discriminant, it has:",
+      "type": "choice",
+      "choices": ["No real roots", "Two real roots", "One root", "Infinite roots"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Quadratic equations can have two, one, or no real roots.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The vertex of a parabola is the minimum or maximum point.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Quadratic equations cannot be factorised.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the graph of a quadratic called?",
+      "type": "input",
+      "answer": ["parabola"]
+    },
+    {
+      "text": "How many roots can a quadratic have at most?",
+      "type": "input",
+      "answer": ["2", "two"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Simultaneous Equations",
+  "quiz": [
+    {
+      "text": "Which is a method to solve simultaneous equations?",
+      "type": "choice",
+      "choices": ["Substitution", "Integration", "Differentiation", "Graphing only"],
+      "answer": 0
+    },
+    {
+      "text": "Another method to solve simultaneous equations is:",
+      "type": "choice",
+      "choices": ["Elimination", "Multiplication only", "Division only", "Addition only"],
+      "answer": 0
+    },
+    {
+      "text": "A solution to a system of two equations is:",
+      "type": "choice",
+      "choices": ["Values of variables satisfying both equations", "Any random numbers", "Only positive numbers", "The sum of coefficients"],
+      "answer": 0
+    },
+    {
+      "text": "If two lines intersect, the system has:",
+      "type": "choice",
+      "choices": ["One solution", "No solution", "Infinite solutions", "Two solutions"],
+      "answer": 0
+    },
+    {
+      "text": "If two lines are parallel, the system has:",
+      "type": "choice",
+      "choices": ["No solution", "One solution", "Infinite solutions", "Two solutions"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Substitution involves replacing one variable with an expression from the other equation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Simultaneous equations cannot be solved graphically.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Elimination adds or subtracts equations to eliminate a variable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "How many unknowns are usually solved in simultaneous equations?",
+      "type": "input",
+      "answer": ["2", "two"]
+    },
+    {
+      "text": "What method uses adding or subtracting equations?",
+      "type": "input",
+      "answer": ["elimination"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Solving Equations",
+  "quiz": [
+    {
+      "text": "Solving 3x + 7 = 16 gives:",
+      "type": "choice",
+      "choices": ["x = 3", "x = 7", "x = 9", "x = -3"],
+      "answer": 0
+    },
+    {
+      "text": "Which equation type can be solved by factorising?",
+      "type": "choice",
+      "choices": ["Quadratic", "Linear", "Cubic only", "Inequalities"],
+      "answer": 0
+    },
+    {
+      "text": "If an equation has no solution, it is called:",
+      "type": "choice",
+      "choices": ["Inconsistent", "Dependent", "Linear", "Quadratic"],
+      "answer": 0
+    },
+    {
+      "text": "If an equation has infinitely many solutions, it is called:",
+      "type": "choice",
+      "choices": ["Dependent", "Inconsistent", "Linear", "Quadratic"],
+      "answer": 0
+    },
+    {
+      "text": "To solve 2(x - 3) = 10, first:",
+      "type": "choice",
+      "choices": ["Divide or multiply to simplify", "Add random numbers", "Factorise only", "Graph it directly"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Solving equations always finds the unknown value.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Some equations cannot be solved by any method.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Linear equations always have one solution.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the value that makes an equation true called?",
+      "type": "input",
+      "answer": ["solution"]
+    },
+    {
+      "text": "What is the process of finding the solution called?",
+      "type": "input",
+      "answer": ["solving"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Area & Volume",
+  "quiz": [
+    {
+      "text": "The area of a circle is given by:",
+      "type": "choice",
+      "choices": ["πr²", "2πr", "πd", "πr³"],
+      "answer": 0
+    },
+    {
+      "text": "The volume of a cylinder is calculated as:",
+      "type": "choice",
+      "choices": ["πr²h", "2πrh", "πr² + h", "πr³h"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula gives the surface area of a sphere?",
+      "type": "choice",
+      "choices": ["4πr²", "2πr²", "πr²", "πr³"],
+      "answer": 0
+    },
+    {
+      "text": "The volume of a cone is:",
+      "type": "choice",
+      "choices": ["(1/3)πr²h", "πr²h", "πr²h/2", "3πr²h"],
+      "answer": 0
+    },
+    {
+      "text": "Area is measured in:",
+      "type": "choice",
+      "choices": ["square units", "linear units", "cubic units", "dimensionless units"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Volume is measured in cubic units.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Area can be negative.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The formula for a rectangle's area is length × width.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What unit is used for measuring area?",
+      "type": "input",
+      "answer": ["square units"]
+    },
+    {
+      "text": "What unit is used for measuring volume?",
+      "type": "input",
+      "answer": ["cubic units"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Co-Ordinate Geometry of the Circle",
+  "quiz": [
+    {
+      "text": "The general equation of a circle is:",
+      "type": "choice",
+      "choices": ["(x - h)² + (y - k)² = r²", "y = mx + c", "x² + y² = 0", "x² + y² + 2x + 2y = 0 only"],
+      "answer": 0
+    },
+    {
+      "text": "The center of a circle with equation (x - 3)² + (y + 2)² = 16 is:",
+      "type": "choice",
+      "choices": ["(3, -2)", "(-3, 2)", "(3, 2)", "(-3, -2)"],
+      "answer": 0
+    },
+    {
+      "text": "The radius of the circle above is:",
+      "type": "choice",
+      "choices": ["4", "16", "8", "2"],
+      "answer": 0
+    },
+    {
+      "text": "A point lies on the circle if:",
+      "type": "choice",
+      "choices": ["It satisfies the circle's equation", "It lies anywhere in the plane", "x = 0 only", "y = 0 only"],
+      "answer": 0
+    },
+    {
+      "text": "Shifting the circle changes:",
+      "type": "choice",
+      "choices": ["Center coordinates", "Radius only", "Equation never changes", "Radius and slope only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The radius of a circle can never be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A circle's equation can be written in standard form.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The center of a circle is always at the origin.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the fixed point in a circle called?",
+      "type": "input",
+      "answer": ["centre", "center"]
+    },
+    {
+      "text": "What is the distance from the centre to the edge called?",
+      "type": "input",
+      "answer": ["radius"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Co-Ordinate Geometry of the Line",
+  "quiz": [
+    {
+      "text": "The equation y = mx + c represents:",
+      "type": "choice",
+      "choices": ["A straight line", "A circle", "A parabola", "A hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "In y = 2x + 3, the slope is:",
+      "type": "choice",
+      "choices": ["2", "3", "-2", "-3"],
+      "answer": 0
+    },
+    {
+      "text": "The y-intercept is:",
+      "type": "choice",
+      "choices": ["The value of y when x = 0", "The value of x when y = 0", "The slope of the line", "The distance from the origin"],
+      "answer": 0
+    },
+    {
+      "text": "Two lines are perpendicular if:",
+      "type": "choice",
+      "choices": ["Their slopes multiply to -1", "Their slopes are equal", "They intersect at origin", "Their slopes multiply to 1"],
+      "answer": 0
+    },
+    {
+      "text": "Two lines are parallel if:",
+      "type": "choice",
+      "choices": ["Their slopes are equal", "Their slopes multiply to -1", "They intersect", "They have different y-intercepts only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Vertical lines have undefined slope.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Horizontal lines have slope 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Any two distinct lines always intersect.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What word describes how steep a line is?",
+      "type": "input",
+      "answer": ["slope", "gradient"]
+    },
+    {
+      "text": "What is the point where a line meets the y axis called?",
+      "type": "input",
+      "answer": ["intercept", "y intercept"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Complex Numbers",
+  "quiz": [
+    {
+      "text": "A complex number is of the form:",
+      "type": "choice",
+      "choices": ["a + bi", "a + b", "a - bi", "a × bi"],
+      "answer": 0
+    },
+    {
+      "text": "In 3 + 4i, the imaginary part is:",
+      "type": "choice",
+      "choices": ["4", "3", "7", "i"],
+      "answer": 0
+    },
+    {
+      "text": "The real part of 5 - 2i is:",
+      "type": "choice",
+      "choices": ["5", "-2", "2", "i"],
+      "answer": 0
+    },
+    {
+      "text": "i² equals:",
+      "type": "choice",
+      "choices": ["-1", "1", "i", "0"],
+      "answer": 0
+    },
+    {
+      "text": "The conjugate of 3 + 4i is:",
+      "type": "choice",
+      "choices": ["3 - 4i", "4 + 3i", "-3 - 4i", "3 + 4i"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Complex numbers can be represented on a plane.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The sum of two complex numbers is always complex.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Complex numbers cannot have real parts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the name of the part without i?",
+      "type": "input",
+      "answer": ["real"]
+    },
+    {
+      "text": "What is the name of the part with i?",
+      "type": "input",
+      "answer": ["imaginary"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Differentiation - Applications",
+  "quiz": [
+    {
+      "text": "Differentiation is used to find:",
+      "type": "choice",
+      "choices": ["Rate of change", "Area", "Volume", "Distance"],
+      "answer": 0
+    },
+    {
+      "text": "The derivative of a position function gives:",
+      "type": "choice",
+      "choices": ["Velocity", "Acceleration", "Distance", "Force"],
+      "answer": 0
+    },
+    {
+      "text": "Maximum or minimum points occur when:",
+      "type": "choice",
+      "choices": ["Derivative = 0", "Function = 0", "Second derivative = 0", "Slope = 1"],
+      "answer": 0
+    },
+    {
+      "text": "The second derivative gives information about:",
+      "type": "choice",
+      "choices": ["Concavity and acceleration", "Slope only", "Distance", "Area under curve"],
+      "answer": 0
+    },
+    {
+      "text": "Increasing function occurs when:",
+      "type": "choice",
+      "choices": ["Derivative > 0", "Derivative < 0", "Derivative = 0", "Second derivative > 0"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Differentiation can be used to find turning points.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Differentiation measures the slope of the tangent to a curve.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Differentiation gives the exact area under a curve.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What do you find at the top of a curve?",
+      "type": "input",
+      "answer": ["maximum"]
+    },
+    {
+      "text": "What do you find at the bottom of a curve?",
+      "type": "input",
+      "answer": ["minimum"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Differentiation - Rules",
+  "quiz": [
+    {
+      "text": "The derivative of xⁿ is:",
+      "type": "choice",
+      "choices": ["n*x^(n-1)", "x^n", "n*x^(n+1)", "nx"], 
+      "answer": 0
+    },
+    {
+      "text": "Derivative of a constant is:",
+      "type": "choice",
+      "choices": ["0", "1", "The constant itself", "Cannot be determined"], 
+      "answer": 0
+    },
+    {
+      "text": "The sum rule states:",
+      "type": "choice",
+      "choices": ["Derivative of sum = sum of derivatives", "Derivative of sum = product of derivatives", "Derivative of sum = constant", "Derivative of sum = 0"], 
+      "answer": 0
+    },
+    {
+      "text": "The product rule is used for:",
+      "type": "choice",
+      "choices": ["Derivatives of products", "Derivatives of sums", "Derivatives of constants", "Integrals only"], 
+      "answer": 0
+    },
+    {
+      "text": "The chain rule is applied when:",
+      "type": "choice",
+      "choices": ["Differentiating composite functions", "Differentiating constants", "Finding area", "Solving linear equations"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: The derivative of x² + 3x is 2x + 3.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The derivative of 5 is 5.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The chain rule involves multiplying derivatives.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the power rule used for?",
+      "type": "input",
+      "answer": ["differentiation", "derivatives"]
+    },
+    {
+      "text": "What is the opposite of differentiation?",
+      "type": "input",
+      "answer": ["integration"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Financial Maths",
+  "quiz": [
+    {
+      "text": "Simple interest is calculated using:",
+      "type": "choice",
+      "choices": ["P × R × T / 100", "P + R × T", "P × R² × T", "P / R × T"],
+      "answer": 0
+    },
+    {
+      "text": "Compound interest differs from simple interest because:",
+      "type": "choice",
+      "choices": ["Interest is calculated on accumulated interest", "Rate is always higher", "Principal changes daily", "Time period is ignored"],
+      "answer": 0
+    },
+    {
+      "text": "A loan of €1000 at 5% per year for 2 years simple interest yields:",
+      "type": "choice",
+      "choices": ["€100", "€50", "€200", "€150"],
+      "answer": 0
+    },
+    {
+      "text": "Future value in compound interest is calculated using:",
+      "type": "choice",
+      "choices": ["P(1 + R/100)^T", "P × R × T", "P + R × T", "P × R^T"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The principal is the initial amount borrowed or invested.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Simple interest and compound interest always give the same result.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Interest rate is always expressed per annum.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that affects interest calculations.",
+      "type": "input",
+      "answer": ["principal", "rate", "time", "R", "P", "T"]
+    },
+    {
+      "text": "What is the extra money paid on a loan called?",
+      "type": "input",
+      "answer": ["interest"]
+    },
+    {
+      "text": "What is the original money borrowed or invested called?",
+      "type": "input",
+      "answer": ["principal"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Functions",
+  "quiz": [
+    {
+      "text": "A function maps:",
+      "type": "choice",
+      "choices": ["Each input to exactly one output", "Each input to multiple outputs", "Multiple inputs to no outputs", "Any input to any output"],
+      "answer": 0
+    },
+    {
+      "text": "The domain of a function is:",
+      "type": "choice",
+      "choices": ["Set of possible inputs", "Set of outputs", "Range", "Slope of the function"],
+      "answer": 0
+    },
+    {
+      "text": "The range of a function is:",
+      "type": "choice",
+      "choices": ["Set of possible outputs", "Set of inputs", "Domain only", "Slope values only"],
+      "answer": 0
+    },
+    {
+      "text": "f(x) = x² is an example of:",
+      "type": "choice",
+      "choices": ["A quadratic function", "Linear function", "Exponential function", "Logarithmic function"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every function has an inverse function.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: f(x) = 2x + 3 is a linear function.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A function can have two outputs for the same input.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one property of a linear function.",
+      "type": "input",
+      "answer": ["constant slope", "y = mx + c", "straight line"]
+    },
+    {
+      "text": "What is the input of a function called?",
+      "type": "input",
+      "answer": ["domain"]
+    },
+    {
+      "text": "What is the output of a function called?",
+      "type": "input",
+      "answer": ["range"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Geometry",
+  "quiz": [
+    {
+      "text": "The sum of angles in any triangle is:",
+      "type": "choice",
+      "choices": ["180°", "90°", "360°", "270°"],
+      "answer": 0
+    },
+    {
+      "text": "A quadrilateral has how many sides?",
+      "type": "choice",
+      "choices": ["4", "3", "5", "6"],
+      "answer": 0
+    },
+    {
+      "text": "The Pythagorean theorem applies to:",
+      "type": "choice",
+      "choices": ["Right-angled triangles", "All triangles", "Squares only", "Rectangles only"],
+      "answer": 0
+    },
+    {
+      "text": "The sum of interior angles in a pentagon is:",
+      "type": "choice",
+      "choices": ["540°", "360°", "180°", "720°"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All circles have the same circumference.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A rectangle is always a parallelogram.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A square is not a rhombus.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one property of a parallelogram.",
+      "type": "input",
+      "answer": ["opposite sides equal", "opposite angles equal", "diagonals bisect each other"]
+    },
+    {
+      "text": "How many degrees are in a triangle?",
+      "type": "input",
+      "answer": ["180", "one hundred eighty"]
+    },
+    {
+      "text": "How many degrees are in a straight angle?",
+      "type": "input",
+      "answer": ["180", "one hundred eighty"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Geometry - Constructions & Proofs",
+  "quiz": [
+    {
+      "text": "A perpendicular bisector of a line segment:",
+      "type": "choice",
+      "choices": ["Divides the segment into two equal parts at 90°", "Divides it into unequal parts", "Runs along the segment", "Has slope 0 only"],
+      "answer": 0
+    },
+    {
+      "text": "Angle bisector divides an angle into:",
+      "type": "choice",
+      "choices": ["Two equal angles", "Two unequal angles", "Three equal angles", "Two complementary angles"],
+      "answer": 0
+    },
+    {
+      "text": "The sum of angles in any triangle proof uses:",
+      "type": "choice",
+      "choices": ["Parallel lines", "Pythagoras", "Circle theorems", "Trigonometry"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A proof requires logical steps from given to required statement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Constructions are made using ruler and compass only.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only triangles can be used in geometric proofs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one tool used in geometric constructions.",
+      "type": "input",
+      "answer": ["compass", "ruler", "protractor"]
+    },
+    {
+      "text": "Provide one example of a geometric proof statement.",
+      "type": "input",
+      "answer": ["sum of angles in triangle is 180", "Pythagoras theorem", "opposite angles equal in a parallelogram"]
+    },
+    {
+      "text": "What instrument is used to draw arcs?",
+      "type": "input",
+      "answer": ["compass"]
+    },
+    {
+      "text": "What is a logical explanation in geometry called?",
+      "type": "input",
+      "answer": ["proof"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Indices and Logs",
+  "quiz": [
+    {
+      "text": "x^a × x^b equals:",
+      "type": "choice",
+      "choices": ["x^(a+b)", "x^(a-b)", "x^(a×b)", "x^(a/b)"],
+      "answer": 0
+    },
+    {
+      "text": "(x^a)^b equals:",
+      "type": "choice",
+      "choices": ["x^(a×b)", "x^(a+b)", "x^(a-b)", "x^(a/b)"],
+      "answer": 0
+    },
+    {
+      "text": "The logarithm log_a(x) equals:",
+      "type": "choice",
+      "choices": ["y such that a^y = x", "x^a", "a^x", "1/x"], 
+      "answer": 0
+    },
+    {
+      "text": "log_a(xy) equals:",
+      "type": "choice",
+      "choices": ["log_a(x) + log_a(y)", "log_a(x) × log_a(y)", "log_a(x) - log_a(y)", "log_a(x)/log_a(y)"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: log_a(1) = 0 for any base a > 0, a ≠ 1.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: x^0 = 1 for any x ≠ 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: log_a(x^b) = b × log_a(x).",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Provide one property of exponents.",
+      "type": "input",
+      "answer": ["x^a × x^b = x^(a+b)", "x^0 = 1", "(x^a)^b = x^(ab)"]
+    },
+    {
+      "text": "What is another name for powers?",
+      "type": "input",
+      "answer": ["exponents", "index"]
+    },
+    {
+      "text": "What is the reverse of raising to a power?",
+      "type": "input",
+      "answer": ["root", "square root"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Induction",
+  "quiz": [
+    {
+      "text": "Mathematical induction is used to:",
+      "type": "choice",
+      "choices": ["Prove statements for all natural numbers", "Solve equations", "Integrate functions", "Differentiate functions"],
+      "answer": 0
+    },
+    {
+      "text": "The first step of induction is called:",
+      "type": "choice",
+      "choices": ["Base case", "Induction step", "Conclusion", "Assumption"],
+      "answer": 0
+    },
+    {
+      "text": "In the induction step, one assumes the statement is true for:",
+      "type": "choice",
+      "choices": ["n = k", "n = 0", "n = 1", "All n"], 
+      "answer": 0
+    },
+    {
+      "text": "After assuming n = k, we show it holds for:",
+      "type": "choice",
+      "choices": ["n = k+1", "n = k-1", "n = 0", "n = 2k"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Induction can only prove inequalities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Induction is based on the principle of domino effect.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The base case is optional in induction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of statement often proved by induction.",
+      "type": "input",
+      "answer": ["sum formulas", "inequalities", "divisibility statements", "recurrence relations"]
+    },
+    {
+      "text": "What is the first step of induction called?",
+      "type": "input",
+      "answer": ["base case"]
+    },
+    {
+      "text": "What do you assume in the second step of induction?",
+      "type": "input",
+      "answer": ["assumption", "inductive hypothesis"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Integration",
+  "quiz": [
+    {
+      "text": "The integral ∫x dx equals:",
+      "type": "choice",
+      "choices": ["x^2/2 + C", "1/x + C", "x^2 + C", "ln(x) + C"],
+      "answer": 0
+    },
+    {
+      "text": "The integral of a constant k is:",
+      "type": "choice",
+      "choices": ["kx + C", "k + C", "k/x + C", "k^2/2 + C"],
+      "answer": 0
+    },
+    {
+      "text": "∫ x^n dx equals:",
+      "type": "choice",
+      "choices": ["x^(n+1)/(n+1) + C, n≠-1", "nx^(n-1) + C", "x^n + C", "ln(x^n) + C"],
+      "answer": 0
+    },
+    {
+      "text": "Integration is the reverse process of:",
+      "type": "choice",
+      "choices": ["Differentiation", "Multiplication", "Division", "Exponentiation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: ∫1/x dx = ln|x| + C",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ∫ e^x dx = e^x + C",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ∫ sin(x) dx = cos(x) + C",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide one method for integration.",
+      "type": "input",
+      "answer": ["integration by substitution", "u-substitution", "integration by parts"]
+    },
+    {
+      "text": "What is the opposite process of differentiation called?",
+      "type": "input",
+      "answer": ["integration"]
+    },
+    {
+      "text": "What is the sum of small areas under a curve called?",
+      "type": "input",
+      "answer": ["area"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Probability",
+  "quiz": [
+    {
+      "text": "The probability of an impossible event is:",
+      "type": "choice",
+      "choices": ["0", "1", "0.5", "Cannot determine"],
+      "answer": 0
+    },
+    {
+      "text": "The probability of a certain event is:",
+      "type": "choice",
+      "choices": ["1", "0", "0.5", "Cannot determine"],
+      "answer": 0
+    },
+    {
+      "text": "If two events A and B are independent, P(A and B) =",
+      "type": "choice",
+      "choices": ["P(A) × P(B)", "P(A) + P(B)", "P(A) - P(B)", "P(A)/P(B)"],
+      "answer": 0
+    },
+    {
+      "text": "The probability of event A not occurring is:",
+      "type": "choice",
+      "choices": ["1 - P(A)", "P(A)", "0", "Cannot determine"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Probability is always between 0 and 1.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: P(A or B) = P(A) + P(B) for all events.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: If events are mutually exclusive, P(A and B) = 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a probability experiment.",
+      "type": "input",
+      "answer": ["tossing a coin", "rolling a die", "drawing a card from a deck"]
+    },
+    {
+      "text": "What word describes something that can happen?",
+      "type": "input",
+      "answer": ["event"]
+    },
+    {
+      "text": "What word describes the chance of something happening?",
+      "type": "input",
+      "answer": ["probability"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Sequences & Series",
+  "quiz": [
+    {
+      "text": "The formula for the nth term of an arithmetic sequence is:",
+      "type": "choice",
+      "choices": ["a_n = a_1 + (n-1)d", "a_n = a_1 × r^(n-1)", "a_n = a_1 - (n-1)d", "a_n = n^2 + a_1"], 
+      "answer": 0
+    },
+    {
+      "text": "The sum of the first n terms of an arithmetic series is:",
+      "type": "choice",
+      "choices": ["S_n = n/2(a_1 + a_n)", "S_n = a_1 × r^n", "S_n = a_1 + n × d", "S_n = n × a_1"], 
+      "answer": 0
+    },
+    {
+      "text": "The formula for the nth term of a geometric sequence is:",
+      "type": "choice",
+      "choices": ["a_n = a_1 × r^(n-1)", "a_n = a_1 + (n-1)d", "a_n = a_1 / r^(n-1)", "a_n = n^2 + a_1"], 
+      "answer": 0
+    },
+    {
+      "text": "The sum of the first n terms of a geometric series is:",
+      "type": "choice",
+      "choices": ["S_n = a_1(1-r^n)/(1-r), r≠1", "S_n = n × a_1", "S_n = a_1 + n × d", "S_n = a_n × r"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: In an arithmetic sequence, the difference between terms is constant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: In a geometric sequence, the ratio between consecutive terms is constant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The sum of an infinite geometric series always exists.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide one example of an arithmetic sequence.",
+      "type": "input",
+      "answer": ["2, 5, 8, 11", "1, 3, 5, 7"]
+    },
+    {
+      "text": "What is the first number of a sequence called?",
+      "type": "input",
+      "answer": ["first term"]
+    },
+    {
+      "text": "What is the repeated addition of sequence numbers called?",
+      "type": "input",
+      "answer": ["series", "sum"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Statistics - Descriptive Statistics",
+  "quiz": [
+    {
+      "text": "The mean is:",
+      "type": "choice",
+      "choices": ["Sum of data / number of data points", "Middle value of data", "Most frequent value", "Difference between largest and smallest values"], 
+      "answer": 0
+    },
+    {
+      "text": "The median is:",
+      "type": "choice",
+      "choices": ["Middle value when data is ordered", "Average of all values", "Most frequent value", "Range"], 
+      "answer": 0
+    },
+    {
+      "text": "The mode is:",
+      "type": "choice",
+      "choices": ["Most frequent value", "Middle value", "Sum / n", "Maximum - minimum"], 
+      "answer": 0
+    },
+    {
+      "text": "The range is:",
+      "type": "choice",
+      "choices": ["Maximum - minimum", "Sum / n", "Most frequent value", "Median"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: The mean is always equal to the median.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The mode can have more than one value.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Range gives information about data spread.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Provide one measure of central tendency.",
+      "type": "input",
+      "answer": ["mean", "median", "mode"]
+    },
+    {
+      "text": "What is the middle value of data called?",
+      "type": "input",
+      "answer": ["median"]
+    },
+    {
+      "text": "What is the most common value of data called?",
+      "type": "input",
+      "answer": ["mode"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Statistics - Inferential Statistics",
+  "quiz": [
+    {
+      "text": "Inferential statistics allows us to:",
+      "type": "choice",
+      "choices": ["Make predictions about a population based on a sample", "Calculate mean only", "List all data points", "Find median only"], 
+      "answer": 0
+    },
+    {
+      "text": "A sample is:",
+      "type": "choice",
+      "choices": ["A subset of the population", "The whole population", "A data point", "The median"], 
+      "answer": 0
+    },
+    {
+      "text": "A population is:",
+      "type": "choice",
+      "choices": ["The entire set of individuals being studied", "A single data point", "A small group", "The mean of a sample"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Inferential statistics always uses probability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Confidence intervals estimate population parameters.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A larger sample size generally gives less accurate estimates.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide one example of an inferential statistic method.",
+      "type": "input",
+      "answer": ["confidence interval", "hypothesis testing", "regression analysis"]
+    },
+    {
+      "text": "Provide one reason why samples are used instead of populations.",
+      "type": "input",
+      "answer": ["population too large", "costly to measure entire population", "time-consuming"]
+    },
+    {
+      "text": "What is using sample data to make conclusions about a population called?",
+      "type": "input",
+      "answer": ["inference"]
+    },
+    {
+      "text": "What is a smaller part of a population called?",
+      "type": "input",
+      "answer": ["sample"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Statistics - Z Scores",
+  "quiz": [
+    {
+      "text": "The z-score measures:",
+      "type": "choice",
+      "choices": ["How many standard deviations a value is from the mean", "The median of a data set", "The range of a data set", "The mean of a data set"], 
+      "answer": 0
+    },
+    {
+      "text": "The formula for a z-score is:",
+      "type": "choice",
+      "choices": ["z = (x - μ)/σ", "z = μ - x", "z = x / n", "z = x + σ"], 
+      "answer": 0
+    },
+    {
+      "text": "A positive z-score means:",
+      "type": "choice",
+      "choices": ["The value is above the mean", "The value is below the mean", "The value equals the mean", "Cannot determine"], 
+      "answer": 0
+    },
+    {
+      "text": "A negative z-score means:",
+      "type": "choice",
+      "choices": ["The value is below the mean", "The value is above the mean", "The value equals the mean", "Cannot determine"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Z-scores are unitless.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A z-score of 0 corresponds to the mean.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Higher absolute z-scores indicate values closer to the mean.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide one use of z-scores.",
+      "type": "input",
+      "answer": ["compare values from different distributions", "identify outliers", "standardization"]
+    },
+    {
+      "text": "What score shows how far a value is from the mean?",
+      "type": "input",
+      "answer": ["z score", "zscore"]
+    },
+    {
+      "text": "Is a z score positive if above the mean?",
+      "type": "input",
+      "answer": ["yes"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Trigonometry - Functions & Identities",
+  "quiz": [
+    {
+      "text": "The sine of an angle in a right triangle is defined as:",
+      "type": "choice",
+      "choices": ["Opposite/Hypotenuse", "Adjacent/Opposite", "Hypotenuse/Adjacent", "Adjacent/Hypotenuse"], 
+      "answer": 0
+    },
+    {
+      "text": "The cosine of an angle in a right triangle is defined as:",
+      "type": "choice",
+      "choices": ["Adjacent/Hypotenuse", "Opposite/Hypotenuse", "Hypotenuse/Opposite", "Opposite/Adjacent"], 
+      "answer": 0
+    },
+    {
+      "text": "The tangent of an angle in a right triangle is defined as:",
+      "type": "choice",
+      "choices": ["Opposite/Adjacent", "Adjacent/Opposite", "Hypotenuse/Adjacent", "Adjacent/Hypotenuse"], 
+      "answer": 0
+    },
+    {
+      "text": "The identity sin²θ + cos²θ equals:",
+      "type": "choice",
+      "choices": ["1", "0", "tan²θ", "2"], 
+      "answer": 0
+    },
+    {
+      "text": "The identity 1 + tan²θ equals:",
+      "type": "choice",
+      "choices": ["sec²θ", "csc²θ", "1", "sin²θ"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: sin(90° - θ) = cosθ.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: tanθ = sinθ/cosθ.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: cos(180° - θ) = -cosθ.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What function is opposite over hypotenuse?",
+      "type": "input",
+      "answer": ["sine", "sin"]
+    },
+    {
+      "text": "What function is adjacent over hypotenuse?",
+      "type": "input",
+      "answer": ["cosine", "cos"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Trigonometry - Triangles",
+  "quiz": [
+    {
+      "text": "The sine rule is used to:",
+      "type": "choice",
+      "choices": ["Find unknown sides or angles in any triangle", "Find hypotenuse only", "Find area of right triangles", "Find adjacent sides only"], 
+      "answer": 0
+    },
+    {
+      "text": "The sine rule formula is:",
+      "type": "choice",
+      "choices": ["a/sinA = b/sinB = c/sinC", "a² + b² = c²", "sinA/cosA = tanA", "1 + tan²A = sec²A"], 
+      "answer": 0
+    },
+    {
+      "text": "The cosine rule is used to:",
+      "type": "choice",
+      "choices": ["Find unknown sides or angles in any triangle", "Find hypotenuse only", "Find area using 1/2 base × height", "Find median length"], 
+      "answer": 0
+    },
+    {
+      "text": "The cosine rule formula for a side is:",
+      "type": "choice",
+      "choices": ["a² = b² + c² - 2bc cosA", "a² + b² = c²", "a/b = sinA/sinB", "sin²A + cos²A = 1"], 
+      "answer": 0
+    },
+    {
+      "text": "Area of a triangle using sine is:",
+      "type": "choice",
+      "choices": ["1/2 × ab × sinC", "1/2 × base × height", "a × b × c", "b × sinA"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: The sine rule can be used in right triangles only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The cosine rule requires knowledge of one angle and two sides or three sides.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The area formula 1/2 ab sinC works for any triangle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What type of triangle has one right angle?",
+      "type": "input",
+      "answer": ["right angled", "right angle"]
+    },
+    {
+      "text": "What is the sum of angles in a triangle?",
+      "type": "input",
+      "answer": ["one hundred eighty", "180"]
+    }
+  ]
+}
+]

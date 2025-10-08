@@ -1,0 +1,1536 @@
+[
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Acids and Bases",
+  "quiz": [
+    {
+      "text": "Which pH value represents a neutral solution?",
+      "type": "choice",
+      "choices": ["7", "0", "14", "1"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Acids donate protons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a common base used in cleaning products.",
+      "type": "input",
+      "answer": ["soda", "sodium hydroxide", "lime"]
+    },
+    {
+      "text": "Give an example of a weak acid.",
+      "type": "input",
+      "answer": ["vinegar", "acetic acid", "citric acid"]
+    },
+    {
+      "text": "True or false: Bases taste sour.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which ion increases in acidic solutions?",
+      "type": "choice",
+      "choices": ["Hydrogen", "Hydroxide", "Sodium", "Chloride"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A solution with pH 2 is acidic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a strong acid often used in labs.",
+      "type": "input",
+      "answer": ["hydrochloric acid", "hcl", "sulfuric acid"]
+    },
+    {
+      "text": "Which ion increases in basic solutions?",
+      "type": "choice",
+      "choices": ["Hydroxide", "Hydrogen", "Chloride", "Sodium"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a neutral substance.",
+      "type": "input",
+      "answer": ["water", "distilled water", "pure water"]
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Atomic Theory",
+  "quiz": [
+    {
+      "text": "True or false: Electrons are negatively charged.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which particle is found in the nucleus?",
+      "type": "choice",
+      "choices": ["Proton", "Electron", "Neutrino", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Name the smallest part of an element.",
+      "type": "input",
+      "answer": ["atom", "atoms"]
+    },
+    {
+      "text": "Give the particle that has no charge in an atom.",
+      "type": "input",
+      "answer": ["neutron", "neutrons"]
+    },
+    {
+      "text": "True or false: Protons determine the element type.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which particle orbits the nucleus?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Alpha"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Neutrons are negatively charged.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the number that defines the element.",
+      "type": "input",
+      "answer": ["atomic number", "protons"]
+    },
+    {
+      "text": "Which particle contributes to the mass but not the charge?",
+      "type": "choice",
+      "choices": ["Neutron", "Electron", "Proton", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of an element symbol.",
+      "type": "input",
+      "answer": ["h", "o", "c", "n"]
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Bonding and Molecular Theory",
+  "quiz": [
+    {
+      "text": "True or false: Ionic bonds involve transfer of electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a type of bond where electrons are shared.",
+      "type": "input",
+      "answer": ["covalent", "covalent bond"]
+    },
+    {
+      "text": "Which bond is usually formed between metals and non-metals?",
+      "type": "choice",
+      "choices": ["Ionic", "Covalent", "Hydrogen", "Metallic"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a molecule with a covalent bond.",
+      "type": "input",
+      "answer": ["water", "h2o", "carbon dioxide", "co2"]
+    },
+    {
+      "text": "True or false: Hydrogen bonds are strong like covalent bonds.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which bond holds two hydrogen atoms together in H2?",
+      "type": "choice",
+      "choices": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Name the force that exists between molecules.",
+      "type": "input",
+      "answer": ["intermolecular", "van der waals"]
+    },
+    {
+      "text": "True or false: Ionic compounds usually have high melting points.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of an ionic compound.",
+      "type": "input",
+      "answer": ["salt", "sodium chloride", "nacl"]
+    },
+    {
+      "text": "Which type of bond involves electrons moving freely?",
+      "type": "choice",
+      "choices": ["Metallic", "Ionic", "Covalent", "Hydrogen"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Chemical Equations",
+  "quiz": [
+    {
+      "text": "True or false: A chemical equation shows reactants and products.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give a simple example of a reactant.",
+      "type": "input",
+      "answer": ["hydrogen", "oxygen", "h2", "o2"]
+    },
+    {
+      "text": "Which symbol shows a reaction takes place?",
+      "type": "choice",
+      "choices": ["Arrow", "Equals", "Plus", "Asterisk"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a product formed from hydrogen and oxygen.",
+      "type": "input",
+      "answer": ["water", "h2o"]
+    },
+    {
+      "text": "True or false: Products are written on the right side of the equation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which symbol separates multiple reactants?",
+      "type": "choice",
+      "choices": ["Plus", "Arrow", "Equals", "Dot"],
+      "answer": 0
+    },
+    {
+      "text": "Name the process of balancing a chemical equation.",
+      "type": "input",
+      "answer": ["balancing", "equalizing"]
+    },
+    {
+      "text": "True or false: Reactants are written on the left side of the equation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of a simple decomposition reaction.",
+      "type": "input",
+      "answer": ["water to hydrogen and oxygen", "h2o breaks down"]
+    },
+    {
+      "text": "Which reaction combines two elements to form one compound?",
+      "type": "choice",
+      "choices": ["Synthesis", "Decomposition", "Displacement", "Combustion"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Chlorides",
+  "quiz": [
+    {
+      "text": "True or false: Chlorides are compounds of chlorine with metals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of a common chloride.",
+      "type": "input",
+      "answer": ["sodium chloride", "salt", "nacl"]
+    },
+    {
+      "text": "Which ion is present in all chlorides?",
+      "type": "choice",
+      "choices": ["Chloride", "Sulfate", "Hydroxide", "Carbonate"],
+      "answer": 0
+    },
+    {
+      "text": "Name a chloride used in everyday table salt.",
+      "type": "input",
+      "answer": ["sodium chloride", "salt"]
+    },
+    {
+      "text": "True or false: Chlorides can be formed by a reaction with hydrochloric acid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chloride is commonly used in swimming pools?",
+      "type": "choice",
+      "choices": ["Sodium chloride", "Calcium chloride", "Potassium chloride", "Magnesium chloride"],
+      "answer": 1
+    },
+    {
+      "text": "Give an example of a chloride of potassium.",
+      "type": "input",
+      "answer": ["potassium chloride", "kcl"]
+    },
+    {
+      "text": "True or false: Chlorides are usually soluble in water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chloride is used in de-icing roads?",
+      "type": "input",
+      "answer": ["calcium chloride", "cacl2"]
+    },
+    {
+      "text": "Which chloride is commonly used in food preservation?",
+      "type": "choice",
+      "choices": ["Sodium chloride", "Magnesium chloride", "Potassium chloride", "Calcium chloride"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Electrochemistry and the Activity Series",
+  "quiz": [
+    {
+      "text": "True or false: The activity series shows metals ranked by their reactivity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a metal higher in the activity series than zinc.",
+      "type": "input",
+      "answer": ["magnesium", "calcium", "sodium"]
+    },
+    {
+      "text": "Which device converts chemical energy into electrical energy?",
+      "type": "choice",
+      "choices": ["Battery", "Resistor", "Capacitor", "Transformer"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a simple electrochemical cell.",
+      "type": "input",
+      "answer": ["zinc copper cell", "voltaic cell"]
+    },
+    {
+      "text": "True or false: Metals low in the activity series displace more reactive metals from solutions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which metal is often used as the negative electrode in a simple cell?",
+      "type": "choice",
+      "choices": ["Zinc", "Copper", "Silver", "Gold"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a metal that can be reduced in an electrochemical reaction.",
+      "type": "input",
+      "answer": ["copper", "silver"]
+    },
+    {
+      "text": "True or false: Electrolysis requires an external power source.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a common use of electroplating.",
+      "type": "input",
+      "answer": ["coating metals", "prevent corrosion"]
+    },
+    {
+      "text": "Which part of the electrochemical cell is the anode?",
+      "type": "choice",
+      "choices": ["Negative electrode", "Positive electrode", "Salt bridge", "Solution"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Hydrides",
+  "quiz": [
+    {
+      "text": "True or false: Hydrides are compounds of hydrogen with other elements.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of a simple hydride.",
+      "type": "input",
+      "answer": ["sodium hydride", "water", "hydrogen chloride"]
+    },
+    {
+      "text": "Which type of hydride is formed with metals?",
+      "type": "choice",
+      "choices": ["Ionic", "Covalent", "Metallic", "Molecular"],
+      "answer": 0
+    },
+    {
+      "text": "Name a covalent hydride of carbon.",
+      "type": "input",
+      "answer": ["methane", "ch4"]
+    },
+    {
+      "text": "True or false: Hydrides can be used as reducing agents.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which hydride is commonly used as a fuel?",
+      "type": "choice",
+      "choices": ["Methane", "Sodium hydride", "Ammonia", "Water"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a hydride of nitrogen.",
+      "type": "input",
+      "answer": ["ammonia", "nh3"]
+    },
+    {
+      "text": "True or false: All hydrides are gases at room temperature.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which hydride is used in chemical synthesis as a strong base?",
+      "type": "input",
+      "answer": ["sodium hydride", "sh"]
+    },
+    {
+      "text": "Which hydride of oxygen is essential for life?",
+      "type": "choice",
+      "choices": ["Water", "Hydrogen peroxide", "Hydroxide", "Peroxide"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Organic Chemistry",
+  "quiz": [
+    {
+      "text": "True or false: Organic chemistry studies compounds mainly containing carbon.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of an organic compound.",
+      "type": "input",
+      "answer": ["ethanol", "methane", "propane"]
+    },
+    {
+      "text": "Which group of organic compounds contains a double bond?",
+      "type": "choice",
+      "choices": ["Alkenes", "Alkanes", "Alkynes", "Alcohols"],
+      "answer": 0
+    },
+    {
+      "text": "Name a simple alcohol.",
+      "type": "input",
+      "answer": ["ethanol", "methanol"]
+    },
+    {
+      "text": "True or false: Organic compounds always contain hydrogen.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which organic compound is a common fuel?",
+      "type": "choice",
+      "choices": ["Methane", "Sodium chloride", "Water", "Calcium oxide"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of an organic acid.",
+      "type": "input",
+      "answer": ["acetic acid", "ethanoic acid"]
+    },
+    {
+      "text": "True or false: Organic compounds cannot contain oxygen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a hydrocarbon with a triple bond.",
+      "type": "input",
+      "answer": ["ethyne", "acetylene"]
+    },
+    {
+      "text": "Which functional group is present in alcohols?",
+      "type": "choice",
+      "choices": ["Hydroxyl", "Carboxyl", "Carbonyl", "Amino"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| The Elements",
+  "quiz": [
+    {
+      "text": "True or false: Sodium is a metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a noble gas.",
+      "type": "input",
+      "answer": ["helium", "neon", "argon"]
+    },
+    {
+      "text": "Which element has atomic number one?",
+      "type": "choice",
+      "choices": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a halogen.",
+      "type": "input",
+      "answer": ["chlorine", "fluorine", "bromine"]
+    },
+    {
+      "text": "True or false: Iron is a transition metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element is a liquid at room temperature?",
+      "type": "choice",
+      "choices": ["Mercury", "Sodium", "Oxygen", "Neon"],
+      "answer": 0
+    },
+    {
+      "text": "Name a reactive metal.",
+      "type": "input",
+      "answer": ["sodium", "potassium"]
+    },
+    {
+      "text": "True or false: Helium is flammable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give an example of an alkaline earth metal.",
+      "type": "input",
+      "answer": ["calcium", "magnesium"]
+    },
+    {
+      "text": "Which element is used in light bulbs?",
+      "type": "choice",
+      "choices": ["Tungsten", "Iron", "Helium", "Sodium"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "C| Thermochemistry",
+  "quiz": [
+    {
+      "text": "True or false: Energy is released in exothermic reactions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of an endothermic reaction.",
+      "type": "input",
+      "answer": ["photosynthesis", "melting ice"]
+    },
+    {
+      "text": "Which term refers to the energy stored in chemical bonds?",
+      "type": "choice",
+      "choices": ["Chemical energy", "Kinetic energy", "Thermal energy", "Potential energy"],
+      "answer": 0
+    },
+    {
+      "text": "Name a common fuel that releases energy when burned.",
+      "type": "input",
+      "answer": ["gasoline", "methane", "wood"]
+    },
+    {
+      "text": "True or false: Endothermic reactions absorb energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the heat change at constant pressure?",
+      "type": "choice",
+      "choices": ["Enthalpy", "Entropy", "Temperature", "Specific heat"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of an exothermic reaction.",
+      "type": "input",
+      "answer": ["combustion", "rusting"]
+    },
+    {
+      "text": "True or false: Freezing water is exothermic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a reaction that absorbs heat from the surroundings.",
+      "type": "input",
+      "answer": ["photosynthesis", "evaporation"]
+    },
+    {
+      "text": "Which reaction releases energy as light and heat?",
+      "type": "choice",
+      "choices": ["Combustion", "Dissolving salt", "Melting ice", "Evaporation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Acceleration",
+  "quiz": [
+    {
+      "text": "True or false: Acceleration is a change in velocity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the unit of acceleration.",
+      "type": "input",
+      "answer": ["metres per second squared", "meters per second squared", "m per s squared"]
+    },
+    {
+      "text": "Which formula calculates acceleration?",
+      "type": "choice",
+      "choices": ["Change in velocity divided by time", "Force divided by mass", "Distance divided by time", "Mass times velocity"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of acceleration in everyday life.",
+      "type": "input",
+      "answer": ["car speeding up", "bike going faster", "free fall"]
+    },
+    {
+      "text": "True or false: Acceleration can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of acceleration changes speed but not direction?",
+      "type": "choice",
+      "choices": ["Linear acceleration", "Centripetal acceleration", "Angular acceleration", "Deceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Name a force that can cause acceleration.",
+      "type": "input",
+      "answer": ["gravity", "friction", "push", "pull"]
+    },
+    {
+      "text": "True or false: Acceleration is always positive.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give an example of negative acceleration.",
+      "type": "input",
+      "answer": ["braking car", "slowing down", "deceleration"]
+    },
+    {
+      "text": "Which formula can also be used to calculate acceleration?",
+      "type": "choice",
+      "choices": ["Force divided by mass", "Distance divided by time", "Mass times velocity", "Energy divided by time"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Capacitor and Capacitance",
+  "quiz": [
+    {
+      "text": "True or false: A capacitor stores electrical energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the unit of capacitance.",
+      "type": "input",
+      "answer": ["farad", "f"]
+    },
+    {
+      "text": "Which symbol is commonly used for a capacitor in a circuit diagram?",
+      "type": "choice",
+      "choices": ["Two parallel lines", "Circle", "Zigzag line", "Triangle"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of where a capacitor is used.",
+      "type": "input",
+      "answer": ["camera flash", "timing circuits", "smoothing circuits"]
+    },
+    {
+      "text": "True or false: A capacitor allows direct current to flow easily.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which quantity does capacitance depend on?",
+      "type": "choice",
+      "choices": ["Area of plates", "Length of wire", "Current", "Voltage"],
+      "answer": 0
+    },
+    {
+      "text": "Name a type of capacitor.",
+      "type": "input",
+      "answer": ["electrolytic", "ceramic", "film"]
+    },
+    {
+      "text": "True or false: Increasing the distance between plates increases capacitance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give a use of capacitors in everyday electronics.",
+      "type": "input",
+      "answer": ["power supply smoothing", "timing", "audio circuits"]
+    },
+    {
+      "text": "Which property is directly measured by a capacitor?",
+      "type": "choice",
+      "choices": ["Ability to store charge", "Resistance", "Voltage", "Current"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Conductors, Insulators and Electric fields",
+  "quiz": [
+    {
+      "text": "True or false: Metals are good conductors of electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common insulator.",
+      "type": "input",
+      "answer": ["rubber", "plastic", "wood"]
+    },
+    {
+      "text": "Which type of charge produces an electric field?",
+      "type": "choice",
+      "choices": ["Electric charge", "Magnetism", "Temperature", "Mass"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a device using an electric field.",
+      "type": "input",
+      "answer": ["capacitor", "photocopier", "electroscope"]
+    },
+    {
+      "text": "True or false: Insulators allow current to flow easily.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which material is used to coat wires for safety?",
+      "type": "choice",
+      "choices": ["Plastic", "Copper", "Iron", "Aluminium"],
+      "answer": 0
+    },
+    {
+      "text": "Name a property of conductors.",
+      "type": "input",
+      "answer": ["low resistance", "allow current", "metallic"]
+    },
+    {
+      "text": "True or false: Electric fields exist only near moving charges.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give an example of a poor conductor.",
+      "type": "input",
+      "answer": ["rubber", "glass", "plastic"]
+    },
+    {
+      "text": "Which of the following can block an electric field?",
+      "type": "choice",
+      "choices": ["Insulator", "Conductor", "Battery", "Switch"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Current Electricity",
+  "quiz": [
+    {
+      "text": "True or false: Electric current is the flow of charge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the unit of electric current.",
+      "type": "input",
+      "answer": ["ampere", "amp", "amps"]
+    },
+    {
+      "text": "Which material is commonly used for electrical wiring?",
+      "type": "choice",
+      "choices": ["Copper", "Plastic", "Rubber", "Glass"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a device that measures current.",
+      "type": "input",
+      "answer": ["ammeter", "multimeter"]
+    },
+    {
+      "text": "True or false: Current flows from negative to positive in a circuit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which device is used to control current in a circuit?",
+      "type": "choice",
+      "choices": ["Switch", "Battery", "Resistor", "Lamp"],
+      "answer": 0
+    },
+    {
+      "text": "Name a property that affects current flow.",
+      "type": "input",
+      "answer": ["resistance", "voltage", "temperature"]
+    },
+    {
+      "text": "True or false: More resistance means more current.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give an example of a conductor used in circuits.",
+      "type": "input",
+      "answer": ["copper wire", "aluminium wire"]
+    },
+    {
+      "text": "Which of these is a source of current?",
+      "type": "choice",
+      "choices": ["Battery", "Switch", "Resistor", "Lamp"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Electromagnetic induction, AC, DC, Transformers",
+  "quiz": [
+    {
+      "text": "True or false: Electromagnetic induction produces a current in a wire.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a device that uses AC.",
+      "type": "input",
+      "answer": ["mains", "alternating current", "household electricity"]
+    },
+    {
+      "text": "Which of these transforms voltage?",
+      "type": "choice",
+      "choices": ["Transformer", "Battery", "Resistor", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a device that uses DC.",
+      "type": "input",
+      "answer": ["battery", "torch", "mobile phone"]
+    },
+    {
+      "text": "True or false: A changing magnetic field can induce electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of current reverses direction periodically?",
+      "type": "choice",
+      "choices": ["AC", "DC", "Static", "Electrostatic"],
+      "answer": 0
+    },
+    {
+      "text": "Name a property of transformers.",
+      "type": "input",
+      "answer": ["step up", "step down", "change voltage"]
+    },
+    {
+      "text": "True or false: DC current flows in one direction only.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of a coil used in induction.",
+      "type": "input",
+      "answer": ["solenoid", "wire coil"]
+    },
+    {
+      "text": "Which of these can produce AC current?",
+      "type": "choice",
+      "choices": ["Alternator", "Battery", "Solar cell", "Resistor"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Force, Mass, Momentum",
+  "quiz": [
+    {
+      "text": "True or false: Momentum depends on both mass and velocity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a unit of force.",
+      "type": "input",
+      "answer": ["newton", "n"]
+    },
+    {
+      "text": "Which of these increases momentum?",
+      "type": "choice",
+      "choices": ["Increasing mass", "Decreasing mass", "Stopping", "Lifting"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a force in action.",
+      "type": "input",
+      "answer": ["push", "pull", "gravity"]
+    },
+    {
+      "text": "True or false: Mass changes depending on location.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which property resists a change in motion?",
+      "type": "choice",
+      "choices": ["Mass", "Velocity", "Force", "Weight"],
+      "answer": 0
+    },
+    {
+      "text": "Name a type of momentum.",
+      "type": "input",
+      "answer": ["linear", "angular"]
+    },
+    {
+      "text": "True or false: Force is needed to change an object’s momentum.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of increasing momentum.",
+      "type": "input",
+      "answer": ["pushing faster", "adding mass"]
+    },
+    {
+      "text": "Which of these affects momentum the most?",
+      "type": "choice",
+      "choices": ["Mass and velocity", "Color", "Shape", "Temperature"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Gravitation",
+  "quiz": [
+    {
+      "text": "True or false: All objects attract each other with a gravitational force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the force that pulls objects toward the Earth.",
+      "type": "input",
+      "answer": ["gravity", "weight"]
+    },
+    {
+      "text": "Which of these increases gravitational force?",
+      "type": "choice",
+      "choices": ["Increasing mass", "Decreasing mass", "Increasing distance", "Decreasing weight"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a planet with strong gravity.",
+      "type": "input",
+      "answer": ["jupiter", "earth"]
+    },
+    {
+      "text": "True or false: Distance between objects affects gravitational force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which unit is used for gravitational force?",
+      "type": "choice",
+      "choices": ["Newton", "Joule", "Meter", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Name a satellite affected by gravity.",
+      "type": "input",
+      "answer": ["moon", "iss", "earth satellite"]
+    },
+    {
+      "text": "True or false: Gravity exists in space.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of increasing gravitational pull.",
+      "type": "input",
+      "answer": ["adding mass", "reducing distance"]
+    },
+    {
+      "text": "Which factor reduces gravitational force?",
+      "type": "choice",
+      "choices": ["Increasing distance", "Increasing mass", "Adding weight", "Adding planets"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Heat",
+  "quiz": [
+    {
+      "text": "True or false: Heat is a form of energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a method of heat transfer.",
+      "type": "input",
+      "answer": ["conduction", "convection", "radiation"]
+    },
+    {
+      "text": "Which of these materials conducts heat best?",
+      "type": "choice",
+      "choices": ["Metal", "Wood", "Plastic", "Air"],
+      "answer": 0
+    },
+    {
+      "text": "Give an example of something heated by radiation.",
+      "type": "input",
+      "answer": ["sun", "fire", "lamp"]
+    },
+    {
+      "text": "True or false: Heat always moves from hot to cold.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which unit measures heat energy?",
+      "type": "choice",
+      "choices": ["Joule", "Newton", "Watt", "Meter"],
+      "answer": 0
+    },
+    {
+      "text": "Name a material that insulates heat.",
+      "type": "input",
+      "answer": ["wood", "plastic", "rubber"]
+    },
+    {
+      "text": "True or false: Convection only occurs in liquids.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give an example of heat transfer by conduction.",
+      "type": "input",
+      "answer": ["metal rod", "pan on stove"]
+    },
+    {
+      "text": "Which factor affects how fast something heats up?",
+      "type": "choice",
+      "choices": ["Material", "Color", "Shape", "All of the above"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Light (Waves and Particles)",
+  "quiz": [
+    {
+      "text": "True or false: Light can behave like a wave.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the particle of light.",
+      "type": "input",
+      "answer": ["photon"]
+    },
+    {
+      "text": "Which of these bends light?",
+      "type": "choice",
+      "choices": ["Lens", "Mirror", "Metal", "Plastic"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of reflection of light.",
+      "type": "input",
+      "answer": ["mirror", "water surface"]
+    },
+    {
+      "text": "True or false: Light can travel through vacuum.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these separates white light into colors?",
+      "type": "choice",
+      "choices": ["Prism", "Lens", "Mirror", "Glass"], 
+      "answer": 0
+    },
+    {
+      "text": "Name an everyday source of light particles.",
+      "type": "input",
+      "answer": ["sun", "lamp", "bulb"]
+    },
+    {
+      "text": "True or false: Light can act as both wave and particle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of refraction of light.",
+      "type": "input",
+      "answer": ["straw in water", "glass prism"]
+    },
+    {
+      "text": "Which factor affects speed of light in a material?",
+      "type": "choice",
+      "choices": ["Density", "Color", "Shape", "Mass"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Pressure, Moments, Gravity",
+  "quiz": [
+    {
+      "text": "True or false: Pressure is force per unit area.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name an example where pressure increases.",
+      "type": "input",
+      "answer": ["tight tyre", "deep water", "syringe"]
+    },
+    {
+      "text": "Which of these affects moment of a force?",
+      "type": "choice",
+      "choices": ["Distance from pivot", "Color", "Mass", "Temperature"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of moment in everyday life.",
+      "type": "input",
+      "answer": ["seesaw", "door hinge", "spanner"]
+    },
+    {
+      "text": "True or false: Gravity affects all objects equally.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which unit is used for pressure?",
+      "type": "choice",
+      "choices": ["Pascal", "Newton", "Joule", "Watt"], 
+      "answer": 0
+    },
+    {
+      "text": "Name a factor that affects pressure under water.",
+      "type": "input",
+      "answer": ["depth", "density"]
+    },
+    {
+      "text": "True or false: Moment = Force times distance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of gravity acting on an object.",
+      "type": "input",
+      "answer": ["falling apple", "ball dropped"]
+    },
+    {
+      "text": "Which of these increases pressure?",
+      "type": "choice",
+      "choices": ["Increasing force", "Decreasing force", "Increasing area", "Reducing gravity"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Radioactivity",
+  "quiz": [
+    {
+      "text": "True or false: Alpha particles are positively charged.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a type of radiation that can pass through paper but not aluminum.",
+      "type": "input",
+      "answer": ["alpha", "alpha particle"]
+    },
+    {
+      "text": "Which of these is a product of radioactive decay?",
+      "type": "choice",
+      "choices": ["Helium", "Oxygen", "Carbon", "Hydrogen"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of radioactive material.",
+      "type": "input",
+      "answer": ["uranium", "radium", "plutonium"]
+    },
+    {
+      "text": "True or false: Beta particles are electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these can pass through several mm of aluminum?",
+      "type": "choice",
+      "choices": ["Beta", "Alpha", "Gamma", "Neutron"], 
+      "answer": 0
+    },
+    {
+      "text": "Name a safety measure when handling radioactive substances.",
+      "type": "input",
+      "answer": ["lead shielding", "distance", "gloves"]
+    },
+    {
+      "text": "True or false: Gamma radiation has no mass.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an everyday source of radiation.",
+      "type": "input",
+      "answer": ["sun", "medical x ray", "radon gas"]
+    },
+    {
+      "text": "Which of these is the most penetrating?",
+      "type": "choice",
+      "choices": ["Gamma", "Beta", "Alpha", "Proton"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Reflection and Mirrors",
+  "quiz": [
+    {
+      "text": "True or false: Plane mirrors produce virtual images.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a type of mirror that can focus light.",
+      "type": "input",
+      "answer": ["concave", "concave mirror"]
+    },
+    {
+      "text": "Which of these mirrors spreads light out?",
+      "type": "choice",
+      "choices": ["Convex", "Plane", "Concave", "Parabolic"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of everyday use of a plane mirror.",
+      "type": "input",
+      "answer": ["bathroom mirror", "rear view", "vanity"]
+    },
+    {
+      "text": "True or false: Convex mirrors produce real images.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which property of light is involved in reflection?",
+      "type": "choice",
+      "choices": ["Angle of incidence", "Refraction index", "Wavelength", "Frequency"], 
+      "answer": 0
+    },
+    {
+      "text": "Name a safety application of convex mirrors.",
+      "type": "input",
+      "answer": ["road junction", "parking", "blind spot"]
+    },
+    {
+      "text": "True or false: Reflected rays follow the law of reflection.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of concave mirror use.",
+      "type": "input",
+      "answer": ["torch", "shaving", "car headlights"]
+    },
+    {
+      "text": "Which mirror gives upright images always?",
+      "type": "choice",
+      "choices": ["Plane", "Concave", "Convex", "Parabolic"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Refraction and Lenses",
+  "quiz": [
+    {
+      "text": "True or false: Refraction occurs when light changes speed in different media.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a lens that converges light rays.",
+      "type": "input",
+      "answer": ["convex", "convex lens"]
+    },
+    {
+      "text": "Which of these lenses spreads light out?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Bifocal"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of convex lens use.",
+      "type": "input",
+      "answer": ["magnifying glass", "telescope", "camera"]
+    },
+    {
+      "text": "True or false: Light bends towards the normal when it slows down.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which property affects refraction the most?",
+      "type": "choice",
+      "choices": ["Refractive index", "Mass", "Frequency", "Amplitude"], 
+      "answer": 0
+    },
+    {
+      "text": "Name a material that bends light strongly.",
+      "type": "input",
+      "answer": ["glass", "water", "diamond"]
+    },
+    {
+      "text": "True or false: Lenses can form real and virtual images.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an everyday example of refraction.",
+      "type": "input",
+      "answer": ["straw in glass", "pencil in water", "rainbow"]
+    },
+    {
+      "text": "Which lens is used to correct short sight?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Cylindrical"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Refraction and Lenses",
+  "quiz": [
+    {
+      "text": "True or false: Refraction occurs when light changes speed in different media.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a lens that converges light rays.",
+      "type": "input",
+      "answer": ["convex", "convex lens"]
+    },
+    {
+      "text": "Which of these lenses spreads light out?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Bifocal"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of convex lens use.",
+      "type": "input",
+      "answer": ["magnifying glass", "telescope", "camera"]
+    },
+    {
+      "text": "True or false: Light bends towards the normal when it slows down.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which property affects refraction the most?",
+      "type": "choice",
+      "choices": ["Refractive index", "Mass", "Frequency", "Amplitude"], 
+      "answer": 0
+    },
+    {
+      "text": "Name a material that bends light strongly.",
+      "type": "input",
+      "answer": ["glass", "water", "diamond"]
+    },
+    {
+      "text": "True or false: Lenses can form real and virtual images.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an everyday example of refraction.",
+      "type": "input",
+      "answer": ["straw in glass", "pencil in water", "rainbow"]
+    },
+    {
+      "text": "Which lens is used to correct short sight?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Cylindrical"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Vectors and Scalars",
+  "quiz": [
+    {
+      "text": "True or false: Scalars have only magnitude.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of a scalar quantity.",
+      "type": "input",
+      "answer": ["speed", "mass", "temperature"]
+    },
+    {
+      "text": "Which of these is a vector?",
+      "type": "choice",
+      "choices": ["Velocity", "Speed", "Distance", "Time"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of a vector quantity in everyday life.",
+      "type": "input",
+      "answer": ["force", "displacement", "momentum"]
+    },
+    {
+      "text": "True or false: Acceleration is a vector.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these quantities has both magnitude and direction?",
+      "type": "choice",
+      "choices": ["Momentum", "Speed", "Energy", "Temperature"], 
+      "answer": 0
+    },
+    {
+      "text": "Give a unit of a vector quantity.",
+      "type": "input",
+      "answer": ["meter per second", "newton", "kilogram meter per second"]
+    },
+    {
+      "text": "True or false: Scalars can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give a situation where vector quantity is important.",
+      "type": "input",
+      "answer": ["pushing an object", "throwing a ball", "car turning"]
+    },
+    {
+      "text": "Which of these is a scalar?",
+      "type": "choice",
+      "choices": ["Temperature", "Displacement", "Force", "Velocity"], 
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Phys-Chem",
+  "topic": "P| Work, Energy, Power",
+  "quiz": [
+    {
+      "text": "True or false: Work is done when a force moves an object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give an example of kinetic energy.",
+      "type": "input",
+      "answer": ["moving car", "falling ball", "rolling bicycle"]
+    },
+    {
+      "text": "Which of these is a form of potential energy?",
+      "type": "choice",
+      "choices": ["Stretched spring", "Moving car", "Wind", "Light"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of doing work in everyday life.",
+      "type": "input",
+      "answer": ["pushing a cart", "lifting a box", "pulling a rope"]
+    },
+    {
+      "text": "True or false: Power is work done per unit time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these has units of energy?",
+      "type": "choice",
+      "choices": ["Joule", "Newton", "Watt", "Meter"], 
+      "answer": 0
+    },
+    {
+      "text": "Give an example of energy transformation.",
+      "type": "input",
+      "answer": ["electric to light", "chemical to motion", "potential to kinetic"]
+    },
+    {
+      "text": "True or false: Work can be zero if force is perpendicular to motion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give a unit of power.",
+      "type": "input",
+      "answer": ["watt", "kilowatt", "w"]
+    },
+    {
+      "text": "Which of these is an example of mechanical work?",
+      "type": "choice",
+      "choices": ["Lifting a box", "Heating water", "Charging a battery", "Boiling"], 
+      "answer": 0
+    }
+  ]
+}
+]

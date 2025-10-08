@@ -1,0 +1,612 @@
+[
+{
+  "subject": "Religious Education",
+  "topic": "A: The Search for Meaning & Values",
+  "quiz": [
+    {
+      "text": "Which of the following is a reason humans search for meaning?",
+      "type": "choice",
+      "choices": ["Understanding life purpose", "Eating food", "Sleeping", "Watching TV"],
+      "answer": 0
+    },
+    {
+      "text": "Which value is considered universal across cultures?",
+      "type": "choice",
+      "choices": ["Honesty", "Wearing blue", "Driving fast", "Playing sports"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following can guide moral behaviour?",
+      "type": "choice",
+      "choices": ["Conscience", "Fashion trends", "Advertisements", "Weather"],
+      "answer": 0
+    },
+    {
+      "text": "Spirituality often involves:",
+      "type": "choice",
+      "choices": ["Reflection on life purpose", "Ignoring values", "Focusing only on money", "Avoiding thought"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice can help individuals reflect on values?",
+      "type": "choice",
+      "choices": ["Meditation", "Watching TV", "Scrolling social media", "Sleeping only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Values are always the same for everyone.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Searching for meaning is part of human experience.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Spirituality is unrelated to moral behaviour.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a personal value.",
+      "type": "input",
+      "answer": ["honesty", "respect", "compassion", "integrity"]
+    },
+    {
+      "text": "Give one activity that helps humans find meaning.",
+      "type": "input",
+      "answer": ["prayer", "meditation", "reflecting", "journaling"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "B: Christianity",
+  "quiz": [
+    {
+      "text": "Who is the central figure in Christianity?",
+      "type": "choice",
+      "choices": ["Jesus Christ", "Muhammad", "Buddha", "Moses"],
+      "answer": 0
+    },
+    {
+      "text": "Which book contains the teachings of Jesus?",
+      "type": "choice",
+      "choices": ["The Bible", "The Quran", "The Torah", "The Bhagavad Gita"],
+      "answer": 0
+    },
+    {
+      "text": "Which Christian sacrament symbolises forgiveness of sins?",
+      "type": "choice",
+      "choices": ["Baptism", "Marriage", "Confirmation", "Ordination"],
+      "answer": 0
+    },
+    {
+      "text": "Which festival celebrates the resurrection of Jesus?",
+      "type": "choice",
+      "choices": ["Easter", "Christmas", "Ramadan", "Hanukkah"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle is central to Christian ethics?",
+      "type": "choice",
+      "choices": ["Love your neighbour", "Follow fashion", "Acquire wealth", "Avoid work"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Christianity originated in Israel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Christians believe Jesus was both human and divine.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Prayer is unimportant in Christian practice.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one Christian moral teaching.",
+      "type": "input",
+      "answer": ["love your neighbour", "forgiveness", "honesty"]
+    },
+    {
+      "text": "Give one Christian practice or ritual.",
+      "type": "input",
+      "answer": ["prayer", "baptism", "communion"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "C: World Religions",
+  "quiz": [
+    {
+      "text": "Which religion follows the teachings of the Buddha?",
+      "type": "choice",
+      "choices": ["Buddhism", "Christianity", "Islam", "Hinduism"],
+      "answer": 0
+    },
+    {
+      "text": "Which religion's holy book is the Quran?",
+      "type": "choice",
+      "choices": ["Islam", "Judaism", "Christianity", "Sikhism"],
+      "answer": 0
+    },
+    {
+      "text": "Which religion celebrates Diwali?",
+      "type": "choice",
+      "choices": ["Hinduism", "Christianity", "Buddhism", "Judaism"],
+      "answer": 0
+    },
+    {
+      "text": "Which religion has the Torah as its sacred text?",
+      "type": "choice",
+      "choices": ["Judaism", "Christianity", "Islam", "Hinduism"],
+      "answer": 0
+    },
+    {
+      "text": "Which religion believes in the Five Pillars?",
+      "type": "choice",
+      "choices": ["Islam", "Christianity", "Hinduism", "Buddhism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All religions share the same beliefs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sikhism originated in India.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Meditation is only practiced in Buddhism.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a world religion.",
+      "type": "input",
+      "answer": ["Christianity", "Islam", "Hinduism", "Buddhism", "Judaism"]
+    },
+    {
+      "text": "Give one holy book from a world religion.",
+      "type": "input",
+      "answer": ["Quran", "Bible", "Torah", "Bhagavad Gita"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "D: Moral Decision-Making",
+  "quiz": [
+    {
+      "text": "Which of the following is a moral principle?",
+      "type": "choice",
+      "choices": ["Honesty", "Watching TV", "Playing games", "Shopping"],
+      "answer": 0
+    },
+    {
+      "text": "Which ethical theory focuses on the greatest good for the greatest number?",
+      "type": "choice",
+      "choices": ["Utilitarianism", "Deontology", "Virtue ethics", "Relativism"],
+      "answer": 0
+    },
+    {
+      "text": "Which theory emphasizes duty and rules in decision-making?",
+      "type": "choice",
+      "choices": ["Deontology", "Utilitarianism", "Relativism", "Virtue ethics"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor influences moral decisions?",
+      "type": "choice",
+      "choices": ["Values", "Hair colour", "Weather", "Shoes"],
+      "answer": 0
+    },
+    {
+      "text": "Which moral virtue involves being fair and just?",
+      "type": "choice",
+      "choices": ["Justice", "Greed", "Laziness", "Impatience"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Moral decisions are always easy to make.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Culture can influence moral choices.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ethics has nothing to do with religion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a moral decision.",
+      "type": "input",
+      "answer": ["telling the truth", "helping someone", "being fair"]
+    },
+    {
+      "text": "Give one factor that influences moral decision-making.",
+      "type": "input",
+      "answer": ["values", "culture", "religion", "experience"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "E: Religion & Gender",
+  "quiz": [
+    {
+      "text": "Which term refers to the roles expected of men and women in society?",
+      "type": "choice",
+      "choices": ["Gender roles", "Occupation", "Nationality", "Religion"],
+      "answer": 0
+    },
+    {
+      "text": "Which religion ordains only men as priests in some branches?",
+      "type": "choice",
+      "choices": ["Catholicism", "Buddhism", "Hinduism", "Islam"],
+      "answer": 0
+    },
+    {
+      "text": "Which concept involves equality between men and women?",
+      "type": "choice",
+      "choices": ["Gender equality", "Gender bias", "Tradition", "Hierarchy"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can influence religious views on gender?",
+      "type": "choice",
+      "choices": ["Culture", "Hair colour", "Weather", "Food preferences"],
+      "answer": 0
+    },
+    {
+      "text": "Which religious leader is often associated with advocating women’s rights?",
+      "type": "choice",
+      "choices": ["Pope Francis", "Buddha", "Muhammad", "Krishna"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All religions treat men and women the same way.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Gender stereotypes can affect participation in religion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Religion always promotes equality between genders.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of gender equality in religion.",
+      "type": "input",
+      "answer": ["women priests", "female religious leaders", "equal participation"]
+    },
+    {
+      "text": "Give one way religion can influence gender roles.",
+      "type": "input",
+      "answer": ["rules on dress", "ritual participation", "leadership roles"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "F: Issues of Justice & Peace",
+  "quiz": [
+    {
+      "text": "Which term refers to fairness and moral rightness in society?",
+      "type": "choice",
+      "choices": ["Justice", "Freedom", "Wealth", "Power"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of promoting peace?",
+      "type": "choice",
+      "choices": ["Conflict resolution", "Waging war", "Cheating", "Gossiping"],
+      "answer": 0
+    },
+    {
+      "text": "Which human right is fundamental to justice?",
+      "type": "choice",
+      "choices": ["Right to equality", "Right to own pets", "Right to fashion", "Right to sleep"],
+      "answer": 0
+    },
+    {
+      "text": "Which organization works globally for peace?",
+      "type": "choice",
+      "choices": ["United Nations", "Nike", "McDonald's", "Facebook"],
+      "answer": 0
+    },
+    {
+      "text": "Which action demonstrates social justice?",
+      "type": "choice",
+      "choices": ["Providing education for all", "Ignoring poverty", "Discrimination", "Cheating"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Justice only applies to laws.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Peace requires active effort.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Human rights are unrelated to justice.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of promoting justice.",
+      "type": "input",
+      "answer": ["equal education", "fair laws", "helping the poor"]
+    },
+    {
+      "text": "Give one example of promoting peace.",
+      "type": "input",
+      "answer": ["conflict resolution", "negotiation", "mediation"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "G: Worship, Prayer & Ritual",
+  "quiz": [
+    {
+      "text": "Which form of worship involves singing or chanting?",
+      "type": "choice",
+      "choices": ["Liturgical worship", "Silent reading", "Meditation", "Pilgrimage"],
+      "answer": 0
+    },
+    {
+      "text": "Which ritual marks a significant life event in Christianity?",
+      "type": "choice",
+      "choices": ["Baptism", "Meditation", "Fasting", "Confession"],
+      "answer": 0
+    },
+    {
+      "text": "Which prayer is considered a model prayer in Christianity?",
+      "type": "choice",
+      "choices": ["The Lord's Prayer", "Hail Mary", "Shema", "Gayatri"],
+      "answer": 0
+    },
+    {
+      "text": "Which action is part of Muslim daily worship?",
+      "type": "choice",
+      "choices": ["Salat (prayer)", "Confession", "Meditation", "Sabbath rest"],
+      "answer": 0
+    },
+    {
+      "text": "Which Christian ritual involves consuming bread and wine?",
+      "type": "choice",
+      "choices": ["Eucharist", "Baptism", "Confirmation", "Marriage"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All religions have identical rituals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Worship can include actions as well as words.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Prayer is always spoken aloud.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a religious ritual.",
+      "type": "input",
+      "answer": ["baptism", "eucharist", "pilgrimage", "prayer"]
+    },
+    {
+      "text": "Give one form of worship.",
+      "type": "input",
+      "answer": ["liturgical", "meditation", "chanting", "music"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "H: The Bible",
+  "quiz": [
+    {
+      "text": "Which part of the Bible tells the story of Jesus?",
+      "type": "choice",
+      "choices": ["New Testament", "Old Testament", "Torah", "Quran"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the first book of the Bible?",
+      "type": "choice",
+      "choices": ["Genesis", "Exodus", "Psalms", "Matthew"],
+      "answer": 0
+    },
+    {
+      "text": "Which book contains the Ten Commandments?",
+      "type": "choice",
+      "choices": ["Exodus", "Genesis", "Leviticus", "Deuteronomy"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the Bible contains prophecies?",
+      "type": "choice",
+      "choices": ["Old Testament", "New Testament", "Gospels", "Epistles"],
+      "answer": 0
+    },
+    {
+      "text": "Which gospel is written by a doctor?",
+      "type": "choice",
+      "choices": ["Luke", "Matthew", "Mark", "John"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Bible was originally written in multiple languages.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Psalms are in the New Testament.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Bible is only read by Christians.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one book from the Old Testament.",
+      "type": "input",
+      "answer": ["Genesis", "Exodus", "Leviticus", "Numbers"]
+    },
+    {
+      "text": "Give one book from the New Testament.",
+      "type": "input",
+      "answer": ["Matthew", "Mark", "Luke", "John"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "I: Religion: The Irish Experience",
+  "quiz": [
+    {
+      "text": "Which religion has historically been dominant in Ireland?",
+      "type": "choice",
+      "choices": ["Catholicism", "Protestantism", "Islam", "Judaism"],
+      "answer": 0
+    },
+    {
+      "text": "Which movement in Ireland promoted Catholic education?",
+      "type": "choice",
+      "choices": ["National schools", "Industrial schools", "Jesuit missions", "Monastic orders"],
+      "answer": 0
+    },
+    {
+      "text": "Which church in Ireland is known for Protestant traditions?",
+      "type": "choice",
+      "choices": ["Church of Ireland", "Catholic Church", "Methodist Church", "Baptist Church"],
+      "answer": 0
+    },
+    {
+      "text": "Which event significantly affected religious life in Ireland in the 20th century?",
+      "type": "choice",
+      "choices": ["Second Vatican Council", "French Revolution", "American Civil War", "Industrial Revolution"],
+      "answer": 0
+    },
+    {
+      "text": "Which organization runs many hospitals and schools in Ireland?",
+      "type": "choice",
+      "choices": ["Religious orders", "Government agencies", "Private companies", "UNICEF"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ireland has only ever been Catholic.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Religion has influenced Irish culture and politics.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Protestantism was introduced to Ireland before Catholicism.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one way religion has shaped Irish education.",
+      "type": "input",
+      "answer": ["National schools", "Catholic schools", "Faith-based curriculum"]
+    },
+    {
+      "text": "Give one way religion has influenced Irish society.",
+      "type": "input",
+      "answer": ["Hospitals", "Charities", "Festivals"]
+    }
+  ]
+},
+{
+  "subject": "Religious Education",
+  "topic": "J: Religion & Science",
+  "quiz": [
+    {
+      "text": "Which scientist is famous for the theory of evolution?",
+      "type": "choice",
+      "choices": ["Charles Darwin", "Isaac Newton", "Galileo", "Albert Einstein"],
+      "answer": 0
+    },
+    {
+      "text": "Which area of study deals with matter and energy?",
+      "type": "choice",
+      "choices": ["Physics", "Biology", "Chemistry", "Sociology"],
+      "answer": 0
+    },
+    {
+      "text": "Which branch of science studies living organisms?",
+      "type": "choice",
+      "choices": ["Biology", "Physics", "Astronomy", "Geology"],
+      "answer": 0
+    },
+    {
+      "text": "Which concept can cause debate between religion and science?",
+      "type": "choice",
+      "choices": ["Origin of life", "Gravity", "Electricity", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes studying the natural world using observation and experiment?",
+      "type": "choice",
+      "choices": ["Scientific method", "Faith", "Prayer", "Meditation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Religion and science always have to conflict.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Evolution is a scientific theory.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Religion can provide moral guidance while science explains natural phenomena.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one scientific explanation that some religions discuss.",
+      "type": "input",
+      "answer": ["Big Bang", "Evolution", "Earth's age"]
+    },
+    {
+      "text": "Give one way religion and science interact.",
+      "type": "input",
+      "answer": ["Ethics in science", "Moral guidance", "Environmental stewardship"]
+    }
+  ]
+}
+]

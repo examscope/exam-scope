@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/style.css">
+    <title>ExamScope | Past Papers</title>
+</head>
+<body>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-back" onclick="previousPage()"><i class="fa-solid fa-chevron-left back-chevron"></i> Back</div>
+            <div class="home-title">Past Papers</div>
+            <div class="home-para">Browse full past papers organised by year, subject, and level.</div>
+            <div class="home-nav">
+                <a href="index.html" class="nav-link">Exam Questions <div class="home-hr-fill"></div></a>
+                <a href="my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="past-papers.html" class="nav-link nav-link-active">Past Papers <div class="home-hr-fill hr-fill-active"></div></a>
+                <a href="saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="worksheet-builder.html" class="nav-link">Worksheet Builder <div class="home-hr-fill"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="sav-empty" style="display: none;">
+                <i class="fa-solid fa-folder-open sav-empty-icon"></i>
+                <div class="sav-empty-title">No Papers found</div>
+                <div class="sav-empty-txt">No papers were found for this subject. Try another or come back again soon.</div>
+                <div onclick="previousPage()" class="sav-empty-btn">Go Back</div>
+            </div>
+
+            <div class="pap-container main-container">
+                <div class="pap-form">
+                    <div class="pap-section">
+                        <div class="pap-label">Choose an exam</div>
+                        <!-- 
+                            <div class="pap-flex">
+                                <div class="pap-option pap-option-type">Leaving Cert</div>
+                                <div class="pap-option pap-option-type">Junior Cert</div>
+                            </div>
+                            -->
+
+                            <div class="pap-toggle-container">
+                                <div class="pap-toggle">
+                                    <div class="pap-toggle-white"></div>
+                                    <div class="pap-toggle-section pap-toggle-active">Leaving Cert</div>
+                                    <div class="pap-toggle-section">Junior Cert</div>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="pap-section">
+                        <div class="pap-label">Choose a subject</div>
+                        <div class="pap-selector">
+                            <div class="pap-txt">Subject</div>
+                            <i class="fa-solid fa-chevron-down pap-chevron"></i>
+
+                            <div class="pap-dropdown" id="dropLc">
+                                <div class="pap-drop-txt">Accounting</div>
+                                <div class="pap-drop-txt">Agricultural Science</div>
+                                <div class="pap-drop-txt">Applied Maths</div>
+                                <div class="pap-drop-txt">Art</div>
+                                <div class="pap-drop-txt">Biology</div>
+                                <div class="pap-drop-txt">Business</div>
+                                <div class="pap-drop-txt">Chemistry</div>
+                                <div class="pap-drop-txt">Classical Studies</div>
+                                <div class="pap-drop-txt">Computer Science</div>
+                                <div class="pap-drop-txt">Construction Studies</div>
+                                <div class="pap-drop-txt">Design & Communication Graphics</div>
+                                <div class="pap-drop-txt">Economics</div>
+                                <div class="pap-drop-txt">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt">French</div>
+                                <div class="pap-drop-txt">Geography</div>
+                                <div class="pap-drop-txt">German</div>
+                                <div class="pap-drop-txt">History</div>
+                                <div class="pap-drop-txt">Home Economics</div>
+                                <div class="pap-drop-txt">Irish</div>
+                                <div class="pap-drop-txt">Italian</div>
+                                <div class="pap-drop-txt pap-drop-cl">Japanese</div>
+                                <div class="pap-drop-txt pap-drop-cl">LCVP (Link Modules)</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Phys-Chem</div>
+                                <div class="pap-drop-txt">Physical Education</div>
+                                <div class="pap-drop-txt">Physics</div>
+                                <div class="pap-drop-txt">Politics and Society</div>
+                                <div class="pap-drop-txt">Religious Education</div>
+                                <div class="pap-drop-txt">Spanish</div>
+                                <div class="pap-drop-txt">Technology</div>
+                            </div>
+                            <div class="pap-dropdown" id="dropJc">
+                                <div class="pap-drop-txt pap-drop-cl">Applied Technology</div>
+                                <div class="pap-drop-txt pap-drop-cl">Business Studies</div>
+                                <div class="pap-drop-txt pap-drop-cl">Classics</div>
+                                <div class="pap-drop-txt pap-drop-cl">CSPE</div>
+                                <div class="pap-drop-txt pap-drop-cl">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt pap-drop-cl">French</div>
+                                <div class="pap-drop-txt pap-drop-cl">Geography</div>
+                                <div class="pap-drop-txt pap-drop-cl">German</div>
+                                <div class="pap-drop-txt pap-drop-cl">Graphics</div>
+                                <div class="pap-drop-txt pap-drop-cl">History</div>
+                                <div class="pap-drop-txt pap-drop-cl">Home Economics</div>
+                                <div class="pap-drop-txt">Irish<span style="display: none;"> T2</span></div>
+                                <div class="pap-drop-txt pap-drop-cl">Italian</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt pap-drop-cl">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Religious Education</div>
+                                <div class="pap-drop-txt pap-drop-cl">Science</div>
+                                <div class="pap-drop-txt pap-drop-cl">Spanish</div>
+                                <div class="pap-drop-txt pap-drop-cl">Wood Technology</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="level-toggle">
+                        <div class="pap-label">Exam level</div>
+                        <!-- 
+                            <div class="pap-flex">
+                                <div class="pap-option pap-option-level">Higher</div>
+                                <div class="pap-option pap-option-level">Ordinary</div>
+                            </div>
+                            -->
+                            <div class="pap-toggle-container">
+                                <div class="pap-toggle">
+                                    <div class="pap-toggle-white"></div>
+                                    <div class="pap-toggle-section pap-toggle-active">Higher</div>
+                                    <div class="pap-toggle-section">Ordinary</div>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="btn-pap btn-pap-inactive" onclick="searchSubjects()">Search <img src="images/icons/arrow.png" class="pap-arrow"></div>
+                </div>
+
+                <div class="pap-table full-papers-table" style="display: none;">
+                    <!--
+                    <div class="pap-inside-scroll">
+                        <div class="pap-inside pap-inside-filter">
+                            <div class="pap-filter">
+                                <div class="pap-box-container">
+                                    <div class="pap-box pap-box-active">All (42)</div>
+                                    <div class="pap-box">State Papers (22)</div>
+                                    <div class="pap-box">Mock Papers (20)</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+
+                    <div class="pap-inside-scroll">
+                        <div class="pap-inside" id="papCol">
+                            <div class="pap-top">
+                                <div class="pap-heading">Year Published</div>
+                                <div class="pap-heading link-heading">Resources</div>
+                                <div class="pap-heading type-heading">Exam Type</div>
+                                <div class="pap-heading paper-heading">Exam Paper</div>
+                                <div class="pap-heading paper-heading">Marking Scheme</div>
+                                <div class="pap-heading mark-heading">Mark Complete</div>
+                            </div>
+                            <!--
+                                <div class="pap-row">
+                                    <div class="pap-year-col">
+                                        <div class="pap-year">2025</div>
+                                    </div>
+                                    <div class="pap-type pap-type-state">State Exam</div>
+                                    <div class="pap-img-container">
+                                        <img src="images/full_papers/eg_paper.png" alt="Exam Paper" class="pap-img">
+                                    </div>
+                                    <div class="pap-img-container">
+                                        <img src="images/eg_scheme.png" alt="Exam Paper" class="pap-img">
+                                    </div>
+                                    <div class="pap-mark"><i class="fa-solid fa-check pap-check"></i></div>
+                                </div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="/script.js"></script>
+</body>
+</html>

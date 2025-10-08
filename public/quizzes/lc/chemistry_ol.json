@@ -1,0 +1,1039 @@
+[
+{
+  "subject": "Chemistry",
+  "topic": "Acids, Bases & pH",
+  "quiz": [
+    {
+      "text": "What is the pH of a neutral solution?",
+      "type": "choice",
+      "choices": ["7", "0", "14", "1"],
+      "answer": 0
+    },
+    {
+      "text": "Which ion is found in acidic solutions?",
+      "type": "choice",
+      "choices": ["H+", "OH-", "Na+", "Cl-"],
+      "answer": 0
+    },
+    {
+      "text": "What colour does litmus turn in an acid?",
+      "type": "choice",
+      "choices": ["Red", "Blue", "Green", "Yellow"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a base?",
+      "type": "choice",
+      "choices": ["Sodium hydroxide", "Hydrochloric acid", "Water", "Carbon dioxide"],
+      "answer": 0
+    },
+    {
+      "text": "pH values greater than 7 are considered:",
+      "type": "choice",
+      "choices": ["Basic", "Acidic", "Neutral", "Alkaline"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Acids release OH- ions in water.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Bases feel slippery to the touch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: pH 1 is more acidic than pH 4.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a common acid.",
+      "type": "input",
+      "answer": ["hydrochloric acid", "hcl", "sulfuric acid", "h2so4"]
+    },
+    {
+      "text": "What ion do bases release in water?",
+      "type": "input",
+      "answer": ["oh-", "hydroxide ion"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Atomic Structure",
+  "quiz": [
+    {
+      "text": "What charge does a proton have?",
+      "type": "choice",
+      "choices": ["Positive", "Negative", "Neutral", "No charge"],
+      "answer": 0
+    },
+    {
+      "text": "Where are electrons found in an atom?",
+      "type": "choice",
+      "choices": ["Shells", "Nucleus", "Proton", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "What is the relative charge of a neutron?",
+      "type": "choice",
+      "choices": ["0", "+1", "-1", "+2"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle determines the atomic number?",
+      "type": "choice",
+      "choices": ["Proton", "Neutron", "Electron", "Nucleus"],
+      "answer": 0
+    },
+    {
+      "text": "What is the nucleus made of?",
+      "type": "choice",
+      "choices": ["Protons and neutrons", "Electrons", "Protons only", "Neutrons only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Electrons have a positive charge.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Neutrons have no charge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Protons and neutrons have roughly the same mass.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is an isotope?",
+      "type": "input",
+      "answer": ["atoms of the same element with different neutrons", "same element different mass number"]
+    },
+    {
+      "text": "Define atomic number.",
+      "type": "input",
+      "answer": ["number of protons", "proton count"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Experiment Questions",
+  "quiz": [
+    {
+      "text": "What is the purpose of a control in an experiment?",
+      "type": "choice",
+      "choices": ["To provide a comparison", "To change variables", "To speed up reaction", "To measure temperature"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used to measure volume accurately in titrations?",
+      "type": "choice",
+      "choices": ["Burette", "Beaker", "Pipette", "Measuring cylinder"],
+      "answer": 0
+    },
+    {
+      "text": "What is a dependent variable?",
+      "type": "choice",
+      "choices": ["The variable measured", "The variable changed", "The variable controlled", "The variable ignored"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct way to record results?",
+      "type": "choice",
+      "choices": ["Systematic and clear", "Random", "Incomplete", "Messy"],
+      "answer": 0
+    },
+    {
+      "text": "What safety equipment should be worn during experiments?",
+      "type": "choice",
+      "choices": ["Goggles", "Sandals", "Open clothes", "No protection"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Repeating experiments improves reliability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only one variable should be changed at a time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Safety goggles are optional in chemistry labs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one piece of lab safety equipment.",
+      "type": "input",
+      "answer": ["goggles", "lab coat", "gloves", "fire extinguisher"]
+    },
+    {
+      "text": "What is the purpose of a hypothesis?",
+      "type": "input",
+      "answer": ["prediction", "educated guess"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Fuels & Thermochemistry",
+  "quiz": [
+    {
+      "text": "What type of fuel is petrol?",
+      "type": "choice",
+      "choices": ["Fossil fuel", "Biofuel", "Renewable fuel", "Nuclear fuel"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is a major product of combustion?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+      "answer": 0
+    },
+    {
+      "text": "What is the energy change called when fuel burns?",
+      "type": "choice",
+      "choices": ["Exothermic", "Endothermic", "Isothermic", "Adiabatic"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main greenhouse gas released by burning fossil fuels?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Methane", "Oxygen", "Nitrous oxide"],
+      "answer": 0
+    },
+    {
+      "text": "Which fuel is considered renewable?",
+      "type": "choice",
+      "choices": ["Biofuel", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Burning fossil fuels releases energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Biofuels come from living organisms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Combustion is an endothermic process.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a fossil fuel.",
+      "type": "input",
+      "answer": ["coal", "oil", "natural gas", "petrol"]
+    },
+    {
+      "text": "What is thermochemistry?",
+      "type": "input",
+      "answer": ["study of heat in chemical reactions", "heat energy changes"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Gas Laws, moles & Gas Properties",
+  "quiz": [
+    {
+      "text": "Which gas law relates pressure and volume at constant temperature?",
+      "type": "choice",
+      "choices": ["Boyle’s Law", "Charles’ Law", "Gay-Lussac’s Law", "Avogadro’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "What is one mole of any substance equal to?",
+      "type": "choice",
+      "choices": ["6.02 x 10^23 particles", "1 gram", "1 liter", "100 grams"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures pressure?",
+      "type": "choice",
+      "choices": ["Pascal", "Joule", "Meter", "Mole"],
+      "answer": 0
+    },
+    {
+      "text": "At constant pressure, what happens to volume when temperature increases?",
+      "type": "choice",
+      "choices": ["Volume increases", "Volume decreases", "Volume stays the same", "Pressure increases"],
+      "answer": 0
+    },
+    {
+      "text": "What is the standard molar volume of a gas at room temperature?",
+      "type": "choice",
+      "choices": ["24 dm³", "22.4 dm³", "1 dm³", "100 dm³"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Increasing temperature increases gas pressure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Moles measure the volume of gas.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Gases expand when heated at constant pressure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Define one mole.",
+      "type": "input",
+      "answer": ["6.02 x 10^23 particles", "Avogadro’s number"]
+    },
+    {
+      "text": "Name the law that relates temperature and volume of a gas.",
+      "type": "input",
+      "answer": ["Charles’ Law", "Charles Law"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Ionic & Covalent Bonding",
+  "quiz": [
+    {
+      "text": "What type of bond forms between a metal and a non-metal?",
+      "type": "choice",
+      "choices": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": 0
+    },
+    {
+      "text": "In covalent bonding, atoms:",
+      "type": "choice",
+      "choices": ["Share electrons", "Transfer electrons", "Lose electrons", "Gain electrons"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a property of ionic compounds?",
+      "type": "choice",
+      "choices": ["High melting point", "Low melting point", "Poor conductivity", "Soft"],
+      "answer": 0
+    },
+    {
+      "text": "Which element commonly forms covalent bonds?",
+      "type": "choice",
+      "choices": ["Oxygen", "Sodium", "Calcium", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "What charge do ions have in ionic compounds?",
+      "type": "choice",
+      "choices": ["Positive and negative", "Neutral", "Only positive", "Only negative"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ionic bonds involve sharing electrons.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Covalent bonds involve sharing electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ionic compounds conduct electricity when molten.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Define ionic bond.",
+      "type": "input",
+      "answer": ["bond formed by transfer of electrons", "electrostatic attraction between ions"]
+    },
+    {
+      "text": "What is a covalent bond?",
+      "type": "input",
+      "answer": ["bond formed by sharing electrons", "sharing of electron pairs"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Option: Atmospheric Chemistry",
+  "quiz": [
+    {
+      "text": "What is the main gas in Earth's atmosphere?",
+      "type": "choice",
+      "choices": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas contributes most to the greenhouse effect?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Nitrogen", "Oxygen", "Argon"],
+      "answer": 0
+    },
+    {
+      "text": "What layer protects Earth from UV radiation?",
+      "type": "choice",
+      "choices": ["Ozone layer", "Troposphere", "Stratosphere", "Mesosphere"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is mainly responsible for acid rain?",
+      "type": "choice",
+      "choices": ["Sulfur dioxide", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is NOT a greenhouse gas?",
+      "type": "choice",
+      "choices": ["Argon", "Methane", "Water vapor", "Carbon dioxide"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Nitrogen makes up about 78% of the atmosphere.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Carbon monoxide is harmless.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ozone at ground level is a pollutant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a greenhouse gas besides carbon dioxide.",
+      "type": "input",
+      "answer": ["methane", "water vapor", "nitrous oxide"]
+    },
+    {
+      "text": "What causes acid rain?",
+      "type": "input",
+      "answer": ["sulfur dioxide", "nitrogen oxides"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Option: Industrial Chemistry",
+  "quiz": [
+    {
+      "text": "What is the main raw material for producing ammonia industrially?",
+      "type": "choice",
+      "choices": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which process produces ammonia on an industrial scale?",
+      "type": "choice",
+      "choices": ["Haber process", "Contact process", "Electrolysis", "Fermentation"],
+      "answer": 0
+    },
+    {
+      "text": "What catalyst is used in the Haber process?",
+      "type": "choice",
+      "choices": ["Iron", "Platinum", "Nickel", "Copper"],
+      "answer": 0
+    },
+    {
+      "text": "What temperature is used in the Haber process?",
+      "type": "choice",
+      "choices": ["450°C", "25°C", "1000°C", "100°C"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main use of ammonia produced industrially?",
+      "type": "choice",
+      "choices": ["Fertilizers", "Explosives", "Plastics", "Pharmaceuticals"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Haber process combines nitrogen and oxygen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Haber process is reversible.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: High pressure increases ammonia yield in the Haber process.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the industrial process that produces sulfuric acid.",
+      "type": "input",
+      "answer": ["contact process"]
+    },
+    {
+      "text": "What raw materials are used in the Haber process?",
+      "type": "input",
+      "answer": ["nitrogen and hydrogen", "n2 and h2"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Option: Materials & Polymers",
+  "quiz": [
+    {
+      "text": "What is a polymer?",
+      "type": "choice",
+      "choices": ["Large molecule made of repeating units", "Single atom", "Mixture of elements", "Small molecule"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of bond links monomers in polymers?",
+      "type": "choice",
+      "choices": ["Covalent bond", "Ionic bond", "Hydrogen bond", "Metallic bond"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a natural polymer?",
+      "type": "choice",
+      "choices": ["Cellulose", "Polyethylene", "PVC", "Nylon"],
+      "answer": 0
+    },
+    {
+      "text": "What type of polymerization joins monomers with double bonds?",
+      "type": "choice",
+      "choices": ["Addition polymerization", "Condensation polymerization", "Ionic polymerization", "Metal polymerization"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer is commonly used in plastic bags?",
+      "type": "choice",
+      "choices": ["Polyethylene", "Polystyrene", "PVC", "Nylon"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polymers are always natural substances.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Condensation polymerization releases a small molecule like water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Polymers are made up of monomers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one synthetic polymer.",
+      "type": "input",
+      "answer": ["polyethylene", "polystyrene", "pvc", "nylon"]
+    },
+    {
+      "text": "What is the process called when monomers join to form polymers with loss of water?",
+      "type": "input",
+      "answer": ["condensation polymerization", "condensation reaction"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Option: Metals",
+  "quiz": [
+    {
+      "text": "Which metal is liquid at room temperature?",
+      "type": "choice",
+      "choices": ["Mercury", "Iron", "Copper", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "text": "What is the process of removing impurities from metal called?",
+      "type": "choice",
+      "choices": ["Refining", "Smelting", "Casting", "Alloying"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is commonly alloyed with copper to make bronze?",
+      "type": "choice",
+      "choices": ["Tin", "Zinc", "Lead", "Nickel"],
+      "answer": 0
+    },
+    {
+      "text": "What is rust mainly composed of?",
+      "type": "choice",
+      "choices": ["Iron oxide", "Copper sulfate", "Aluminum oxide", "Calcium carbonate"],
+      "answer": 0
+    },
+    {
+      "text": "Which property describes a metal’s ability to be hammered into sheets?",
+      "type": "choice",
+      "choices": ["Malleability", "Ductility", "Conductivity", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All metals conduct electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Aluminum is heavier than iron.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Alloying improves metal strength.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a metal alloy.",
+      "type": "input",
+      "answer": ["bronze", "steel", "brass"]
+    },
+    {
+      "text": "What process converts ore into metal?",
+      "type": "input",
+      "answer": ["smelting", "extraction"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Organic Chemistry",
+  "quiz": [
+    {
+      "text": "What element do all organic compounds contain?",
+      "type": "choice",
+      "choices": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
+      "answer": 0
+    },
+    {
+      "text": "What is the simplest alkane?",
+      "type": "choice",
+      "choices": ["Methane", "Ethane", "Propane", "Butane"],
+      "answer": 0
+    },
+    {
+      "text": "What functional group is in alcohols?",
+      "type": "choice",
+      "choices": ["-OH", "-COOH", "-NH2", "-CHO"],
+      "answer": 0
+    },
+    {
+      "text": "What type of reaction turns alkenes into alkanes?",
+      "type": "choice",
+      "choices": ["Addition", "Substitution", "Elimination", "Polymerization"],
+      "answer": 0
+    },
+    {
+      "text": "Which organic compound contains the carboxyl group?",
+      "type": "choice",
+      "choices": ["Carboxylic acids", "Alcohols", "Ketones", "Esters"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alkanes contain only single bonds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alkenes contain double bonds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alcohols contain the -NH2 group.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the simplest alkene.",
+      "type": "input",
+      "answer": ["ethene", "ethylene"]
+    },
+    {
+      "text": "What is the general formula for alkanes?",
+      "type": "input",
+      "answer": ["cnh2n+2", "c(n)h(2n+2)"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Oxidation & Reduction",
+  "quiz": [
+    {
+      "text": "What happens during oxidation?",
+      "type": "choice",
+      "choices": ["Loss of electrons", "Gain of electrons", "Loss of protons", "Gain of protons"],
+      "answer": 0
+    },
+    {
+      "text": "What happens during reduction?",
+      "type": "choice",
+      "choices": ["Gain of electrons", "Loss of electrons", "Loss of protons", "Gain of protons"],
+      "answer": 0
+    },
+    {
+      "text": "Which agent causes oxidation?",
+      "type": "choice",
+      "choices": ["Oxidizing agent", "Reducing agent", "Catalyst", "Solvent"],
+      "answer": 0
+    },
+    {
+      "text": "Which agent causes reduction?",
+      "type": "choice",
+      "choices": ["Reducing agent", "Oxidizing agent", "Catalyst", "Solvent"],
+      "answer": 0
+    },
+    {
+      "text": "In rusting, iron is:",
+      "type": "choice",
+      "choices": ["Oxidized", "Reduced", "Neutral", "Both oxidized and reduced"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Oxidation always involves oxygen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Reduction is the gain of electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A reducing agent loses electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Define oxidation.",
+      "type": "input",
+      "answer": ["loss of electrons", "electron loss"]
+    },
+    {
+      "text": "Define reduction.",
+      "type": "input",
+      "answer": ["gain of electrons", "electron gain"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Periodic Table",
+  "quiz": [
+    {
+      "text": "Who is credited with creating the first periodic table?",
+      "type": "choice",
+      "choices": ["Mendeleev", "Dalton", "Bohr", "Rutherford"],
+      "answer": 0
+    },
+    {
+      "text": "Elements in the same group have the same number of:",
+      "type": "choice",
+      "choices": ["Valence electrons", "Protons", "Neutrons", "Energy levels"],
+      "answer": 0
+    },
+    {
+      "text": "What property increases across a period from left to right?",
+      "type": "choice",
+      "choices": ["Electronegativity", "Atomic radius", "Metallic character", "Density"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is a noble gas?",
+      "type": "choice",
+      "choices": ["Neon", "Chlorine", "Sodium", "Oxygen"],
+      "answer": 0
+    },
+    {
+      "text": "What is the atomic number of an element?",
+      "type": "choice",
+      "choices": ["Number of protons", "Number of neutrons", "Number of electrons", "Mass number"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Elements in the same period have the same number of electron shells.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Metals are found on the right side of the periodic table.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Atomic mass increases down a group.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name an alkali metal.",
+      "type": "input",
+      "answer": ["sodium", "potassium", "lithium"]
+    },
+    {
+      "text": "What determines the chemical properties of an element?",
+      "type": "input",
+      "answer": ["valence electrons", "number of valence electrons"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Radioactivity",
+  "quiz": [
+    {
+      "text": "What type of radiation is a helium nucleus?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "Which radiation is the most penetrating?",
+      "type": "choice",
+      "choices": ["Gamma", "Alpha", "Beta", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "What is half-life?",
+      "type": "choice",
+      "choices": ["Time for half the nuclei to decay", "Time for full decay", "Time for doubling", "Time for energy release"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle is emitted in beta decay?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Alpha particle"],
+      "answer": 0
+    },
+    {
+      "text": "Radioactive decay changes the:",
+      "type": "choice",
+      "choices": ["Atomic number", "Mass number only", "Proton number only", "Number of neutrons only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alpha particles are stopped by paper.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gamma rays are electromagnetic waves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Radioactive decay is a random process.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Define half-life.",
+      "type": "input",
+      "answer": ["time taken for half the nuclei to decay", "time for half decay"]
+    },
+    {
+      "text": "Name a type of radioactive decay.",
+      "type": "input",
+      "answer": ["alpha decay", "beta decay", "gamma decay"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Rates of Reaction",
+  "quiz": [
+    {
+      "text": "What effect does increasing temperature have on reaction rate?",
+      "type": "choice",
+      "choices": ["Increases rate", "Decreases rate", "No effect", "Stops reaction"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is NOT a factor affecting reaction rate?",
+      "type": "choice",
+      "choices": ["Pressure", "Concentration", "Catalyst", "Color of reactants"],
+      "answer": 3
+    },
+    {
+      "text": "What is the role of a catalyst?",
+      "type": "choice",
+      "choices": ["Speeds up reaction", "Slows reaction", "Changes products", "Increases temperature"],
+      "answer": 0
+    },
+    {
+      "text": "What happens to particles during a reaction?",
+      "type": "choice",
+      "choices": ["They collide", "They disappear", "They change color", "They freeze"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a sign that a reaction is happening faster?",
+      "type": "choice",
+      "choices": ["More product formed quickly", "Less product formed", "Temperature decreases", "Color remains same"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Increasing surface area speeds up reaction rate.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Catalysts are used up during the reaction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Higher concentration means slower reactions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Define catalyst.",
+      "type": "input",
+      "answer": ["substance that speeds up a reaction", "speeds up reaction without being used up"]
+    },
+    {
+      "text": "Name one factor that affects reaction rate.",
+      "type": "input",
+      "answer": ["temperature", "concentration", "pressure", "surface area"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Stoichiometry, Formulae & Equations",
+  "quiz": [
+    {
+      "text": "What does the law of conservation of mass state?",
+      "type": "choice",
+      "choices": ["Mass is neither created nor destroyed", "Mass increases", "Mass decreases", "Mass changes randomly"],
+      "answer": 0
+    },
+    {
+      "text": "What is a balanced chemical equation?",
+      "type": "choice",
+      "choices": ["Equal atoms of each element on both sides", "Equal molecules", "Equal volumes", "Equal masses"],
+      "answer": 0
+    },
+    {
+      "text": "What does the formula H₂O represent?",
+      "type": "choice",
+      "choices": ["Water molecule", "Hydrogen gas", "Oxygen gas", "Hydrogen peroxide"],
+      "answer": 0
+    },
+    {
+      "text": "What is the mole ratio used for?",
+      "type": "choice",
+      "choices": ["Relating quantities of reactants/products", "Calculating mass only", "Measuring volume", "Counting atoms"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct formula for carbon dioxide?",
+      "type": "choice",
+      "choices": ["CO₂", "C₂O", "CO", "C₂O₂"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The number of atoms changes in a chemical reaction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Equations must be balanced to follow conservation of mass.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Subscripts can be changed when balancing equations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Define mole ratio.",
+      "type": "input",
+      "answer": ["ratio of moles of reactants and products", "ratio between reactants and products"]
+    },
+    {
+      "text": "What does balancing a chemical equation mean?",
+      "type": "input",
+      "answer": ["equal atoms on both sides", "same number of each atom"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry",
+  "topic": "Water & Water Analysis",
+  "quiz": [
+    {
+      "text": "What is the main component of water?",
+      "type": "choice",
+      "choices": ["Hydrogen and oxygen", "Hydrogen and nitrogen", "Oxygen and carbon", "Hydrogen and carbon"],
+      "answer": 0
+    },
+    {
+      "text": "What is hard water mainly caused by?",
+      "type": "choice",
+      "choices": ["Calcium and magnesium ions", "Sodium ions", "Chloride ions", "Potassium ions"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is used to remove hardness in water?",
+      "type": "choice",
+      "choices": ["Boiling", "Filtration", "Distillation", "Sedimentation"],
+      "answer": 0
+    },
+    {
+      "text": "What is the pH of pure water?",
+      "type": "choice",
+      "choices": ["7", "0", "14", "1"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a common test for water purity?",
+      "type": "choice",
+      "choices": ["Testing for dissolved solids", "Testing for color only", "Testing for smell only", "Testing for taste"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Hard water causes limescale buildup.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Distillation removes dissolved salts from water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pure water is a good conductor of electricity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one ion that causes water hardness.",
+      "type": "input",
+      "answer": ["calcium", "magnesium", "ca2+", "mg2+"]
+    },
+    {
+      "text": "What process is used to purify water by evaporation and condensation?",
+      "type": "input",
+      "answer": ["distillation"]
+    }
+  ]
+}
+]

@@ -1,0 +1,1267 @@
+[
+  {
+    "subject": "Wood Technology",
+    "topic": "Adhesives",
+    "quiz": [
+      {
+        "text": "Which type of adhesive is water-resistant?",
+        "type": "choice",
+        "choices": ["PVA", "Epoxy", "Casein", "Animal glue"],
+        "answer": 1
+      },
+      {
+        "text": "PVA glue is best used for:",
+        "type": "choice",
+        "choices": ["Indoor woodworking", "Outdoor furniture", "Metal bonding", "Plastic bonding"],
+        "answer": 0
+      },
+      {
+        "text": "Epoxy glue sets by:",
+        "type": "choice",
+        "choices": ["Chemical reaction", "Evaporation", "Cooling", "Friction"],
+        "answer": 0
+      },
+      {
+        "text": "Casein glue is made from:",
+        "type": "choice",
+        "choices": ["Milk protein", "Animal bones", "Synthetic resin", "Vegetable oil"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Animal glue can be reactivated with heat.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: PVA glue is waterproof.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Epoxy glue is suitable for metal and wood.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one safety precaution when using adhesives.",
+        "type": "input",
+        "answer": ["wear gloves", "use in ventilated area", "avoid skin contact"]
+      },
+      {
+        "text": "Name one type of woodworking adhesive.",
+        "type": "input",
+        "answer": ["PVA", "epoxy", "casein", "animal glue"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Carving",
+    "quiz": [
+      {
+        "text": "Which tool is used for detailed carving?",
+        "type": "choice",
+        "choices": ["Gouge", "Chisel", "Saws", "Plane"],
+        "answer": 0
+      },
+      {
+        "text": "Relief carving is:",
+        "type": "choice",
+        "choices": ["Carving raised designs on a flat surface", "Carving 3D figures", "Cutting wood into planks", "Polishing wood"],
+        "answer": 0
+      },
+      {
+        "text": "Chip carving involves:",
+        "type": "choice",
+        "choices": ["Removing small chips to create patterns", "Cutting large blocks", "Turning wood on a lathe", "Joining pieces together"],
+        "answer": 0
+      },
+      {
+        "text": "Which wood is best for carving?",
+        "type": "choice",
+        "choices": ["Basswood", "Oak", "Pine", "Teak"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Carving always requires a mallet.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Safety gloves are recommended when carving.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Carving can be done on softwoods and hardwoods.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one type of carving technique.",
+        "type": "input",
+        "answer": ["relief carving", "chip carving", "whittling"]
+      },
+      {
+        "text": "Name one safety precaution when carving.",
+        "type": "input",
+        "answer": ["wear gloves", "use carving bench", "keep tools sharp"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Choice of Material",
+    "quiz": [
+      {
+        "text": "Which wood is considered a hardwood?",
+        "type": "choice",
+        "choices": ["Oak", "Pine", "Spruce", "Cedar"],
+        "answer": 0
+      },
+      {
+        "text": "Softwoods grow from:",
+        "type": "choice",
+        "choices": ["Coniferous trees", "Deciduous trees", "Fruit trees", "Palm trees"],
+        "answer": 0
+      },
+      {
+        "text": "Which property is important when selecting material for outdoor use?",
+        "type": "choice",
+        "choices": ["Durability", "Colour", "Texture", "Ease of carving"],
+        "answer": 0
+      },
+      {
+        "text": "Plywood is:",
+        "type": "choice",
+        "choices": ["Engineered wood made of layers", "Solid hardwood", "Softwood plank", "Natural veneer only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Teak is resistant to rot and water.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All softwoods are weak and unsuitable for furniture.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: MDF is made from compressed wood fibres.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one factor to consider when choosing wood for a project.",
+        "type": "input",
+        "answer": ["strength", "durability", "appearance", "cost"]
+      },
+      {
+        "text": "Name one type of engineered wood.",
+        "type": "input",
+        "answer": ["plywood", "MDF", "chipboard"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Conversion",
+    "quiz": [
+      {
+        "text": "Conversion in woodworking means:",
+        "type": "choice",
+        "choices": ["Cutting logs into boards", "Polishing wood", "Assembling furniture", "Carving decorations"],
+        "answer": 0
+      },
+      {
+        "text": "A rip saw is used to cut:",
+        "type": "choice",
+        "choices": ["Along the grain", "Across the grain", "Veneer only", "Curves only"],
+        "answer": 0
+      },
+      {
+        "text": "A crosscut saw is used to cut:",
+        "type": "choice",
+        "choices": ["Across the grain", "Along the grain", "Both grain directions", "Metal only"],
+        "answer": 0
+      },
+      {
+        "text": "Conversion can affect:",
+        "type": "choice",
+        "choices": ["Wood quality", "Colour only", "Texture only", "None of the above"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Sawn timber can be seasoned after conversion.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Conversion refers to finishing surfaces only.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Conversion increases the value of timber.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one method of timber conversion.",
+        "type": "input",
+        "answer": ["plain sawn", "quarter sawn", "rift sawn"]
+      },
+      {
+        "text": "Name one tool used in timber conversion.",
+        "type": "input",
+        "answer": ["saw", "circular saw", "bandsaw"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Cutting List questions",
+    "quiz": [
+      {
+        "text": "A cutting list shows:",
+        "type": "choice",
+        "choices": ["Dimensions and quantity of materials", "Tool settings", "Assembly instructions", "Finishing steps"],
+        "answer": 0
+      },
+      {
+        "text": "Which information is included in a cutting list?",
+        "type": "choice",
+        "choices": ["Length, width, thickness", "Wood colour only", "Tool types only", "Joinery techniques only"],
+        "answer": 0
+      },
+      {
+        "text": "Cutting lists help to:",
+        "type": "choice",
+        "choices": ["Plan and reduce waste", "Decorate wood", "Choose adhesives", "Select finishes"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Cutting lists include the type of wood used.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Cutting lists are only necessary for large projects.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Cutting lists can save time and materials.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "A cutting list is usually created by:",
+        "type": "choice",
+        "choices": ["The designer or woodworker", "The customer only", "The supplier only", "The carpenter apprentice only"],
+        "answer": 0
+      },
+      {
+        "text": "Name one piece of information on a cutting list.",
+        "type": "input",
+        "answer": ["length", "width", "thickness", "quantity"]
+      },
+      {
+        "text": "Name one advantage of using a cutting list.",
+        "type": "input",
+        "answer": ["reduces waste", "saves time", "organises materials"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Design",
+    "quiz": [
+      {
+        "text": "A good design should consider:",
+        "type": "choice",
+        "choices": ["Function, aesthetics, and safety", "Cost only", "Materials only", "Tools only"],
+        "answer": 0
+      },
+      {
+        "text": "Sketches in design help to:",
+        "type": "choice",
+        "choices": ["Visualise the project", "Cut wood", "Choose glue", "Sand surfaces"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Colour and texture are part of design considerations.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Safety is not important when designing a project.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Design can be improved after testing a prototype.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Mood boards are used to:",
+        "type": "choice",
+        "choices": ["Inspire design ideas", "Cut wood accurately", "List tools", "Assemble parts"],
+        "answer": 0
+      },
+      {
+        "text": "Ergonomics in design refers to:",
+        "type": "choice",
+        "choices": ["Comfort and usability", "Wood type", "Adhesive choice", "Grain pattern"],
+        "answer": 0
+      },
+      {
+        "text": "Name one tool used to create design sketches.",
+        "type": "input",
+        "answer": ["pencil", "ruler", "compass", "graph paper"]
+      },
+      {
+        "text": "Name one factor to consider when designing furniture.",
+        "type": "input",
+        "answer": ["function", "aesthetics", "safety", "materials"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Disease & Defects",
+    "quiz": [
+      {
+        "text": "Which defect in wood is caused by fungi?",
+        "type": "choice",
+        "choices": ["Rot", "Knots", "Warping", "Splitting"],
+        "answer": 0
+      },
+      {
+        "text": "Which defect is caused by insects?",
+        "type": "choice",
+        "choices": ["Woodworm", "Cupping", "Twist", "Checking"],
+        "answer": 0
+      },
+      {
+        "text": "Knots in timber are:",
+        "type": "choice",
+        "choices": ["Natural imperfections from branches", "Caused by rot", "Caused by insects", "Man-made"],
+        "answer": 0
+      },
+      {
+        "text": "Warping occurs due to:",
+        "type": "choice",
+        "choices": ["Uneven drying", "Excessive polishing", "Improper glue use", "Incorrect cutting"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: All defects reduce the strength of timber.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Dry rot can be prevented by keeping wood dry.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Checking occurs along the grain due to shrinkage.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one common wood defect.",
+        "type": "input",
+        "answer": ["knot", "warp", "split", "woodworm"]
+      },
+      {
+        "text": "Name one way to prevent wood defects.",
+        "type": "input",
+        "answer": ["proper seasoning", "keeping dry", "using treated timber"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Drawing Question",
+    "quiz": [
+      {
+        "text": "Orthographic drawings show:",
+        "type": "choice",
+        "choices": ["Front, top and side views", "Only 3D perspective", "Only isometric view", "Decorative sketches"],
+        "answer": 0
+      },
+      {
+        "text": "Isometric drawing shows:",
+        "type": "choice",
+        "choices": ["3D representation with equal angles", "2D plan view only", "Section view", "Front elevation only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Scale drawings are always full size.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Drawing symbols are standardised in technical drawing.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A cutting list is part of a drawing question.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which drawing tool is used for straight lines?",
+        "type": "choice",
+        "choices": ["Ruler", "Compass", "Protractor", "French curve"],
+        "answer": 0
+      },
+      {
+        "text": "Which drawing shows hidden edges?",
+        "type": "choice",
+        "choices": ["Orthographic with dashed lines", "Isometric view", "Perspective sketch", "Freehand sketch"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of technical drawing.",
+        "type": "input",
+        "answer": ["orthographic", "isometric", "perspective", "elevation"]
+      },
+      {
+        "text": "Name one drawing tool.",
+        "type": "input",
+        "answer": ["ruler", "compass", "protractor", "pencil"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Finishes",
+    "quiz": [
+      {
+        "text": "A finish is applied to wood to:",
+        "type": "choice",
+        "choices": ["Protect and enhance appearance", "Increase weight", "Change grain type", "Add defects"],
+        "answer": 0
+      },
+      {
+        "text": "Which finish penetrates into the wood?",
+        "type": "choice",
+        "choices": ["Oil", "Varnish", "Lacquer", "Paint"],
+        "answer": 0
+      },
+      {
+        "text": "Which finish forms a protective layer on top of the wood?",
+        "type": "choice",
+        "choices": ["Varnish", "Wax", "Oil", "Polish"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Sanding is done before applying a finish.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All finishes are waterproof.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Finishing improves the durability of wood.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which finish is usually rubbed on with a cloth?",
+        "type": "choice",
+        "choices": ["Wax", "Varnish", "Paint", "Lacquer"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of wood finish.",
+        "type": "input",
+        "answer": ["oil", "varnish", "lacquer", "wax", "paint"]
+      },
+      {
+        "text": "Name one reason for finishing wood.",
+        "type": "input",
+        "answer": ["protection", "appearance", "durability", "waterproofing"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Health & Safety",
+    "quiz": [
+      {
+        "text": "PPE stands for:",
+        "type": "choice",
+        "choices": ["Personal Protective Equipment", "Professional Power Equipment", "Protected Project Elements", "Primary Planning Essentials"],
+        "answer": 0
+      },
+      {
+        "text": "Which of the following is PPE?",
+        "type": "choice",
+        "choices": ["Safety goggles", "Ruler", "Glue brush", "Pencil"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Sandpaper dust is harmful if inhaled.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Gloves are never needed when using sharp tools.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Cleaning up spills immediately is part of safety.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which is safe practice in a woodwork shop?",
+        "type": "choice",
+        "choices": ["Tie back long hair", "Leave tools on the floor", "Use broken tools", "Run in the shop"],
+        "answer": 0
+      },
+      {
+        "text": "Hearing protection is needed when using:",
+        "type": "choice",
+        "choices": ["Power tools", "Pencil", "Hand saw", "Sandpaper block"],
+        "answer": 0
+      },
+      {
+        "text": "Name one item of PPE.",
+        "type": "input",
+        "answer": ["goggles", "gloves", "ear defenders", "apron"]
+      },
+      {
+        "text": "Name one safety rule in the workshop.",
+        "type": "input",
+        "answer": ["tie back hair", "wear PPE", "keep area clean", "use tools correctly"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Joints & Jointing",
+    "quiz": [
+      {
+        "text": "Which joint is made by overlapping two pieces of wood at a right angle?",
+        "type": "choice",
+        "choices": ["Butt joint", "Dovetail joint", "Mortise & Tenon", "Mitre joint"],
+        "answer": 0
+      },
+      {
+        "text": "Dovetail joints are commonly used in:",
+        "type": "choice",
+        "choices": ["Drawers", "Outdoor decking", "Shelving boards", "Plywood sheets"],
+        "answer": 0
+      },
+      {
+        "text": "Mortise and tenon joints are:",
+        "type": "choice",
+        "choices": ["Strong and used in frames", "Weak and decorative", "Only for temporary work", "Used for cutting lists"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Mitre joints are made at an angle.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A butt joint is very strong without reinforcement.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Dowels can be used to strengthen joints.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which joint uses interlocking 'tails' and 'pins'?",
+        "type": "choice",
+        "choices": ["Dovetail", "Butt", "Mitre", "Lap joint"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of wood joint.",
+        "type": "input",
+        "answer": ["butt joint", "dovetail", "mortise and tenon", "mitre", "lap joint"]
+      },
+      {
+        "text": "Name one way to strengthen a joint.",
+        "type": "input",
+        "answer": ["glue", "dowels", "screws", "brackets"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Manufactured Boards",
+    "quiz": [
+      {
+        "text": "Which is a type of manufactured board?",
+        "type": "choice",
+        "choices": ["Plywood", "Oak", "Pine", "Mahogany"],
+        "answer": 0
+      },
+      {
+        "text": "MDF stands for:",
+        "type": "choice",
+        "choices": ["Medium Density Fibreboard", "Major Design Fibreboard", "Medium Dry Fibre", "Manufactured Decorative Fibreboard"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Chipboard is made from compressed wood chips and glue.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Plywood is weaker than solid wood.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: MDF can be easily machined and painted.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which manufactured board has layers glued at right angles?",
+        "type": "choice",
+        "choices": ["Plywood", "Chipboard", "MDF", "Hardboard"],
+        "answer": 0
+      },
+      {
+        "text": "Which board is commonly used for inexpensive furniture?",
+        "type": "choice",
+        "choices": ["Chipboard", "Oak", "Pine", "Birch"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of manufactured board.",
+        "type": "input",
+        "answer": ["plywood", "chipboard", "MDF", "hardboard"]
+      },
+      {
+        "text": "Name one advantage of manufactured boards.",
+        "type": "input",
+        "answer": ["cheap", "easy to machine", "stable", "uniform surface"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Plastics",
+    "quiz": [
+      {
+        "text": "Which of these is a thermoplastic?",
+        "type": "choice",
+        "choices": ["PVC", "Bakelite", "Resin", "Phenolic"],
+        "answer": 0
+      },
+      {
+        "text": "Thermosetting plastics:",
+        "type": "choice",
+        "choices": ["Cannot be remelted", "Can be reshaped easily", "Are always flexible", "Dissolve in water"],
+        "answer": 0
+      },
+      {
+        "text": "Which plastic is commonly used for bottles?",
+        "type": "choice",
+        "choices": ["PET", "PVC", "Nylon", "Melamine"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Plastics are non-renewable materials.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Thermoplastics become soft when heated.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Thermosetting plastics can be recycled easily.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which plastic is used for electrical insulation?",
+        "type": "choice",
+        "choices": ["PVC", "PET", "Acrylic", "Polypropylene"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of plastic.",
+        "type": "input",
+        "answer": ["PVC", "PET", "Acrylic", "Nylon", "Polypropylene"]
+      },
+      {
+        "text": "Give one use of plastics.",
+        "type": "input",
+        "answer": ["bottles", "pipes", "insulation", "containers"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Power Tools",
+    "quiz": [
+      {
+        "text": "Which tool is used to cut wood accurately?",
+        "type": "choice",
+        "choices": ["Circular saw", "Hand saw", "Chisel", "Mallet"],
+        "answer": 0
+      },
+      {
+        "text": "Which power tool sands wood surfaces?",
+        "type": "choice",
+        "choices": ["Orbital sander", "Drill", "Router", "Planer"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Power tools should always be used with PPE.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A drill can be used to make holes.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Power tools are always safer than hand tools.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which tool is used for shaping edges of wood?",
+        "type": "choice",
+        "choices": ["Router", "Chisel", "Plane", "Saw"],
+        "answer": 0
+      },
+      {
+        "text": "Which power tool is used for cutting curves?",
+        "type": "choice",
+        "choices": ["Jigsaw", "Table saw", "Drill", "Planer"],
+        "answer": 0
+      },
+      {
+        "text": "Name one power tool used in woodwork.",
+        "type": "input",
+        "answer": ["circular saw", "drill", "jigsaw", "router", "orbital sander"]
+      },
+      {
+        "text": "Name one safety measure when using power tools.",
+        "type": "input",
+        "answer": ["wear goggles", "tie back hair", "use clamps", "keep hands away"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Processing Wood",
+    "quiz": [
+      {
+        "text": "Which is a common method of processing wood?",
+        "type": "choice",
+        "choices": ["Sawing", "Painting", "Varnishing", "Polishing"],
+        "answer": 0
+      },
+      {
+        "text": "Planing is used to:",
+        "type": "choice",
+        "choices": ["Smooth and flatten wood", "Join wood", "Cut curves", "Season wood"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Sanding improves surface smoothness.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Wood can be processed while wet.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Processing wood always changes its colour.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Which tool removes large amounts of wood quickly?",
+        "type": "choice",
+        "choices": ["Plane", "Chisel", "Router", "Sander"],
+        "answer": 0
+      },
+      {
+        "text": "Which process sharpens or shapes edges?",
+        "type": "choice",
+        "choices": ["Routing", "Drilling", "Sawing", "Cutting list preparation"],
+        "answer": 0
+      },
+      {
+        "text": "Name one method of processing wood.",
+        "type": "input",
+        "answer": ["sawing", "planing", "routing", "sanding", "cutting"]
+      },
+      {
+        "text": "Name one tool used for processing wood.",
+        "type": "input",
+        "answer": ["plane", "sander", "router", "chisel", "saw"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Rainforests & Deforestation",
+    "quiz": [
+      {
+        "text": "Which is the largest rainforest in the world?",
+        "type": "choice",
+        "choices": ["Amazon", "Congo", "Southeast Asia", "Taiga"],
+        "answer": 0
+      },
+      {
+        "text": "Deforestation refers to:",
+        "type": "choice",
+        "choices": ["Cutting down forests", "Planting trees", "Protecting forests", "Building furniture"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Rainforests produce oxygen.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Deforestation has no effect on climate.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Logging is a cause of deforestation.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which rainforest layer has most sunlight?",
+        "type": "choice",
+        "choices": ["Emergent layer", "Understory", "Forest floor", "Canopy"],
+        "answer": 0
+      },
+      {
+        "text": "Which activity can reduce deforestation?",
+        "type": "choice",
+        "choices": ["Reforestation", "Mining", "Road building", "Illegal logging"],
+        "answer": 0
+      },
+      {
+        "text": "Name one cause of deforestation.",
+        "type": "input",
+        "answer": ["logging", "agriculture", "mining", "urbanisation"]
+      },
+      {
+        "text": "Name one effect of deforestation.",
+        "type": "input",
+        "answer": ["climate change", "loss of biodiversity", "soil erosion", "flooding"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Seasoning",
+    "quiz": [
+      {
+        "text": "Seasoning of wood refers to:",
+        "type": "choice",
+        "choices": ["Removing moisture", "Cutting wood", "Painting wood", "Joining wood"],
+        "answer": 0
+      },
+      {
+        "text": "Which is a natural seasoning method?",
+        "type": "choice",
+        "choices": ["Air drying", "Kiln drying", "Planing", "Sanding"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Seasoned wood is less likely to warp.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Kiln drying is slower than air drying.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Seasoning increases the strength of wood.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which process removes sap and water from wood?",
+        "type": "choice",
+        "choices": ["Seasoning", "Sawing", "Routing", "Polishing"],
+        "answer": 0
+      },
+      {
+        "text": "Which seasoning method uses controlled heat?",
+        "type": "choice",
+        "choices": ["Kiln drying", "Air drying", "Planing", "Sanding"],
+        "answer": 0
+      },
+      {
+        "text": "Name one method of seasoning wood.",
+        "type": "input",
+        "answer": ["air drying", "kiln drying"]
+      },
+      {
+        "text": "Name one reason for seasoning wood.",
+        "type": "input",
+        "answer": ["prevent warping", "increase strength", "reduce moisture"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Sharpening",
+    "quiz": [
+      {
+        "text": "Which tool is commonly sharpened?",
+        "type": "choice",
+        "choices": ["Chisel", "Plane", "Drill", "Saw"],
+        "answer": 0
+      },
+      {
+        "text": "Which sharpening tool is used to hone edges?",
+        "type": "choice",
+        "choices": ["Whetstone", "Hammer", "Sander", "Router"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Sharpening improves tool efficiency.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Dull tools are safer to use than sharp tools.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Honing maintains a sharp edge after grinding.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which process removes small amounts of metal to create a sharp edge?",
+        "type": "choice",
+        "choices": ["Grinding", "Sanding", "Planing", "Routing"],
+        "answer": 0
+      },
+      {
+        "text": "Which sharpening tool is flat and abrasive?",
+        "type": "choice",
+        "choices": ["Whetstone", "File", "Sander", "Clamp"],
+        "answer": 0
+      },
+      {
+        "text": "Name one tool that requires sharpening.",
+        "type": "input",
+        "answer": ["chisel", "plane", "knife", "saw"]
+      },
+      {
+        "text": "Name one method of sharpening.",
+        "type": "input",
+        "answer": ["whetstone", "grinding", "honing", "file"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Sketching",
+    "quiz": [
+      {
+        "text": "Which type of sketch shows a design in 3D?",
+        "type": "choice",
+        "choices": ["Isometric", "Orthographic", "Exploded", "Freehand"],
+        "answer": 0
+      },
+      {
+        "text": "Which sketching tool is used for straight lines?",
+        "type": "choice",
+        "choices": ["Ruler", "Compass", "Protractor", "French curve"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Freehand sketches require no measuring tools.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Orthographic sketches show all three dimensions.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Sketching is used to plan designs.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which sketch shows separate components of a design?",
+        "type": "choice",
+        "choices": ["Exploded", "Isometric", "Orthographic", "Freehand"],
+        "answer": 0
+      },
+      {
+        "text": "Which sketch type is most accurate for manufacturing?",
+        "type": "choice",
+        "choices": ["Orthographic", "Isometric", "Exploded", "Freehand"],
+        "answer": 0
+      },
+      {
+        "text": "Name one sketching tool.",
+        "type": "input",
+        "answer": ["pencil", "ruler", "compass", "protractor"]
+      },
+      {
+        "text": "Name one purpose of sketching.",
+        "type": "input",
+        "answer": ["plan design", "communicate ideas", "visualise project"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Tools",
+    "quiz": [
+      {
+        "text": "Which tool is used to drive nails?",
+        "type": "choice",
+        "choices": ["Hammer", "Screwdriver", "Chisel", "Plane"],
+        "answer": 0
+      },
+      {
+        "text": "Which tool measures angles?",
+        "type": "choice",
+        "choices": ["Protractor", "Ruler", "Set square", "Compass"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: A chisel can cut wood.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A plane is used for sanding wood.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Screwdrivers are used for screws.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which tool removes wood to smooth surfaces?",
+        "type": "choice",
+        "choices": ["Plane", "Chisel", "Saw", "Hammer"],
+        "answer": 0
+      },
+      {
+        "text": "Which tool is used for cutting wood?",
+        "type": "choice",
+        "choices": ["Saw", "Chisel", "Plane", "File"],
+        "answer": 0
+      },
+      {
+        "text": "Name one hand tool used in woodworking.",
+        "type": "input",
+        "answer": ["hammer", "saw", "plane", "chisel", "screwdriver"]
+      },
+      {
+        "text": "Name one measuring tool used in woodworking.",
+        "type": "input",
+        "answer": ["ruler", "protractor", "set square", "caliper"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Trees & Growth",
+    "quiz": [
+      {
+        "text": "Which part of the tree transports water?",
+        "type": "choice",
+        "choices": ["Xylem", "Phloem", "Bark", "Leaves"],
+        "answer": 0
+      },
+      {
+        "text": "Which layer produces new cells for growth?",
+        "type": "choice",
+        "choices": ["Cambium", "Heartwood", "Sapwood", "Bark"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Heartwood is the living part of the tree.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Phloem transports nutrients down the tree.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Rings in the tree trunk show age.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which part stores nutrients in a tree?",
+        "type": "choice",
+        "choices": ["Sapwood", "Heartwood", "Bark", "Leaves"],
+        "answer": 1
+      },
+      {
+        "text": "Which process allows trees to grow taller?",
+        "type": "choice",
+        "choices": ["Cell division in cambium", "Photosynthesis", "Respiration", "Leaf fall"],
+        "answer": 0
+      },
+      {
+        "text": "Name one type of tree growth ring.",
+        "type": "input",
+        "answer": ["annual ring", "growth ring"]
+      },
+      {
+        "text": "Name one part of a tree involved in nutrient transport.",
+        "type": "input",
+        "answer": ["xylem", "phloem"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Veneering & Laminating",
+    "quiz": [
+      {
+        "text": "Veneer is:",
+        "type": "choice",
+        "choices": ["Thin layer of wood", "A joint type", "A finishing oil", "A type of tool"],
+        "answer": 0
+      },
+      {
+        "text": "Laminating wood involves:",
+        "type": "choice",
+        "choices": ["Gluing layers together", "Cutting wood", "Sanding surfaces", "Seasoning wood"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Veneering uses solid wood pieces only.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Laminated wood is stronger than single wood layers.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Veneers can be decorative.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which glue is commonly used for veneering?",
+        "type": "choice",
+        "choices": ["PVA glue", "Epoxy", "Super glue", "Hot glue"],
+        "answer": 0
+      },
+      {
+        "text": "Which machine can press veneers together?",
+        "type": "choice",
+        "choices": ["Vacuum press", "Saw", "Router", "Plane"],
+        "answer": 0
+      },
+      {
+        "text": "Name one use of veneer in woodworking.",
+        "type": "input",
+        "answer": ["decoration", "furniture surface", "covering plywood"]
+      },
+      {
+        "text": "Name one advantage of laminating wood.",
+        "type": "input",
+        "answer": ["increased strength", "prevents warping", "flexibility"]
+      }
+    ]
+  },
+  {
+    "subject": "Wood Technology",
+    "topic": "Woodturning",
+    "quiz": [
+      {
+        "text": "Which machine is used in woodturning?",
+        "type": "choice",
+        "choices": ["Lathe", "Saw", "Plane", "Router"],
+        "answer": 0
+      },
+      {
+        "text": "Which tool shapes wood on a lathe?",
+        "type": "choice",
+        "choices": ["Chisel", "Hammer", "Screwdriver", "File"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The wood must rotate in a lathe for turning.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Woodturning cannot produce round objects.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Sanding is often done after woodturning.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Which wood is commonly used for woodturning?",
+        "type": "choice",
+        "choices": ["Beech", "Balsa", "Plywood", "MDF"],
+        "answer": 0
+      },
+      {
+        "text": "Which finish can be applied to turned wood?",
+        "type": "choice",
+        "choices": ["Oil", "Water", "Paint", "Glue"],
+        "answer": 0
+      },
+      {
+        "text": "Name one object commonly made by woodturning.",
+        "type": "input",
+        "answer": ["bowl", "spindle", "cup", "vase"]
+      },
+      {
+        "text": "Name one safety measure when woodturning.",
+        "type": "input",
+        "answer": ["wear goggles", "tie back hair", "use guard", "check lathe speed"]
+      }
+    ]
+  }
+]

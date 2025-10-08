@@ -1,0 +1,28 @@
+{
+  "certificate": "lc",
+  "subject": "accounting",
+  "level": "ol",
+  "topics": [
+    "Bank Reconciliation Statement",
+    "Budgeting - Cash",
+    "Budgeting - Production",
+    "Cash Flow Statements",
+    "Club Accounts",
+    "Company Profit & Loss",
+    "Control Accounts",
+    "Correction of Errors/Suspense",
+    "Costing - Absorption",
+    "Costing - Marginal",
+    "Farm Accounts",
+    "Final Accounts - Company",
+    "Final Accounts - Departmental",
+    "Final Accounts - Manufacturing",
+    "Final Accounts - Sole Trader",
+    "Fixed Assets - Depreciation & Revaluation",
+    "Incomplete Records - Control Account",
+    "Incomplete Records - Net Worth",
+    "Interpretation of Accounts",
+    "Service Firms",
+    "Tabular Statements"
+  ]
+}

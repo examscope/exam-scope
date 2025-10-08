@@ -1,0 +1,795 @@
+[
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Assemblies",
+  "quiz": [
+    {
+      "text": "What is an assembly in D.C.G.?",
+      "type": "choice",
+      "choices": ["Combination of components forming a complete object", "A single part", "A freehand sketch", "A perspective view"],
+      "answer": 0
+    },
+    {
+      "text": "Which view is commonly used to show an assembly?",
+      "type": "choice",
+      "choices": ["Exploded view", "Front elevation", "Plan view", "Auxiliary view"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of an exploded view?",
+      "type": "choice",
+      "choices": ["Show the relationship and order of parts", "Decorate the drawing", "Measure angles", "Show loads"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing shows all parts separated but aligned?",
+      "type": "choice",
+      "choices": ["Exploded view", "Isometric", "Perspective", "Orthographic front view"],
+      "answer": 0
+    },
+    {
+      "text": "Assemblies are mainly used for which of the following?",
+      "type": "choice",
+      "choices": ["Understand construction and function", "Measure weight", "Decorate objects", "Calculate cost"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Assemblies consist of one single part.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Exploded views help visualize the order of assembly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Assemblies are only drawn in perspective.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of view used for assemblies.",
+      "type": "input",
+      "answer": ["exploded view", "orthographic view", "isometric view"]
+    },
+    {
+      "text": "Give one reason why assemblies are studied in D.C.G.",
+      "type": "input",
+      "answer": ["show construction", "understand function", "visualize parts", "plan assembly sequence"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Axonometric Projection",
+  "quiz": [
+    {
+      "text": "Which type of drawing shows an object in 3D without perspective?",
+      "type": "choice",
+      "choices": ["Axonometric projection", "Perspective", "Orthographic", "Auxiliary view"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a type of axonometric projection?",
+      "type": "choice",
+      "choices": ["Isometric", "One-point perspective", "Two-point perspective", "Plan view"],
+      "answer": 0
+    },
+    {
+      "text": "In isometric projection, how are the axes inclined to the horizontal?",
+      "type": "choice",
+      "choices": ["120° between axes", "90°", "60°", "45°"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of axonometric projection?",
+      "type": "choice",
+      "choices": ["Show 3D objects accurately without perspective", "Decorate drawings", "Measure angles", "Calculate weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is not a type of axonometric projection?",
+      "type": "choice",
+      "choices": ["Perspective", "Isometric", "Dimetric", "Trimetric"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Axonometric projection preserves true dimensions along axes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Isometric projection has equal foreshortening along all axes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Axonometric projections are always used for perspective views.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of axonometric projection.",
+      "type": "input",
+      "answer": ["isometric", "dimetric", "trimetric"]
+    },
+    {
+      "text": "Give one reason why axonometric projection is studied in D.C.G.",
+      "type": "input",
+      "answer": ["visualize 3D objects", "show accurate measurements", "plan construction", "clarify design"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Conic Sections",
+  "quiz": [
+    {
+      "text": "Which of these is a conic section?",
+      "type": "choice",
+      "choices": ["Circle", "Cube", "Cylinder", "Prism"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section results from cutting a cone parallel to its base?",
+      "type": "choice",
+      "choices": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section results from cutting a cone at an angle to its axis but not through the apex?",
+      "type": "choice",
+      "choices": ["Ellipse", "Circle", "Hyperbola", "Parabola"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section results from cutting a cone parallel to its slant?",
+      "type": "choice",
+      "choices": ["Parabola", "Ellipse", "Circle", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section results from cutting through both nappes of a cone?",
+      "type": "choice",
+      "choices": ["Hyperbola", "Circle", "Ellipse", "Parabola"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A circle is a type of conic section.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Conic sections can only be drawn using a compass.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ellipses, parabolas, and hyperbolas are all conic sections.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of conic section.",
+      "type": "input",
+      "answer": ["circle", "ellipse", "parabola", "hyperbola"]
+    },
+    {
+      "text": "Give one reason why conic sections are studied in D.C.G.",
+      "type": "input",
+      "answer": ["draw curves accurately", "understand geometry", "plan mechanical parts", "visualize shapes"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Dynamic Mechanisms",
+  "quiz": [
+    {
+      "text": "What is a dynamic mechanism in D.C.G.?",
+      "type": "choice",
+      "choices": ["A system with moving parts", "A stationary object", "A drawing tool", "A perspective view"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of a dynamic mechanism?",
+      "type": "choice",
+      "choices": ["Gear system", "Cube", "Prism", "Plane"],
+      "answer": 0
+    },
+    {
+      "text": "Which component transmits motion in a dynamic mechanism?",
+      "type": "choice",
+      "choices": ["Linkage", "Line", "Point", "Plane"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of drawing dynamic mechanisms?",
+      "type": "choice",
+      "choices": ["Show motion and function", "Decorate drawings", "Calculate volume", "Measure angles"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of motion is often shown in dynamic mechanism drawings?",
+      "type": "choice",
+      "choices": ["Rotary and linear", "Static", "Random", "Oscillating only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dynamic mechanisms have only stationary parts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Gears and linkages are examples of dynamic mechanisms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dynamic mechanisms are not used in engineering.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one component of a dynamic mechanism.",
+      "type": "input",
+      "answer": ["gear", "lever", "linkage", "cam"]
+    },
+    {
+      "text": "Give one reason why dynamic mechanisms are studied in D.C.G.",
+      "type": "input",
+      "answer": ["understand motion", "visualize working parts", "plan mechanisms", "show function"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Geological Geometry",
+  "quiz": [
+    {
+      "text": "What is geological geometry in D.C.G.?",
+      "type": "choice",
+      "choices": ["Study of rock layers and slopes in 3D", "Study of machines", "Study of solid objects only", "Study of perspective"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method is commonly used in geological geometry?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "Isometric projection", "Perspective only", "Front elevation"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is often represented in geological geometry drawings?",
+      "type": "choice",
+      "choices": ["Inclined planes of strata", "Circular gears", "Rectangular prisms", "Horizontal lines only"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of geological geometry?",
+      "type": "choice",
+      "choices": ["Understand orientation and slope of rock layers", "Decorate drawings", "Measure weight", "Calculate volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which plane is often used to project inclined strata?",
+      "type": "choice",
+      "choices": ["Auxiliary plane", "Horizontal plane", "Vertical plane", "Perspective plane"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Geological geometry is only theoretical and has no real-world application.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Geological geometry helps visualize rock layers in 3D.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Inclined planes of strata are never represented in geological geometry.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one feature commonly studied in geological geometry.",
+      "type": "input",
+      "answer": ["strata", "rock layers", "faults", "slopes"]
+    },
+    {
+      "text": "Give one reason why geological geometry is studied in D.C.G.",
+      "type": "input",
+      "answer": ["understand 3D rock formations", "plan construction on slopes", "visualize geological features", "apply projections to inclined planes"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Interpenetration",
+  "quiz": [
+    {
+      "text": "What does interpenetration show in D.C.G.?",
+      "type": "choice",
+      "choices": ["Where two solids pass through each other", "A single solid only", "A perspective view", "A decorative pattern"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method is used to show interpenetration clearly?",
+      "type": "choice",
+      "choices": ["Sectioning", "Perspective", "Plan view", "Isometric projection"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of solid combination is often shown in interpenetration drawings?",
+      "type": "choice",
+      "choices": ["Cylinder and cube", "Flat sheet only", "Circle only", "Plane only"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of interpenetration drawings?",
+      "type": "choice",
+      "choices": ["Show how solids pass through each other", "Decorate the drawing", "Calculate weight", "Measure angles"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is not typically shown in interpenetration drawings?",
+      "type": "choice",
+      "choices": ["Colors", "True intersection lines", "Edges of solids", "Sectioned areas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Interpenetration drawings are used to show intersecting solids.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Interpenetration only applies to flat surfaces.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Interpenetration helps visualize complex 3D relationships.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of solid often used in interpenetration.",
+      "type": "input",
+      "answer": ["cube", "cylinder", "cone", "prism"]
+    },
+    {
+      "text": "Give one reason why interpenetration is studied in D.C.G.",
+      "type": "input",
+      "answer": ["show intersection", "understand 3D relationships", "plan assemblies", "visualize complex solids"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Orthographic & Auxiliary Projection",
+  "quiz": [
+    {
+      "text": "What is the main purpose of orthographic projection?",
+      "type": "choice",
+      "choices": ["Show different views of an object accurately", "Show perspective depth", "Decorate drawings", "Measure volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which view is considered an auxiliary view?",
+      "type": "choice",
+      "choices": ["A view projected on a plane not parallel to the principal planes", "Front elevation", "Plan view", "Side elevation"],
+      "answer": 0
+    },
+    {
+      "text": "Orthographic projections usually show how many principal views?",
+      "type": "choice",
+      "choices": ["Front, top, side", "Front only", "Top only", "Perspective only"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is commonly used to construct auxiliary views?",
+      "type": "choice",
+      "choices": ["Set squares and projection lines", "Compass only", "Protractor only", "Divider only"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main advantage of auxiliary projection?",
+      "type": "choice",
+      "choices": ["Show true shape of inclined surfaces", "Measure volume", "Decorate drawings", "Calculate weight"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Orthographic projection shows an object in true size and shape.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Auxiliary views are always parallel to the horizontal plane.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Orthographic projection is not used in engineering drawings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one principal view in orthographic projection.",
+      "type": "input",
+      "answer": ["front elevation", "plan view", "side elevation"]
+    },
+    {
+      "text": "Give one reason why auxiliary projection is studied in D.C.G.",
+      "type": "input",
+      "answer": ["show true shape of inclined surfaces", "understand complex objects", "plan construction", "visualize features"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Perspective",
+  "quiz": [
+    {
+      "text": "What is the main purpose of perspective drawing?",
+      "type": "choice",
+      "choices": ["Show objects in 3D as they appear to the eye", "Show true size only", "Decorate drawings", "Calculate volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of perspective uses a single vanishing point?",
+      "type": "choice",
+      "choices": ["One-point perspective", "Two-point perspective", "Isometric projection", "Auxiliary view"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of perspective uses two vanishing points?",
+      "type": "choice",
+      "choices": ["Two-point perspective", "One-point perspective", "Isometric projection", "Plan view"],
+      "answer": 0
+    },
+    {
+      "text": "In perspective drawing, parallel lines appear to:",
+      "type": "choice",
+      "choices": ["Converge to vanishing points", "Remain parallel", "Form circles", "Disappear entirely"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is not commonly used in perspective drawings?",
+      "type": "choice",
+      "choices": ["Auxiliary planes", "Vanishing points", "Horizon line", "Foreshortening"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Perspective shows objects as they appear, not in true size.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Perspective drawings are always isometric.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Vanishing points are used to show depth in perspective.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of perspective used in D.C.G.",
+      "type": "input",
+      "answer": ["one-point perspective", "two-point perspective", "three-point perspective"]
+    },
+    {
+      "text": "Give one reason why perspective is studied in D.C.G.",
+      "type": "input",
+      "answer": ["visualize 3D objects realistically", "plan designs", "understand depth", "show how objects appear to the eye"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Rotation & Inclination of Solids",
+  "quiz": [
+    {
+      "text": "What does rotation of a solid show in D.C.G.?",
+      "type": "choice",
+      "choices": ["Turning a solid about an axis", "Changing color of a solid", "Measuring weight", "Decorating drawings"],
+      "answer": 0
+    },
+    {
+      "text": "What does inclination of a solid show?",
+      "type": "choice",
+      "choices": ["Tilting a solid to a given angle", "Rotating around the vertical only", "Changing size", "Flattening the solid"],
+      "answer": 0
+    },
+    {
+      "text": "Which projection is commonly used to show rotation or inclination?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "Perspective only", "Isometric", "Exploded view"],
+      "answer": 0
+    },
+    {
+      "text": "Why is rotation of solids studied in D.C.G.?",
+      "type": "choice",
+      "choices": ["To understand the movement or position change", "To decorate drawings", "To calculate volume", "To measure angles"],
+      "answer": 0
+    },
+    {
+      "text": "Which line is important in projecting an inclined solid?",
+      "type": "choice",
+      "choices": ["Inclined reference line", "Horizontal plane", "Vanishing line", "Diagonal only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rotation changes the shape of the solid.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Inclination shows a solid tilted at an angle to a reference plane.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rotation and inclination are only used for decorative purposes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method used to show rotation of a solid.",
+      "type": "input",
+      "answer": ["auxiliary projection", "plan and elevation", "section view"]
+    },
+    {
+      "text": "Give one reason why studying rotation and inclination is important in D.C.G.",
+      "type": "input",
+      "answer": ["visualize 3D position", "understand geometry", "plan construction", "show orientation of solids"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Solids in Contact",
+  "quiz": [
+    {
+      "text": "What does 'solids in contact' show in D.C.G.?",
+      "type": "choice",
+      "choices": ["Where two or more solids touch each other", "A single isolated solid", "Perspective only", "Decorative pattern"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method helps show solids in contact clearly?",
+      "type": "choice",
+      "choices": ["Sectioning", "Isometric projection", "Auxiliary view", "Vanishing point method"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of solids are often studied in contact drawings?",
+      "type": "choice",
+      "choices": ["Cylinder, cube, prism", "Flat sheet only", "Sphere only", "Plane only"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of solids in contact drawings?",
+      "type": "choice",
+      "choices": ["Show how solids meet or touch", "Measure weight", "Decorate drawings", "Calculate volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which line is important when two solids touch?",
+      "type": "choice",
+      "choices": ["Line of intersection", "Horizontal reference", "Vanishing line", "Diagonal only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Solids in contact drawings only show one solid.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The line of contact helps visualize where solids touch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Solids in contact are only used for decorative purposes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of solid commonly used in contact drawings.",
+      "type": "input",
+      "answer": ["cube", "cylinder", "prism", "cone"]
+    },
+    {
+      "text": "Give one reason why solids in contact are studied in D.C.G.",
+      "type": "input",
+      "answer": ["understand intersections", "visualize contact", "plan assemblies", "show functional relationships"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Structural Forms (Developments)",
+  "quiz": [
+    {
+      "text": "What is a development in D.C.G.?",
+      "type": "choice",
+      "choices": ["A flat pattern showing the surfaces of a solid", "A 3D perspective view", "A decorative pattern", "A section only"],
+      "answer": 0
+    },
+    {
+      "text": "Which solid is often developed using a simple development method?",
+      "type": "choice",
+      "choices": ["Cube", "Sphere", "Tetrahedron", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is commonly used to draw developments?",
+      "type": "choice",
+      "choices": ["Ruler and compass", "Only set square", "Protractor only", "Vanishing point method"],
+      "answer": 0
+    },
+    {
+      "text": "Why are developments studied in D.C.G.?",
+      "type": "choice",
+      "choices": ["To create accurate flat patterns for fabrication", "To decorate drawings", "To measure angles", "To calculate weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of line is important in development drawings?",
+      "type": "choice",
+      "choices": ["Fold lines", "Vanishing lines", "Contour lines", "Horizon line"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Developments show solids as flattened patterns.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Developments are never used in engineering or construction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Only cubes can be developed accurately.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of solid commonly developed.",
+      "type": "input",
+      "answer": ["cube", "cylinder", "cone", "prism"]
+    },
+    {
+      "text": "Give one reason why studying developments is important in D.C.G.",
+      "type": "input",
+      "answer": ["create flat patterns", "plan fabrication", "visualize solids", "understand surfaces"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Surface Geometry",
+  "quiz": [
+    {
+      "text": "What is surface geometry in D.C.G.?",
+      "type": "choice",
+      "choices": ["Study of curved and flat surfaces of solids", "Only flat surfaces", "Only decorative patterns", "Perspective view only"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method is commonly used in surface geometry?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "One-point perspective", "Plan view only", "Front elevation only"],
+      "answer": 0
+    },
+    {
+      "text": "Which solid is often studied in surface geometry?",
+      "type": "choice",
+      "choices": ["Cone", "Cube only", "Flat sheet only", "Sphere only"],
+      "answer": 0
+    },
+    {
+      "text": "Why is surface geometry studied in D.C.G.?",
+      "type": "choice",
+      "choices": ["To understand true shape of curved surfaces", "To decorate drawings", "To calculate volume", "To measure weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which line type is important in surface geometry?",
+      "type": "choice",
+      "choices": ["Projection lines", "Horizon lines", "Vanishing lines", "Fold lines"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Surface geometry helps show true shape of curved solids.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only cubes are used in surface geometry.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Auxiliary views are often used in surface geometry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of solid studied in surface geometry.",
+      "type": "input",
+      "answer": ["cone", "cylinder", "sphere", "prism"]
+    },
+    {
+      "text": "Give one reason why surface geometry is studied in D.C.G.",
+      "type": "input",
+      "answer": ["understand curved surfaces", "visualize true shape", "plan construction", "draw accurate projections"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "The Oblique Plane",
+  "quiz": [
+    {
+      "text": "What is an oblique plane in D.C.G.?",
+      "type": "choice",
+      "choices": ["A plane inclined to the principal planes", "A horizontal plane only", "A vertical plane only", "A decorative pattern"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is commonly used to project an oblique plane?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "One-point perspective", "Isometric projection", "Plan view only"],
+      "answer": 0
+    },
+    {
+      "text": "Why is the oblique plane studied in D.C.G.?",
+      "type": "choice",
+      "choices": ["To show true shape of inclined surfaces", "To decorate drawings", "To measure weight", "To calculate volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which line is important when drawing an oblique plane?",
+      "type": "choice",
+      "choices": ["Inclined reference line", "Vanishing line", "Horizon line", "Fold line"],
+      "answer": 0
+    },
+    {
+      "text": "Which solid is often shown with an oblique plane?",
+      "type": "choice",
+      "choices": ["Prism", "Flat sheet only", "Sphere only", "Cube only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Oblique planes are always parallel to the horizontal plane.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Auxiliary projection is used to show true shape of oblique planes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Oblique planes are only decorative and have no practical use.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one solid often drawn with an oblique plane.",
+      "type": "input",
+      "answer": ["prism", "pyramid", "cylinder", "cone"]
+    },
+    {
+      "text": "Give one reason why the oblique plane is studied in D.C.G.",
+      "type": "input",
+      "answer": ["show true shape of inclined surfaces", "visualize solids", "plan construction", "understand geometry"]
+    }
+  ]
+}
+]

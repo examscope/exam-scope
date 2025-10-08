@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Login</title>
+</head>
+<body class="log-body">
+    <div class="log-container">
+        <img src="images/icons/favicon.png" class="log-logo" />
+        <div class="log-title">Welcome Back!</div>
+        <div class="log-txt log-l-desc">Hello there, Please enter your details.</div>
+        <div class="log-txt log-s-alr">Don't have an account? <span class="log-txt">Sign up</span></div>
+
+        <form method="POST" action="/api/login" class="log-form" id="logForm">
+            <div class="log-label">Email</div>
+            <input type="text" name="email" placeholder="Enter your email" class="log-input">
+            <div class="log-error" id="emailError">This email is not registered.</div>
+
+            <div style="height: 22px;"></div>
+
+            <div class="log-label">Password</div>
+            <input type="password" name="password" placeholder="Password" class="log-input">
+            <div class="log-error" id="passwordError">Incorrect password.</div>
+            <div class="log-error" id="serverError">Something went wrong, try again.</div>
+
+            <div class="log-nav">
+                <div class="log-rem">
+                    <div class="log-rem-box"><i class="fa-solid fa-check log-rem-check"></i><input type="checkbox" name="remember" value="yes"></div>
+                    <div class="log-rem-txt">Remember me</div>
+                </div>
+
+                <div class="log-forgot">Forgot password</div>
+            </div>
+
+            <button type="submit" class="btn-log">Sign in</button>
+
+            <div class="log-txt log-l-alr">Don't have an account? <a href="/sign-up.html?onboarding=false" class="log-txt">Sign up</a></div>
+        </form>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "certificate": "lc",
+  "subject": "engineering",
+  "level": "ol",
+  "topics": [
+    "CNC & Centre Lathe",
+    "Design & Project Management",
+    "Energy, Electronics & Robotics",
+    "Finishing of Materials",
+    "Furnaces",
+    "Health and Safety",
+    "Heat Treatment",
+    "ICT",
+    "Machining & Metrology",
+    "Materials: Properties and uses",
+    "Mechanical Joining & Assembly",
+    "Non-Ferrous Metals & Alloys",
+    "Pneumatics",
+    "Polymers",
+    "Tools & Mechanisms",
+    "Welding & Soldering"
+  ]
+}

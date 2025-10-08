@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="/images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Quiz Results</title>
+</head>
+<body>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-title">Quiz Results</div>
+            <div class="home-para">Access past quiz results to review your answers and topic-specific performance.</div>
+            <div class="home-nav">
+                <a href="index.html" class="nav-link">Exam Questions <div class="home-hr-fill"></div></a>
+                <a href="my-results.html" class="nav-link nav-link-active">Quiz Results <div class="home-hr-fill hr-fill-active"></div></a>
+                <a href="past-papers.html" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="worksheet-builder.html" class="nav-link">Worksheet Builder <div class="home-hr-fill"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="res-container main-container">
+                <div class="pap-table res-table">
+                    <div class="res-inside-scroll">
+                        <div class="res-inside-filter">
+                            <div class="pap-filter">
+                                <div class="res-box-container">
+                                    <div class="res-box res-box-active">All (21)</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="res-inside-scroll">
+                        <div class="res-inside">
+                            <div class="pap-top">
+                                <div class="res-heading">Subject</div>
+                                <div class="res-heading res-name-heading">Name</div>
+                                <div class="res-heading">Date Taken</div>
+                                <div class="res-heading">Progress</div>
+                                <div class="res-heading">Score</div>
+                            </div>
+                            <!-- 
+                            <div class="pap-row">
+                                <div class="res-txt res-subject">Home Ec</div>
+                                <div class="res-name">2.3 Food Safety Quiz</div>
+                                <div class="res-txt res-date">03/03/2025</div>
+                                <div class="res-score">10%</div>
+                            </div>
+                            <div class="pap-row">
+                                <div class="res-txt">PolSoc</div>
+                                <div class="res-name">Introduction to Democracy</div>
+                                <div class="res-txt">17/04/2025</div>
+                                <div class="res-txt">Finished</div>
+                                <div class="res-score">100%</div>
+                            </div>
+                            <div class="pap-row">
+                                <div class="res-txt">Ag Science</div>
+                                <div class="res-name">Animal Nutrition Quiz</div>
+                                <div class="res-txt">25/05/2025</div>
+                                <div class="res-txt">Not Started</div>
+                                <div class="res-score">50%</div>
+                            </div>
+                            <div class="pap-row">
+                                <div class="res-txt">Construction</div>
+                                <div class="res-name">Roof Types & Structures</div>
+                                <div class="res-txt">08/02/2025</div>
+                                <div class="res-txt">Finished</div>
+                                <div class="res-score">75%</div>
+                            </div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ana-modal">
+                    <div class="ana-wrapper">
+                        <div class="ana-nav">
+                            <div class="ana-head">Quiz Analysation</div>
+                            <i class="fa-solid fa-xmark ana-close"></i>
+                        </div>
+
+                        <div class="ana-top">
+                            <div class="ana-content">
+                                <div class="ana-title">Animal Nutrition Quiz</div>
+                                <div class="ana-info-txt">Finished Jun 18, 2025 <!--<div class="ana-dot"></div> 10:00 AM --><div class="ana-dot"></div> <span class="ana-info-txt"><i class="fa-regular fa-circle-question ana-info-icon"></i> 10 Questions</span></div>
+                            </div>
+
+                            <div class="ana-stat-flex">
+                                <div class="ana-stat-col">
+                                    <div class="ana-stat-label">Result</div>
+                                    <div class="ana-circ-flex">
+                                        <div class="ana-circ-container">
+                                            <div class="ana-circ circ-fill"></div>
+                                            <div class="ana-circ circ-outline"></div>
+                                            <div class="ana-circ-mid"></div>
+                                        </div>
+                                        <div class="ana-stat-txt">80%</div>
+                                    </div>
+                                </div>
+                                <div class="ana-stat-col">
+                                    <div class="ana-stat-label">Answered</div>
+                                    <div class="ana-stat-txt">19/ <span class="ana-stat-txt">20</span></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="ana-box-flex">
+                            <div class="ana-group">
+                                <div class="ana-box">1<div class="ana-check-box perc-red"><i class="fa-solid fa-xmark ana-box-icon"></i></div></div>
+                                <div class="ana-box">2<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">3<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">4<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">5<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                            </div>
+                            <div class="ana-group">
+                                <div class="ana-box">6<div class="ana-check-box perc-red"><i class="fa-solid fa-xmark ana-box-icon"></i></div></div>
+                                <div class="ana-box">7<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">8<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">9<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                                <div class="ana-box">10<div class="ana-check-box perc-green"><i class="fa-solid fa-check ana-box-icon"></i></div></div>
+                            </div>
+                        </div>
+
+                        <div class="ana-perc-flex">
+                            <div class="ana-perc-section">
+                                <div class="ana-perc-box perc-green"></div>
+                                <div class="ana-perc-txt">Correct <span class="ana-perc-txt">8</span> <div class="ana-dot"></div> 80%</div>
+                            </div>
+                            <div class="ana-perc-section">
+                                <div class="ana-perc-box perc-red"></div>
+                                <div class="ana-perc-txt">Incorrect <span class="ana-perc-txt">2</span> <div class="ana-dot"></div> 20%</div>
+                            </div>
+                        </div>
+
+                        <div class="ana-ques-col">
+                            <div class="ana-ques">
+                                <div class="ana-ques-top">
+                                    <div class="ana-ques-txt ana-ques-top-txt"><span class="ana-ques-txt">Question 1</span> <div class="ana-dot"></div> <i class="fa-solid fa-check ana-ques-check"></i> Correct</div>
+                                    <div class="ana-type"><i class="fa-solid fa-pen-to-square ana-type-icon"></i> Fill the blank</div>
+                                </div>
+                                <div class="ana-ques-title">What does UI stand for in the context?</div>
+
+                                <div class="ana-answer-flex">
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Correct answer</div>
+                                        <div class="ana-answer-txt ana-cor">Income Levels</div>
+                                    </div>
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Your answer</div>
+                                        <div class="ana-answer-txt"><i class="fa-solid fa-check ana-answer-check"></i> Income Levels</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ana-ques">
+                                <div class="ana-ques-top">
+                                    <div class="ana-ques-txt"><span class="ana-ques-txt">Question 2</span> <div class="ana-dot"></div> <i class="fa-solid fa-xmark ana-ques-xmark"></i> Inorrect</div>
+                                    <div class="ana-type"><i class="fa-solid fa-right-left ana-type-icon"></i> True or false</div>
+                                </div>
+                                <div class="ana-ques-title">What are the three main languages used in backend website development?</div>
+
+                                <div class="ana-answer-flex">
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Correct answer</div>
+                                        <div class="ana-answer-txt ana-cor">Income Levels</div>
+                                    </div>
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Your answer</div>
+                                        <div class="ana-answer-txt"><i class="fa-solid fa-xmark ana-answer-xmark"></i> Income Levels</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ana-ques">
+                                <div class="ana-ques-top">
+                                    <div class="ana-ques-txt"><span class="ana-ques-txt">Question 2</span> <div class="ana-dot"></div> <i class="fa-solid fa-check ana-ques-check"></i> Correct</div>
+                                    <div class="ana-type"><i class="fa-solid fa-list-check ana-type-icon"></i> Multiple choice</div>
+                                </div>
+                                <div class="ana-ques-title">What does UI stand for in the context?</div>
+
+                                <div class="ana-answer-flex">
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Correct answer</div>
+                                        <div class="ana-answer-txt ana-cor">Income Levels</div>
+                                    </div>
+                                    <div class="ana-answer-col">
+                                        <div class="ana-answer-label">Your answer</div>
+                                        <div class="ana-answer-txt"><i class="fa-solid fa-check ana-answer-check"></i> Income Levels</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sav-empty" style="display: none;">
+                <i class="fa-solid fa-folder-open sav-empty-icon"></i>
+                <div class="sav-empty-title">No quizzes completed</div>
+                <div class="sav-empty-txt">You haven’t completed any quizzes yet. Try one now and track your progress over time.</div>
+                <a href="index.html" class="sav-empty-btn">Choose a topic</a>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2198 @@
+[
+{
+  "subject": "Business Studies",
+  "topic": "1.1 Needs & Wants",
+  "quiz": [
+    {
+      "text": "Which of these is a basic need?",
+      "type": "choice",
+      "choices": ["Clothes", "Food", "Video games", "Car"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a want?",
+      "type": "choice",
+      "choices": ["Water", "Shelter", "Smartphone", "Air"],
+      "answer": 2
+    },
+    {
+      "text": "Which statement best describes a need?",
+      "type": "choice",
+      "choices": ["Something essential for survival", "Something you would like to have", "Something expensive", "Something for entertainment"],
+      "answer": 0
+    },
+    {
+      "text": "Which statement best describes a want?",
+      "type": "choice",
+      "choices": ["Something essential for survival", "Something you would like to have", "Something free", "Something everyone has"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these could be both a need and a want?",
+      "type": "choice",
+      "choices": ["Clothes", "Air", "Water", "Sunlight"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wants are essential for survival.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Needs are limited and essential.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All wants are expensive.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a need.",
+      "type": "input",
+      "answer": ["food", "water", "clothes", "shelter", "air"]
+    },
+    {
+      "text": "Give one example of a want.",
+      "type": "input",
+      "answer": ["smartphone", "tv", "games", "car", "holiday"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.2 Income & Expenditure",
+  "quiz": [
+    {
+      "text": "Which of these is a source of income?",
+      "type": "choice",
+      "choices": ["Salary", "Rent", "Electricity", "Food"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a regular expenditure?",
+      "type": "choice",
+      "choices": ["Rent", "Lottery", "Gift", "Bonus"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is discretionary expenditure?",
+      "type": "choice",
+      "choices": ["Groceries", "Cinema ticket", "Rent", "Utilities"],
+      "answer": 1
+    },
+    {
+      "text": "What is the difference between income and expenditure called?",
+      "type": "choice",
+      "choices": ["Profit", "Savings", "Loss", "Balance"],
+      "answer": 3
+    },
+    {
+      "text": "Which of these is an example of irregular income?",
+      "type": "choice",
+      "choices": ["Salary", "Gift", "Pension", "Rent from property"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Expenditure can be planned or unplanned.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Income is always received regularly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Rent is an example of fixed expenditure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of income.",
+      "type": "input",
+      "answer": ["salary", "wages", "bonus", "rent received", "pension"]
+    },
+    {
+      "text": "Give one example of expenditure.",
+      "type": "input",
+      "answer": ["rent", "groceries", "utilities", "shopping", "transport"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.3 Financial Lifecycle",
+  "quiz": [
+    {
+      "text": "Which stage comes first in the financial lifecycle?",
+      "type": "choice",
+      "choices": ["Retirement", "Adulthood", "Childhood", "Middle age"],
+      "answer": 2
+    },
+    {
+      "text": "During which stage do people usually start earning income?",
+      "type": "choice",
+      "choices": ["Childhood", "Adulthood", "Retirement", "Infancy"],
+      "answer": 1
+    },
+    {
+      "text": "Which stage is associated with high expenses and raising children?",
+      "type": "choice",
+      "choices": ["Adulthood", "Middle age", "Retirement", "Infancy"],
+      "answer": 1
+    },
+    {
+      "text": "During which stage is planning for retirement most important?",
+      "type": "choice",
+      "choices": ["Childhood", "Adulthood", "Middle age", "Retirement"],
+      "answer": 2
+    },
+    {
+      "text": "Which stage often involves living on pensions or savings?",
+      "type": "choice",
+      "choices": ["Childhood", "Adulthood", "Middle age", "Retirement"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Financial needs change at different stages of life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Children are responsible for paying taxes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Planning early can improve financial security in retirement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of an expense in adulthood.",
+      "type": "input",
+      "answer": ["rent", "mortgage", "food", "utilities", "education"]
+    },
+    {
+      "text": "Name one income source in retirement.",
+      "type": "input",
+      "answer": ["pension", "savings", "investments", "rental income"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.4 Personal Taxes",
+  "quiz": [
+    {
+      "text": "Which tax is deducted directly from your salary?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Excise duty", "Property tax"],
+      "answer": 0
+    },
+    {
+      "text": "Which tax is charged on goods and services?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Capital gains tax", "Corporation tax"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is an example of indirect tax?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "PAYE", "PRSI"],
+      "answer": 1
+    },
+    {
+      "text": "Which form is used to calculate tax deductions from salary?",
+      "type": "choice",
+      "choices": ["P60", "P45", "P21", "PAYE"],
+      "answer": 3
+    },
+    {
+      "text": "Which tax helps fund social services like healthcare and pensions?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Excise duty", "Tariffs"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: PRSI is a tax used to fund social insurance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: VAT is paid directly by employees from their salaries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Income tax is a direct tax.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a direct tax.",
+      "type": "input",
+      "answer": ["income tax", "corporation tax", "capital gains tax"]
+    },
+    {
+      "text": "Give one example of an indirect tax.",
+      "type": "input",
+      "answer": ["vat", "excise duty", "customs duty"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.5 Saving & Borrowing",
+  "quiz": [
+    {
+      "text": "Which of these is a reason to save money?",
+      "type": "choice",
+      "choices": ["Emergency fund", "Daily shopping", "Paying taxes", "Buying food"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a form of borrowing?",
+      "type": "choice",
+      "choices": ["Credit card", "Savings account", "Salary", "Gift"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a long-term saving option?",
+      "type": "choice",
+      "choices": ["Piggy bank", "Current account", "Term deposit", "Cash in wallet"],
+      "answer": 2
+    },
+    {
+      "text": "What is interest in relation to borrowing?",
+      "type": "choice",
+      "choices": ["Extra money paid on a loan", "Money saved in a bank", "A type of tax", "Salary earned"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of borrowing is usually secured against property?",
+      "type": "choice",
+      "choices": ["Mortgage", "Credit card", "Personal loan", "Overdraft"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Saving can help in emergencies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Borrowing money always has interest to be paid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Overdrafts are a form of saving.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a saving method.",
+      "type": "input",
+      "answer": ["savings account", "term deposit", "piggy bank", "investments"]
+    },
+    {
+      "text": "Give one example of borrowing.",
+      "type": "input",
+      "answer": ["credit card", "personal loan", "mortgage", "overdraft"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.6 Insurance",
+  "quiz": [
+    {
+      "text": "Which of these is an example of insurance?",
+      "type": "choice",
+      "choices": ["Car insurance", "Salary", "Mortgage", "Savings account"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of insurance covers health costs?",
+      "type": "choice",
+      "choices": ["Life insurance", "Health insurance", "Car insurance", "Home insurance"],
+      "answer": 1
+    },
+    {
+      "text": "Which insurance protects property against fire or theft?",
+      "type": "choice",
+      "choices": ["Health insurance", "Home insurance", "Travel insurance", "Life insurance"],
+      "answer": 1
+    },
+    {
+      "text": "What is the regular payment made for insurance called?",
+      "type": "choice",
+      "choices": ["Premium", "Interest", "Tax", "Dividend"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these insurances provides money to dependents when someone dies?",
+      "type": "choice",
+      "choices": ["Car insurance", "Life insurance", "Health insurance", "Travel insurance"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Insurance protects against financial loss.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Premiums are paid only once at the start of an insurance policy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Car insurance is compulsory in most countries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of insurance.",
+      "type": "input",
+      "answer": ["car insurance", "health insurance", "life insurance", "home insurance", "travel insurance"]
+    },
+    {
+      "text": "What is the term for the amount paid to an insurance company regularly?",
+      "type": "input",
+      "answer": ["premium", "insurance premium"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.7 Consumer Rights & Responsibilities",
+  "quiz": [
+    {
+      "text": "Which of these is a basic consumer right?",
+      "type": "choice",
+      "choices": ["Right to safety", "Right to vote", "Right to education", "Right to drive"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a consumer responsibility?",
+      "type": "choice",
+      "choices": ["Check goods before purchase", "Demand free items", "Ignore receipts", "Break products intentionally"],
+      "answer": 0
+    },
+    {
+      "text": "Which right allows consumers to choose products freely?",
+      "type": "choice",
+      "choices": ["Right to safety", "Right to information", "Right to choose", "Right to be heard"],
+      "answer": 2
+    },
+    {
+      "text": "Which right ensures faulty goods can be repaired or replaced?",
+      "type": "choice",
+      "choices": ["Right to safety", "Right to redress", "Right to choose", "Right to information"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a consumer responsibility?",
+      "type": "choice",
+      "choices": ["Using products carefully", "Breaking warranties", "Ignoring instructions", "Refusing to pay bills"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Consumers have the right to accurate product information.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Consumers can ignore safety warnings on products.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: It is a responsibility of consumers to complain if goods are faulty.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a consumer right.",
+      "type": "input",
+      "answer": ["right to safety", "right to redress", "right to choose", "right to information", "right to be heard"]
+    },
+    {
+      "text": "Give one example of a consumer responsibility.",
+      "type": "input",
+      "answer": ["check goods", "use products carefully", "pay bills", "follow instructions"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.8 Consumer Agencies",
+  "quiz": [
+    {
+      "text": "Which of these is a consumer agency in Ireland?",
+      "type": "choice",
+      "choices": ["Competition and Consumer Protection Commission", "Revenue Commissioners", "Department of Health", "Central Bank of Ireland"],
+      "answer": 0
+    },
+    {
+      "text": "Which agency helps resolve complaints between consumers and businesses?",
+      "type": "choice",
+      "choices": ["CCPC", "IBEC", "Fáilte Ireland", "Irish Water"], 
+      "answer": 0
+    },
+    {
+      "text": "Which agency provides information about consumer rights?",
+      "type": "choice",
+      "choices": ["CCPC", "Revenue", "Gardaí", "Department of Education"],
+      "answer": 0
+    },
+    {
+      "text": "Which agency can investigate unfair business practices?",
+      "type": "choice",
+      "choices": ["CCPC", "IBEC", "Tourism Ireland", "EPA"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is NOT a consumer agency?",
+      "type": "choice",
+      "choices": ["CCPC", "Consumer Association of Ireland", "Gardaí", "None of the above"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The CCPC can take legal action against businesses.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Consumer agencies only provide advice and cannot investigate complaints.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Agencies inform consumers about their rights and responsibilities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a consumer agency in Ireland.",
+      "type": "input",
+      "answer": ["ccpc", "competition and consumer protection commission", "consumer association of ireland"]
+    },
+    {
+      "text": "Name one service provided by consumer agencies.",
+      "type": "input",
+      "answer": ["advice", "complaint resolution", "information on rights", "investigation of unfair practices"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.9 Sustainability",
+  "quiz": [
+    {
+      "text": "Which of these is an example of sustainable business practice?",
+      "type": "choice",
+      "choices": ["Using renewable energy", "Throwing away all waste", "Using plastic bags once", "Overproducing goods"],
+      "answer": 0
+    },
+    {
+      "text": "Which term refers to meeting current needs without harming future generations?",
+      "type": "choice",
+      "choices": ["Globalisation", "Sustainability", "Inflation", "Budgeting"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these reduces environmental impact?",
+      "type": "choice",
+      "choices": ["Recycling", "Excessive packaging", "Polluting rivers", "Cutting down forests"],
+      "answer": 0
+    },
+    {
+      "text": "Which resource is renewable?",
+      "type": "choice",
+      "choices": ["Oil", "Coal", "Wind energy", "Natural gas"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is a sustainable consumption choice?",
+      "type": "choice",
+      "choices": ["Buying local products", "Buying imported goods only", "Wasting water", "Using disposable items"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sustainability considers environmental, social, and economic factors.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Sustainability is only about protecting nature.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Reducing energy use is part of sustainability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a sustainable practice.",
+      "type": "input",
+      "answer": ["recycling", "using renewable energy", "reducing waste", "buying local"]
+    },
+    {
+      "text": "Name one renewable resource.",
+      "type": "input",
+      "answer": ["wind", "solar", "water", "biomass"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.10 Globalisation",
+  "quiz": [
+    {
+      "text": "What is globalisation?",
+      "type": "choice",
+      "choices": ["Integration of countries and economies", "Limiting trade to one country", "Using only local products", "Avoiding technology"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a cause of globalisation?",
+      "type": "choice",
+      "choices": ["Trade liberalisation", "Isolationism", "War only", "Closed borders"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an effect of globalisation?",
+      "type": "choice",
+      "choices": ["Access to international markets", "No foreign goods", "Decreased communication", "Local-only jobs"],
+      "answer": 0
+    },
+    {
+      "text": "Which technology has helped globalisation?",
+      "type": "choice",
+      "choices": ["Internet", "Horse carriage", "Typewriter", "Steam engine only"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation promotes global trade?",
+      "type": "choice",
+      "choices": ["WTO", "UNICEF", "OECD", "FIFA"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Globalisation leads to increased international competition.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Globalisation only affects big countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Technology has reduced barriers to global trade.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one positive effect of globalisation.",
+      "type": "input",
+      "answer": ["access to international markets", "more jobs", "better technology", "cheaper goods"]
+    },
+    {
+      "text": "Give one negative effect of globalisation.",
+      "type": "input",
+      "answer": ["job losses in some areas", "environmental harm", "cultural loss", "increased competition"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.11 Understanding Pay",
+  "quiz": [
+    {
+      "text": "Which of these is gross pay?",
+      "type": "choice",
+      "choices": ["Pay before deductions", "Pay after deductions", "Bonus only", "Overtime only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is net pay?",
+      "type": "choice",
+      "choices": ["Pay after deductions", "Pay before deductions", "Bonus only", "Overtime only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a deduction from pay?",
+      "type": "choice",
+      "choices": ["Income tax", "Salary", "Bonus", "Overtime"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can increase gross pay?",
+      "type": "choice",
+      "choices": ["Overtime", "Tax", "PRSI", "Pension contribution"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is paid in addition to basic pay?",
+      "type": "choice",
+      "choices": ["Bonus", "Income tax", "PRSI", "Net pay"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Net pay is the amount an employee takes home.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gross pay is always less than net pay.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Income tax is a deduction from pay.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a pay deduction.",
+      "type": "input",
+      "answer": ["income tax", "prsi", "paye", "pension contribution"]
+    },
+    {
+      "text": "Give one example of additional pay.",
+      "type": "input",
+      "answer": ["bonus", "overtime", "commission"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "1.12 Budgets",
+  "quiz": [
+    {
+      "text": "Which of these is an income in a budget?",
+      "type": "choice",
+      "choices": ["Salary", "Rent", "Electricity", "Groceries"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an expenditure in a budget?",
+      "type": "choice",
+      "choices": ["Salary", "Bonus", "Utilities", "Interest earned"],
+      "answer": 2
+    },
+    {
+      "text": "Which type of budget shows more income than expenditure?",
+      "type": "choice",
+      "choices": ["Surplus budget", "Deficit budget", "Balanced budget", "Zero budget"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of budget shows more expenditure than income?",
+      "type": "choice",
+      "choices": ["Surplus budget", "Deficit budget", "Balanced budget", "Zero budget"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of budget has income equal to expenditure?",
+      "type": "choice",
+      "choices": ["Balanced budget", "Deficit budget", "Surplus budget", "Cash budget"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A budget helps manage money effectively.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Budgets only show income, not expenditure.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A deficit budget means spending exceeds income.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of income in a budget.",
+      "type": "input",
+      "answer": ["salary", "bonus", "interest", "rent received"]
+    },
+    {
+      "text": "Give one example of expenditure in a budget.",
+      "type": "input",
+      "answer": ["rent", "utilities", "groceries", "taxes", "loan repayment"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.1 Types of Enterprise",
+  "quiz": [
+    {
+      "text": "Which of these is a primary enterprise?",
+      "type": "choice",
+      "choices": ["Farming", "Manufacturing", "Retailing", "Banking"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a secondary enterprise?",
+      "type": "choice",
+      "choices": ["Fishing", "Manufacturing", "Agriculture", "Mining"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a tertiary enterprise?",
+      "type": "choice",
+      "choices": ["Retailing", "Mining", "Farming", "Manufacturing"],
+      "answer": 0
+    },
+    {
+      "text": "Which enterprise type produces raw materials?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 0
+    },
+    {
+      "text": "Which enterprise type provides services?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Manufacturing is a secondary enterprise.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Tertiary enterprises produce raw materials.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Agriculture is a primary enterprise.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a primary enterprise.",
+      "type": "input",
+      "answer": ["farming", "fishing", "mining", "forestry"]
+    },
+    {
+      "text": "Give one example of a tertiary enterprise.",
+      "type": "input",
+      "answer": ["retailing", "banking", "transport", "education"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.2 The Entrepreneur",
+  "quiz": [
+    {
+      "text": "Which of these best describes an entrepreneur?",
+      "type": "choice",
+      "choices": ["Someone who starts a business", "A bank employee", "A government worker", "A teacher"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a quality of a successful entrepreneur?",
+      "type": "choice",
+      "choices": ["Risk-taking", "Procrastination", "Indecisiveness", "Fear of failure"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is another key quality of entrepreneurs?",
+      "type": "choice",
+      "choices": ["Creativity", "Laziness", "Carelessness", "Avoiding responsibility"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a reason someone may become an entrepreneur?",
+      "type": "choice",
+      "choices": ["To be their own boss", "To avoid work", "To take a vacation", "To become a teacher"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a risk an entrepreneur may face?",
+      "type": "choice",
+      "choices": ["Business failure", "Winning the lottery", "Going on holiday", "Passing exams"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Entrepreneurs always have secure income.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Risk-taking is a quality of entrepreneurs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Entrepreneurs create businesses to meet needs in the market.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one quality of a successful entrepreneur.",
+      "type": "input",
+      "answer": ["risk-taking", "creativity", "initiative", "determination"]
+    },
+    {
+      "text": "Give one reason someone might become an entrepreneur.",
+      "type": "input",
+      "answer": ["to be their own boss", "to make money", "to solve a problem", "to innovate"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.3 Employment, Work and Volunteerism",
+  "quiz": [
+    {
+      "text": "Which of these is a type of employment?",
+      "type": "choice",
+      "choices": ["Full-time", "Holiday", "Sleep-in", "Free-time"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a type of voluntary work?",
+      "type": "choice",
+      "choices": ["Charity work", "Part-time job", "Internship", "Freelance work"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a benefit of volunteering?",
+      "type": "choice",
+      "choices": ["Helping the community", "Earning a high salary", "Taking holidays", "Avoiding work"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of work is paid?",
+      "type": "choice",
+      "choices": ["Employment", "Volunteering", "Charity work", "Community service"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of work is unpaid?",
+      "type": "choice",
+      "choices": ["Volunteering", "Full-time job", "Part-time job", "Freelance work"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Volunteering can improve skills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Employment is always voluntary.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Part-time work is a form of employment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of voluntary work.",
+      "type": "input",
+      "answer": ["charity work", "community service", "helping at a school", "working at a food bank"]
+    },
+    {
+      "text": "Give one example of paid work.",
+      "type": "input",
+      "answer": ["full-time job", "part-time job", "freelance work", "internship with pay"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.4 Rights & Responsibilities of Employers & Employees",
+  "quiz": [
+    {
+      "text": "Which of these is a right of employees?",
+      "type": "choice",
+      "choices": ["Safe working conditions", "Assigning extra unpaid work", "Ignoring instructions", "Changing company policies alone"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a responsibility of employees?",
+      "type": "choice",
+      "choices": ["Following company rules", "Taking extra leave without notice", "Ignoring deadlines", "Refusing training"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a right of employers?",
+      "type": "choice",
+      "choices": ["Hire suitable staff", "Take employees' pay", "Ignore laws", "Force employees to work without contracts"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a responsibility of employers?",
+      "type": "choice",
+      "choices": ["Provide safe workplace", "Avoid paying wages", "Ignore employee complaints", "Deny training"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a shared responsibility?",
+      "type": "choice",
+      "choices": ["Respect and cooperation", "Ignoring safety rules", "Breaking contracts", "Taking advantage"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Employees have the right to join a union.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Employers have the responsibility to pay employees fairly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Employees are responsible for maintaining workplace safety.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one right of employees.",
+      "type": "input",
+      "answer": ["safe working conditions", "fair pay", "right to union", "rest breaks"]
+    },
+    {
+      "text": "Give one responsibility of employers.",
+      "type": "input",
+      "answer": ["provide safe workplace", "pay wages", "provide training", "respect employees"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.5 How Organisations Impact the Community",
+  "quiz": [
+    {
+      "text": "Which of these is a positive impact of a business on the community?",
+      "type": "choice",
+      "choices": ["Creating jobs", "Pollution", "Traffic congestion", "Noise complaints"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a negative impact of a business on the community?",
+      "type": "choice",
+      "choices": ["Pollution", "Sponsoring local events", "Charity donations", "Creating employment"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of social responsibility?",
+      "type": "choice",
+      "choices": ["Supporting local schools", "Avoiding taxes", "Cutting employee benefits", "Ignoring waste management"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these benefits the local economy?",
+      "type": "choice",
+      "choices": ["Buying local supplies", "Importing everything", "Closing stores", "Avoiding taxes"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these helps the environment?",
+      "type": "choice",
+      "choices": ["Recycling waste", "Dumping chemicals", "Excessive packaging", "Noise pollution"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Businesses can impact the community both positively and negatively.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Businesses have no responsibility towards the community.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Supporting local charities is part of social responsibility.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one positive impact of a business on the community.",
+      "type": "input",
+      "answer": ["creating jobs", "charity donations", "supporting local schools", "buying local supplies"]
+    },
+    {
+      "text": "Give one negative impact of a business on the community.",
+      "type": "input",
+      "answer": ["pollution", "noise", "traffic congestion", "waste dumping"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.6 Digital Technology",
+  "quiz": [
+    {
+      "text": "Which of these is a type of digital technology used in business?",
+      "type": "choice",
+      "choices": ["E-commerce", "Horse-drawn carriage", "Fax machine only", "Pigeon post"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these allows businesses to sell products online?",
+      "type": "choice",
+      "choices": ["E-commerce", "Brick-and-mortar store", "Telephone only", "Newspaper ads"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these improves communication in a business?",
+      "type": "choice",
+      "choices": ["Email", "Handwritten letters only", "Pigeons", "Fax only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can store large amounts of business data?",
+      "type": "choice",
+      "choices": ["Cloud storage", "Paper files only", "Typewriter", "Ledger books"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a risk of digital technology?",
+      "type": "choice",
+      "choices": ["Cybersecurity threats", "Manual filing", "Face-to-face meetings", "Cash payments"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Digital technology can improve efficiency in business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Digital technology has no effect on customer service.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: E-commerce allows businesses to reach more customers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of digital technology used in business.",
+      "type": "input",
+      "answer": ["e-commerce", "email", "cloud storage", "social media"]
+    },
+    {
+      "text": "Give one risk of using digital technology in business.",
+      "type": "input",
+      "answer": ["cybersecurity threats", "data breaches", "hacking", "loss of data"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.7 Market Research",
+  "quiz": [
+    {
+      "text": "Which of these is a method of primary market research?",
+      "type": "choice",
+      "choices": ["Surveys", "Internet articles", "Books", "Government reports"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a method of secondary market research?",
+      "type": "choice",
+      "choices": ["Government reports", "Questionnaires", "Interviews", "Focus groups"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these helps businesses understand customer preferences?",
+      "type": "choice",
+      "choices": ["Market research", "Accounting", "Production", "Transport"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an advantage of market research?",
+      "type": "choice",
+      "choices": ["Better decision-making", "Ignoring trends", "Guesswork", "Wasting resources"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a disadvantage of market research?",
+      "type": "choice",
+      "choices": ["Time-consuming", "Informative", "Accurate", "Helpful"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Market research is only done after a product fails.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Surveys are a form of primary research.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Secondary research uses information collected by others.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one method of primary market research.",
+      "type": "input",
+      "answer": ["surveys", "questionnaires", "interviews", "focus groups"]
+    },
+    {
+      "text": "Give one method of secondary market research.",
+      "type": "input",
+      "answer": ["government reports", "books", "internet articles", "magazines"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.8 The Marketing Mix",
+  "quiz": [
+    {
+      "text": "Which element of the marketing mix refers to the product itself?",
+      "type": "choice",
+      "choices": ["Product", "Price", "Place", "Promotion"],
+      "answer": 0
+    },
+    {
+      "text": "Which element of the marketing mix refers to how much a product costs?",
+      "type": "choice",
+      "choices": ["Product", "Price", "Place", "Promotion"],
+      "answer": 1
+    },
+    {
+      "text": "Which element of the marketing mix refers to how a product is sold to customers?",
+      "type": "choice",
+      "choices": ["Product", "Price", "Place", "Promotion"],
+      "answer": 2
+    },
+    {
+      "text": "Which element of the marketing mix refers to advertising a product?",
+      "type": "choice",
+      "choices": ["Product", "Price", "Place", "Promotion"],
+      "answer": 3
+    },
+    {
+      "text": "Which of these is not part of the marketing mix?",
+      "type": "choice",
+      "choices": ["People", "Product", "Price", "Promotion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The 4Ps are Product, Price, Place, and Promotion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Promotion includes advertising and sales methods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Place refers to the location of production only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one element of the marketing mix.",
+      "type": "input",
+      "answer": ["product", "price", "place", "promotion"]
+    },
+    {
+      "text": "Give one way a business can promote its product.",
+      "type": "input",
+      "answer": ["advertising", "sales", "social media", "discounts"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.9 Business Plan",
+  "quiz": [
+    {
+      "text": "Which of these is included in a business plan?",
+      "type": "choice",
+      "choices": ["Business objectives", "Holiday plans", "Family tree", "School timetable"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these explains the target market?",
+      "type": "choice",
+      "choices": ["Market analysis", "Cash flow", "Staff roster", "Sales invoice"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shows how much money is needed to start a business?",
+      "type": "choice",
+      "choices": ["Financial plan", "Marketing plan", "Production plan", "HR plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a benefit of a business plan?",
+      "type": "choice",
+      "choices": ["Guides business decisions", "Creates unemployment", "Delays start-up", "Causes confusion"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a section in a business plan?",
+      "type": "choice",
+      "choices": ["Operations plan", "School timetable", "Weather report", "Holiday list"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A business plan is only useful after the business starts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A financial plan is part of a business plan.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A business plan helps attract investors.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one section of a business plan.",
+      "type": "input",
+      "answer": ["financial plan", "marketing plan", "operations plan", "business objectives"]
+    },
+    {
+      "text": "Give one benefit of a business plan.",
+      "type": "input",
+      "answer": ["guides decisions", "helps attract investors", "reduces risk", "plans resources"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.10 Business Documents",
+  "quiz": [
+    {
+      "text": "Which of these is a business document?",
+      "type": "choice",
+      "choices": ["Invoice", "Passport", "Letter to a friend", "Shopping list"],
+      "answer": 0
+    },
+    {
+      "text": "Which document records money received from customers?",
+      "type": "choice",
+      "choices": ["Receipt", "Invoice", "Bank statement", "Cheque"],
+      "answer": 0
+    },
+    {
+      "text": "Which document requests payment for goods sold?",
+      "type": "choice",
+      "choices": ["Invoice", "Receipt", "Pay slip", "Statement of account"],
+      "answer": 0
+    },
+    {
+      "text": "Which document shows goods returned to a supplier?",
+      "type": "choice",
+      "choices": ["Credit note", "Invoice", "Receipt", "Bank statement"],
+      "answer": 0
+    },
+    {
+      "text": "Which document is used to pay a supplier?",
+      "type": "choice",
+      "choices": ["Cheque", "Invoice", "Credit note", "Receipt"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An invoice is sent after payment is made.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A receipt proves payment has been received.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A credit note reduces the amount a customer owes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a business document.",
+      "type": "input",
+      "answer": ["invoice", "receipt", "credit note", "cheque"]
+    },
+    {
+      "text": "Give one purpose of a business document.",
+      "type": "input",
+      "answer": ["request payment", "record payment", "reduce debt", "pay supplier"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.11 Cash Flow",
+  "quiz": [
+    {
+      "text": "Which of these shows money coming into a business?",
+      "type": "choice",
+      "choices": ["Cash inflow", "Cash outflow", "Credit note", "Invoice"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shows money going out of a business?",
+      "type": "choice",
+      "choices": ["Cash outflow", "Cash inflow", "Receipt", "Invoice"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a reason for cash flow problems?",
+      "type": "choice",
+      "choices": ["Delayed customer payments", "Good planning", "High profits", "Strong sales"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is used to plan cash movement?",
+      "type": "choice",
+      "choices": ["Cash flow forecast", "Business plan", "Invoice", "Pay slip"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can improve cash flow?",
+      "type": "choice",
+      "choices": ["Faster customer payments", "Slower payments", "Ignoring invoices", "Reducing income"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Cash inflow is money received by the business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cash outflow is money spent by the business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Poor cash flow always means the business is unprofitable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one source of cash inflow.",
+      "type": "input",
+      "answer": ["sales", "customer payments", "loan received", "capital injection"]
+    },
+    {
+      "text": "Give one source of cash outflow.",
+      "type": "input",
+      "answer": ["rent", "wages", "supplies", "loan repayment"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.12 Cash Accounts & Trial Balance",
+  "quiz": [
+    {
+      "text": "Which account records all money received by a business?",
+      "type": "choice",
+      "choices": ["Cash account", "Sales account", "Purchase account", "Credit account"],
+      "answer": 0
+    },
+    {
+      "text": "Which account records all money paid out by a business?",
+      "type": "choice",
+      "choices": ["Cash account", "Sales account", "Purchase account", "Credit account"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these lists all balances in the ledger to check equality?",
+      "type": "choice",
+      "choices": ["Trial balance", "Cash flow forecast", "Invoice", "Receipt"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a purpose of the trial balance?",
+      "type": "choice",
+      "choices": ["Check for errors", "Send invoices", "Pay employees", "Advertise products"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shows both debit and credit balances?",
+      "type": "choice",
+      "choices": ["Trial balance", "Cash account only", "Invoice only", "Receipt only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A cash account only records inflows.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Trial balance helps ensure accounting accuracy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Trial balance lists balances from all ledger accounts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one use of a cash account.",
+      "type": "input",
+      "answer": ["record money received", "record money paid", "track cash transactions", "monitor inflow and outflow"]
+    },
+    {
+      "text": "Give one purpose of a trial balance.",
+      "type": "input",
+      "answer": ["check for errors", "ensure ledger balances match", "verify accounting accuracy", "prepare financial statements"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "2.13 Final Accounts",
+  "quiz": [
+    {
+      "text": "Which of these is a final account showing profit or loss?",
+      "type": "choice",
+      "choices": ["Income statement", "Balance sheet", "Cash account", "Invoice"],
+      "answer": 0
+    },
+    {
+      "text": "Which final account shows a business’s financial position?",
+      "type": "choice",
+      "choices": ["Balance sheet", "Income statement", "Cash account", "Trial balance"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an asset shown in the balance sheet?",
+      "type": "choice",
+      "choices": ["Cash", "Loan owed to bank", "Electricity bill", "Rent payable"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a liability shown in the balance sheet?",
+      "type": "choice",
+      "choices": ["Loan owed", "Cash", "Inventory", "Equipment"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shows the net profit of a business?",
+      "type": "choice",
+      "choices": ["Income statement", "Balance sheet", "Trial balance", "Cash flow forecast"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The balance sheet shows profit or loss.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Assets are resources owned by a business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Liabilities are what the business owes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of an asset in the final accounts.",
+      "type": "input",
+      "answer": ["cash", "equipment", "inventory", "accounts receivable"]
+    },
+    {
+      "text": "Give one example of a liability in the final accounts.",
+      "type": "input",
+      "answer": ["loan", "accounts payable", "rent payable", "taxes owed"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.1 Economic Resources",
+  "quiz": [
+    {
+      "text": "Which of these is a natural resource?",
+      "type": "choice",
+      "choices": ["Water", "Factory", "Machine", "Worker"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a human resource?",
+      "type": "choice",
+      "choices": ["Worker", "River", "Oil", "Land"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a capital resource?",
+      "type": "choice",
+      "choices": ["Machine", "Water", "Worker", "Forest"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is scarce and used to produce goods?",
+      "type": "choice",
+      "choices": ["Economic resource", "Leisure", "Money only", "Holiday"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of a renewable resource?",
+      "type": "choice",
+      "choices": ["Forest", "Oil", "Coal", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Human resources refer to workers and skills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Capital resources are used to produce goods and services.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Natural resources are unlimited and never scarce.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a natural resource.",
+      "type": "input",
+      "answer": ["water", "forest", "oil", "coal"]
+    },
+    {
+      "text": "Give one example of a capital resource.",
+      "type": "input",
+      "answer": ["machine", "factory", "tools", "equipment"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.2 Distribution of Economic Resources",
+  "quiz": [
+    {
+      "text": "Which of these is a way economic resources are distributed?",
+      "type": "choice",
+      "choices": ["Market system", "Lottery", "Birthday gift", "School assignment"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these determines distribution in a market economy?",
+      "type": "choice",
+      "choices": ["Price", "Teacher", "Weather", "Random choice"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a government method of resource distribution?",
+      "type": "choice",
+      "choices": ["Subsidies", "Birthday parties", "Advertising", "School exams"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is affected by demand and supply?",
+      "type": "choice",
+      "choices": ["Price", "Holiday", "Movie times", "Sports events"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a factor in resource allocation?",
+      "type": "choice",
+      "choices": ["Scarcity", "Hobby", "Clothing style", "Weather forecast"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Resources are distributed based only on need in a market economy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Price is a key factor in distributing resources in a market economy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Government can influence distribution through subsidies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one way resources are distributed.",
+      "type": "input",
+      "answer": ["market system", "government policy", "price mechanism", "subsidies"]
+    },
+    {
+      "text": "Give one factor affecting distribution of resources.",
+      "type": "input",
+      "answer": ["scarcity", "price", "demand", "supply"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.3 Demand & Supply",
+  "quiz": [
+    {
+      "text": "Which of these describes demand?",
+      "type": "choice",
+      "choices": ["Quantity of a product consumers want", "Money a business owes", "Number of employees", "Supply of machines"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these describes supply?",
+      "type": "choice",
+      "choices": ["Quantity of a product producers offer", "Customer preferences", "Employee skills", "Capital investment"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these increases demand?",
+      "type": "choice",
+      "choices": ["Fall in price", "Rise in taxes", "Less advertising", "Decrease in population"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these increases supply?",
+      "type": "choice",
+      "choices": ["Improved technology", "Higher costs", "Fewer suppliers", "Less production capacity"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these determines price in a free market?",
+      "type": "choice",
+      "choices": ["Interaction of demand and supply", "Advertising", "Number of stores", "Weather"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Demand falls as price rises, all else equal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Supply increases when production costs fall.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Price is independent of demand and supply in a free market.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one factor that can increase demand.",
+      "type": "input",
+      "answer": ["fall in price", "advertising", "rise in income", "consumer preference"]
+    },
+    {
+      "text": "Give one factor that can increase supply.",
+      "type": "input",
+      "answer": ["improved technology", "lower production costs", "more suppliers", "government incentives"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.4 Government Revenue and Expenditure",
+  "quiz": [
+    {
+      "text": "Which of these is a source of government revenue?",
+      "type": "choice",
+      "choices": ["Taxes", "Holiday payments", "Private loans", "School fees"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a type of government expenditure?",
+      "type": "choice",
+      "choices": ["Public services", "Personal shopping", "Business profit", "Private tuition"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an indirect tax collected by the government?",
+      "type": "choice",
+      "choices": ["VAT", "Income tax", "Pay related social insurance", "Capital gains tax"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a direct tax collected by the government?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Customs duty", "Excise duty"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a government spending priority?",
+      "type": "choice",
+      "choices": ["Healthcare", "Shopping malls", "Sports clubs", "Private clubs"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Taxes are the main source of government revenue.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Government expenditure includes roads, schools, and hospitals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only individuals pay taxes; businesses do not.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of government revenue.",
+      "type": "input",
+      "answer": ["taxes", "customs duties", "social insurance", "fees"]
+    },
+    {
+      "text": "Give one example of government expenditure.",
+      "type": "input",
+      "answer": ["healthcare", "education", "roads", "defence"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.5 Taxation",
+  "quiz": [
+    {
+      "text": "Which of these is a direct tax?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Excise duty", "Customs duty"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an indirect tax?",
+      "type": "choice",
+      "choices": ["VAT", "Income tax", "Pay related social insurance", "Corporate tax"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is paid on goods and services?",
+      "type": "choice",
+      "choices": ["VAT", "Income tax", "Corporate tax", "PRSI"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is paid on earnings from employment?",
+      "type": "choice",
+      "choices": ["Income tax", "VAT", "Excise duty", "Customs duty"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these affects the amount of tax an individual pays?",
+      "type": "choice",
+      "choices": ["Income level", "Height", "Favourite colour", "Hobby"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Direct taxes are collected from income or profit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Indirect taxes are included in the price of goods and services.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Everyone pays the same amount of tax regardless of income.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a direct tax.",
+      "type": "input",
+      "answer": ["income tax", "corporate tax", "capital gains tax", "wealth tax"]
+    },
+    {
+      "text": "Give one example of an indirect tax.",
+      "type": "input",
+      "answer": ["VAT", "excise duty", "customs duty", "environmental levy"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.6 Economic Growth & Sustainable Development",
+  "quiz": [
+    {
+      "text": "Which of these measures economic growth?",
+      "type": "choice",
+      "choices": ["Gross Domestic Product (GDP)", "Population size", "School grades", "Number of banks"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these describes sustainable development?",
+      "type": "choice",
+      "choices": ["Meeting present needs without harming future generations", "Using all resources quickly", "Cutting down all forests", "Ignoring pollution"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a benefit of economic growth?",
+      "type": "choice",
+      "choices": ["Higher employment", "Higher pollution", "More taxes owed", "Less production"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can threaten sustainable development?",
+      "type": "choice",
+      "choices": ["Overconsumption", "Recycling", "Renewable energy", "Forest conservation"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a renewable resource important for sustainability?",
+      "type": "choice",
+      "choices": ["Solar energy", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Economic growth always harms the environment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sustainable development balances economic, social, and environmental needs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Renewable resources can be used without limit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one indicator of economic growth.",
+      "type": "input",
+      "answer": ["GDP", "national income", "production output", "employment level"]
+    },
+    {
+      "text": "Give one practice that supports sustainable development.",
+      "type": "input",
+      "answer": ["recycling", "using renewable energy", "forest conservation", "efficient resource use"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.7 International Trade",
+  "quiz": [
+    {
+      "text": "Which of these is a reason countries trade internationally?",
+      "type": "choice",
+      "choices": ["Access to resources not available locally", "To avoid production", "To reduce exports", "To ban imports"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an export?",
+      "type": "choice",
+      "choices": ["Goods sold to another country", "Goods bought from another country", "Goods thrown away", "Goods used internally only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an import?",
+      "type": "choice",
+      "choices": ["Goods bought from another country", "Goods sold abroad", "Goods recycled locally", "Goods produced at home"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these helps international trade?",
+      "type": "choice",
+      "choices": ["Trade agreements", "Higher tariffs", "Quotas", "Import bans"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can be a barrier to trade?",
+      "type": "choice",
+      "choices": ["Tariffs", "Technology", "Exports", "Shipping ports"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Exports increase a country’s income.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Imports reduce the availability of foreign goods.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Free trade agreements reduce barriers between countries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of an import.",
+      "type": "input",
+      "answer": ["oil", "cars", "electronics", "food products"]
+    },
+    {
+      "text": "Give one example of an export.",
+      "type": "input",
+      "answer": ["agricultural goods", "software", "machinery", "pharmaceuticals"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.8 European Union",
+  "quiz": [
+    {
+      "text": "Which of these is a purpose of the European Union (EU)?",
+      "type": "choice",
+      "choices": ["Promote economic and political cooperation", "Ban all trade", "Control only schools", "Stop all travel between countries"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a benefit of being in the EU?",
+      "type": "choice",
+      "choices": ["Free trade between member countries", "Higher tariffs on all goods", "Restricted travel", "No currency options"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is the EU’s single currency?",
+      "type": "choice",
+      "choices": ["Euro", "Pound", "Dollar", "Yen"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these EU policies helps farmers?",
+      "type": "choice",
+      "choices": ["Common Agricultural Policy (CAP)", "Education policy", "Health policy", "Transport policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these promotes economic stability in the EU?",
+      "type": "choice",
+      "choices": ["Monetary and fiscal coordination", "Border closures", "High tariffs", "School rules"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All EU countries use the Euro.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Free movement of goods, services, people, and capital is a key EU principle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The EU only focuses on trade and ignores politics.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one benefit of EU membership for a country.",
+      "type": "input",
+      "answer": ["free trade", "funding", "peace and security", "cooperation"]
+    },
+    {
+      "text": "Give one key EU principle.",
+      "type": "input",
+      "answer": ["free movement", "common market", "single currency", "shared regulations"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.9 Economic Indicators",
+  "quiz": [
+    {
+      "text": "Which of these is an economic indicator?",
+      "type": "choice",
+      "choices": ["GDP", "Number of schools", "School grades", "Weather patterns"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these indicates unemployment?",
+      "type": "choice",
+      "choices": ["Unemployment rate", "Population growth", "Inflation rate", "Interest rate"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these measures price changes over time?",
+      "type": "choice",
+      "choices": ["Inflation rate", "GDP", "Export value", "Employment rate"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shows the standard of living in a country?",
+      "type": "choice",
+      "choices": ["GDP per capita", "Population size", "Number of banks", "Exports"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these measures the economy’s growth?",
+      "type": "choice",
+      "choices": ["GDP growth rate", "School enrollment", "Health index", "Number of factories"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Economic indicators can help predict future trends.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: GDP per capita measures the average income per person.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Unemployment rate is unrelated to the economy’s performance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of an economic indicator.",
+      "type": "input",
+      "answer": ["GDP", "inflation rate", "unemployment rate", "GDP per capita"]
+    },
+    {
+      "text": "Give one purpose of economic indicators.",
+      "type": "input",
+      "answer": ["predict trends", "measure growth", "analyse performance", "plan policy"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.10 Current Economic Issues",
+  "quiz": [
+    {
+      "text": "Which of these is a current economic issue?",
+      "type": "choice",
+      "choices": ["Inflation", "School exams", "Holiday schedules", "Sports events"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can affect consumer spending?",
+      "type": "choice",
+      "choices": ["Rising prices", "Number of movies", "Weather", "Fashion trends"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can cause unemployment?",
+      "type": "choice",
+      "choices": ["Business closures", "New schools", "Sports competitions", "Music festivals"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can affect prices in the economy?",
+      "type": "choice",
+      "choices": ["Inflation", "School holidays", "Movie releases", "Sports events"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is linked to economic growth?",
+      "type": "choice",
+      "choices": ["Job creation", "TV shows", "Fashion trends", "Holiday periods"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Inflation reduces the purchasing power of money.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Unemployment does not affect government spending.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Rising prices always benefit consumers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a current economic issue.",
+      "type": "input",
+      "answer": ["inflation", "unemployment", "housing shortage", "rising prices"]
+    },
+    {
+      "text": "Give one effect of inflation.",
+      "type": "input",
+      "answer": ["reduces purchasing power", "increases prices", "reduces savings value", "affects spending"]
+    }
+  ]
+},
+{
+  "subject": "Business Studies",
+  "topic": "3.11 Government Economic Policy",
+  "quiz": [
+    {
+      "text": "Which of these is a government economic policy tool?",
+      "type": "choice",
+      "choices": ["Fiscal policy", "Movie schedules", "School timetables", "Holiday dates"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is part of fiscal policy?",
+      "type": "choice",
+      "choices": ["Taxes and government spending", "Sports competitions", "Movie releases", "Fashion trends"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is part of monetary policy?",
+      "type": "choice",
+      "choices": ["Interest rates", "School exams", "TV shows", "Holidays"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a goal of government economic policy?",
+      "type": "choice",
+      "choices": ["Stable economic growth", "Holiday periods", "Fashion trends", "Movie releases"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these policies can reduce unemployment?",
+      "type": "choice",
+      "choices": ["Government spending on projects", "School schedules", "Movie releases", "Fashion trends"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fiscal policy uses taxation and spending to influence the economy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Monetary policy is controlled by the central bank.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Government policy cannot influence economic growth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a government economic policy tool.",
+      "type": "input",
+      "answer": ["fiscal policy", "monetary policy", "taxation", "government spending"]
+    },
+    {
+      "text": "Give one goal of government economic policy.",
+      "type": "input",
+      "answer": ["reduce unemployment", "stable growth", "control inflation", "increase investment"]
+    }
+  ]
+}
+]

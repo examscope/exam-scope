@@ -1,0 +1,63 @@
+[
+{
+  "subject": "German",
+  "topic": "Grammar (Grammatik)",
+  "quiz": [
+    {
+      "text": "Which case is used for the direct object in German?",
+      "type": "choice",
+      "choices": ["Nominative", "Accusative", "Dative", "Genitive"],
+      "answer": 1
+    },
+    {
+      "text": "Which verb form is used for polite requests?",
+      "type": "choice",
+      "choices": ["Imperative", "Subjunctive II", "Present tense", "Perfect tense"],
+      "answer": 1
+    },
+    {
+      "text": "Which article is correct for a feminine noun in the nominative case?",
+      "type": "choice",
+      "choices": ["Der", "Die", "Das", "Den"],
+      "answer": 1
+    },
+    {
+      "text": "What is the past participle of 'gehen'?",
+      "type": "choice",
+      "choices": ["Ging", "Geht", "Gehen", "Gegangen"],
+      "answer": 3
+    },
+    {
+      "text": "Which word order is correct for a main clause with a modal verb?",
+      "type": "choice",
+      "choices": ["Subject – Verb – Object – Infinitive", "Subject – Object – Verb – Infinitive", "Subject – Infinitive – Verb – Object", "Subject – Verb – Infinitive – Object"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: The dative case is used to indicate the indirect object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Der', 'Die', 'Das' are definite articles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Adjective endings in German do not change according to case, gender, or number.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide the German word for 'they have' in present tense.",
+      "type": "input",
+      "answer": ["sie haben", "haben sie"]
+    },
+    {
+      "text": "Give one example of a strong verb in German.",
+      "type": "input",
+      "answer": ["gehen", "sehen", "fahren", "lesen"]
+    }
+  ]
+}
+]

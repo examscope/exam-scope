@@ -1,0 +1,795 @@
+[
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Diseases",
+  "quiz": [
+    {
+      "text": "Which of the following is a bacterial disease in livestock?",
+      "type": "choice",
+      "choices": ["Foot and Mouth", "TB (Tuberculosis)", "Ringworm", "Liver fluke"],
+      "answer": 1
+    },
+    {
+      "text": "What organism causes liver fluke in sheep?",
+      "type": "choice",
+      "choices": ["Bacteria", "Virus", "Fungus", "Parasite"],
+      "answer": 3
+    },
+    {
+      "text": "Which of the following is a symptom of mastitis in cows?",
+      "type": "choice",
+      "choices": ["Coughing", "Swollen udder", "Diarrhoea", "Weight gain"],
+      "answer": 1
+    },
+    {
+      "text": "How can farmers prevent the spread of disease in animals?",
+      "type": "choice",
+      "choices": ["Increase stocking density", "Avoid vaccinations", "Good hygiene and quarantine", "Use more fertiliser"],
+      "answer": 2
+    },
+    {
+      "text": "What disease affects the nervous system and is fatal in cattle?",
+      "type": "choice",
+      "choices": ["Foot rot", "Ringworm", "BSE", "Liver fluke"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Vaccination can help prevent some animal diseases.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All animal diseases are caused by viruses.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Isolating sick animals can reduce disease spread.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one disease that can be passed from animals to humans.",
+      "type": "input",
+      "answer": ["tb", "tuberculosis", "brucellosis", "salmonella", "zoonotic disease"]
+    },
+    {
+      "text": "Give one method of controlling liver fluke in sheep.",
+      "type": "input",
+      "answer": ["dosing", "flukicide", "draining wet land", "avoiding wet pastures", "fluke treatment"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Physiology",
+  "quiz": [
+    {
+      "text": "Which organ is responsible for filtering waste from the blood in animals?",
+      "type": "choice",
+      "choices": ["Heart", "Liver", "Kidney", "Lung"],
+      "answer": 2
+    },
+    {
+      "text": "What is the function of the rumen in ruminant animals?",
+      "type": "choice",
+      "choices": ["Absorbing nutrients", "Digesting cellulose", "Filtering blood", "Producing insulin"],
+      "answer": 1
+    },
+    {
+      "text": "What gas is commonly released during ruminant digestion?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon monoxide", "Methane", "Nitrogen"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the digestive system is responsible for most nutrient absorption?",
+      "type": "choice",
+      "choices": ["Oesophagus", "Stomach", "Small intestine", "Large intestine"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is part of the female reproductive system in cows?",
+      "type": "choice",
+      "choices": ["Urethra", "Ovary", "Testes", "Bladder"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The heart pumps oxygenated blood to the lungs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The small intestine plays a role in digestion and absorption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ruminant animals have four compartments in their stomach.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one compartment of a ruminant animal's stomach.",
+      "type": "input",
+      "answer": ["rumen", "reticulum", "omasum", "abomasum"]
+    },
+    {
+      "text": "What is the main function of the kidney in animals?",
+      "type": "input",
+      "answer": ["remove waste", "filter blood", "excrete waste", "regulate water balance"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Production",
+  "quiz": [
+    {
+      "text": "Which factor is most important for good animal growth?",
+      "type": "choice",
+      "choices": ["Water supply", "Proper nutrition", "Housing size", "Exercise"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for a young sheep?",
+      "type": "choice",
+      "choices": ["Calf", "Lamb", "Foal", "Kid"],
+      "answer": 1
+    },
+    {
+      "text": "Which breed is best known for milk production?",
+      "type": "choice",
+      "choices": ["Hereford", "Holstein Friesian", "Suffolk", "Charolais"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of castration in livestock?",
+      "type": "choice",
+      "choices": ["Increase aggression", "Prevent breeding", "Improve wool quality", "Improve milk yield"],
+      "answer": 1
+    },
+    {
+      "text": "What does selective breeding aim to improve?",
+      "type": "choice",
+      "choices": ["Appearance only", "Genetic traits", "Feed costs", "Housing conditions"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Good ventilation helps reduce respiratory diseases in animals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Overfeeding can cause obesity in livestock.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All breeds of sheep produce the same quality of wool.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one factor that affects animal growth.",
+      "type": "input",
+      "answer": ["nutrition", "feed", "genetics", "housing", "health"]
+    },
+    {
+      "text": "What is the main goal of selective breeding?",
+      "type": "input",
+      "answer": ["improve traits", "genetic improvement", "better production", "increase yield"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Classification of Organisms",
+  "quiz": [
+    {
+      "text": "What is the highest level in the biological classification system?",
+      "type": "choice",
+      "choices": ["Genus", "Family", "Kingdom", "Species"],
+      "answer": 2
+    },
+    {
+      "text": "Which kingdom do animals belong to?",
+      "type": "choice",
+      "choices": ["Plantae", "Fungi", "Animalia", "Protista"],
+      "answer": 2
+    },
+    {
+      "text": "What is the term for two-word naming of species?",
+      "type": "choice",
+      "choices": ["Binomial nomenclature", "Taxonomy", "Genus", "Phylum"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a characteristic of mammals?",
+      "type": "choice",
+      "choices": ["Lay eggs", "Have feathers", "Produce milk", "Cold-blooded"],
+      "answer": 2
+    },
+    {
+      "text": "What classification comes directly below family?",
+      "type": "choice",
+      "choices": ["Genus", "Order", "Species", "Class"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Species is the most specific classification group.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All organisms in the same genus are also in the same family.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Classification helps scientists organise living things.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one kingdom in biological classification.",
+      "type": "input",
+      "answer": ["animalia", "plantae", "fungi", "protista", "monera", "bacteria"]
+    },
+    {
+      "text": "What is binomial nomenclature used for?",
+      "type": "input",
+      "answer": ["naming species", "naming organisms", "scientific naming", "two-part names"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Crop Production",
+  "quiz": [
+    {
+      "text": "Which of the following is a cereal crop?",
+      "type": "choice",
+      "choices": ["Potato", "Barley", "Carrot", "Pea"],
+      "answer": 1
+    },
+    {
+      "text": "What is crop rotation?",
+      "type": "choice",
+      "choices": ["Growing the same crop every year", "Changing crops yearly to improve soil", "Using pesticides", "Irrigation method"],
+      "answer": 1
+    },
+    {
+      "text": "Which tool is used for sowing seeds?",
+      "type": "choice",
+      "choices": ["Plough", "Harvester", "Seed drill", "Combine"],
+      "answer": 2
+    },
+    {
+      "text": "What is the purpose of harvesting crops promptly?",
+      "type": "choice",
+      "choices": ["Prevent disease", "Save water", "Improve soil", "Reduce pests"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is most important for crop growth?",
+      "type": "choice",
+      "choices": ["Sunlight", "Shade", "Cold temperature", "No water"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Crop rotation helps prevent soil depletion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Irrigation is not necessary for crop growth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Harvesting too late can reduce crop quality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method of planting crops.",
+      "type": "input",
+      "answer": ["seed drill", "broadcasting", "transplanting", "sowing"]
+    },
+    {
+      "text": "Give one reason why crop rotation is important.",
+      "type": "input",
+      "answer": ["prevent soil depletion", "reduce pests", "improve soil fertility", "break pest cycles"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Fertilisers, Pollution & the Environment",
+  "quiz": [
+    {
+      "text": "Which nutrient is commonly found in fertilisers to promote leaf growth?",
+      "type": "choice",
+      "choices": ["Phosphorus", "Nitrogen", "Potassium", "Calcium"],
+      "answer": 1
+    },
+    {
+      "text": "What is eutrophication?",
+      "type": "choice",
+      "choices": ["Overgrowth of algae in water", "Soil erosion", "Crop disease", "Animal disease"],
+      "answer": 0
+    },
+    {
+      "text": "Which fertiliser component helps root development?",
+      "type": "choice",
+      "choices": ["Nitrogen", "Phosphorus", "Potassium", "Magnesium"],
+      "answer": 1
+    },
+    {
+      "text": "What is one environmental concern related to fertiliser use?",
+      "type": "choice",
+      "choices": ["Soil pollution", "Water pollution", "Air pollution", "Noise pollution"],
+      "answer": 1
+    },
+    {
+      "text": "Which practice can reduce fertiliser pollution?",
+      "type": "choice",
+      "choices": ["Over-application", "Buffer zones near water", "Flood irrigation", "Burning crop residues"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Nitrogen fertilisers can cause water pollution if overused.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fertilisers have no effect on air quality.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Proper fertiliser use improves crop yield without harming the environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one nutrient commonly found in fertilisers.",
+      "type": "input",
+      "answer": ["nitrogen", "phosphorus", "potassium", "n", "p", "k"]
+    },
+    {
+      "text": "Give one way farmers can reduce pollution from fertilisers.",
+      "type": "input",
+      "answer": ["use buffer zones", "apply correct amount", "avoid overuse", "proper timing of application"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Genetics",
+  "quiz": [
+    {
+      "text": "What carries genetic information in animals and plants?",
+      "type": "choice",
+      "choices": ["Proteins", "DNA", "Lipids", "Carbohydrates"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for different versions of a gene?",
+      "type": "choice",
+      "choices": ["Chromosomes", "Alleles", "Genomes", "Genotypes"],
+      "answer": 1
+    },
+    {
+      "text": "Which process creates genetic variation during reproduction?",
+      "type": "choice",
+      "choices": ["Mitosis", "Meiosis", "Fertilisation", "Mutation"],
+      "answer": 1
+    },
+    {
+      "text": "What is a phenotype?",
+      "type": "choice",
+      "choices": ["Genetic makeup", "Physical appearance", "Chromosome number", "Type of cell"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes the genetic makeup of an organism?",
+      "type": "choice",
+      "choices": ["Phenotype", "Genotype", "Allele", "Trait"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: DNA is found in the nucleus of cells.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alleles are identical forms of the same gene.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Mutation always results in harmful effects.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of genetic material.",
+      "type": "input",
+      "answer": ["dna", "rna"]
+    },
+    {
+      "text": "What is the term for an organism’s observable characteristics?",
+      "type": "input",
+      "answer": ["phenotype", "physical traits", "appearance"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Grassland",
+  "quiz": [
+    {
+      "text": "Which type of grass is commonly used in Irish pastures?",
+      "type": "choice",
+      "choices": ["Bermuda grass", "Perennial ryegrass", "Buffalo grass", "Kentucky bluegrass"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main benefit of reseeding grassland?",
+      "type": "choice",
+      "choices": ["Increase soil acidity", "Improve grass quality", "Reduce animal health", "Increase weeds"],
+      "answer": 1
+    },
+    {
+      "text": "What does ‘rotation grazing’ help to prevent?",
+      "type": "choice",
+      "choices": ["Soil erosion", "Overgrazing", "Pest infestation", "Flooding"],
+      "answer": 1
+    },
+    {
+      "text": "Which is a common weed in grassland?",
+      "type": "choice",
+      "choices": ["Dandelion", "Carrot", "Clover", "Wheat"],
+      "answer": 0
+    },
+    {
+      "text": "Which nutrient is often added to improve grass growth?",
+      "type": "choice",
+      "choices": ["Nitrogen", "Calcium", "Phosphorus", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Overgrazing can damage grassland quality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Clover is a weed harmful to grass growth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Reseeding helps maintain pasture productivity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method of improving grassland quality.",
+      "type": "input",
+      "answer": ["reseeding", "fertilising", "liming", "rotational grazing"]
+    },
+    {
+      "text": "Give one common weed found in grassland.",
+      "type": "input",
+      "answer": ["dandelion", "thistle", "dock", "nettles"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Health & Safety",
+  "quiz": [
+    {
+      "text": "What is the most important safety equipment when using a chainsaw?",
+      "type": "choice",
+      "choices": ["Safety goggles", "Ear protection", "Gloves", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which sign indicates a hazard on a farm?",
+      "type": "choice",
+      "choices": ["Green circle", "Red triangle", "Blue square", "Yellow triangle"],
+      "answer": 3
+    },
+    {
+      "text": "What should you do before operating farm machinery?",
+      "type": "choice",
+      "choices": ["Wear loose clothing", "Check the equipment", "Ignore warnings", "Work quickly"],
+      "answer": 1
+    },
+    {
+      "text": "How can you prevent accidents on the farm?",
+      "type": "choice",
+      "choices": ["Keep work areas tidy", "Run when carrying tools", "Ignore safety rules", "Work alone always"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the safest way to lift heavy objects?",
+      "type": "choice",
+      "choices": ["Bend your knees", "Bend your back", "Twist while lifting", "Lift quickly"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wearing ear protection helps prevent hearing loss.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: It’s safe to operate machinery when tired.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: You should always follow safety signs on a farm.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one piece of personal protective equipment (PPE).",
+      "type": "input",
+      "answer": ["gloves", "safety goggles", "ear protection", "helmet", "boots"]
+    },
+    {
+      "text": "Give one safe practice when handling farm machinery.",
+      "type": "input",
+      "answer": ["check equipment", "wear ppe", "follow instructions", "keep area clear"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Innovation and Biotechnology in Agriculture",
+  "quiz": [
+    {
+      "text": "What is genetic modification (GM) in agriculture?",
+      "type": "choice",
+      "choices": ["Breeding animals by selection", "Changing DNA of an organism", "Using fertilisers", "Irrigation methods"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is an example of biotechnology?",
+      "type": "choice",
+      "choices": ["Crop rotation", "Selective breeding", "Using bacteria to make insulin", "Ploughing"],
+      "answer": 2
+    },
+    {
+      "text": "What is the purpose of cloning in agriculture?",
+      "type": "choice",
+      "choices": ["To produce identical copies", "To increase pests", "To reduce crop yield", "To reduce soil fertility"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is commonly used for gene editing?",
+      "type": "choice",
+      "choices": ["PCR", "CRISPR", "Microscope", "Plough"],
+      "answer": 1
+    },
+    {
+      "text": "What is one concern about GM crops?",
+      "type": "choice",
+      "choices": ["Increased biodiversity", "Pest resistance", "Ethical issues", "Higher costs"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Biotechnology can help improve food security.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cloning produces genetically different animals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: CRISPR is used for gene editing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one biotechnology technique used in agriculture.",
+      "type": "input",
+      "answer": ["genetic modification", "gm", "cloning", "crispr", "tissue culture"]
+    },
+    {
+      "text": "Give one benefit of genetic modification in crops.",
+      "type": "input",
+      "answer": ["pest resistance", "higher yield", "drought tolerance", "improved nutrition"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Plant Physiology",
+  "quiz": [
+    {
+      "text": "Which part of the plant is responsible for photosynthesis?",
+      "type": "choice",
+      "choices": ["Root", "Stem", "Leaf", "Flower"],
+      "answer": 2
+    },
+    {
+      "text": "What gas do plants take in during photosynthesis?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "text": "Which pigment gives leaves their green colour?",
+      "type": "choice",
+      "choices": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+      "answer": 0
+    },
+    {
+      "text": "What process do plants use to lose water through leaves?",
+      "type": "choice",
+      "choices": ["Respiration", "Transpiration", "Photosynthesis", "Osmosis"],
+      "answer": 1
+    },
+    {
+      "text": "Which plant part absorbs water and minerals from the soil?",
+      "type": "choice",
+      "choices": ["Root hairs", "Stem", "Leaves", "Flower"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Photosynthesis produces oxygen as a byproduct.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Transpiration cools the plant and helps nutrient movement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Roots are the main site of photosynthesis.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one gas involved in photosynthesis.",
+      "type": "input",
+      "answer": ["carbon dioxide", "co2", "oxygen", "o2"]
+    },
+    {
+      "text": "What is the function of root hairs?",
+      "type": "input",
+      "answer": ["absorb water", "absorb minerals", "water absorption", "mineral absorption"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Scientific Practices - Experiments & Investigations",
+  "quiz": [
+    {
+      "text": "What is the variable that is deliberately changed in an experiment called?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Controlled variable", "Independent variable", "Extraneous variable"],
+      "answer": 2
+    },
+    {
+      "text": "What is the purpose of a control in an experiment?",
+      "type": "choice",
+      "choices": ["To increase variables", "To provide a comparison", "To change results", "To avoid repetition"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following increases the reliability of results?",
+      "type": "choice",
+      "choices": ["Using only one trial", "Repeating the experiment", "Changing all variables", "Ignoring errors"],
+      "answer": 1
+    },
+    {
+      "text": "What should you keep constant during an experiment?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Independent variable", "Control variable", "Controlled variables"],
+      "answer": 3
+    },
+    {
+      "text": "What is the dependent variable in an experiment?",
+      "type": "choice",
+      "choices": ["The variable measured", "The variable changed", "The variable kept the same", "The variable ignored"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The independent variable is the one you measure.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Keeping variables constant helps ensure a fair test.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Repeating experiments improves accuracy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of variable in experiments.",
+      "type": "input",
+      "answer": ["independent", "dependent", "controlled", "control"]
+    },
+    {
+      "text": "Give one reason why scientists repeat experiments.",
+      "type": "input",
+      "answer": ["improve reliability", "check results", "reduce errors", "confirm findings"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Soil Science",
+  "quiz": [
+    {
+      "text": "Which component of soil holds water and nutrients?",
+      "type": "choice",
+      "choices": ["Sand", "Clay", "Silt", "Gravel"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for the layer of organic matter on top of soil?",
+      "type": "choice",
+      "choices": ["Humus", "Loam", "Topsoil", "Subsoil"],
+      "answer": 0
+    },
+    {
+      "text": "Which soil type is best for farming?",
+      "type": "choice",
+      "choices": ["Clay", "Sandy", "Loam", "Rocky"],
+      "answer": 2
+    },
+    {
+      "text": "What effect does soil pH have on plants?",
+      "type": "choice",
+      "choices": ["Affects nutrient availability", "Changes soil temperature", "Increases soil erosion", "Improves water retention"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice improves soil structure?",
+      "type": "choice",
+      "choices": ["Ploughing", "Overgrazing", "Monoculture", "Leaving soil bare"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Humus improves soil fertility.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Sandy soil holds more water than clay soil.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Soil erosion removes topsoil.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one component of soil.",
+      "type": "input",
+      "answer": ["sand", "clay", "silt", "humus", "organic matter"]
+    },
+    {
+      "text": "Give one way to reduce soil erosion.",
+      "type": "input",
+      "answer": ["contour ploughing", "cover crops", "terracing", "windbreaks"]
+    }
+  ]
+}
+]

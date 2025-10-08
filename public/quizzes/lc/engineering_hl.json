@@ -1,0 +1,1039 @@
+[
+{
+  "subject": "Engineering",
+  "topic": "Abbreviations",
+  "quiz": [
+    {
+      "text": "What does 'CAD' stand for in engineering?",
+      "type": "choice",
+      "choices": ["Computer-Aided Design", "Control and Automation Device", "Circuit Analysis Diagram", "Computer Algorithm Development"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'LED' stand for?",
+      "type": "choice",
+      "choices": ["Light Emitting Diode", "Laser Energy Device", "Linear Electronic Display", "Low Energy Diode"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'AC' stand for in electronics?",
+      "type": "choice",
+      "choices": ["Alternating Current", "Active Circuit", "Analog Control", "Automatic Charge"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'DC' stand for?",
+      "type": "choice",
+      "choices": ["Direct Current", "Digital Control", "Device Circuit", "Dual Capacitor"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'RPM' commonly represent?",
+      "type": "choice",
+      "choices": ["Revolutions Per Minute", "Resistance Per Meter", "Rotational Power Measure", "Rate Per Motion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: CAD is used to create 3D models.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: LED stands for 'Light Device Element'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: DC current always flows in one direction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a common engineering abbreviation.",
+      "type": "input",
+      "answer": ["CAD", "LED", "RPM", "AC", "DC"]
+    },
+    {
+      "text": "What does 'PLC' stand for in automation?",
+      "type": "input",
+      "answer": ["Programmable Logic Controller", "plc", "programmable logic control"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Corrosion of Metals",
+  "quiz": [
+    {
+      "text": "Which metal corrodes to form rust?",
+      "type": "choice",
+      "choices": ["Iron", "Copper", "Aluminium", "Gold"],
+      "answer": 0
+    },
+    {
+      "text": "Which process describes corrosion caused by chemical reaction with oxygen?",
+      "type": "choice",
+      "choices": ["Oxidation", "Electroplating", "Galvanization", "Alloying"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is highly resistant to corrosion?",
+      "type": "choice",
+      "choices": ["Gold", "Iron", "Zinc", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main cause of galvanic corrosion?",
+      "type": "choice",
+      "choices": ["Two different metals in contact", "High temperature", "Pure oxygen", "Lack of moisture"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal coating is used to prevent rust on iron?",
+      "type": "choice",
+      "choices": ["Zinc", "Copper", "Lead", "Aluminium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rusting occurs faster in salty water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Aluminium never corrodes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Galvanizing involves coating iron with zinc.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method to prevent corrosion.",
+      "type": "input",
+      "answer": ["painting", "galvanizing", "coating with oil", "alloying"]
+    },
+    {
+      "text": "Which environmental factor accelerates corrosion?",
+      "type": "input",
+      "answer": ["moisture", "water", "humidity", "salt"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Energy, Electronics & Robotics",
+  "quiz": [
+    {
+      "text": "Which type of energy is stored in a battery?",
+      "type": "choice",
+      "choices": ["Chemical energy", "Kinetic energy", "Thermal energy", "Nuclear energy"],
+      "answer": 0
+    },
+    {
+      "text": "What is the unit of electrical resistance?",
+      "type": "choice",
+      "choices": ["Ohm", "Volt", "Ampere", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which sensor detects light intensity?",
+      "type": "choice",
+      "choices": ["Photodiode", "Thermistor", "LDR", "Proximity sensor"],
+      "answer": 2
+    },
+    {
+      "text": "Which component is used to limit current in a circuit?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Inductor", "Transistor"],
+      "answer": 0
+    },
+    {
+      "text": "Which branch of engineering deals with designing robots?",
+      "type": "choice",
+      "choices": ["Robotics", "Civil", "Chemical", "Aeronautical"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Kinetic energy increases as speed increases.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A capacitor stores electrical energy permanently.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ohm’s Law states V = IR.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of energy used by robots.",
+      "type": "input",
+      "answer": ["electrical", "hydraulic", "pneumatic", "mechanical"]
+    },
+    {
+      "text": "What device converts electrical energy into mechanical motion?",
+      "type": "input",
+      "answer": ["motor", "electric motor", "servo", "stepper motor"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Equilibrium Diagrams",
+  "quiz": [
+    {
+      "text": "In a free body diagram, what does the sum of forces equal in equilibrium?",
+      "type": "choice",
+      "choices": ["Zero", "Mass", "Weight", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which law is applied to calculate equilibrium in mechanics?",
+      "type": "choice",
+      "choices": ["Newton’s First Law", "Ohm’s Law", "Hooke’s Law", "Bernoulli’s Principle"],
+      "answer": 0
+    },
+    {
+      "text": "What does a moment represent in a beam diagram?",
+      "type": "choice",
+      "choices": ["Rotational effect of a force", "Linear displacement", "Weight", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of equilibrium occurs when a small disturbance returns a system to its original position?",
+      "type": "choice",
+      "choices": ["Stable equilibrium", "Unstable equilibrium", "Neutral equilibrium", "Dynamic equilibrium"],
+      "answer": 0
+    },
+    {
+      "text": "What is the symbol for a force in engineering diagrams?",
+      "type": "choice",
+      "choices": ["Arrow", "Circle", "Square", "Triangle"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only horizontal forces are considered in equilibrium calculations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Equilibrium diagrams are used to show forces and moments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor affecting equilibrium in structures.",
+      "type": "input",
+      "answer": ["force", "weight", "moment", "load"]
+    },
+    {
+      "text": "What is the general condition for equilibrium in a body?",
+      "type": "input",
+      "answer": ["sum of forces is zero", "forces balanced", "ΣF=0"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Graphics and Design",
+  "quiz": [
+    {
+      "text": "Which software is commonly used for CAD?",
+      "type": "choice",
+      "choices": ["AutoCAD", "Excel", "MATLAB", "Python"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of technical drawing?",
+      "type": "choice",
+      "choices": ["Communicate design ideas", "Play games", "Record financial data", "Write programs"],
+      "answer": 0
+    },
+    {
+      "text": "Which line type represents hidden edges in a drawing?",
+      "type": "choice",
+      "choices": ["Dashed line", "Solid line", "Thick line", "Dotted line"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'scale' in a drawing refer to?",
+      "type": "choice",
+      "choices": ["Ratio of drawing size to real size", "Line thickness", "Paper size", "Font size"],
+      "answer": 0
+    },
+    {
+      "text": "Which view shows the top of an object?",
+      "type": "choice",
+      "choices": ["Plan view", "Front view", "Side view", "Isometric view"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Isometric drawings show three sides of an object equally.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Orthographic projection shows a 3D object in one view.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: CAD software can generate both 2D and 3D drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one use of technical drawing in engineering.",
+      "type": "input",
+      "answer": ["design communication", "manufacturing", "construction", "prototyping"]
+    },
+    {
+      "text": "Which type of drawing is called 'exploded view'?",
+      "type": "input",
+      "answer": ["assembly drawing", "exploded assembly", "component layout"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Health and Safety",
+  "quiz": [
+    {
+      "text": "Which PPE is essential to protect your eyes in a workshop?",
+      "type": "choice",
+      "choices": ["Safety goggles", "Helmet", "Gloves", "Earplugs"],
+      "answer": 0
+    },
+    {
+      "text": "Which sign indicates a hazard in a workshop?",
+      "type": "choice",
+      "choices": ["Yellow triangle", "Red circle", "Blue square", "Green rectangle"],
+      "answer": 0
+    },
+    {
+      "text": "What is the first step in a risk assessment?",
+      "type": "choice",
+      "choices": ["Identify hazards", "Put on PPE", "Notify supervisor", "Start work"],
+      "answer": 0
+    },
+    {
+      "text": "Which is NOT part of standard workshop safety rules?",
+      "type": "choice",
+      "choices": ["Running indoors", "Wearing PPE", "Following instructions", "Keeping workspace tidy"],
+      "answer": 0
+    },
+    {
+      "text": "Who is responsible for enforcing health and safety in a workshop?",
+      "type": "choice",
+      "choices": ["Supervisor", "Cleaner", "Student", "Visitor"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: You should always wear PPE even if you feel confident.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fire exits must be kept clear at all times.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You may use broken equipment if it looks safe.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of PPE used in engineering workshops.",
+      "type": "input",
+      "answer": ["goggles", "helmet", "gloves", "ear protection", "safety shoes"]
+    },
+    {
+      "text": "What document records hazards and precautions in a workplace?",
+      "type": "input",
+      "answer": ["risk assessment", "hazard report"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Heat Treatment",
+  "quiz": [
+    {
+      "text": "Which heat treatment process hardens steel?",
+      "type": "choice",
+      "choices": ["Quenching", "Annealing", "Tempering", "Normalizing"],
+      "answer": 0
+    },
+    {
+      "text": "Which process reduces internal stresses in metal?",
+      "type": "choice",
+      "choices": ["Annealing", "Quenching", "Case hardening", "Tempering"],
+      "answer": 0
+    },
+    {
+      "text": "Tempering is done after which process?",
+      "type": "choice",
+      "choices": ["Quenching", "Annealing", "Normalizing", "Case hardening"],
+      "answer": 0
+    },
+    {
+      "text": "Which process increases surface hardness without affecting the core?",
+      "type": "choice",
+      "choices": ["Case hardening", "Annealing", "Quenching", "Tempering"],
+      "answer": 0
+    },
+    {
+      "text": "Normalizing is used mainly to:",
+      "type": "choice",
+      "choices": ["Refine grain structure", "Harden surface", "Remove rust", "Paint metal"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Annealing softens metal for easier machining.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Quenching is done slowly to prevent cracking.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Case hardening only affects the outer layer of steel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one purpose of heat treating metals.",
+      "type": "input",
+      "answer": ["hardening", "softening", "stress relief", "improving toughness"]
+    },
+    {
+      "text": "What is the term for heating metal and cooling it rapidly?",
+      "type": "input",
+      "answer": ["quenching", "rapid cooling"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Inventors and Engineers in Society",
+  "quiz": [
+    {
+      "text": "Who is credited with inventing the light bulb?",
+      "type": "choice",
+      "choices": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "James Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which field studies machines and their design?",
+      "type": "choice",
+      "choices": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Chemical Engineering"],
+      "answer": 0
+    },
+    {
+      "text": "Who is known for developing the telephone?",
+      "type": "choice",
+      "choices": ["Alexander Graham Bell", "Isaac Newton", "Guglielmo Marconi", "Eli Whitney"],
+      "answer": 0
+    },
+    {
+      "text": "Which invention had a major impact on transport in society?",
+      "type": "choice",
+      "choices": ["Steam engine", "Telegraph", "Printing press", "Light bulb"],
+      "answer": 0
+    },
+    {
+      "text": "Who contributed to alternating current (AC) electrical systems?",
+      "type": "choice",
+      "choices": ["Nikola Tesla", "Thomas Edison", "James Watt", "Michael Faraday"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Engineers contribute to technological progress in society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only inventors, not engineers, impact society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The work of engineers can improve quality of life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one famous inventor and their invention.",
+      "type": "input",
+      "answer": ["Edison - light bulb", "Bell - telephone", "Watt - steam engine"]
+    },
+    {
+      "text": "Give one reason engineers are important to society.",
+      "type": "input",
+      "answer": ["infrastructure", "technology", "safety", "transport"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Machining & Metrology",
+  "quiz": [
+    {
+      "text": "Which tool is used to measure internal diameters accurately?",
+      "type": "choice",
+      "choices": ["Bore gauge", "Vernier caliper", "Micrometer", "Ruler"],
+      "answer": 0
+    },
+    {
+      "text": "Which machine is used to remove metal using cutting tools?",
+      "type": "choice",
+      "choices": ["Lathe", "Drill press", "Band saw", "Grinder"],
+      "answer": 0
+    },
+    {
+      "text": "What does a micrometer measure?",
+      "type": "choice",
+      "choices": ["Small lengths or thicknesses", "Weight", "Temperature", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used for marking out on metal?",
+      "type": "choice",
+      "choices": ["Scriber", "File", "Hammer", "Caliper"],
+      "answer": 0
+    },
+    {
+      "text": "Which process produces threads on a cylindrical workpiece?",
+      "type": "choice",
+      "choices": ["Threading", "Drilling", "Boring", "Milling"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Metrology is the science of measurement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A lathe can only rotate the workpiece without cutting.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cutting fluids are used to cool and lubricate cutting tools.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one tool used for precise measurement in engineering.",
+      "type": "input",
+      "answer": ["micrometer", "vernier caliper", "height gauge", "dial gauge"]
+    },
+    {
+      "text": "What is the purpose of using cutting fluids in machining?",
+      "type": "input",
+      "answer": ["cooling", "lubrication", "reduce wear", "improve finish"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Materials: Properties and uses",
+  "quiz": [
+    {
+      "text": "Which property describes a material's ability to return to its original shape after stretching?",
+      "type": "choice",
+      "choices": ["Elasticity", "Hardness", "Ductility", "Toughness"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is best for electrical insulation?",
+      "type": "choice",
+      "choices": ["Plastic", "Copper", "Aluminium", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "Ductility is the ability to:",
+      "type": "choice",
+      "choices": ["Be stretched into a wire", "Resist impact", "Conduct heat", "Return to original shape"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is magnetic?",
+      "type": "choice",
+      "choices": ["Iron", "Copper", "Aluminium", "Plastic"],
+      "answer": 0
+    },
+    {
+      "text": "Hardness measures a material's:",
+      "type": "choice",
+      "choices": ["Resistance to scratching or indentation", "Weight", "Flexibility", "Electrical conductivity"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Toughness is the ability to absorb energy before breaking.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Metals are generally poor conductors of heat.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Plastic can be molded when heated.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one property of metals that makes them useful in engineering.",
+      "type": "input",
+      "answer": ["ductility", "malleability", "conductivity", "strength", "toughness"]
+    },
+    {
+      "text": "Give one common use for plastics in engineering.",
+      "type": "input",
+      "answer": ["insulation", "molded parts", "pipes", "gears"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Mechanisms",
+  "quiz": [
+    {
+      "text": "Which mechanism converts rotary motion into linear motion?",
+      "type": "choice",
+      "choices": ["Cam and follower", "Gear train", "Pulley system", "Belt drive"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism is commonly used in bicycles to change speed?",
+      "type": "choice",
+      "choices": ["Gear train", "Lever", "Screw jack", "Pulley system"],
+      "answer": 0
+    },
+    {
+      "text": "A four-bar linkage is an example of which type of mechanism?",
+      "type": "choice",
+      "choices": ["Linkage", "Gear system", "Cam system", "Pulley system"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism converts linear motion into rotary motion?",
+      "type": "choice",
+      "choices": ["Rack and pinion", "Cam and follower", "Gear train", "Lever"],
+      "answer": 0
+    },
+    {
+      "text": "Levers are used to:",
+      "type": "choice",
+      "choices": ["Amplify force", "Reduce friction", "Store energy", "Measure speed"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A cam and follower converts rotary motion into linear motion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gears cannot change direction of motion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Linkages can be used to transfer motion in a controlled path.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of lever.",
+      "type": "input",
+      "answer": ["first class lever", "second class lever", "third class lever"]
+    },
+    {
+      "text": "Give one example of a cam and follower application.",
+      "type": "input",
+      "answer": ["engine valve", "automated machine", "pumps"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Metallurgy",
+  "quiz": [
+    {
+      "text": "Which process removes impurities from metals?",
+      "type": "choice",
+      "choices": ["Refining", "Alloying", "Forging", "Casting"],
+      "answer": 0
+    },
+    {
+      "text": "Steel is an alloy of iron and:",
+      "type": "choice",
+      "choices": ["Carbon", "Aluminium", "Copper", "Zinc"],
+      "answer": 0
+    },
+    {
+      "text": "Annealing is used to:",
+      "type": "choice",
+      "choices": ["Soften metals", "Harden metals", "Cut metals", "Polish metals"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is resistant to corrosion?",
+      "type": "choice",
+      "choices": ["Aluminium", "Iron", "Copper", "Zinc"],
+      "answer": 0
+    },
+    {
+      "text": "Which property is improved by quenching steel?",
+      "type": "choice",
+      "choices": ["Hardness", "Ductility", "Malleability", "Conductivity"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alloying can change the properties of a metal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Casting involves shaping metal by hammering.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Annealing makes metal harder and more brittle.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one common alloy and its components.",
+      "type": "input",
+      "answer": ["steel - iron and carbon", "bronze - copper and tin", "brass - copper and zinc"]
+    },
+    {
+      "text": "Give one reason why metals are alloyed.",
+      "type": "input",
+      "answer": ["improve strength", "resist corrosion", "improve hardness", "increase ductility"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Pneumatics",
+  "quiz": [
+    {
+      "text": "Pneumatics uses which type of energy?",
+      "type": "choice",
+      "choices": ["Compressed air", "Electricity", "Hydraulic fluid", "Steam"],
+      "answer": 0
+    },
+    {
+      "text": "Which component stores compressed air in a pneumatic system?",
+      "type": "choice",
+      "choices": ["Reservoir", "Compressor", "Valve", "Cylinder"],
+      "answer": 0
+    },
+    {
+      "text": "Which device controls airflow in a pneumatic system?",
+      "type": "choice",
+      "choices": ["Valve", "Cylinder", "Reservoir", "Actuator"],
+      "answer": 0
+    },
+    {
+      "text": "Pneumatic cylinders are used to:",
+      "type": "choice",
+      "choices": ["Produce linear motion", "Conduct electricity", "Measure pressure", "Store air"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts pneumatic energy into mechanical motion?",
+      "type": "choice",
+      "choices": ["Actuator", "Compressor", "Valve", "Filter"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Pneumatics uses hydraulic fluid to transmit energy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Compressors increase air pressure in pneumatic systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pneumatics is suitable for precise small-scale movements.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one application of pneumatics in industry.",
+      "type": "input",
+      "answer": ["air brakes", "pneumatic tools", "automation machines"]
+    },
+    {
+      "text": "Give one advantage of pneumatic systems over hydraulic systems.",
+      "type": "input",
+      "answer": ["cleaner", "safer", "lighter", "easier maintenance"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Polymers",
+  "quiz": [
+    {
+      "text": "Polymers are made from which type of molecules?",
+      "type": "choice",
+      "choices": ["Monomers", "Alloys", "Metals", "Ceramics"],
+      "answer": 0
+    },
+    {
+      "text": "Which polymer is used to make bottles and food containers?",
+      "type": "choice",
+      "choices": ["PET", "PVC", "Nylon", "Polyurethane"],
+      "answer": 0
+    },
+    {
+      "text": "Thermoplastics can be:",
+      "type": "choice",
+      "choices": ["Melted and reshaped", "Hardened permanently", "Conductive", "Magnetic"],
+      "answer": 0
+    },
+    {
+      "text": "Thermosetting plastics are:",
+      "type": "choice",
+      "choices": ["Hardened permanently", "Melted easily", "Stretchable", "Elastic"],
+      "answer": 0
+    },
+    {
+      "text": "Which property is important for polymer insulation?",
+      "type": "choice",
+      "choices": ["Electrical resistance", "Conductivity", "Magnetism", "Hardness"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polymers are always synthetic.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Thermoplastics can be recycled by remelting.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Polymers are poor insulators of electricity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a natural polymer.",
+      "type": "input",
+      "answer": ["rubber", "cellulose", "starch"]
+    },
+    {
+      "text": "Give one common use of thermosetting plastics.",
+      "type": "input",
+      "answer": ["electrical fittings", "adhesives", "coatings"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Testing of Materials and Products",
+  "quiz": [
+    {
+      "text": "Which test measures how much a material can stretch before breaking?",
+      "type": "choice",
+      "choices": ["Tensile test", "Hardness test", "Impact test", "Bend test"],
+      "answer": 0
+    },
+    {
+      "text": "Which test measures the hardness of a material?",
+      "type": "choice",
+      "choices": ["Brinell test", "Tensile test", "Fatigue test", "Compression test"],
+      "answer": 0
+    },
+    {
+      "text": "Which test determines a material’s resistance to sudden impact?",
+      "type": "choice",
+      "choices": ["Charpy test", "Bend test", "Tensile test", "Hardness test"],
+      "answer": 0
+    },
+    {
+      "text": "Which test is used to check material flexibility?",
+      "type": "choice",
+      "choices": ["Bend test", "Impact test", "Fatigue test", "Compression test"],
+      "answer": 0
+    },
+    {
+      "text": "Which test repeats stress cycles to check material durability?",
+      "type": "choice",
+      "choices": ["Fatigue test", "Tensile test", "Hardness test", "Bend test"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tensile testing measures how hard a material is.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Impact testing evaluates resistance to sudden forces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Bend tests can determine a material’s ductility.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a destructive material test.",
+      "type": "input",
+      "answer": ["tensile test", "impact test", "bend test"]
+    },
+    {
+      "text": "Give one example of a non-destructive test.",
+      "type": "input",
+      "answer": ["ultrasonic test", "magnetic particle test", "x-ray test"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "The Structure of Materials",
+  "quiz": [
+    {
+      "text": "Which structure do metals typically have?",
+      "type": "choice",
+      "choices": ["Crystalline", "Amorphous", "Polymeric", "Fibrous"],
+      "answer": 0
+    },
+    {
+      "text": "Which material structure is random and lacks long-range order?",
+      "type": "choice",
+      "choices": ["Amorphous", "Crystalline", "Composite", "Alloy"],
+      "answer": 0
+    },
+    {
+      "text": "Which structure allows materials to be strong yet lightweight?",
+      "type": "choice",
+      "choices": ["Composite", "Crystalline", "Amorphous", "Metallic"],
+      "answer": 0
+    },
+    {
+      "text": "Which structure is characteristic of polymers?",
+      "type": "choice",
+      "choices": ["Long chain molecules", "Crystalline lattice", "Amorphous solid", "Metallic bonds"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature affects conductivity in materials?",
+      "type": "choice",
+      "choices": ["Arrangement of atoms", "Color", "Shape", "Size"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All metals have a crystalline structure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Amorphous materials have repeating atomic patterns.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Composite materials combine properties of different materials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one property affected by material structure.",
+      "type": "input",
+      "answer": ["strength", "ductility", "conductivity", "hardness"]
+    },
+    {
+      "text": "Give one example of a crystalline material.",
+      "type": "input",
+      "answer": ["iron", "aluminium", "copper", "gold"]
+    }
+  ]
+},
+{
+  "subject": "Engineering",
+  "topic": "Welding",
+  "quiz": [
+    {
+      "text": "Which welding method uses an electric arc?",
+      "type": "choice",
+      "choices": ["Arc welding", "Gas welding", "Resistance welding", "Laser welding"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is commonly used in MIG welding?",
+      "type": "choice",
+      "choices": ["Argon", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "answer": 0
+    },
+    {
+      "text": "Which welding process uses pressure and heat without filler material?",
+      "type": "choice",
+      "choices": ["Resistance welding", "MIG welding", "TIG welding", "Oxy-acetylene welding"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of welding is suitable for thin sheet metals?",
+      "type": "choice",
+      "choices": ["TIG welding", "Arc welding", "Resistance welding", "Gas welding"],
+      "answer": 0
+    },
+    {
+      "text": "Which welding technique is used for automated assembly lines?",
+      "type": "choice",
+      "choices": ["Spot welding", "Arc welding", "MIG welding", "TIG welding"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Welding always requires a filler material.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: TIG welding uses a non-consumable tungsten electrode.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gas welding cannot be used for steel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one safety precaution when welding.",
+      "type": "input",
+      "answer": ["wear helmet", "protective gloves", "ventilation", "eye protection"]
+    },
+    {
+      "text": "Give one material commonly welded using MIG welding.",
+      "type": "input",
+      "answer": ["steel", "aluminium", "stainless steel"]
+    }
+  ]
+}
+]

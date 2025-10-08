@@ -1,0 +1,297 @@
+[
+{
+  "subject": "Music",
+  "topic": "Adding Bass & Chords at Cadence points",
+  "quiz": [
+    {
+      "text": "Which chord is usually used at the end of a phrase?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Cadences always resolve to the tonic chord.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the bass note at the end of a perfect cadence?",
+      "type": "input",
+      "answer": ["tonic", "do", "home"]
+    },
+    {
+      "text": "Name a chord that can precede the tonic in a cadence.",
+      "type": "input",
+      "answer": ["dominant", "five", "sol"]
+    },
+    {
+      "text": "Which chord provides the sense of finality in music?",
+      "type": "choice",
+      "choices": ["Subdominant", "Tonic", "Supertonic", "Mediant"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A cadence can appear in the middle of a piece.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chord is considered unstable before a cadence?",
+      "type": "choice",
+      "choices": ["Dominant", "Tonic", "Submediant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Bass notes always move stepwise at cadences.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give a simple name for the ending chord of a phrase.",
+      "type": "input",
+      "answer": ["tonic", "home", "do"]
+    },
+    {
+      "text": "What is the chord before the tonic called?",
+      "type": "input",
+      "answer": ["dominant", "five", "sol"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Adding Descant Notes & Chords",
+  "quiz": [
+    {
+      "text": "True or false: A descant is usually higher than the main melody.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which note is commonly used as the starting note of a descant?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "Name a musical line added above the main melody.",
+      "type": "input",
+      "answer": ["descant", "upper", "countermelody"]
+    },
+    {
+      "text": "Give a note that a descant often harmonises with.",
+      "type": "input",
+      "answer": ["tonic", "dominant", "home"]
+    },
+    {
+      "text": "True or false: A descant can be sung in a choir.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chord is added to support a descant?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Any of these"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Descant notes can be repeated.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a type of note often used in descant lines.",
+      "type": "input",
+      "answer": ["step", "leap", "note"]
+    },
+    {
+      "text": "Which note creates tension when added as a descant?",
+      "type": "choice",
+      "choices": ["Tonic", "Leading note", "Subdominant", "Mediant"],
+      "answer": 1
+    },
+    {
+      "text": "Give a short name for a harmony above the melody.",
+      "type": "input",
+      "answer": ["descant", "upper", "counter"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing bass & Melody from Chords",
+  "quiz": [
+    {
+      "text": "True or false: The bass line should outline the chord progression.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which note usually starts a bass line in a chord?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "Name the part of music that supports the melody.",
+      "type": "input",
+      "answer": ["bass", "low", "foundation"]
+    },
+    {
+      "text": "Give a note that often begins a melody from a chord.",
+      "type": "input",
+      "answer": ["tonic", "do", "home"]
+    },
+    {
+      "text": "True or false: Melody notes can move stepwise or in leaps.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chord tone is most stable for a bass note?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Leading note", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Bass and melody must always move in parallel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a note that can harmonise with a chord melody.",
+      "type": "input",
+      "answer": ["third", "fifth", "root"]
+    },
+    {
+      "text": "Which chord is commonly used at the start of a melody?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "Give a simple name for the low supporting line.",
+      "type": "input",
+      "answer": ["bass", "low", "foundation"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing to a given rhythm or meter",
+  "quiz": [
+    {
+      "text": "True or false: The rhythm must fit the given meter.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which note length can define a strong beat?",
+      "type": "choice",
+      "choices": ["Quarter", "Eighth", "Half", "Whole"],
+      "answer": 0
+    },
+    {
+      "text": "Name the pattern of strong and weak beats.",
+      "type": "input",
+      "answer": ["meter", "beat", "pulse"]
+    },
+    {
+      "text": "Give a note value commonly used in the rhythm.",
+      "type": "input",
+      "answer": ["quarter", "half", "eighth"]
+    },
+    {
+      "text": "True or false: Syncopation can appear in the rhythm.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which time signature has three beats per bar?",
+      "type": "choice",
+      "choices": ["Three four", "Four four", "Six eight", "Two four"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The rhythm must be the same for all instruments.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a note that can lengthen a beat.",
+      "type": "input",
+      "answer": ["half", "dotted", "whole"]
+    },
+    {
+      "text": "Which note can divide a beat into two equal parts?",
+      "type": "choice",
+      "choices": ["Eighth", "Quarter", "Half", "Whole"],
+      "answer": 0
+    },
+    {
+      "text": "Give a short name for the rhythmic framework.",
+      "type": "input",
+      "answer": ["meter", "pulse", "beat"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Continuation of a given opening",
+  "quiz": [
+    {
+      "text": "True or false: The continuation should relate to the opening.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which technique can connect the opening and continuation?",
+      "type": "choice",
+      "choices": ["Motif", "Cadence", "Pedal", "Modulation"],
+      "answer": 0
+    },
+    {
+      "text": "Name a short musical idea repeated later.",
+      "type": "input",
+      "answer": ["motif", "theme", "idea"]
+    },
+    {
+      "text": "Give a note that can harmonise with the opening line.",
+      "type": "input",
+      "answer": ["tonic", "third", "fifth"]
+    },
+    {
+      "text": "True or false: The continuation can introduce new notes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which chord can conclude a continuation?",
+      "type": "choice",
+      "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The continuation can ignore the original key.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a technique to extend the opening phrase.",
+      "type": "input",
+      "answer": ["sequence", "repeat", "variation"]
+    },
+    {
+      "text": "Which chord often follows the dominant in a continuation?",
+      "type": "choice",
+      "choices": ["Tonic", "Subdominant", "Mediant", "Supertonic"],
+      "answer": 0
+    },
+    {
+      "text": "Give a simple term for continuing a musical idea.",
+      "type": "input",
+      "answer": ["continuation", "extension", "follow"]
+    }
+  ]
+}
+]

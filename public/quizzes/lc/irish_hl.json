@@ -1,0 +1,2008 @@
+[
+{
+  "subject": "Irish",
+  "topic": "Additional Text - A Thig Ná Tit Orm",
+  "quiz": [
+    {
+      "text": "Who is the author of 'A Thig Ná Tit Orm'?",
+      "type": "choice",
+      "choices": ["Micheál Ó hAirtnéide", "Maidhc Dainín Ó Sé", "Máirtín Ó Cadhain", "Peadar Ó Laoghaire"],
+      "answer": 1
+    },
+    {
+      "text": "In what region of Ireland is the story mainly set?",
+      "type": "choice",
+      "choices": ["Connacht", "Munster", "Ulster", "Leinster"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The book is autobiographical.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The text describes growing up in a wealthy family.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'A Thig Ná Tit Orm' explores themes of rural life and hardship.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the county where the author grew up.",
+      "type": "input",
+      "answer": ["Kerry", "County Kerry", "Ciarraí"]
+    },
+    {
+      "text": "Name one theme explored in the book.",
+      "type": "input",
+      "answer": ["Poverty", "Family", "Education", "Irish culture", "Community"]
+    },
+    {
+      "text": "Which language is the book written in?",
+      "type": "choice",
+      "choices": ["English", "Irish", "French", "German"],
+      "answer": 1
+    },
+    {
+      "text": "Which aspect of life is strongly highlighted in the text?",
+      "type": "choice",
+      "choices": ["Urban living", "Rural hardship", "Political struggles", "Wealth accumulation"],
+      "answer": 1
+    },
+    {
+      "text": "What literary form best describes the text?",
+      "type": "choice",
+      "choices": ["Novel", "Play", "Autobiography", "Short story collection"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Additional Text - An Triail",
+  "quiz": [
+    {
+      "text": "Who is the central female character in 'An Triail'?",
+      "type": "choice",
+      "choices": ["Máire", "Mailí", "Bean Uí Chathasaigh", "Seán"],
+      "answer": 0
+    },
+    {
+      "text": "Who wrote 'An Triail'?",
+      "type": "choice",
+      "choices": ["Maidhc Dainín Ó Sé", "Máiréad Ní Ghráda", "Brian Friel", "Seán Ó Riordáin"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'An Triail' is a comedy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The play deals with issues of hypocrisy in Irish society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Pádraig is the man who abandons Máire.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the child of Máire in the play.",
+      "type": "input",
+      "answer": ["Pádraigín", "Her daughter", "Baby"]
+    },
+    {
+      "text": "Name one major theme of the play.",
+      "type": "input",
+      "answer": ["Hypocrisy", "Religion", "Judgment", "Isolation", "Society's cruelty"]
+    },
+    {
+      "text": "What happens to Máire at the end of the play?",
+      "type": "choice",
+      "choices": ["She leaves Ireland", "She marries Pádraig", "She dies", "She finds happiness"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main literary form of 'An Triail'?",
+      "type": "choice",
+      "choices": ["Autobiography", "Play", "Poetry", "Novel"],
+      "answer": 1
+    },
+    {
+      "text": "Which social issue is strongly criticised in 'An Triail'?",
+      "type": "choice",
+      "choices": ["Poverty", "Education", "Religious and social hypocrisy", "Politics"],
+      "answer": 2
+    }
+  ]
+},
+{
+"subject": "Irish",
+"topic": "Additional Text - A Thig Ná Tit Orm",
+"quiz": [
+{
+"text": "Who is the author of 'A Thig Ná Tit Orm'?",
+"type": "choice",
+"choices": ["Mairead Ní Ghráda", "Maidhc Dainín Ó Sé", "Liam Ó Flaithearta", "Máirtín Ó Cadhain"],
+"answer": 1
+},
+{
+"text": "What type of text is 'A Thig Ná Tit Orm'?",
+"type": "choice",
+"choices": ["Autobiography", "Novel", "Play", "Poem"],
+"answer": 0
+},
+{
+"text": "In which county is the story mainly set?",
+"type": "choice",
+"choices": ["Galway", "Kerry", "Clare", "Cork"],
+"answer": 1
+},
+{
+"text": "What is the main theme of the book?",
+"type": "choice",
+"choices": ["Love", "Emigration", "School and growing up", "Politics"],
+"answer": 2
+},
+{
+"text": "Which of these best describes the style of writing?",
+"type": "choice",
+"choices": ["Formal and academic", "Personal and humorous", "Dry and factual", "Romantic and poetic"],
+"answer": 1
+},
+{
+"text": "True or false: 'A Thig Ná Tit Orm' is based on real life experiences.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: The text is set in Dublin.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "True or false: Education plays an important role in the story.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "What subject did the author particularly struggle with in school?",
+"type": "input",
+"answer": ["maths", "mathematics"]
+},
+{
+"text": "Name one central theme of 'A Thig Ná Tit Orm'.",
+"type": "input",
+"answer": ["school", "education", "growing up", "childhood"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Additional Text - An Triail",
+"quiz": [
+{
+"text": "Who wrote the play 'An Triail'?",
+"type": "choice",
+"choices": ["Máirtín Ó Cadhain", "Mairead Ní Ghráda", "Liam Ó Flaithearta", "Seán Ó Riordáin"],
+"answer": 1
+},
+{
+"text": "Who is the main character of 'An Triail'?",
+"type": "choice",
+"choices": ["Máire", "Pádraig", "Bean Uí Chathasaigh", "Seán"],
+"answer": 0
+},
+{
+"text": "What is the central theme of 'An Triail'?",
+"type": "choice",
+"choices": ["Love of nature", "Conflict and war", "Hypocrisy of society", "Childhood memories"],
+"answer": 2
+},
+{
+"text": "What happens to Máire at the end of the play?",
+"type": "choice",
+"choices": ["She emigrates", "She dies", "She marries Pádraig", "She becomes a nun"],
+"answer": 1
+},
+{
+"text": "What profession does Pádraig have?",
+"type": "choice",
+"choices": ["Teacher", "Priest", "Bus driver", "Soldier"],
+"answer": 0
+},
+{
+"text": "True or false: Máire’s family support her after she becomes pregnant.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "True or false: The play criticises the role of the Catholic Church.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: Pádraig was already married when he met Máire.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "What does the title 'An Triail' mean in English?",
+"type": "input",
+"answer": ["the trial"]
+},
+{
+"text": "Name one theme of 'An Triail'.",
+"type": "input",
+"answer": ["hypocrisy", "society", "religion", "morality"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Additional Text - Canary Wharf",
+"quiz": [
+{
+"text": "Who is the author of 'Canary Wharf'?",
+"type": "choice",
+"choices": ["Máirtín Ó Cadhain", "Micheál Ó Ruairc", "Liam Ó Flaithearta", "Mairead Ní Ghráda"],
+"answer": 1
+},
+{
+"text": "Where is the story mainly set?",
+"type": "choice",
+"choices": ["Dublin", "London", "Galway", "Cork"],
+"answer": 1
+},
+{
+"text": "What theme is strongly linked to 'Canary Wharf'?",
+"type": "choice",
+"choices": ["Emigration", "Religion", "War", "Nature"],
+"answer": 0
+},
+{
+"text": "What kind of life are the Irish characters seeking in London?",
+"type": "choice",
+"choices": ["Religious", "Better economic opportunities", "Romantic", "Political"],
+"answer": 1
+},
+{
+"text": "What does 'Canary Wharf' represent in the text?",
+"type": "choice",
+"choices": ["Irish countryside", "Dreams and struggles of emigrants", "A family farm", "Traditional Irish culture"],
+"answer": 1
+},
+{
+"text": "True or false: 'Canary Wharf' deals with the challenges of Irish emigrants in England.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: The text portrays emigrant life as always easy and successful.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "True or false: The setting of Canary Wharf symbolises opportunity and hardship.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Name one major theme in 'Canary Wharf'.",
+"type": "input",
+"answer": ["emigration", "identity", "work", "struggle"]
+},
+{
+"text": "What city is 'Canary Wharf' associated with?",
+"type": "input",
+"answer": ["london"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Additional Text - Gafa",
+"quiz": [
+{
+"text": "Who is the author of 'Gafa'?",
+"type": "choice",
+"choices": ["Ré Ó Laighléis", "Micheál Ó Ruairc", "Máirtín Ó Cadhain", "Mairead Ní Ghráda"],
+"answer": 0
+},
+{
+"text": "What is the central issue in 'Gafa'?",
+"type": "choice",
+"choices": ["Emigration", "Drug abuse", "Religion", "Romantic love"],
+"answer": 1
+},
+{
+"text": "Which family member is addicted to drugs in the story?",
+"type": "choice",
+"choices": ["The father", "The mother", "The son", "The daughter"],
+"answer": 2
+},
+{
+"text": "What emotion is strongly shown by the parents in 'Gafa'?",
+"type": "choice",
+"choices": ["Indifference", "Shame and worry", "Pride", "Happiness"],
+"answer": 1
+},
+{
+"text": "Which of these best describes the tone of 'Gafa'?",
+"type": "choice",
+"choices": ["Humorous", "Serious and realistic", "Romantic", "Historical"],
+"answer": 1
+},
+{
+"text": "True or false: 'Gafa' is a comedy.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "True or false: 'Gafa' shows the damage drugs can cause to family life.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: The title 'Gafa' suggests being trapped or caught.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Translate the word 'Gafa' into English.",
+"type": "input",
+"answer": ["trapped", "caught", "addicted"]
+},
+{
+"text": "Name one theme explored in 'Gafa'.",
+"type": "input",
+"answer": ["drugs", "addiction", "family", "society"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Aural - Fógra (Announcement)",
+"quiz": [
+{
+"text": "Where would you often hear a 'fógra'?",
+"type": "choice",
+"choices": ["On the radio", "In a poem", "At a wedding", "In a textbook"],
+"answer": 0
+},
+{
+"text": "What is the main purpose of a fógra?",
+"type": "choice",
+"choices": ["To entertain", "To inform", "To confuse", "To translate"],
+"answer": 1
+},
+{
+"text": "Which of these details would you expect in a fógra?",
+"type": "choice",
+"choices": ["Character analysis", "Date and time", "Theme of a story", "Grammar rules"],
+"answer": 1
+},
+{
+"text": "If a fógra announces a lost item, what would you likely hear?",
+"type": "choice",
+"choices": ["Description of the item", "Family history", "Weather forecast", "A poem"],
+"answer": 0
+},
+{
+"text": "What type of language is used in a fógra?",
+"type": "choice",
+"choices": ["Formal and clear", "Confusing and vague", "Poetic", "Unrelated"],
+"answer": 0
+},
+{
+"text": "True or false: A fógra is usually short and direct.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: A fógra might announce a local event or sale.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: Fógraí are only used in books.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Name one place where you could hear a fógra.",
+"type": "input",
+"answer": ["radio", "school", "tv", "train station", "bus station"]
+},
+{
+"text": "What is the Irish word 'fógra' in English?",
+"type": "input",
+"answer": ["announcement", "notice"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Aural - Píosa Nuachta (News Pieces)",
+"quiz": [
+{
+"text": "Where would you usually hear a 'píosa nuachta'?",
+"type": "choice",
+"choices": ["At a play", "On the news", "In a song", "In a storybook"],
+"answer": 1
+},
+{
+"text": "What information does a píosa nuachta give?",
+"type": "choice",
+"choices": ["Current events", "Poetic imagery", "Family traditions", "Grammar explanations"],
+"answer": 0
+},
+{
+"text": "Which detail is most likely included in a news piece?",
+"type": "choice",
+"choices": ["A metaphor", "The weather report", "A rhyme", "A character's feelings"],
+"answer": 1
+},
+{
+"text": "What tone is generally used in a píosa nuachta?",
+"type": "choice",
+"choices": ["Formal and factual", "Funny and silly", "Romantic", "Confusing"],
+"answer": 0
+},
+{
+"text": "What kind of topics appear in news pieces?",
+"type": "choice",
+"choices": ["Sport, politics, weather", "Mythology", "Personal diaries", "Poems"],
+"answer": 0
+},
+{
+"text": "True or false: A píosa nuachta is always fictional.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "True or false: You might hear about international news in a píosa nuachta.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: Píosaí nuachta are a part of the aural exam.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Name one common topic in a píosa nuachta.",
+"type": "input",
+"answer": ["sport", "weather", "politics", "accident", "event"]
+},
+{
+"text": "Translate 'píosa nuachta' into English.",
+"type": "input",
+"answer": ["news piece", "news item"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Grammar",
+"quiz": [
+{
+"text": "Which tense is used for actions happening right now?",
+"type": "choice",
+"choices": ["Past tense", "Future tense", "Present tense", "Conditional tense"],
+"answer": 2
+},
+{
+"text": "What is the Irish word for 'noun'?",
+"type": "choice",
+"choices": ["Briathar", "Ainmfhocal", "Aidiacht", "Sainmhíniú"],
+"answer": 1
+},
+{
+"text": "Which particle is used to form questions in Irish?",
+"type": "choice",
+"choices": ["An", "Ní", "Do", "Le"],
+"answer": 0
+},
+{
+"text": "What is the Irish word for 'verb'?",
+"type": "choice",
+"choices": ["Briathar", "Ainmfhocal", "Aidiacht", "Reamhfhocal"],
+"answer": 0
+},
+{
+"text": "Which of these is a preposition in Irish?",
+"type": "choice",
+"choices": ["Ar", "Madra", "Leabhar", "Eaglais"],
+"answer": 0
+},
+{
+"text": "True or false: 'Ní' is used to make a sentence negative.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: Adjectives in Irish follow the noun they describe.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: 'Tá' is used in the past tense.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Give an example of an Irish verb in the present tense.",
+"type": "input",
+"answer": ["ithim", "ólann", "léim", "rithim"]
+},
+{
+"text": "Name one particle used in Irish grammar.",
+"type": "input",
+"answer": ["an", "ní", "do", "le"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Oral Exam",
+"quiz": [
+{
+"text": "What is a common topic in the Irish oral exam?",
+"type": "choice",
+"choices": ["Technology", "Sports and hobbies", "Ancient history", "Quantum physics"],
+"answer": 1
+},
+{
+"text": "How long does the typical oral exam last?",
+"type": "choice",
+"choices": ["5 minutes", "10–15 minutes", "30 minutes", "1 hour"],
+"answer": 1
+},
+{
+"text": "Which skill is assessed in the oral exam?",
+"type": "choice",
+"choices": ["Listening", "Speaking", "Reading", "Writing"],
+"answer": 1
+},
+{
+"text": "What is expected when answering personal questions in the oral exam?",
+"type": "choice",
+"choices": ["Short, clear answers", "Long essays", "Singing", "Ignoring the question"],
+"answer": 0
+},
+{
+"text": "True or false: You may be asked about your family in the oral exam.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: Pronunciation is important in the oral exam.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: You are allowed to read a text from your notes during the exam.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Name one type of question you might get in the oral exam.",
+"type": "input",
+"answer": ["personal", "opinion", "description", "future plans"]
+},
+{
+"text": "Give an example of a greeting in Irish suitable for the oral exam.",
+"type": "input",
+"answer": ["Dia dhuit", "Haigh", "Fáilte", "Hello"]
+},
+{
+"text": "Mention one skill the examiner assesses besides speaking.",
+"type": "input",
+"answer": ["confidence", "fluency", "accuracy", "pronunciation"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - An Spailpín Fánach",
+"quiz": [
+{
+"text": "Who is the main character in 'An Spailpín Fánach'?",
+"type": "choice",
+"choices": ["A wandering labourer", "A wealthy landlord", "A school teacher", "A fisherman"],
+"answer": 0
+},
+{
+"text": "What type of work does the spailpín do?",
+"type": "choice",
+"choices": ["Manual labour", "Teaching", "Fishing", "Trading"],
+"answer": 0
+},
+{
+"text": "True or false: The poem criticizes social inequality.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: The spailpín is portrayed as wealthy.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Which emotion is prominent in the poem?",
+"type": "choice",
+"choices": ["Joy", "Frustration", "Love", "Fear"],
+"answer": 1
+},
+{
+"text": "The spailpín is often forced to work:",
+"type": "choice",
+"choices": ["Voluntarily", "Abroad", "In his local village", "Across Ireland"],
+"answer": 3
+},
+{
+"text": "True or false: The poem reflects the life of 18th–19th century Ireland.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Name one theme of 'An Spailpín Fánach'.",
+"type": "input",
+"answer": ["poverty", "labour", "injustice", "social inequality"]
+},
+{
+"text": "Give one type of work the spailpín does.",
+"type": "input",
+"answer": ["farm labour", "ploughing", "harvesting", "field work"]
+},
+{
+"text": "Mention one emotion the spailpín feels in the poem.",
+"type": "input",
+"answer": ["anger", "frustration", "sadness", "discontent"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - An tEarrach Thiar",
+"quiz": [
+{
+"text": "Where is 'An tEarrach Thiar' set?",
+"type": "choice",
+"choices": ["In the west of Ireland", "In Dublin", "In Belfast", "In Cork"],
+"answer": 0
+},
+{
+"text": "What season does the poem describe?",
+"type": "choice",
+"choices": ["Winter", "Spring", "Summer", "Autumn"],
+"answer": 1
+},
+{
+"text": "True or false: The poem celebrates rural life.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "True or false: The poem is set in a city.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "What is the main activity described in the poem?",
+"type": "choice",
+"choices": ["Fishing", "Farming", "Hunting", "Trading"],
+"answer": 1
+},
+{
+"text": "True or false: The poem conveys a sense of peace and nostalgia.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which natural element is prominent in the poem?",
+"type": "choice",
+"choices": ["Sea", "Forest", "Mountains", "Desert"],
+"answer": 0
+},
+{
+"text": "Name one theme of 'An tEarrach Thiar'.",
+"type": "input",
+"answer": ["rural life", "nature", "work", "nostalgia"]
+},
+{
+"text": "Give one activity the people do in the poem.",
+"type": "input",
+"answer": ["planting potatoes", "farming", "working the land", "harvesting"]
+},
+{
+"text": "Mention one emotion conveyed in 'An tEarrach Thiar'.",
+"type": "input",
+"answer": ["contentment", "peace", "nostalgia", "pride"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - Colscaradh",
+"quiz": [
+{
+"text": "Who is the main subject of 'Colscaradh'?",
+"type": "choice",
+"choices": ["A married couple", "A young man", "A father", "A teacher"],
+"answer": 0
+},
+{
+"text": "True or false: The poem highlights conflicts in marriage.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which theme is central to 'Colscaradh'?",
+"type": "choice",
+"choices": ["Love and conflict", "Nature", "Travel", "War"],
+"answer": 0
+},
+{
+"text": "True or false: The poem presents a happy, harmonious marriage.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "What emotion is prominent in the poem?",
+"type": "choice",
+"choices": ["Frustration", "Joy", "Excitement", "Fear"],
+"answer": 0
+},
+{
+"text": "True or false: Gender roles are explored in the poem.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which issue leads to conflict in the marriage?",
+"type": "choice",
+"choices": ["Differing expectations", "Financial wealth", "Geography", "Travel plans"],
+"answer": 0
+},
+{
+"text": "Name one theme of 'Colscaradh'.",
+"type": "input",
+"answer": ["marriage", "conflict", "love", "gender roles"]
+},
+{
+"text": "Mention one emotion felt by the couple in the poem.",
+"type": "input",
+"answer": ["frustration", "disappointment", "conflict", "tension"]
+},
+{
+"text": "Give one example of conflict presented in 'Colscaradh'.",
+"type": "input",
+"answer": ["differing expectations", "role disagreements", "marital tension", "clashing desires"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - Deireadh na Féide",
+"quiz": [
+{
+"text": "Who is the central figure in 'Deireadh na Féide'?",
+"type": "choice",
+"choices": ["A solitary person", "A farmer", "A teacher", "A soldier"],
+"answer": 0
+},
+{
+"text": "True or false: The poem expresses a sense of finality and resignation.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "What is a key theme of the poem?",
+"type": "choice",
+"choices": ["Isolation and endings", "Travel", "Joyful celebration", "War"],
+"answer": 0
+},
+{
+"text": "True or false: The poem portrays optimism and new beginnings.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Which emotion dominates the poem?",
+"type": "choice",
+"choices": ["Sadness", "Excitement", "Fear", "Joy"],
+"answer": 0
+},
+{
+"text": "True or false: The poem reflects on the limits of human effort.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which literary device is prominent in 'Deireadh na Féide'?",
+"type": "choice",
+"choices": ["Symbolism", "Rhyme only", "Alliteration only", "Dialogue"],
+"answer": 0
+},
+{
+"text": "Name one theme of 'Deireadh na Féide'.",
+"type": "input",
+"answer": ["finality", "endings", "resignation", "limitations"]
+},
+{
+"text": "Mention one emotion conveyed in the poem.",
+"type": "input",
+"answer": ["sadness", "resignation", "melancholy", "acceptance"]
+},
+{
+"text": "Give one example of imagery used in 'Deireadh na Féide'.",
+"type": "input",
+"answer": ["nature imagery", "symbolic endings", "landscape", "metaphor for limits"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - Dínit an Bhróin",
+"quiz": [
+{
+"text": "Who is the speaker in 'Dínit an Bhróin'?",
+"type": "choice",
+"choices": ["Someone expressing sorrow", "A farmer", "A soldier", "A teacher"],
+"answer": 0
+},
+{
+"text": "True or false: The poem focuses on dignity in the face of sorrow.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "What is a central theme of the poem?",
+"type": "choice",
+"choices": ["Loss and respect", "Joyful celebration", "Travel", "War"],
+"answer": 0
+},
+{
+"text": "True or false: The poem depicts happiness and contentment.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Which emotion is most evident in the poem?",
+"type": "choice",
+"choices": ["Grief", "Excitement", "Fear", "Joy"],
+"answer": 0
+},
+{
+"text": "True or false: The poem discusses human resilience and dignity.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which literary device is prominent in 'Dínit an Bhróin'?",
+"type": "choice",
+"choices": ["Imagery", "Dialogue only", "Rhyme only", "Humour"],
+"answer": 0
+},
+{
+"text": "Name one theme of 'Dínit an Bhróin'.",
+"type": "input",
+"answer": ["grief", "loss", "dignity", "sorrow"]
+},
+{
+"text": "Mention one emotion conveyed in the poem.",
+"type": "input",
+"answer": ["grief", "sorrow", "sadness", "melancholy"]
+},
+{
+"text": "Give one example of imagery used in 'Dínit an Bhróin'.",
+"type": "input",
+"answer": ["nature imagery", "symbolism of sorrow", "metaphor for grief", "emotional imagery"]
+}
+]
+},
+{
+"subject": "Irish",
+"topic": "Poetry - Géibheann",
+"quiz": [
+{
+"text": "Who is the central figure in 'Géibheann'?",
+"type": "choice",
+"choices": ["A trapped animal", "A hunter", "A farmer", "A teacher"],
+"answer": 0
+},
+{
+"text": "True or false: The poem explores the theme of freedom and captivity.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "What is a key theme of the poem?",
+"type": "choice",
+"choices": ["Loss of freedom", "Joyful celebration", "Travel", "War"],
+"answer": 0
+},
+{
+"text": "True or false: The poem portrays happiness and liberation.",
+"type": "truefalse",
+"answer": false
+},
+{
+"text": "Which emotion dominates 'Géibheann'?",
+"type": "choice",
+"choices": ["Sadness", "Excitement", "Fear", "Joy"],
+"answer": 0
+},
+{
+"text": "True or false: The poem reflects on the natural world and human impact.",
+"type": "truefalse",
+"answer": true
+},
+{
+"text": "Which literary device is prominent in 'Géibheann'?",
+"type": "choice",
+"choices": ["Symbolism", "Rhyme only", "Dialogue only", "Humour"],
+"answer": 0
+},
+{
+"text": "Name one theme of 'Géibheann'.",
+"type": "input",
+"answer": ["captivity", "freedom", "loss", "nature"]
+},
+{
+"text": "Mention one emotion expressed in the poem.",
+"type": "input",
+"answer": ["sadness", "frustration", "grief", "longing"]
+},
+{
+"text": "Give one example of imagery in 'Géibheann'.",
+"type": "input",
+"answer": ["animal imagery", "nature imagery", "metaphor for captivity", "emotional imagery"]
+}
+]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry - Glaoch Abhaile",
+  "quiz": [
+    {
+      "text": "Who is the speaker addressing in the poem?",
+      "type": "choice",
+      "choices": ["A friend", "His father", "His mother", "The reader"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Homesickness", "Love", "War", "Nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most prominent in the poem?",
+      "type": "choice",
+      "choices": ["Alliteration", "Irony", "Simile", "Personification"],
+      "answer": 3
+    },
+    {
+      "text": "The poet's tone can best be described as:",
+      "type": "choice",
+      "choices": ["Angry", "Nostalgic", "Joyful", "Confused"],
+      "answer": 1
+    },
+    {
+      "text": "What does 'Glaoch Abhaile' literally translate to in English?",
+      "type": "choice",
+      "choices": ["Call Home", "Lost Voice", "Return Journey", "Homeward Bound"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem contains references to the poet's childhood.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem is written in free verse with no rhyme scheme.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The poem uses imagery to describe rural life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion the speaker expresses in the poem.",
+      "type": "input",
+      "answer": ["nostalgia", "longing", "homesickness", "sadness"]
+    },
+    {
+      "text": "Provide one example of a metaphor from the poem.",
+      "type": "input",
+      "answer": ["the home as a beacon", "the call as a guiding light"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry - Iníon",
+  "quiz": [
+    {
+      "text": "Who is the central figure in the poem?",
+      "type": "choice",
+      "choices": ["A young man", "A daughter", "The poet's mother", "A stranger"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Love and loss", "Coming of age", "Family relationships", "Nature"],
+      "answer": 2
+    },
+    {
+      "text": "Which literary device is most commonly used in the poem?",
+      "type": "choice",
+      "choices": ["Personification", "Hyperbole", "Alliteration", "Onomatopoeia"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Melancholy", "Joyful", "Angry", "Indifferent"],
+      "answer": 0
+    },
+    {
+      "text": "The poem primarily explores:",
+      "type": "choice",
+      "choices": ["A romantic relationship", "A parent-child bond", "A friendship", "A journey"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The poem contains dialogue.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem emphasizes the importance of education.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Imagery of domestic life is present throughout the poem.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one feeling expressed by the central character.",
+      "type": "input",
+      "answer": ["love", "grief", "affection", "longing"]
+    },
+    {
+      "text": "Provide an example of alliteration used in the poem.",
+      "type": "input",
+      "answer": ["síneadh sa spéir", "bóthar bán", "muintir milis"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry - Mo Ghrá-sa",
+  "quiz": [
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Romantic love", "Nature", "Social criticism", "War"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature distinguishes the poet's description of the beloved?",
+      "type": "choice",
+      "choices": ["Physical perfection", "Realistic features", "Mythical traits", "Foreign origin"],
+      "answer": 1
+    },
+    {
+      "text": "Which literary device is used to highlight the beloved's features?",
+      "type": "choice",
+      "choices": ["Simile", "Hyperbole", "Personification", "Irony"],
+      "answer": 3
+    },
+    {
+      "text": "The poem's tone can best be described as:",
+      "type": "choice",
+      "choices": ["Playful", "Serious", "Satirical", "Melancholy"],
+      "answer": 2
+    },
+    {
+      "text": "The poem challenges conventional ideas of:",
+      "type": "choice",
+      "choices": ["Beauty", "Heroism", "Religion", "Wealth"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem exaggerates the beloved's appearance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Humor is used to emphasize the poet's message.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem focuses on material possessions of the beloved.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one unconventional feature described about the beloved.",
+      "type": "input",
+      "answer": ["small eyes", "crooked nose", "thin lips", "blemished skin"]
+    },
+    {
+      "text": "Provide one example of satire in the poem.",
+      "type": "input",
+      "answer": ["mocking idealized beauty standards", "ridiculing exaggerated descriptions"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry - Úirchill an Chreagáin",
+  "quiz": [
+    {
+      "text": "What is the poem primarily about?",
+      "type": "choice",
+      "choices": ["Nature", "Love", "Historical events", "A journey"],
+      "answer": 2
+    },
+    {
+      "text": "Which literary device is most evident in the poem?",
+      "type": "choice",
+      "choices": ["Personification", "Alliteration", "Imagery", "Irony"],
+      "answer": 2
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Nostalgic", "Angry", "Playful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "What does the poem emphasize about the historical setting?",
+      "type": "choice",
+      "choices": ["Its beauty", "Its danger", "Its simplicity", "Its mystery"],
+      "answer": 1
+    },
+    {
+      "text": "Which emotion does the poet primarily convey?",
+      "type": "choice",
+      "choices": ["Fear", "Pride", "Sorrow", "Hope"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The poem contains references to Irish folklore.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem uses modern imagery.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The poet includes personal reflections in the poem.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one historical or cultural element mentioned in the poem.",
+      "type": "input",
+      "answer": ["the castle", "ancient ruins", "the battlefield", "the local clan"]
+    },
+    {
+      "text": "Provide one example of imagery from the poem.",
+      "type": "input",
+      "answer": ["descriptions of rugged landscape", "the harsh winter", "winds over the cliffs"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry, extra - A Chlann",
+  "quiz": [
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Family life", "Love", "War", "Nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most evident in the poem?",
+      "type": "choice",
+      "choices": ["Alliteration", "Personification", "Simile", "Metaphor"],
+      "answer": 3
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Joyful", "Melancholy", "Nostalgic", "Angry"],
+      "answer": 2
+    },
+    {
+      "text": "Which element is emphasized about the family?",
+      "type": "choice",
+      "choices": ["Love and unity", "Conflict", "Wealth", "Education"],
+      "answer": 0
+    },
+    {
+      "text": "The poem highlights:",
+      "type": "choice",
+      "choices": ["Rural life", "City life", "Travel", "Politics"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem reflects on childhood memories.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem contains political commentary.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Imagery of nature is used to support the theme.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one value or feeling expressed by the family in the poem.",
+      "type": "input",
+      "answer": ["love", "unity", "affection", "togetherness"]
+    },
+    {
+      "text": "Provide an example of a metaphor used in the poem.",
+      "type": "input",
+      "answer": ["family as a tree", "home as a shelter", "house as a heart"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry, extra - Caoineadh AUL",
+  "quiz": [
+    {
+      "text": "What is the primary purpose of the poem?",
+      "type": "choice",
+      "choices": ["To mourn a death", "To celebrate a wedding", "To tell a story", "To describe nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most evident in the poem?",
+      "type": "choice",
+      "choices": ["Alliteration", "Elegy", "Irony", "Hyperbole"],
+      "answer": 1
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Sad", "Joyful", "Angry", "Indifferent"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is emphasized about the deceased?",
+      "type": "choice",
+      "choices": ["Their achievements", "Their wealth", "Their kindness", "Their looks"],
+      "answer": 2
+    },
+    {
+      "text": "The poem primarily reflects on:",
+      "type": "choice",
+      "choices": ["Loss and grief", "Family traditions", "Historical events", "Nature"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem uses repetition for emotional effect.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem contains humorous elements.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The poem includes imagery of the natural environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion expressed in the poem.",
+      "type": "input",
+      "answer": ["grief", "sorrow", "loss", "sadness"]
+    },
+    {
+      "text": "Provide one example of a literary technique used in the poem.",
+      "type": "input",
+      "answer": ["repetition", "imagery", "alliteration"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry, extra - Colmáin",
+  "quiz": [
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Faith and spirituality", "Nature", "Love", "War"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most prominent in the poem?",
+      "type": "choice",
+      "choices": ["Alliteration", "Imagery", "Personification", "Simile"],
+      "answer": 1
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Reflective", "Angry", "Joyful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "Which figure or idea does the poet focus on?",
+      "type": "choice",
+      "choices": ["Saint Colmáin", "A warrior", "A family member", "A mythical creature"],
+      "answer": 0
+    },
+    {
+      "text": "The poem emphasizes:",
+      "type": "choice",
+      "choices": ["Spiritual devotion", "Romantic love", "Adventure", "Social criticism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem uses imagery of the natural landscape.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem contains elements of satire.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The poet reflects on personal experiences in the poem.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one virtue highlighted in the poem.",
+      "type": "input",
+      "answer": ["faith", "piety", "devotion", "holiness"]
+    },
+    {
+      "text": "Provide one example of imagery used in the poem.",
+      "type": "input",
+      "answer": ["descriptions of the monastery", "the river", "the hills", "light in the chapel"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry, extra - Eiceolai",
+  "quiz": [
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Ecology and nature", "Love", "War", "Faith"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to convey the poet's message?",
+      "type": "choice",
+      "choices": ["Alliteration", "Imagery", "Irony", "Personification"],
+      "answer": 3
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Serious", "Playful", "Joyful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "What does the poet primarily focus on?",
+      "type": "choice",
+      "choices": ["Environmental issues", "A family story", "A romantic relationship", "Historical events"],
+      "answer": 0
+    },
+    {
+      "text": "The poem emphasizes:",
+      "type": "choice",
+      "choices": ["The importance of preserving nature", "Human conflict", "Wealth and power", "Religious devotion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem uses vivid descriptions of plants and animals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poet uses satire to criticize human behavior.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem reflects on personal childhood experiences.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one natural element highlighted in the poem.",
+      "type": "input",
+      "answer": ["forest", "river", "bird", "tree"]
+    },
+    {
+      "text": "Provide one example of personification used in the poem.",
+      "type": "input",
+      "answer": ["the river weeps", "the forest speaks", "the wind whispers"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Poetry, extra - Fill Aris",
+  "quiz": [
+    {
+      "text": "What is the main theme of the poem?",
+      "type": "choice",
+      "choices": ["Identity and self-reflection", "Love", "War", "Nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most prominent in the poem?",
+      "type": "choice",
+      "choices": ["Imagery", "Alliteration", "Personification", "Irony"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the poem can best be described as:",
+      "type": "choice",
+      "choices": ["Reflective", "Angry", "Joyful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "Which aspect of life does the poet emphasize?",
+      "type": "choice",
+      "choices": ["Personal growth", "Romantic relationships", "Historical events", "Social injustice"],
+      "answer": 0
+    },
+    {
+      "text": "The poem highlights:",
+      "type": "choice",
+      "choices": ["Self-discovery", "War and conflict", "Nature", "Economic struggles"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The poem uses metaphorical language to convey meaning.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The poem is humorous in tone.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Imagery is used to reflect personal experiences.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion expressed in the poem.",
+      "type": "input",
+      "answer": ["reflection", "introspection", "longing", "thoughtfulness"]
+    },
+    {
+      "text": "Provide one example of imagery from the poem.",
+      "type": "input",
+      "answer": ["descriptions of the landscape", "the passage of time", "inner thoughts"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Pros - Athair",
+  "quiz": [
+    {
+      "text": "Who is the central character of the prose piece?",
+      "type": "choice",
+      "choices": ["The father", "The mother", "The child", "A neighbor"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Family relationships", "Adventure", "Love", "Nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to reveal character emotions?",
+      "type": "choice",
+      "choices": ["Dialogue", "Alliteration", "Irony", "Hyperbole"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Reflective", "Humorous", "Angry", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The prose highlights:",
+      "type": "choice",
+      "choices": ["Parent-child relationship", "Historical events", "A journey", "Romantic love"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The story includes elements of nostalgia.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The prose focuses mainly on social critique.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue is used to reveal character traits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion expressed by the father.",
+      "type": "input",
+      "answer": ["love", "care", "concern", "pride"]
+    },
+    {
+      "text": "Provide one example of dialogue or action that shows character.",
+      "type": "input",
+      "answer": ["the father giving advice", "the father's concern for the child", "conversation between father and child"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Pros - Clann Lir",
+  "quiz": [
+    {
+      "text": "Who are the central characters of the prose?",
+      "type": "choice",
+      "choices": ["Clann Lir and their father", "The poet and family", "Neighbors", "Friends"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Family and transformation", "Love", "War", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to convey the magical elements?",
+      "type": "choice",
+      "choices": ["Symbolism", "Alliteration", "Irony", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Mysterious", "Humorous", "Angry", "Joyful"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Loyalty and endurance", "Romantic love", "Social critique", "Historical facts"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The prose uses elements of mythology.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dialogue between characters is minimal.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The prose emphasizes moral lessons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one magical transformation in the story.",
+      "type": "input",
+      "answer": ["the children turned into swans", "transformation into birds", "magical curse"]
+    },
+    {
+      "text": "Provide one example of imagery used to describe the setting.",
+      "type": "input",
+      "answer": ["the lake", "the castle", "the forest", "waves and wind"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - An Gnáthrud",
+  "quiz": [
+    {
+      "text": "Who is the main character in the story?",
+      "type": "choice",
+      "choices": ["Pádraig", "A neighbor", "The narrator", "A stranger"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Tragedy and fate", "Love", "Adventure", "Historical events"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to create suspense?",
+      "type": "choice",
+      "choices": ["Foreshadowing", "Alliteration", "Simile", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Tense", "Joyful", "Humorous", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Everyday violence and tragedy", "Romantic relationships", "Historical battles", "Mythical events"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The story portrays a shocking and sudden event.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The story includes humorous elements.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The prose highlights ordinary life interrupted by tragedy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion expressed by the main character.",
+      "type": "input",
+      "answer": ["fear", "shock", "grief", "confusion"]
+    },
+    {
+      "text": "Provide one example of foreshadowing or suspense from the story.",
+      "type": "input",
+      "answer": ["the ominous opening scene", "suspenseful dialogue", "hints of danger"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - An Lasair Choille",
+  "quiz": [
+    {
+      "text": "Who is the main character in the story?",
+      "type": "choice",
+      "choices": ["Caoimhín", "Seán", "Máire", "Pádraig"],
+      "answer": 0
+    },
+    {
+      "text": "What is the central theme of the prose?",
+      "type": "choice",
+      "choices": ["Family conflict", "Love", "Environmental issues", "War"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to create tension?",
+      "type": "choice",
+      "choices": ["Foreshadowing", "Alliteration", "Hyperbole", "Irony"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Suspenseful", "Humorous", "Joyful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Consequences of human actions", "Romantic relationships", "Historical events", "Mythology"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The story includes a forest fire.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The prose is lighthearted and humorous.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue is used to reveal character traits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one consequence of the events in the story.",
+      "type": "input",
+      "answer": ["destruction of the forest", "damage to homes", "displacement of people"]
+    },
+    {
+      "text": "Provide one example of foreshadowing used in the story.",
+      "type": "input",
+      "answer": ["the smell of smoke", "ominous warnings", "the early sparks in the woods"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - Cáca Milis",
+  "quiz": [
+    {
+      "text": "Who are the two main characters in the story?",
+      "type": "choice",
+      "choices": ["Catherine and Pól", "Pádraig and Máire", "Seán and Bríd", "Tomás and Aoife"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Deception and cruelty", "Love", "Adventure", "Family conflict"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to create tension?",
+      "type": "choice",
+      "choices": ["Irony", "Alliteration", "Hyperbole", "Simile"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Tense", "Humorous", "Joyful", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Consequences of cruelty", "Romantic love", "Historical events", "Family loyalty"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Catherine deliberately misleads Pól.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The story ends happily for both characters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue is used to reveal character motives.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one emotion expressed by Pól.",
+      "type": "input",
+      "answer": ["trust", "innocence", "fear", "confusion"]
+    },
+    {
+      "text": "Provide one example of irony used in the story.",
+      "type": "input",
+      "answer": ["Catherine pretending to be kind", "the misleading conversation", "Pól's vulnerability"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - Dís",
+  "quiz": [
+    {
+      "text": "Who are the central characters in the story?",
+      "type": "choice",
+      "choices": ["The two sisters and their family", "Neighbors", "A teacher and student", "Friends at a party"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Women's independence and societal expectations", "Love", "War", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is most prominent in the prose?",
+      "type": "choice",
+      "choices": ["Irony", "Alliteration", "Imagery", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Tense and reflective", "Joyful", "Humorous", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Gender roles and social expectations", "Romantic love", "Historical events", "Mythical events"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The characters challenge traditional gender roles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The story contains humorous elements.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue is used to reveal societal pressures.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one conflict presented in the story.",
+      "type": "input",
+      "answer": ["mother vs daughter expectations", "sisterly tension", "marital or family tension"]
+    },
+    {
+      "text": "Provide one example of irony or tension in the prose.",
+      "type": "input",
+      "answer": ["conversation highlighting hypocrisy", "unexpected reactions of characters", "clash of expectations vs reality"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - Hurlamaboc",
+  "quiz": [
+    {
+      "text": "Who is the main character in the story?",
+      "type": "choice",
+      "choices": ["Éilís Ní Dhuibhne", "Lena", "Pól", "Máire"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Wealth, social status, and materialism", "Love", "Family conflict", "War"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is prominent in the prose?",
+      "type": "choice",
+      "choices": ["Satire", "Alliteration", "Imagery", "Hyperbole"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Satirical", "Joyful", "Angry", "Melancholy"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["Superficiality of social elites", "Romantic love", "Historical events", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The prose critiques materialism and appearances.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The main character is poor and marginalized.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue is used to highlight social attitudes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one trait of the main character.",
+      "type": "input",
+      "answer": ["wealthy", "status-conscious", "superficial", "fashionable"]
+    },
+    {
+      "text": "Provide one example of satire in the story.",
+      "type": "input",
+      "answer": ["ridicule of social climbing", "mocking obsession with appearances", "parody of elite behavior"]
+    }
+  ]
+},
+{
+  "subject": "Irish",
+  "topic": "Prose - Oisín i dTír na nÓg",
+  "quiz": [
+    {
+      "text": "Who is the main character in the story?",
+      "type": "choice",
+      "choices": ["Oisín", "Niamh", "Fionn", "Cú Chulainn"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main theme of the prose?",
+      "type": "choice",
+      "choices": ["Immortality and the contrast between worlds", "Love", "War", "Adventure"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device is used to emphasize the magical elements?",
+      "type": "choice",
+      "choices": ["Imagery", "Irony", "Alliteration", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "The tone of the prose can best be described as:",
+      "type": "choice",
+      "choices": ["Mythical and reflective", "Joyful", "Humorous", "Angry"],
+      "answer": 0
+    },
+    {
+      "text": "The story emphasizes:",
+      "type": "choice",
+      "choices": ["The conflict between mortal life and the otherworld", "Romantic love", "Family conflict", "Historical events"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Oisín experiences a long passage of time in Tír na nÓg without aging.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The story contains elements of tragedy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dialogue is used primarily to describe battles.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one consequence of Oisín returning to Ireland.",
+      "type": "input",
+      "answer": ["he ages rapidly", "he loses immortality", "he becomes mortal again"]
+    },
+    {
+      "text": "Provide one example of imagery or symbolism in the story.",
+      "type": "input",
+      "answer": ["the magical landscape of Tír na nÓg", "the horse carrying Oisín", "the golden shore"]
+    }
+  ]
+}
+]

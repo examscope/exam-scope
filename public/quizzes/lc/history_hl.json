@@ -1,0 +1,734 @@
+[
+    {
+  "subject": "History",
+  "topic": "1.IRL Ireland & the Union",
+  "quiz": [
+    {
+      "text": "In which year was the Act of Union between Ireland and Britain passed?",
+      "type": "choice",
+      "choices": ["1798", "1800", "1801", "1803"],
+      "answer": 2
+    },
+    {
+      "text": "Which city was the political center of Ireland before the Union?",
+      "type": "choice",
+      "choices": ["Dublin", "Cork", "Belfast", "Limerick"],
+      "answer": 0
+    },
+    {
+      "text": "Who was the leading figure pushing for the Union in Ireland?",
+      "type": "choice",
+      "choices": ["Henry Grattan", "Theobald Wolfe Tone", "Lord Castlereagh", "Daniel O'Connell"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The Irish Parliament continued to meet after the Union.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Catholics were immediately granted full political rights after the Union.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Act of Union merged Ireland and Britain into a single kingdom.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which institution was abolished as a result of the Union?",
+      "type": "input",
+      "answer": ["Irish Parliament", "Parliament of Ireland"]
+    },
+    {
+      "text": "Name one consequence of the Union on Irish governance.",
+      "type": "input",
+      "answer": ["Irish MPs had to sit in Westminster", "Loss of independent Irish Parliament"]
+    },
+    {
+      "text": "Which political movement opposed the Union strongly?",
+      "type": "choice",
+      "choices": ["United Irishmen", "Home Rule League", "Irish Volunteers", "Fianna Fáil"],
+      "answer": 0
+    },
+    {
+      "text": "What was the primary motivation of Britain for passing the Act of Union?",
+      "type": "choice",
+      "choices": ["Economic growth", "Political control", "Religious reform", "Industrial development"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "2.IRL Movements for political/social reform",
+  "quiz": [
+    {
+      "text": "Who led the Catholic Emancipation movement?",
+      "type": "choice",
+      "choices": ["Henry Grattan", "Daniel O'Connell", "Robert Emmet", "Charles Stewart Parnell"],
+      "answer": 1
+    },
+    {
+      "text": "Which Act allowed Catholics to sit in Parliament after decades of exclusion?",
+      "type": "choice",
+      "choices": ["Catholic Relief Act 1829", "Union Act 1801", "Home Rule Act 1870", "Reform Act 1832"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Land League fought for tenant farmers’ rights in Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Robert Emmet led the 1798 rebellion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Social reform movements in 19th century Ireland were only religiously motivated.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which leader campaigned using 'The Liberator' as a nickname?",
+      "type": "input",
+      "answer": ["Daniel O'Connell", "O'Connell"]
+    },
+    {
+      "text": "Name one political reform achieved by Irish social movements in the 19th century.",
+      "type": "input",
+      "answer": ["Catholic Emancipation", "Tenant Rights", "Land reforms"]
+    },
+    {
+      "text": "Which movement fought to repeal the Act of Union?",
+      "type": "choice",
+      "choices": ["Home Rule League", "United Irishmen", "Fenian Brotherhood", "Land League"],
+      "answer": 0
+    },
+    {
+      "text": "Which social issue did the Irish Tenant League focus on?",
+      "type": "choice",
+      "choices": ["Housing", "Land rent and evictions", "Education", "Religious equality"],
+      "answer": 1
+    },
+    {
+      "text": "Which failed uprising inspired later reformers and radicals?",
+      "type": "choice",
+      "choices": ["1798 Rebellion", "1916 Rising", "Fenian Rising 1867", "Great Famine protests"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "3.IRL Sovereignty & the impact of partition",
+  "quiz": [
+    {
+      "text": "In which year was the Government of Ireland Act passed, leading to partition?",
+      "type": "choice",
+      "choices": ["1914", "1920", "1922", "1937"],
+      "answer": 1
+    },
+    {
+      "text": "Which two political entities were created by the partition of Ireland?",
+      "type": "choice",
+      "choices": ["Republic of Ireland and Northern Ireland", "Northern Ireland and Southern Ireland", "Ulster and Leinster", "Ireland and Scotland"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Partition was intended to resolve religious and political conflicts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Irish Free State included Northern Ireland.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Partition caused tensions that lasted throughout the 20th century.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Who was the first head of government of the Irish Free State?",
+      "type": "input",
+      "answer": ["W. T. Cosgrave", "William Thomas Cosgrave"]
+    },
+    {
+      "text": "Name one major consequence of the partition on Irish politics.",
+      "type": "input",
+      "answer": ["Northern Ireland remained part of the UK", "Sectarian divisions persisted", "Civil unrest and later Troubles"]
+    },
+    {
+      "text": "Which political party supported union with Britain in Northern Ireland?",
+      "type": "choice",
+      "choices": ["Sinn Féin", "Ulster Unionist Party", "Fianna Fáil", "Irish Parliamentary Party"],
+      "answer": 1
+    },
+    {
+      "text": "Which political ideology was strengthened in Southern Ireland after partition?",
+      "type": "choice",
+      "choices": ["Unionism", "Nationalism", "Liberalism", "Socialism"],
+      "answer": 1
+    },
+    {
+      "text": "Which event led to the formal recognition of the Irish Free State?",
+      "type": "choice",
+      "choices": ["Anglo-Irish Treaty 1921", "Government of Ireland Act 1920", "Easter Rising 1916", "Civil War 1922"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "4.IRL The Irish diaspora",
+  "quiz": [
+    {
+      "text": "Which period saw the largest emigration from Ireland?",
+      "type": "choice",
+      "choices": ["1798 Rebellion", "Great Famine 1845–1852", "World War I", "Easter Rising 1916"],
+      "answer": 1
+    },
+    {
+      "text": "Which country received the largest number of Irish emigrants in the 19th century?",
+      "type": "choice",
+      "choices": ["Canada", "Australia", "United States", "United Kingdom"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Emigration was often voluntary and for purely economic reasons.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Irish communities abroad maintained their culture and traditions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Irish diaspora had no impact on Irish politics back home.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one key profession or role often taken by Irish emigrants in the United States.",
+      "type": "input",
+      "answer": ["laborers", "police", "teachers", "farmers"]
+    },
+    {
+      "text": "Give one social consequence of the Irish diaspora.",
+      "type": "input",
+      "answer": ["Irish culture preserved abroad", "Political influence through fundraising", "Spread of Catholicism"]
+    },
+    {
+      "text": "Which event triggered a wave of Irish emigration to Britain in the 20th century?",
+      "type": "choice",
+      "choices": ["World War I", "Economic depression", "Civil War", "Partition"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes the Irish people living outside Ireland?",
+      "type": "choice",
+      "choices": ["Expatriates", "Diaspora", "Immigrants", "Settlers"],
+      "answer": 1
+    },
+    {
+      "text": "Which Irish revolutionary figure gained support from the diaspora in the United States?",
+      "type": "choice",
+      "choices": ["Michael Collins", "Éamon de Valera", "Robert Emmet", "Charles Stewart Parnell"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "5.IRL Politics & Society in Northern Ireland",
+  "quiz": [
+    {
+      "text": "Which year marks the beginning of the Troubles in Northern Ireland?",
+      "type": "choice",
+      "choices": ["1966", "1969", "1972", "1981"],
+      "answer": 1
+    },
+    {
+      "text": "Which agreement in 1998 aimed to bring peace to Northern Ireland?",
+      "type": "choice",
+      "choices": ["Good Friday Agreement", "Sunningdale Agreement", "Anglo-Irish Treaty", "Government of Ireland Act"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Troubles were primarily a conflict between Catholics and Protestants.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The IRA sought a united Ireland through violent means.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Ulster Unionist Party supports a united Ireland.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one political party in Northern Ireland that represents the nationalist community.",
+      "type": "input",
+      "answer": ["Sinn Féin", "SDLP", "Social Democratic and Labour Party"]
+    },
+    {
+      "text": "Give one example of social division in Northern Ireland during the Troubles.",
+      "type": "input",
+      "answer": ["Segregated schools", "Segregated housing", "Sectarian violence"]
+    },
+    {
+      "text": "Which paramilitary group represented loyalists in Northern Ireland?",
+      "type": "choice",
+      "choices": ["IRA", "UVF", "Sinn Féin", "SDLP"],
+      "answer": 1
+    },
+    {
+      "text": "Which British legislation governed Northern Ireland from 1921?",
+      "type": "choice",
+      "choices": ["Government of Ireland Act", "Anglo-Irish Treaty", "Good Friday Agreement", "Home Rule Act"],
+      "answer": 0
+    },
+    {
+      "text": "Which international body helped facilitate peace negotiations in Northern Ireland?",
+      "type": "choice",
+      "choices": ["United Nations", "European Union", "United States", "League of Nations"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "6.IRL Republic - government, society, economy",
+  "quiz": [
+    {
+      "text": "Which year did Ireland formally become a republic?",
+      "type": "choice",
+      "choices": ["1922", "1937", "1949", "1955"],
+      "answer": 2
+    },
+    {
+      "text": "Which document replaced the Irish Free State Constitution in 1937?",
+      "type": "choice",
+      "choices": ["Bunreacht na hÉireann", "Government of Ireland Act", "Anglo-Irish Treaty", "Good Friday Agreement"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ireland remained neutral during World War II.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fianna Fáil has historically been a dominant party in Irish politics.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ireland joined the European Economic Community (EEC) in 1973.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one key sector of the Irish economy in the 20th century.",
+      "type": "input",
+      "answer": ["Agriculture", "Industry", "Services", "Textiles"]
+    },
+    {
+      "text": "Give one example of social change in Ireland in the late 20th century.",
+      "type": "input",
+      "answer": ["Increased urbanisation", "Expansion of education", "Decline in emigration"]
+    },
+    {
+      "text": "Which Irish political party is considered center-right and traditionally associated with pro-business policies?",
+      "type": "choice",
+      "choices": ["Fianna Fáil", "Fine Gael", "Sinn Féin", "Labour Party"],
+      "answer": 1
+    },
+    {
+      "text": "Which body is responsible for making laws in Ireland?",
+      "type": "choice",
+      "choices": ["Dáil Éireann", "Seanad Éireann", "President", "High Court"],
+      "answer": 0
+    },
+    {
+      "text": "Who is the head of state in Ireland?",
+      "type": "choice",
+      "choices": ["Taoiseach", "President", "Tánaiste", "Ceann Comhairle"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR1. Nationalism & state formation",
+  "quiz": [
+    {
+      "text": "Which event is often seen as the start of Italian unification?",
+      "type": "choice",
+      "choices": ["Franco-Prussian War", "Expedition of the Thousand", "Austro-Prussian War", "Congress of Vienna"],
+      "answer": 1
+    },
+    {
+      "text": "Who was a leading figure in German unification?",
+      "type": "choice",
+      "choices": ["Bismarck", "Garibaldi", "Napoleon III", "Kaiser Wilhelm II"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Nationalism always led to the formation of new states.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Congress of Vienna in 1815 aimed to restore old borders and balance power.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Giuseppe Garibaldi played a key role in Italian unification.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one Italian state before unification.",
+      "type": "input",
+      "answer": ["Sardinia", "Kingdom of Sardinia", "Papal States", "Naples", "Kingdom of the Two Sicilies"]
+    },
+    {
+      "text": "Give one reason nationalism grew in Europe in the 19th century.",
+      "type": "input",
+      "answer": ["Shared language", "Shared culture", "Desire for self-rule", "Reaction to foreign control"]
+    },
+    {
+      "text": "Which treaty ended the Austro-Prussian War in 1866?",
+      "type": "choice",
+      "choices": ["Treaty of Frankfurt", "Treaty of Vienna", "Treaty of Prague", "Treaty of Versailles"],
+      "answer": 2
+    },
+    {
+      "text": "Which German state led unification efforts?",
+      "type": "choice",
+      "choices": ["Prussia", "Bavaria", "Saxony", "Austria"],
+      "answer": 0
+    },
+    {
+      "text": "Which war paved the way for German unification under Prussia?",
+      "type": "choice",
+      "choices": ["Franco-Prussian War", "Napoleonic Wars", "Seven Weeks War", "Crimean War"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR2. Nation states & international tensions",
+  "quiz": [
+    {
+      "text": "Which alliance was formed in 1907 as part of pre-WWI tensions?",
+      "type": "choice",
+      "choices": ["Triple Alliance", "Triple Entente", "NATO", "Warsaw Pact"],
+      "answer": 1
+    },
+    {
+      "text": "Which country was NOT part of the Triple Alliance before WWI?",
+      "type": "choice",
+      "choices": ["Germany", "Austria-Hungary", "Italy", "France"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: The assassination of Archduke Franz Ferdinand triggered WWI.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Nationalism increased tensions between European powers before WWI.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All European nations had equal military strength in 1914.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one country in the Triple Entente.",
+      "type": "input",
+      "answer": ["France", "Russia", "United Kingdom", "Britain", "UK"]
+    },
+    {
+      "text": "Give one reason for rising tensions in Europe before WWI.",
+      "type": "input",
+      "answer": ["Militarism", "Alliances", "Imperialism", "Nationalism"]
+    },
+    {
+      "text": "Which region was considered a 'powder keg' in Europe pre-WWI?",
+      "type": "choice",
+      "choices": ["Balkans", "Iberian Peninsula", "Scandinavia", "Alps"],
+      "answer": 0
+    },
+    {
+      "text": "Which empire controlled much of the Balkans in the early 20th century?",
+      "type": "choice",
+      "choices": ["Ottoman Empire", "Austro-Hungarian Empire", "Russian Empire", "British Empire"],
+      "answer": 0
+    },
+    {
+      "text": "Which international conference aimed to ease tensions after 1900?",
+      "type": "choice",
+      "choices": ["Congress of Berlin", "Hague Conference", "Treaty of Versailles", "Congress of Vienna"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR3. Dictatorship & Democracy",
+  "quiz": [
+    {
+      "text": "Which Italian leader established a Fascist dictatorship in the 1920s?",
+      "type": "choice",
+      "choices": ["Mussolini", "Hitler", "Franco", "Lenin"],
+      "answer": 0
+    },
+    {
+      "text": "Which German leader rose to power as a dictator in the 1930s?",
+      "type": "choice",
+      "choices": ["Mussolini", "Hitler", "Stalin", "Churchill"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Democracy allows citizens to vote freely.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Totalitarian regimes control many aspects of public and private life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fascism and communism are the same political system.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method dictators use to maintain control.",
+      "type": "input",
+      "answer": ["Propaganda", "Censorship", "Secret police", "Violence", "Intimidation"]
+    },
+    {
+      "text": "Give one reason why some countries supported dictators in the interwar period.",
+      "type": "input",
+      "answer": ["Economic crisis", "Fear of communism", "Desire for strong leadership", "Nationalism"]
+    },
+    {
+      "text": "Which Spanish leader ruled as a dictator after the Spanish Civil War?",
+      "type": "choice",
+      "choices": ["Franco", "Mussolini", "Hitler", "Lenin"],
+      "answer": 0
+    },
+    {
+      "text": "Which system allows political opposition and free elections?",
+      "type": "choice",
+      "choices": ["Dictatorship", "Democracy", "Fascism", "Monarchy"],
+      "answer": 1
+    },
+    {
+      "text": "Which country was a democratic republic between WWI and WWII?",
+      "type": "choice",
+      "choices": ["Weimar Germany", "Italy", "Spain", "Soviet Union"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR4. Division & Realignment",
+  "quiz": [
+    {
+      "text": "Which event marked the beginning of the Cold War?",
+      "type": "choice",
+      "choices": ["Yalta Conference", "End of WWII", "Berlin Blockade", "Treaty of Versailles"],
+      "answer": 1
+    },
+    {
+      "text": "Which country was divided into East and West after WWII?",
+      "type": "choice",
+      "choices": ["Germany", "France", "Italy", "Poland"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: NATO was formed as a military alliance against the Soviet Union.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Warsaw Pact was led by the United States.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Iron Curtain symbolized the division between East and West Europe.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one country in the Eastern Bloc during the Cold War.",
+      "type": "input",
+      "answer": ["Poland", "Czechoslovakia", "Hungary", "Romania", "East Germany"]
+    },
+    {
+      "text": "Give one example of Cold War tension between superpowers.",
+      "type": "input",
+      "answer": ["Cuban Missile Crisis", "Berlin Blockade", "Korean War", "Vietnam War"]
+    },
+    {
+      "text": "Which US policy aimed to contain communism?",
+      "type": "choice",
+      "choices": ["Truman Doctrine", "Marshall Plan", "Brezhnev Doctrine", "Eisenhower Doctrine"],
+      "answer": 0
+    },
+    {
+      "text": "Which city was blockaded by the Soviets in 1948–49?",
+      "type": "choice",
+      "choices": ["Berlin", "Paris", "Vienna", "Prague"],
+      "answer": 0
+    },
+    {
+      "text": "Which plan provided US economic aid to rebuild Europe?",
+      "type": "choice",
+      "choices": ["Marshall Plan", "Truman Doctrine", "Molotov Plan", "Yalta Plan"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR5. Retreat from Empire & aftermath",
+  "quiz": [
+    {
+      "text": "Which country gained independence from Britain in 1947?",
+      "type": "choice",
+      "choices": ["India", "Pakistan", "Kenya", "Nigeria"],
+      "answer": 0
+    },
+    {
+      "text": "Which African country gained independence in 1960, a year known as the 'Year of Africa'?",
+      "type": "choice",
+      "choices": ["Nigeria", "Ghana", "Kenya", "Sudan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The British Empire fully dissolved immediately after WWII.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Decolonisation often led to political instability in new nations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: India and Pakistan gained independence peacefully without conflict.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one factor that contributed to the retreat from empire.",
+      "type": "input",
+      "answer": ["Economic costs", "Nationalist movements", "WWII impact", "International pressure"]
+    },
+    {
+      "text": "Give one example of a country that gained independence after WWII.",
+      "type": "input",
+      "answer": ["India", "Ghana", "Kenya", "Pakistan", "Nigeria"]
+    },
+    {
+      "text": "Which empire experienced major decolonisation after 1945?",
+      "type": "choice",
+      "choices": ["British Empire", "French Empire", "Ottoman Empire", "Roman Empire"],
+      "answer": 0
+    },
+    {
+      "text": "Which British colony in Africa became independent in 1963?",
+      "type": "choice",
+      "choices": ["Kenya", "Ghana", "Nigeria", "South Africa"],
+      "answer": 0
+    },
+    {
+      "text": "Which process describes colonies becoming independent countries?",
+      "type": "choice",
+      "choices": ["Decolonisation", "Nationalisation", "Imperialism", "Globalisation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "History",
+  "topic": "EUR6. The United States & the World",
+  "quiz": [
+    {
+      "text": "Which policy aimed to stop the spread of communism after WWII?",
+      "type": "choice",
+      "choices": ["Truman Doctrine", "Marshall Plan", "Monroe Doctrine", "Eisenhower Doctrine"],
+      "answer": 0
+    },
+    {
+      "text": "Which plan provided economic aid to rebuild Europe after WWII?",
+      "type": "choice",
+      "choices": ["Marshall Plan", "Truman Doctrine", "Lend-Lease", "New Deal"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The United States remained neutral throughout the Cold War.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The US was a founding member of the United Nations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Vietnam War was a conflict involving the US trying to stop communism in Asia.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one international organisation the US helped establish after WWII.",
+      "type": "input",
+      "answer": ["United Nations", "NATO", "IMF", "World Bank"]
+    },
+    {
+      "text": "Give one reason why the US became a superpower after WWII.",
+      "type": "input",
+      "answer": ["Economic strength", "Military power", "Nuclear weapons", "Global influence"]
+    },
+    {
+      "text": "Which US policy provided aid to countries threatened by communism?",
+      "type": "choice",
+      "choices": ["Truman Doctrine", "Monroe Doctrine", "Marshall Plan", "Eisenhower Doctrine"],
+      "answer": 0
+    },
+    {
+      "text": "Which conflict marked direct US military involvement to contain communism in Asia?",
+      "type": "choice",
+      "choices": ["Korean War", "Vietnam War", "World War II", "Cold War (general)"],
+      "answer": 1
+    },
+    {
+      "text": "Which US president initiated the Marshall Plan?",
+      "type": "choice",
+      "choices": ["Truman", "Roosevelt", "Eisenhower", "Kennedy"],
+      "answer": 0
+    }
+  ]
+}
+]

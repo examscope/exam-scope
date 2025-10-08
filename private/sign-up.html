@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Sign Up</title>
+</head>
+
+<style>
+</style>
+
+<body class="log-body">
+    <div class="log-container sign-container">
+        <img src="images/icons/favicon.png" class="log-logo" />
+        <div class="log-title">Create an account</div>
+        <div class="log-txt log-l-desc">Hello there! Please enter your details.</div>
+        <div class="log-txt log-s-alr">Already have an account? <span class="log-txt">Log in</span></div>
+
+        <form method="POST" action="/api/signup" class="log-form" id="signForm">
+            <div class="log-label">Email</div>
+            <input type="text" name="email" placeholder="Enter your email" maxlength="100" minlength="4" class="log-input" required>
+            <div class="log-error" id="emailError">This email is taken.</div>
+            <div class="log-error" id="invalidError">This email is invalid.</div>
+
+            <div style="height: 22px;"></div>
+
+            <div class="log-label">Password</div>
+            <input type="password" name="password" placeholder="Password" maxlength="100" minlength="8" class="log-input" required>
+            <div class="log-error" id="serverError">Something went wrong, try again.</div>
+
+            <div class="log-nav" style="margin-top: 12px;">
+                <div class="log-rem">
+                    <div class="log-rem-box" style="display: none;"><i class="fa-solid fa-check log-rem-check"></i><input type="checkbox" name="remember" value="yes"></div>
+                    <div class="log-rem-txt" style="display: none;">Remember me</div>
+                </div>
+
+                <div class="log-forgot" style="display: none;">Forgot password</div>
+            </div>
+
+            <button type="submit" class="btn-log">Sign Up</button>
+
+            <div class="log-txt log-l-alr">Already have an account? <a href="/login.html" class="log-txt">Log in</a></div>
+        </form>
+    </div>
+
+    <div class="log-container profile-container">
+        <img src="images/icons/favicon.png" class="log-logo" />
+        <div class="log-title">Customize your profile</div>
+        <div class="log-txt">Start by telling us a little about yourself.</div>
+
+        <form method="POST" action="/api/profile" class="log-form" id="profileForm">
+            <div class="log-label">Full Name</div>
+            <input type="text" placeholder="Enter your name" name="studentName" class="log-input" minlength="4" maxlength="100" required>
+            <div style="height: 22px;"></div>
+
+            <div class="log-label">Username</div>
+            <input type="text" placeholder="Username" name="username" maxlength="100" minlength="4" class="log-input" required>
+            <div class="log-error" id="userError">This username is taken.</div>
+            <div style="height: 22px;"></div>
+
+            <div class="profile-label">Select your role</div>
+            <div class="profile-pill-flex">
+                <div class="profile-pill">Student<input type="radio" name="role" value="student" /></div> <!-- profile-pill-active -->
+                <div class="profile-pill">Teacher<input type="radio" name="role" value="teacher" /></div>
+            </div>
+
+            <div class="use-nav">
+                <div class="log-prog">
+                    <div class="log-prog-bar log-prog-active"></div>
+                    <div class="log-prog-bar"></div>
+                    <div class="log-prog-bar"></div>
+                </div>
+
+                <div class="quiz-btn-flex">
+                    <button type="submit" class="btn-onboard btn-inactive">Continue</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="log-container edit-container">
+        <img src="images/icons/favicon.png" class="log-logo" />
+        <div class="log-title">Choose your subjects</div>
+        <div class="log-txt display-none">You can change or update these anytime.</div>
+
+        <div class="edit-flex">
+            <div class="edit-filter">
+                <div class="edit-label">Select your exam</div>
+                <div class="edit-pill-flex">
+                    <div class="edit-pill edit-pill-active">Leaving Cert</div>
+                    <div class="edit-pill">Junior Cert</div>
+                </div>
+                <div class="edit-input-container">
+                    <img src="images/icons/search3.png" class="edit-input-icon" />
+                    <input type="text" placeholder="Type a subject" class="edit-input">
+                </div>
+
+                <div class="edit-select-container">
+                    <div class="edit-selector edit-top-selector">
+                        <div class="edit-selector-txt">Leaving Cert <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                        <div class="edit-ul">
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Accounting <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Agricultural Science <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Applied Maths <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Art <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Biology <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Business <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Chemistry <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Classical Studies <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Computer Science <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Construction Studies <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Design & Communication Graphics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Economics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Engineering <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">English <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">French <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Geography <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">German <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">History <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Home Economics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Irish <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Italian <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                <div class="edit-auto-txt">Japanese</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                <div class="edit-auto-txt">LCVP (Link Modules)</div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Mathematics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Music <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Physical Education <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Physics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                <div class="edit-auto-txt">Phys-Chem</div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Politics and Society <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Religious Education <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Spanish <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Technology <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="edit-selector edit-top-selector edit-selector-inactive">
+                        <div class="edit-selector-txt">Junior Cert <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                        <div class="edit-ul">
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Applied Technology</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Business Studies</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Classics</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">CSPE</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Engineering</div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">English <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">French</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Geography</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">German</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Graphics</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">History</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Home Economics</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Italian</div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Irish <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-selector">
+                                <div class="edit-selector-txt">Mathematics <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                                <div class="edit-ul">
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Higher</div>
+                                    </div>
+                                    <div class="edit-level">
+                                        <div class="edit-circle"><i class="fa-solid fa-check edit-circle-check"></i></div>
+                                        <div class="edit-level-txt">Ordinary</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Music</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Religious Education</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Science</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Spanish</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">SPHE</div>
+                            </div>
+                            <div class="edit-auto">
+                                <div class="edit-circle" style="border-radius: 4px;">
+                                    <i class="fa-solid fa-check edit-circle-check"></i>
+                                </div> 
+                                <div class="edit-auto-txt">Wood Technology</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="edit-selector edit-top-selector edit-search-selector">
+                        <div class="edit-selector-txt">Leaving Cert <i class="fa-solid fa-chevron-down edit-chevron"></i></div>
+                        <div class="edit-ul"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="edit-view">
+                <div class="edit-view-col">
+                    <div class="edit-view-head">Your subjects (0)</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="use-nav margin-0">
+            <div class="log-prog">
+                <div class="log-prog-bar log-prog-active"></div>
+                <div class="log-prog-bar log-prog-active"></div>
+                <div class="log-prog-bar"></div>
+            </div>
+
+            <div class="quiz-btn-flex">
+                <div class="btn-onboard btn-inactive" onclick="continueSubjects()">Continue</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="log-container use-container">
+        <img src="images/icons/favicon.png" class="log-logo" />
+        <div class="use-title">How are you planning to<br> use Examscope?</div>
+
+        <div class="log-box-flex">
+            <div class="log-box-col">
+                <div class="log-box">
+                    <i class="fa-solid fa-check log-box-check"></i>
+
+                    <i class="fa-solid fa-pen-to-square log-box-icon"></i>
+                    <div class="log-box-head">Exam Questions</div>
+                    <div class="log-box-txt">I want to focus on real past paper questions.</div>
+                </div>
+                <div class="log-box">
+                    <i class="fa-solid fa-check log-box-check"></i>
+
+                    <i class="fa-regular fa-file-image log-box-icon"></i>
+                    <div class="log-box-head">Building Worksheets</div>
+                    <div class="log-box-txt">I’m a teacher or tutor preparing material.</div>
+                </div>
+            </div>
+            <div class="log-box-col">
+                <div class="log-box">
+                    <i class="fa-solid fa-check log-box-check"></i>
+
+                    <i class="fa-regular fa-message log-box-icon"></i>
+                    <div class="log-box-head">Topic Quizzes</div>
+                    <div class="log-box-txt">I like to revise specific topics efficiently.</div>
+                </div>
+                <div class="log-box">
+                    <i class="fa-solid fa-check log-box-check"></i>
+
+                    <i class="fa-solid fa-question log-box-icon"></i>
+                    <div class="log-box-head">I don't know yet</div>
+                    <div class="log-box-txt">I will decide what works for me as I go.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="use-nav">
+            <div class="log-prog">
+                <div class="log-prog-bar log-prog-active"></div>
+                <div class="log-prog-bar log-prog-active"></div>
+                <div class="log-prog-bar log-prog-active"></div>
+            </div>
+
+            <div class="quiz-btn-flex">
+                <div class="btn-onboard btn-inactive" onclick="continueUse()">Continue</div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

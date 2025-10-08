@@ -1,0 +1,490 @@
+[
+{
+  "subject": "French",
+  "topic": "Reading - Answer Questions in English",
+  "quiz": [
+    {
+      "text": "What is the English meaning of 'Bonjour'?",
+      "type": "choice",
+      "choices": ["Good morning", "Good night", "Hello", "Goodbye"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'Merci' mean in English?",
+      "type": "choice",
+      "choices": ["Please", "Thank you", "Sorry", "Excuse me"],
+      "answer": 1
+    },
+    {
+      "text": "Translate 'Je m'appelle Marie' into English.",
+      "type": "choice",
+      "choices": ["I live in Marie", "My name is Marie", "I am Marie's friend", "I eat Marie"],
+      "answer": 1
+    },
+    {
+      "text": "What does 'Au revoir' mean?",
+      "type": "choice",
+      "choices": ["Goodbye", "Hello", "See you tomorrow", "Good afternoon"],
+      "answer": 0
+    },
+    {
+      "text": "The word 'Pomme' refers to which fruit?",
+      "type": "choice",
+      "choices": ["Apple", "Pear", "Banana", "Peach"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Merci beaucoup' means 'Thank you very much'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Salut' is a formal way to say hello.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Bonsoir' is used in the evening.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'Je suis fatigué' into English.",
+      "type": "input",
+      "answer": ["I am tired", "I'm tired", "I feel tired"]
+    },
+    {
+      "text": "Translate 'Il fait chaud' into English.",
+      "type": "input",
+      "answer": ["It is hot", "It's hot", "The weather is hot"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Reading - Answer Questions in French",
+  "quiz": [
+    {
+      "text": "What is the French word for 'Good morning'?",
+      "type": "choice",
+      "choices": ["Bonjour", "Bonne nuit", "Salut", "Au revoir"],
+      "answer": 0
+    },
+    {
+      "text": "How do you say 'Thank you' in French?",
+      "type": "choice",
+      "choices": ["S'il vous plaît", "Merci", "Pardon", "Excusez-moi"],
+      "answer": 1
+    },
+    {
+      "text": "Translate 'My name is Pierre' into French.",
+      "type": "choice",
+      "choices": ["Je m'appelle Pierre", "Je suis Pierre", "Mon nom est Pierre", "Moi, Pierre"],
+      "answer": 0
+    },
+    {
+      "text": "Which French phrase means 'Goodbye'?",
+      "type": "choice",
+      "choices": ["Salut", "Bonjour", "Au revoir", "À bientôt"],
+      "answer": 2
+    },
+    {
+      "text": "What is the French word for 'Apple'?",
+      "type": "choice",
+      "choices": ["Banane", "Pomme", "Poire", "Peche"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Merci beaucoup' means 'Thanks a lot'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Salut' is informal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Bonsoir' is used in the morning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Translate 'I am hungry' into French.",
+      "type": "input",
+      "answer": ["J'ai faim"]
+    },
+    {
+      "text": "Translate 'It is cold' into French.",
+      "type": "input",
+      "answer": ["Il fait froid"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Reading - Match Picture with Description",
+  "quiz": [
+    {
+      "text": "Which picture matches 'Le chat dort'?",
+      "type": "choice",
+      "choices": ["A sleeping cat", "A running dog", "A flying bird", "A swimming fish"],
+      "answer": 0
+    },
+    {
+      "text": "Which image corresponds to 'La voiture rouge'?",
+      "type": "choice",
+      "choices": ["A red car", "A blue bicycle", "A green bus", "A yellow truck"],
+      "answer": 0
+    },
+    {
+      "text": "Select the picture for 'Une maison blanche'.",
+      "type": "choice",
+      "choices": ["A white house", "A black car", "A brown dog", "A green tree"],
+      "answer": 0
+    },
+    {
+      "text": "Which image matches 'L'oiseau vole'?",
+      "type": "choice",
+      "choices": ["A bird flying", "A cat sleeping", "A dog running", "A fish swimming"],
+      "answer": 0
+    },
+    {
+      "text": "Pick the image that fits 'Le garçon mange'.",
+      "type": "choice",
+      "choices": ["A boy eating", "A girl singing", "A man reading", "A woman dancing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Le chat court' means the cat is running.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Le chien nage' means the dog is sleeping.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'La fleur est rouge' refers to a red flower.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'The girl jumps' into French.",
+      "type": "input",
+      "answer": ["La fille saute", "La fille fait un saut"]
+    },
+    {
+      "text": "Translate 'The fish swims' into French.",
+      "type": "input",
+      "answer": ["Le poisson nage"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Reading - Match Picture with Description",
+  "quiz": [
+    {
+      "text": "Which picture represents 'un chat'?",
+      "type": "choice",
+      "choices": ["Dog", "Cat", "Bird", "Horse"],
+      "answer": 1
+    },
+    {
+      "text": "Which picture represents 'une maison'?",
+      "type": "choice",
+      "choices": ["House", "Car", "Tree", "School"],
+      "answer": 0
+    },
+    {
+      "text": "Which picture represents 'un vélo'?",
+      "type": "choice",
+      "choices": ["Bike", "Bus", "Motorbike", "Plane"],
+      "answer": 0
+    },
+    {
+      "text": "Which picture represents 'un poisson'?",
+      "type": "choice",
+      "choices": ["Fish", "Cat", "Dog", "Bird"],
+      "answer": 0
+    },
+    {
+      "text": "Which picture represents 'une école'?",
+      "type": "choice",
+      "choices": ["Hospital", "School", "House", "Shop"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Un chien' is a cat.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Une voiture' is a car.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Un arbre' is a tree.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'The dog is black' into French.",
+      "type": "input",
+      "answer": ["Le chien est noir"]
+    },
+    {
+      "text": "Translate 'The school is big' into French.",
+      "type": "input",
+      "answer": ["L'école est grande"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Reading - Multiple Choice",
+  "quiz": [
+    {
+      "text": "What is the correct French translation for 'I am happy'?",
+      "type": "choice",
+      "choices": ["Je suis triste", "Je suis heureux", "J'ai faim", "Je vais bien"],
+      "answer": 1
+    },
+    {
+      "text": "What does 'Il pleut' mean?",
+      "type": "choice",
+      "choices": ["It is sunny", "It is raining", "It is windy", "It is snowing"],
+      "answer": 1
+    },
+    {
+      "text": "Which is the correct French for 'We are friends'?",
+      "type": "choice",
+      "choices": ["Nous sommes amis", "Vous êtes amis", "Ils sont amis", "Je suis ami"],
+      "answer": 0
+    },
+    {
+      "text": "Translate 'She is tired' into French.",
+      "type": "choice",
+      "choices": ["Elle est fatiguée", "Il est fatigué", "Elle a faim", "Elle est heureuse"],
+      "answer": 0
+    },
+    {
+      "text": "What is the meaning of 'Je veux un gâteau'?",
+      "type": "choice",
+      "choices": ["I want a cake", "I eat a cake", "I see a cake", "I like cake"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Nous mangeons' means 'We eat'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Ils vont à l'école' means 'They are going to the park'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Je bois de l'eau' means 'I drink water'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'He is tall' into French.",
+      "type": "input",
+      "answer": ["Il est grand"]
+    },
+    {
+      "text": "Translate 'They are happy' into French.",
+      "type": "input",
+      "answer": ["Ils sont heureux", "Elles sont heureuses"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Writing - Answer Messages",
+  "quiz": [
+    {
+      "text": "How would you respond to 'Comment ça va?'",
+      "type": "choice",
+      "choices": ["Ça va bien, merci", "Je suis fatigué", "Il fait chaud", "Je m'appelle Jean"],
+      "answer": 0
+    },
+    {
+      "text": "What is an appropriate reply to 'Quel âge as-tu?'",
+      "type": "choice",
+      "choices": ["J'ai quinze ans", "Je vais bien", "Il est huit heures", "Je suis à l'école"],
+      "answer": 0
+    },
+    {
+      "text": "How would you respond to 'Où habites-tu?'",
+      "type": "choice",
+      "choices": ["J'habite à Dublin", "Je suis fatigué", "Il pleut", "Je m'appelle Claire"],
+      "answer": 0
+    },
+    {
+      "text": "Reply to 'Quelle est ta couleur préférée?'",
+      "type": "choice",
+      "choices": ["Ma couleur préférée est le bleu", "Je vais à l'école", "J'ai un chien", "Il est midi"],
+      "answer": 0
+    },
+    {
+      "text": "Reply to 'Que fais-tu le week-end?'",
+      "type": "choice",
+      "choices": ["Je joue au football", "Je suis en retard", "Il fait froid", "Je suis fatigué"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Ça va mal' means 'I am well'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'J'aime le chocolat' means 'I like chocolate'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Je suis désolé' is a way to apologize.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write 'I am tired' in French.",
+      "type": "input",
+      "answer": ["Je suis fatigué", "Je suis fatiguée"]
+    },
+    {
+      "text": "Write 'I live in Cork' in French.",
+      "type": "input",
+      "answer": ["J'habite à Cork"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Writing - Complete Phrases",
+  "quiz": [
+    {
+      "text": "Complete: 'Je ___ au cinéma.'",
+      "type": "choice",
+      "choices": ["vais", "vaises", "va", "aller"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: 'Tu ___ un livre.'",
+      "type": "choice",
+      "choices": ["lis", "lit", "lisez", "lire"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: 'Nous ___ français.'",
+      "type": "choice",
+      "choices": ["parlons", "parle", "parlez", "parler"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: 'Il ___ de la musique.'",
+      "type": "choice",
+      "choices": ["écoute", "écoutons", "écoutez", "écouter"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: 'Vous ___ au football.'",
+      "type": "choice",
+      "choices": ["jouez", "joue", "jouons", "jouer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Elle mange une pomme' means 'She eats an apple'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Je bois de l'eau' means 'I eat water'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Nous allons à l'école' means 'We go to school'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Complete the phrase: 'I am going to the park' in French.",
+      "type": "input",
+      "answer": ["Je vais au parc"]
+    },
+    {
+      "text": "Complete the phrase: 'She is reading a book' in French.",
+      "type": "input",
+      "answer": ["Elle lit un livre"]
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Writing - Grammar Awareness",
+  "quiz": [
+    {
+      "text": "Which is the correct form of 'to have' for 'je'?",
+      "type": "choice",
+      "choices": ["ai", "as", "a", "avons"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct form of 'to be' for 'nous'?",
+      "type": "choice",
+      "choices": ["sommes", "êtes", "sont", "es"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct article for a masculine singular noun?",
+      "type": "choice",
+      "choices": ["le", "la", "les", "l'"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct plural form of 'chat'?",
+      "type": "choice",
+      "choices": ["chats", "chates", "chatons", "chatte"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the correct negative form of 'Je mange'?",
+      "type": "choice",
+      "choices": ["Je ne mange pas", "Je ne pas mange", "Je n'ai mange", "Je mange pas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Tu es gentil' means 'You are kind'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Il a trois chiens' means 'He is three dogs'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Nous aimons le chocolat' means 'We like chocolate'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the correct form of 'être' for 'elles'.",
+      "type": "input",
+      "answer": ["sont"]
+    },
+    {
+      "text": "Write the correct form of 'avoir' for 'tu'.",
+      "type": "input",
+      "answer": ["as"]
+    }
+  ]
+}
+]

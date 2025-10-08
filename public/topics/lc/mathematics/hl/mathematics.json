@@ -1,0 +1,33 @@
+{
+  "certificate": "lc",
+  "subject": "mathematics",
+  "level": "hl",
+  "topics": [
+    "Algebra - Cubics",
+    "Algebra - Expressions & Factorising",
+    "Algebra - Inequalities",
+    "Algebra - Quadratics",
+    "Algebra - Simultaneous Equations",
+    "Algebra - Solving Equations",
+    "Area & Volume",
+    "Co-Ordinate Geometry of the Circle",
+    "Co-Ordinate Geometry of the Line",
+    "Complex Numbers",
+    "Differentiation - Applications",
+    "Differentiation - Rules",
+    "Financial Maths",
+    "Functions",
+    "Geometry",
+    "Geometry - Constructions & Proofs",
+    "Indices and Logs",
+    "Induction",
+    "Integration",
+    "Probability",
+    "Sequences & Series",
+    "Statistics - Descriptive Statistics",
+    "Statistics - Inferential Statistics",
+    "Statistics - Z Scores",
+    "Trigonometry - Functions & Identities",
+    "Trigonometry - Triangles"
+  ]
+}

@@ -1,0 +1,64 @@
+[
+{
+  "subject": "Japanese",
+  "topic": "Grammar",
+  "quiz": [
+    {
+      "text": "Which particle is used to mark the direct object of a sentence?",
+      "type": "choice",
+      "choices": ["は (wa)", "が (ga)", "を (o/wo)", "に (ni)"],
+      "answer": 2
+    },
+    {
+      "text": "Which form is used to make a polite present/future statement?",
+      "type": "choice",
+      "choices": ["Dictionary form", "Te-form", "Masu-form", "Ta-form"],
+      "answer": 2
+    },
+    {
+      "text": "Which particle indicates location or direction?",
+      "type": "choice",
+      "choices": ["で (de)", "に (ni)", "へ (e)", "Both B and C"],
+      "answer": 3
+    },
+    {
+      "text": "What is the past tense of '食べる (taberu)'?",
+      "type": "choice",
+      "choices": ["食べた", "食べます", "食べて", "食べる"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb form is used to make a request?",
+      "type": "choice",
+      "choices": ["Dictionary form", "Te-form + ください", "Masu-form", "Ta-form"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The particle は marks the topic of the sentence.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: です is used to make a sentence polite.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The particle が cannot indicate the subject of a sentence.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Provide the Japanese word for 'I eat'.",
+      "type": "input",
+      "answer": ["私は食べます", "わたしはたべます"]
+    },
+    {
+      "text": "Give one example of a verb in its dictionary form.",
+      "type": "input",
+      "answer": ["行く", "食べる", "見る", "書く"]
+    }
+  ]
+}
+
+]

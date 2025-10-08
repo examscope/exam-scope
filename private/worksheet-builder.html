@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/style.css">
+    <title>ExamScope | Worksheet Builder</title>
+</head>
+<body>
+    <div class="preview-modal">
+        <div class="preview-wrapper">
+            <div class="preview-back"><i class="fa-solid fa-chevron-left preview-back" onclick="closePreviewModal()"></i> Back</div>
+            
+            <div class="exam-question" style="border: 0;">
+                <div class="preview-title">2025 - Question 5 - Bacteria</div>
+
+                <div class="exam-wrapper">
+                    <div class="exam-type pap-type-mock">Mock Exam</div>
+
+                    <div class="exam-ques-container">
+                    </div>
+
+                    <div class="exam-view-container">
+                        <div class="btn-view">View Marking Scheme <i class="fa-regular fa-eye exam-eye-icon exam-eye-open"></i> <i class="fa-regular fa-eye-slash exam-eye-icon exam-eye-slash"></i></div>
+                    </div>
+
+                    <div class="scheme-img-container">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-back" onclick="previousPage()"><i class="fa-solid fa-chevron-left back-chevron"></i> Back</div>
+            <div class="home-title">Worksheet Builder</div>
+            <div class="home-para">Build worksheets by picking questions from any subject or topic.</div>
+            <div class="home-nav">
+                <a href="index.html" class="nav-link">Exam Questions <div class="home-hr-fill"></div></a>
+                <a href="my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="past-papers.html" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="worksheet-builder.html" class="nav-link nav-link-active">Worksheet Builder <div class="home-hr-fill hr-fill-active"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="bld-container" style="display: none;">
+                <div class="bld-nav-modal">
+                    <div class="bld-nav">
+                        <i class="fa-solid fa-xmark set-exit bld-exit" onclick="closeBldModal()"></i>
+
+                        <div class="bld-view">
+                            <div class="btn-bld-view btn-bld-active" onclick="showSheetQues()">Worksheet</div>
+                            <div class="btn-bld-view" id="bldSchemeBtn" onclick="showSheetScheme()">Marking Scheme</div>
+                        </div>
+                        <input type="text" placeholder="Enter title here..." maxlength="45" class="bld-input" id="bldInput" />
+                        <div class="bld-label">Actions</div>
+                        <div class="bld-ul">
+                            <div class="bld-li bld-edit-elements" onclick="openBldTopicModal()"><i class="fa-solid fa-circle-plus bld-icon"></i> Add Question</div>
+                            <div class="bld-li bld-edit-elements" onclick="addBlankPage()"><i class="fa-solid fa-file-pen bld-icon"></i> Add Blank Page</div>
+                            <div class="bld-li bld-edit-elements" onclick="addLinedPage()"><i class="fa-solid fa-file-lines bld-icon"></i> Add Lined Page</div>
+                            <div class="bld-li bld-li-save" onclick="saveSheet()"><i class="fa-solid fa-share bld-icon"></i> Save Worksheet</div>
+                            <div class="bld-li bld-li-temp" style="display: none;"><i class="fa-solid fa-check bld-icon"></i> Saved</div>
+                            <div class="bld-li bld-li-error" style="display: none;"><i class="fa-solid fa-xmark bld-icon"></i> Please Log in</div>
+                            <a href="/saved-sheets.html" class="bld-li"><i class="fa-solid fa-bookmark bld-icon"></i> View Saved Worksheets</a>
+                        </div>
+                        <div class="btn-bld-print" onclick="printSheet()">Print Worksheet <i class="fa-solid fa-print bld-print-icon"></i></div>
+                    </div>
+                </div>
+                <div class="bld-topic-modal">
+                    <div class="bld-topic-wrapper">
+                        <i class="fa-solid fa-xmark set-exit bld-topic-exit" onclick="closeBldTopicModal()"></i>
+                        <div class="bld-topic-title">Choose a topic</div>
+                        <input type="text" placeholder="Search a topic..." class="bld-topic-inp" />
+                        <div class="bld-topic-holder">
+                            <div class="bld-topic-flex">
+                                <!-- 
+                                <div class="bld-topic-pill">Bacteria</div>
+                                <div class="bld-topic-pill">Blood & Circulatory System</div>
+                                <div class="bld-topic-pill">Breathing System</div>
+                                <div class="bld-topic-pill">Cell Division</div>
+                                <div class="bld-topic-pill">Cell Metabolism & Enzymes</div>
+                                <div class="bld-topic-pill">Cell Structure</div>
+                                <div class="bld-topic-pill">Characteristics of Life</div>
+                                <div class="bld-topic-pill">Digestive System</div>
+                                <div class="bld-topic-pill">Ecology</div>
+                                <div class="bld-topic-pill">Excretion & Thermoregulation</div>
+                                <div class="bld-topic-pill">Experiment Questions</div>
+                                <div class="bld-topic-pill">Eye and Ear</div>
+                                <div class="bld-topic-pill">Food & Food Tests</div>
+                                <div class="bld-topic-pill">Fungi</div>
+                                <div class="bld-topic-pill">Genetics, DNA & Evolution</div>
+                                <div class="bld-topic-pill">Hormonal/Endocrine System</div>
+                                <div class="bld-topic-pill">Human Reproduction</div>
+                                <div class="bld-topic-pill">Immune System</div>
+                                <div class="bld-topic-pill">Movement Through Cell Membranes</div>
+                                <div class="bld-topic-pill">Musculoskeletal System</div>
+                                <div class="bld-topic-pill">Nervous System</div>
+                                <div class="bld-topic-pill">Photosynthesis</div>
+                                <div class="bld-topic-pill">Plant Reproduction</div>
+                                <div class="bld-topic-pill">Plant Responses</div>
+                                <div class="bld-topic-pill">Plant Structure</div>
+                                <div class="bld-topic-pill">Plant Transport</div>
+                                <div class="bld-topic-pill">Protista</div>
+                                <div class="bld-topic-pill">Respiration</div>
+                                <div class="bld-topic-pill">The Scientific Method</div>
+                                <div class="bld-topic-pill">The Study of an Ecosystem</div>
+                                <div class="bld-topic-pill">Viruses</div>
+                                -->
+                            </div>
+                        </div>
+                        <div class="bld-topic-nav">
+                            <div class="btn-bld-topic bld-topic-cancel" onclick="closeBldTopicModal()">Cancel</div>
+                            <div class="btn-bld-topic btn-reply btn-inactive" onclick="openBldQuesModal()">Continue</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bld-ques-modal">
+                    <div class="bld-ques-wrapper">
+                        <i class="fa-solid fa-xmark set-exit bld-topic-exit" onclick="closeBldQuesModal()"></i>
+                        <div class="bld-topic-title">Choose a question</div>
+                        <div class="bld-ques-para">Browse the available questions below and click on any one you'd like to include in your worksheet.</div>
+                        <div class="bld-ques-container">
+                            <div class="bld-ques-col">
+                                <!-- 
+                                <div class="bld-ques-flex">
+                                    <div class="bld-ques-box">
+                                        <div class="bld-ques-img-container">
+                                            <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/cfb31b9d-8f7d-4fa4-9e82-1bc40bf1bbcc.png" alt="Exam Question" class="bld-ques-img">
+                                        </div>
+                                        <div class="sav-content">
+                                            <div class="bld-ques-info">2022 - Question 1 - Cubics</div>
+                                            <div class="sav-type">State exam</div>
+                                        </div>
+                                        <div class="sav-hr"></div>
+                                        <div class="sav-btn-flex">
+                                            <div class="btn-sav btn-remove">View</div>
+                                            <div class="btn-sav btn-show">Add Question</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                    -->
+                            </div>
+                        </div>
+                        <div class="bld-topic-nav bld-ques-nav">
+                            <div class="btn-bld-topic bld-topic-cancel" onclick="closeBldQuesModal()">Cancel</div>
+                            <div class="btn-bld-topic btn-reply" onclick="closeBldQuesModal()">Continue</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="btn-bld-edit" onclick="openBldModal()">Edit <i class="fa-solid fa-pen-to-square bld-edit-icon"></i></div>
+                <div class="she-container">
+                    <div class="she-wrapper">
+                        <div class="she-wrapper-inside">
+                            <div class="she-top">
+                                <div class="she-title" onclick="titleClick()"><span>Your Worksheet Title Here...</span></div> <!-- This can be changed by user -->
+                                <img src="/images/examscope_logo.png" class="she-logo" />
+                            </div>
+                            
+                            <div class="she-img-container">
+                                <!-- 
+                                    <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/73c6d404-c038-4c0c-9768-dd5310aa7c0a.png" class="she-img" />
+                                    <img src="https://blob-static.studyclix.ie/cms/media/pdfSelections/22c64f17-d355-4564-8ec3-c96354008048.png" class="she-img" />
+                                -->
+                            </div>
+                        </div>
+                        <div class="she-idx">1</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pap-form">
+                    <div class="pap-section">
+                        <div class="pap-label">Choose an exam</div>
+                        <!-- 
+                            <div class="pap-flex">
+                                <div class="pap-option pap-option-type">Leaving Cert</div>
+                                <div class="pap-option pap-option-type">Junior Cert</div>
+                            </div>
+                            -->
+
+                            <div class="pap-toggle-container">
+                                <div class="pap-toggle">
+                                    <div class="pap-toggle-white"></div>
+                                    <div class="pap-toggle-section pap-toggle-active">Leaving Cert</div>
+                                    <div class="pap-toggle-section">Junior Cert</div>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="pap-section">
+                        <div class="pap-label">Choose a subject</div>
+                        <div class="pap-selector">
+                            <div class="pap-txt">Subject</div>
+                            <i class="fa-solid fa-chevron-down pap-chevron"></i>
+
+                            <div class="pap-dropdown" id="dropLc">
+                                <div class="pap-drop-txt">Accounting</div>
+                                <div class="pap-drop-txt">Agricultural Science</div>
+                                <div class="pap-drop-txt">Applied Maths</div>
+                                <div class="pap-drop-txt">Art</div>
+                                <div class="pap-drop-txt">Biology</div>
+                                <div class="pap-drop-txt">Business</div>
+                                <div class="pap-drop-txt">Chemistry</div>
+                                <div class="pap-drop-txt">Classical Studies</div>
+                                <div class="pap-drop-txt">Computer Science</div>
+                                <div class="pap-drop-txt">Construction Studies</div>
+                                <div class="pap-drop-txt">Design & Communication Graphics</div>
+                                <div class="pap-drop-txt">Economics</div>
+                                <div class="pap-drop-txt">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt">French</div>
+                                <div class="pap-drop-txt">Geography</div>
+                                <div class="pap-drop-txt">German</div>
+                                <div class="pap-drop-txt">History</div>
+                                <div class="pap-drop-txt">Home Economics</div>
+                                <div class="pap-drop-txt">Irish</div>
+                                <div class="pap-drop-txt">Italian</div>
+                                <div class="pap-drop-txt pap-drop-cl">Japanese</div>
+                                <div class="pap-drop-txt pap-drop-cl">LCVP (Link Modules)</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Phys-Chem</div>
+                                <div class="pap-drop-txt">Physical Education</div>
+                                <div class="pap-drop-txt">Physics</div>
+                                <div class="pap-drop-txt">Politics and Society</div>
+                                <div class="pap-drop-txt">Religious Education</div>
+                                <div class="pap-drop-txt">Spanish</div>
+                                <div class="pap-drop-txt">Technology</div>
+                            </div>
+                            <div class="pap-dropdown" id="dropJc">
+                                <div class="pap-drop-txt pap-drop-cl">Applied Technology</div>
+                                <div class="pap-drop-txt pap-drop-cl">Business Studies</div>
+                                <div class="pap-drop-txt pap-drop-cl">Classics</div>
+                                <div class="pap-drop-txt pap-drop-cl">CSPE</div>
+                                <div class="pap-drop-txt pap-drop-cl">Engineering</div>
+                                <div class="pap-drop-txt">English</div>
+                                <div class="pap-drop-txt pap-drop-cl">French</div>
+                                <div class="pap-drop-txt pap-drop-cl">Geography</div>
+                                <div class="pap-drop-txt pap-drop-cl">German</div>
+                                <div class="pap-drop-txt pap-drop-cl">Graphics</div>
+                                <div class="pap-drop-txt pap-drop-cl">History</div>
+                                <div class="pap-drop-txt pap-drop-cl">Home Economics</div>
+                                <div class="pap-drop-txt">Irish<span style="display: none;"> T2</span></div>
+                                <div class="pap-drop-txt pap-drop-cl">Italian</div>
+                                <div class="pap-drop-txt">Mathematics</div>
+                                <div class="pap-drop-txt pap-drop-cl">Music</div>
+                                <div class="pap-drop-txt pap-drop-cl">Religious Education</div>
+                                <div class="pap-drop-txt pap-drop-cl">Science</div>
+                                <div class="pap-drop-txt pap-drop-cl">Spanish</div>
+                                <div class="pap-drop-txt pap-drop-cl">Wood Technology</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="level-toggle">
+                        <div class="pap-label">Exam level</div>
+                        <div class="pap-toggle-container">
+                            <div class="pap-toggle">
+                                <div class="pap-toggle-white"></div>
+                                <div class="pap-toggle-section pap-toggle-active">Higher</div>
+                                <div class="pap-toggle-section">Ordinary</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="btn-bld-form btn-pap-inactive">Continue <img src="/images/icons/arrow.png" class="pap-arrow"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/script.js"></script>
+</body>
+</html>

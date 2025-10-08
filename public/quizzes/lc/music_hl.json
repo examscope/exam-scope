@@ -1,0 +1,302 @@
+[
+{
+  "subject": "Music",
+  "topic": "Composing melody & Bass from chords",
+  "quiz": [
+    {
+      "text": "Which note usually forms the root of a chord?",
+      "type": "choice",
+      "choices": ["top", "middle", "root", "fifth"],
+      "answer": 2
+    },
+    {
+      "text": "Which interval is commonly used to harmonize a melody?",
+      "type": "choice",
+      "choices": ["third", "second", "fourth", "sixth"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Bass notes can outline the chord progression.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The melody always repeats the bass exactly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Chords can be inverted to create smoother bass lines.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which note in the chord is often doubled in the bass?",
+      "type": "choice",
+      "choices": ["root", "third", "fifth", "seventh"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of motion can make a melody and bass sound smoother?",
+      "type": "choice",
+      "choices": ["parallel", "contrary", "similar", "oblique"],
+      "answer": 1
+    },
+    {
+      "text": "Write the root of a C major chord.",
+      "type": "input",
+      "answer": ["c"]
+    },
+    {
+      "text": "Write the third of an A minor chord.",
+      "type": "input",
+      "answer": ["c"]
+    },
+    {
+      "text": "Write a note suitable for the bass of G major.",
+      "type": "input",
+      "answer": ["g"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing to a Given Dance Rhythm or Meter",
+  "quiz": [
+    {
+      "text": "Which meter is common in a waltz?",
+      "type": "choice",
+      "choices": ["two four", "three four", "four four", "six eight"],
+      "answer": 1
+    },
+    {
+      "text": "Which note length usually starts a polka rhythm?",
+      "type": "choice",
+      "choices": ["crotchet", "minim", "quaver", "semibreve"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dance rhythms affect accent placement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You can ignore the given rhythm when composing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Meter influences how melodies are grouped.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which meter is common in a march?",
+      "type": "choice",
+      "choices": ["two four", "three four", "six eight", "five four"],
+      "answer": 0
+    },
+    {
+      "text": "Which meter is common in a jig?",
+      "type": "choice",
+      "choices": ["six eight", "four four", "three four", "two four"],
+      "answer": 0
+    },
+    {
+      "text": "Write the meter for a waltz.",
+      "type": "input",
+      "answer": ["three four", "3 4"]
+    },
+    {
+      "text": "Write the meter for a polka.",
+      "type": "input",
+      "answer": ["two four", "2 4"]
+    },
+    {
+      "text": "Write the common beat division for a jig.",
+      "type": "input",
+      "answer": ["six eight", "6 8"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing: Adding A Countermelody/Descant & Chords",
+  "quiz": [
+    {
+      "text": "True or false: A countermelody should harmonize with the main melody.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A descant is usually below the main melody.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which interval often suits a descant above a melody?",
+      "type": "choice",
+      "choices": ["third", "fifth", "octave", "second"],
+      "answer": 0
+    },
+    {
+      "text": "Which interval often suits a countermelody?",
+      "type": "choice",
+      "choices": ["third", "fifth", "second", "octave"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Chords can be altered to support a countermelody.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of motion is common in countermelodies?",
+      "type": "choice",
+      "choices": ["contrary", "parallel", "same", "oblique"],
+      "answer": 0
+    },
+    {
+      "text": "Which note often starts a descant in a major key?",
+      "type": "choice",
+      "choices": ["root", "third", "fifth", "seventh"],
+      "answer": 2
+    },
+    {
+      "text": "Write a note suitable for a countermelody above C major.",
+      "type": "input",
+      "answer": ["e", "g"]
+    },
+    {
+      "text": "Write a note suitable for a descant above G major.",
+      "type": "input",
+      "answer": ["d", "b"]
+    },
+    {
+      "text": "Write a chord that fits a melody in C major.",
+      "type": "input",
+      "answer": ["c major", "c"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing: Continuation of a given opening",
+  "quiz": [
+    {
+      "text": "True or false: The continuation should follow the style of the opening.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You can ignore the given melody when continuing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which interval is commonly used to continue a melody smoothly?",
+      "type": "choice",
+      "choices": ["second", "fifth", "octave", "seventh"],
+      "answer": 0
+    },
+    {
+      "text": "Which motion often creates contrast in a continuation?",
+      "type": "choice",
+      "choices": ["contrary", "parallel", "same", "oblique"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Chords can be changed to suit the continuation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which type of cadence often ends a continuation?",
+      "type": "choice",
+      "choices": ["perfect", "imperfect", "plagal", "deceptive"],
+      "answer": 0
+    },
+    {
+      "text": "Which note can begin a smooth continuation from C major?",
+      "type": "choice",
+      "choices": ["d", "e", "g", "all of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Write a note suitable to continue a melody ending on G.",
+      "type": "input",
+      "answer": ["a", "b", "g"]
+    },
+    {
+      "text": "Write a chord that fits a continuation in C major.",
+      "type": "input",
+      "answer": ["f major", "g major", "c major"]
+    },
+    {
+      "text": "Write a note that resolves the opening phrase in C major.",
+      "type": "input",
+      "answer": ["c"]
+    }
+  ]
+},
+{
+  "subject": "Music",
+  "topic": "Composing: Setting Music to a given text",
+  "quiz": [
+    {
+      "text": "True or false: The natural accents of the text should match the music rhythm.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You can change the meaning of the text when composing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which note length can emphasize a stressed syllable?",
+      "type": "choice",
+      "choices": ["long", "short", "medium", "random"],
+      "answer": 0
+    },
+    {
+      "text": "Which musical element conveys emotion in the text?",
+      "type": "choice",
+      "choices": ["dynamics", "tempo", "harmony", "all of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Each line of text should have its own melodic shape.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which interval can highlight a key word in the text?",
+      "type": "choice",
+      "choices": ["third", "fifth", "octave", "all of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which note could emphasize the word 'love' in C major?",
+      "type": "choice",
+      "choices": ["c", "e", "g", "all of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Write a note suitable for the first syllable of a line.",
+      "type": "input",
+      "answer": ["c", "d", "e"]
+    },
+    {
+      "text": "Write a chord to accompany a simple phrase in C major.",
+      "type": "input",
+      "answer": ["c major", "f major", "g major"]
+    },
+    {
+      "text": "Write a note to match a stressed syllable in a minor key.",
+      "type": "input",
+      "answer": ["a", "c", "e"]
+    }
+  ]
+}
+]

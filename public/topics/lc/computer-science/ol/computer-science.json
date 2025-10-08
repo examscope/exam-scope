@@ -1,0 +1,31 @@
+{
+  "certificate": "lc",
+  "subject": "computer-science",
+  "level": "ol",
+  "topics": [
+    "Algorithms",
+    "Communication Protocols",
+    "Communication Protocols, World Wide Web and The Internet",
+    "Computational Thinking",
+    "Computer Systems",
+    "Computers and Society",
+    "Data Analysis",
+    "Data Representation",
+    "Databases",
+    "Decomposition",
+    "Digital and Analogue Input",
+    "Embedded Systems",
+    "History of Computing",
+    "HTML / CSS",
+    "JavaScript",
+    "Logic Gates",
+    "Machine Learning and Artificial Intelligence",
+    "Modelling and Simulation",
+    "Number Systems",
+    "Pseudocode and Flowcharts",
+    "Python",
+    "Software",
+    "Software Design and Development",
+    "User Experience and User Interface"
+  ]
+}

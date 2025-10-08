@@ -1,0 +1,31 @@
+{
+  "certificate": "lc",
+  "subject": "irish",
+  "level": "ol",
+  "topics": [
+    "AURAL - Comhrá (Conversation)",
+    "AURAL - Píosa Nuachta (News Pieces)",
+    "AURALS - Fógra (Announcement)",
+    "Oral exam",
+    "Poetry - An Spailpín Fánach",
+    "Poetry - An tEarrach Thiar",
+    "Poetry - Colscaradh",
+    "Poetry - Géibheann",
+    "Poetry - Mo Ghrá-sa",
+    "Prose - An Gnáthrud",
+    "Prose - An Lasair Choille",
+    "Prose - Cáca Milis",
+    "Prose - Dís",
+    "Prose - Hurlamaboc",
+    "Prose - Oisín i dTír na n-Óg",
+    "Reading Comprehension",
+    "Write a blog/Creative Writing Task",
+    "Write a Conversation..",
+    "Write a Debate..",
+    "Write a Letter/email...",
+    "Write a Story..",
+    "Write about a studied Folk Tale..",
+    "Write about a studied poem (Roghnach)..",
+    "Write about Studied prose (roghnach).."
+  ]
+}

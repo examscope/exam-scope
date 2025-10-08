@@ -1,0 +1,1710 @@
+[
+{
+  "subject": "Home Economics",
+  "topic": "Consumer Studies",
+  "quiz": [
+    {
+      "text": "Which organisation protects consumer rights in Ireland?",
+      "type": "choice",
+      "choices": ["Competition and Consumer Protection Commission", "HSE", "EPA", "Bord Bia"],
+      "answer": 0
+    },
+    {
+      "text": "What is the term for goods that last a long time, like furniture or appliances?",
+      "type": "choice",
+      "choices": ["Durable goods", "Non-durable goods", "Services", "Commodities"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Advertising has no influence on consumer behaviour.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A receipt is proof of purchase.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Consumers are legally responsible for product faults.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of consumer protection law in Ireland.",
+      "type": "input",
+      "answer": ["Sale of Goods and Supply of Services Act", "Consumer Protection Act", "Consumer Rights legislation"]
+    },
+    {
+      "text": "Give one example of a consumer right.",
+      "type": "input",
+      "answer": ["Right to safety", "Right to information", "Right to redress", "Right to choose"]
+    },
+    {
+      "text": "Which organisation enforces product safety standards?",
+      "type": "choice",
+      "choices": ["CCPC", "HSE", "EPA", "Bord Bia"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of advertising provides misleading claims?",
+      "type": "choice",
+      "choices": ["False advertising", "Informative advertising", "Comparison advertising", "Public service advertising"],
+      "answer": 0
+    },
+    {
+      "text": "Which document details a product's terms and conditions?",
+      "type": "choice",
+      "choices": ["Warranty", "Receipt", "Invoice", "Brochure"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Diet & Health",
+  "quiz": [
+    {
+      "text": "Which nutrient provides the most energy per gram?",
+      "type": "choice",
+      "choices": ["Fat", "Protein", "Carbohydrate", "Vitamin"],
+      "answer": 0
+    },
+    {
+      "text": "Which vitamin is important for healthy bones?",
+      "type": "choice",
+      "choices": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin K"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fibre aids in digestion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Protein is only needed by athletes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Excess sugar can contribute to obesity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one food source of omega-3 fatty acids.",
+      "type": "input",
+      "answer": ["Salmon", "Mackerel", "Walnuts", "Chia seeds"]
+    },
+    {
+      "text": "Give one reason why hydration is important.",
+      "type": "input",
+      "answer": ["Maintains body temperature", "Aids digestion", "Transports nutrients", "Prevents dehydration"]
+    },
+    {
+      "text": "Which mineral is essential for healthy blood?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Magnesium", "Potassium"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of fat is considered healthy?",
+      "type": "choice",
+      "choices": ["Unsaturated fat", "Saturated fat", "Trans fat", "Hydrogenated fat"],
+      "answer": 0
+    },
+    {
+      "text": "Which nutrient helps build and repair body tissues?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Fat", "Vitamin C"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective1: Energy & Emissions",
+  "quiz": [
+    {
+      "text": "Which is the main greenhouse gas responsible for climate change?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy source is renewable?",
+      "type": "choice",
+      "choices": ["Solar", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Burning fossil fuels releases carbon dioxide.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Energy efficiency reduces emissions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Nuclear power is a fossil fuel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one way households can reduce energy consumption.",
+      "type": "input",
+      "answer": ["Use LED bulbs", "Switch off appliances", "Insulate homes", "Use smart thermostats"]
+    },
+    {
+      "text": "Name one effect of greenhouse gases on the environment.",
+      "type": "input",
+      "answer": ["Global warming", "Climate change", "Rising sea levels"]
+    },
+    {
+      "text": "Which fossil fuel has the highest carbon emissions per unit of energy?",
+      "type": "choice",
+      "choices": ["Coal", "Natural gas", "Oil", "Petroleum"],
+      "answer": 0
+    },
+    {
+      "text": "Which renewable source generates electricity from water?",
+      "type": "choice",
+      "choices": ["Hydroelectric", "Solar", "Wind", "Geothermal"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is produced from agriculture and contributes to the greenhouse effect?",
+      "type": "choice",
+      "choices": ["Methane", "Oxygen", "Nitrogen", "Carbon monoxide"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective1: Heating, Water, Lighting..",
+  "quiz": [
+    {
+      "text": "Which type of heating is most energy efficient in homes?",
+      "type": "choice",
+      "choices": ["Heat pump", "Open fireplace", "Electric heater", "Gas boiler"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the main energy user in a typical household?",
+      "type": "choice",
+      "choices": ["Heating", "Lighting", "Appliances", "Electronics"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: LED lights use more energy than incandescent bulbs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Proper insulation reduces heating costs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Low-flow taps can reduce water consumption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to reduce electricity use for lighting.",
+      "type": "input",
+      "answer": ["Use LED bulbs", "Switch off lights", "Use natural light", "Install timers"]
+    },
+    {
+      "text": "Give one method to reduce heat loss in a home.",
+      "type": "input",
+      "answer": ["Insulation", "Double glazing", "Draught-proofing", "Curtains"]
+    },
+    {
+      "text": "Which type of lighting is most energy efficient?",
+      "type": "choice",
+      "choices": ["LED", "Halogen", "Incandescent", "Fluorescent tube"],
+      "answer": 0
+    },
+    {
+      "text": "Which fuel type produces the least carbon emissions for heating?",
+      "type": "choice",
+      "choices": ["Natural gas", "Coal", "Oil", "Wood"],
+      "answer": 0
+    },
+    {
+      "text": "Which household system consumes hot water the most?",
+      "type": "choice",
+      "choices": ["Shower", "Dishwasher", "Bath", "Washing machine"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective1: Housing (Planning, building..)",
+  "quiz": [
+    {
+      "text": "Which is a key factor in site selection for a house?",
+      "type": "choice",
+      "choices": ["Drainage", "Color of walls", "Furniture style", "Curtain type"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a legal requirement when building a house?",
+      "type": "choice",
+      "choices": ["Planning permission", "Wallpaper color approval", "Number of bedrooms", "Garden size"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Building regulations ensure safety and energy efficiency.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Foundations are not important if the house is small.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Proper ventilation prevents damp and mold.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one material commonly used for building walls.",
+      "type": "input",
+      "answer": ["Brick", "Concrete", "Stone", "Block"]
+    },
+    {
+      "text": "Give one consideration when planning the layout of a home.",
+      "type": "input",
+      "answer": ["Room flow", "Natural light", "Privacy", "Accessibility"]
+    },
+    {
+      "text": "Which type of roof is commonly used in Irish houses?",
+      "type": "choice",
+      "choices": ["Pitched", "Flat", "Domed", "Thatched"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of a house is designed to support the structure above?",
+      "type": "choice",
+      "choices": ["Foundation", "Door", "Window frame", "Roof tile"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects heating costs the most in a house?",
+      "type": "choice",
+      "choices": ["Insulation", "Paint color", "Flooring type", "Number of rooms"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective1: Interior Design",
+  "quiz": [
+    {
+      "text": "Which principle of design refers to visual balance?",
+      "type": "choice",
+      "choices": ["Symmetry", "Texture", "Hue", "Pattern"],
+      "answer": 0
+    },
+    {
+      "text": "Which color scheme uses shades of one color?",
+      "type": "choice",
+      "choices": ["Monochromatic", "Complementary", "Analogous", "Triadic"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Lighting affects the perception of space.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rugs and curtains do not affect room acoustics.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Open plan layouts can make small rooms feel larger.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one way to make a room feel more spacious.",
+      "type": "input",
+      "answer": ["Use mirrors", "Light colors", "Open furniture layout", "Minimal clutter"]
+    },
+    {
+      "text": "Name one material commonly used for interior furniture.",
+      "type": "input",
+      "answer": ["Wood", "Metal", "Glass", "Plastic"]
+    },
+    {
+      "text": "Which type of lighting is suitable for task work?",
+      "type": "choice",
+      "choices": ["Task lighting", "Ambient lighting", "Accent lighting", "Decorative lighting"],
+      "answer": 0
+    },
+    {
+      "text": "Which design element refers to the feel or surface quality of materials?",
+      "type": "choice",
+      "choices": ["Texture", "Balance", "Contrast", "Harmony"],
+      "answer": 0
+    },
+    {
+      "text": "Which design principle ensures all elements work well together?",
+      "type": "choice",
+      "choices": ["Harmony", "Pattern", "Scale", "Focal point"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective2: Fabrics",
+  "quiz": [
+    {
+      "text": "Which natural fibre comes from sheep?",
+      "type": "choice",
+      "choices": ["Cotton", "Wool", "Silk", "Linen"],
+      "answer": 1
+    },
+    {
+      "text": "Which fibre is produced by silkworms?",
+      "type": "choice",
+      "choices": ["Silk", "Wool", "Polyester", "Cotton"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polyester is a synthetic fibre.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Linen comes from the flax plant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Wool is waterproof without treatment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to care for woollen garments.",
+      "type": "input",
+      "answer": ["Hand wash", "Dry clean", "Use gentle detergent"]
+    },
+    {
+      "text": "Give one characteristic of cotton fabric.",
+      "type": "input",
+      "answer": ["Soft", "Absorbent", "Breathable"]
+    },
+    {
+      "text": "Which fabric is best for summer clothing?",
+      "type": "choice",
+      "choices": ["Wool", "Cotton", "Polyester", "Velvet"],
+      "answer": 1
+    },
+    {
+      "text": "Which fibre is known for its elasticity?",
+      "type": "choice",
+      "choices": ["Silk", "Wool", "Spandex", "Linen"],
+      "answer": 2
+    },
+    {
+      "text": "Which fibre is used for making denim?",
+      "type": "choice",
+      "choices": ["Cotton", "Wool", "Silk", "Polyester"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective2: Patterns & Fashion",
+  "quiz": [
+    {
+      "text": "Which term refers to the outline of a garment?",
+      "type": "choice",
+      "choices": ["Pattern", "Style", "Texture", "Fibre"],
+      "answer": 1
+    },
+    {
+      "text": "Which pattern type is made from repeated motifs?",
+      "type": "choice",
+      "choices": ["Geometric", "Floral", "Plaid", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Fashion trends change rapidly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Haute couture refers to mass-produced clothing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Accessories do not affect overall fashion style.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one fashion designer famous worldwide.",
+      "type": "input",
+      "answer": ["Coco Chanel", "Giorgio Armani", "Gucci", "Versace"]
+    },
+    {
+      "text": "Give one reason why a pattern might be altered.",
+      "type": "input",
+      "answer": ["Fit", "Style", "Size", "Fabric type"]
+    },
+    {
+      "text": "Which element of fashion refers to the arrangement of clothing components?",
+      "type": "choice",
+      "choices": ["Texture", "Silhouette", "Colour", "Pattern"],
+      "answer": 1
+    },
+    {
+      "text": "Which pattern is made from criss-crossed horizontal and vertical bands?",
+      "type": "choice",
+      "choices": ["Plaid", "Polka dot", "Floral", "Striped"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor influences the popularity of fashion trends?",
+      "type": "choice",
+      "choices": ["Media", "Celebrities", "Cultural events", "All of the above"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective3: (un)employment & Poverty",
+  "quiz": [
+    {
+      "text": "Which term describes the lack of paid work for those able to work?",
+      "type": "choice",
+      "choices": ["Unemployment", "Poverty", "Inflation", "Deflation"],
+      "answer": 0
+    },
+    {
+      "text": "Which group is most vulnerable to poverty?",
+      "type": "choice",
+      "choices": ["Elderly", "Children", "Adults in employment", "Both A and B"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Poverty only affects people in developing countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Social welfare supports people in financial need.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: High unemployment can lead to economic growth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one government measure to reduce unemployment.",
+      "type": "input",
+      "answer": ["Job creation schemes", "Training programs", "Subsidies for businesses"]
+    },
+    {
+      "text": "Give one effect of poverty on children.",
+      "type": "input",
+      "answer": ["Poor education", "Malnutrition", "Limited opportunities"]
+    },
+    {
+      "text": "Which type of unemployment is caused by technological change?",
+      "type": "choice",
+      "choices": ["Structural", "Cyclical", "Frictional", "Seasonal"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of poverty occurs when income is below the minimum standard of living?",
+      "type": "choice",
+      "choices": ["Relative", "Absolute", "Temporary", "Hidden"],
+      "answer": 1
+    },
+    {
+      "text": "Which sector is most affected during economic recessions?",
+      "type": "choice",
+      "choices": ["Industrial", "Agricultural", "Services", "All sectors"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective3: Education in Ireland",
+  "quiz": [
+    {
+      "text": "What is the state exam taken at the end of secondary school?",
+      "type": "choice",
+      "choices": ["Leaving Certificate", "Junior Certificate", "Primary Certificate", "CAO"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of school is funded and managed by the state?",
+      "type": "choice",
+      "choices": ["Voluntary secondary", "Community", "Private", "International"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Education is free at primary and secondary level in Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The CAO system is used for college applications.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Vocational education does not provide practical skills.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of higher education institution in Ireland.",
+      "type": "input",
+      "answer": ["University", "Institute of Technology", "College of Further Education"]
+    },
+    {
+      "text": "Give one subject commonly studied at secondary level.",
+      "type": "input",
+      "answer": ["English", "Maths", "Home Economics", "History"]
+    },
+    {
+      "text": "Which programme allows adults to return to education?",
+      "type": "choice",
+      "choices": ["PLC", "TY", "Apprenticeship", "Summer School"],
+      "answer": 0
+    },
+    {
+      "text": "Which certificate is usually taken at the end of junior cycle?",
+      "type": "choice",
+      "choices": ["Junior Certificate", "Leaving Certificate", "PLC Certificate", "TY Certificate"],
+      "answer": 0
+    },
+    {
+      "text": "Which system ranks students for college entry in Ireland?",
+      "type": "choice",
+      "choices": ["CAO Points", "Grading System", "Leaving Cert Points", "Exam Board"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Elective3: Family Life & Leisure",
+  "quiz": [
+    {
+      "text": "Which type of leisure involves active participation?",
+      "type": "choice",
+      "choices": ["Passive leisure", "Active leisure", "Virtual leisure", "Indoor leisure"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor can influence family leisure choices?",
+      "type": "choice",
+      "choices": ["Income", "Location", "Cultural values", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Leisure time can improve mental health.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only adults benefit from leisure activities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Technology has no impact on leisure choices.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one benefit of family leisure activities.",
+      "type": "input",
+      "answer": ["Strengthen relationships", "Improve communication", "Reduce stress"]
+    },
+    {
+      "text": "Name one outdoor leisure activity.",
+      "type": "input",
+      "answer": ["Hiking", "Cycling", "Gardening", "Sports"]
+    },
+    {
+      "text": "Which type of leisure activity requires little physical effort?",
+      "type": "choice",
+      "choices": ["Active leisure", "Passive leisure", "Adventure leisure", "Competitive leisure"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor can restrict access to leisure?",
+      "type": "choice",
+      "choices": ["Financial constraints", "Health issues", "Location", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which age group is particularly encouraged to engage in leisure activities?",
+      "type": "choice",
+      "choices": ["Children", "Adults", "Elderly", "All age groups"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Environment",
+  "quiz": [
+    {
+      "text": "Which gas contributes most to global warming?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+      "answer": 1
+    },
+    {
+      "text": "Which process reduces waste sent to landfill?",
+      "type": "choice",
+      "choices": ["Recycling", "Incineration", "Composting", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Renewable energy sources include solar and wind.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Deforestation has no effect on the environment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Climate change only affects humans.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a renewable energy source.",
+      "type": "input",
+      "answer": ["Solar", "Wind", "Hydroelectric", "Geothermal"]
+    },
+    {
+      "text": "Name one action households can take to reduce energy consumption.",
+      "type": "input",
+      "answer": ["Use energy-efficient appliances", "Turn off lights", "Install insulation"]
+    },
+    {
+      "text": "Which type of energy comes from burning fossil fuels?",
+      "type": "choice",
+      "choices": ["Renewable", "Non-renewable", "Sustainable", "Solar"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a greenhouse gas?",
+      "type": "choice",
+      "choices": ["Methane", "Oxygen", "Nitrogen", "Helium"],
+      "answer": 0
+    },
+    {
+      "text": "Which practice helps protect biodiversity?",
+      "type": "choice",
+      "choices": ["Habitat destruction", "Pollution", "Conservation", "Deforestation"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Food Assignments",
+  "quiz": [
+    {
+      "text": "Which macronutrient is mainly responsible for energy?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Vitamin C", "Minerals"],
+      "answer": 1
+    },
+    {
+      "text": "Which method is best for writing a food assignment?",
+      "type": "choice",
+      "choices": ["Copying recipes", "Planning and research", "Guesswork", "Random notes"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Food assignments should include nutritional analysis.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Presentation and layout are irrelevant in food assignments.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Food assignments can be used to improve cooking skills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one key component to include in a food assignment.",
+      "type": "input",
+      "answer": ["Ingredients", "Method", "Nutritional analysis", "Conclusion"]
+    },
+    {
+      "text": "Give one tip for writing a clear food assignment.",
+      "type": "input",
+      "answer": ["Use headings", "Include pictures", "Check spelling", "Write step by step"]
+    },
+    {
+      "text": "Which macronutrient is essential for growth and repair?",
+      "type": "choice",
+      "choices": ["Carbohydrate", "Protein", "Fat", "Fiber"],
+      "answer": 1
+    },
+    {
+      "text": "Which element is vital for bone health in food assignments?",
+      "type": "choice",
+      "choices": ["Calcium", "Iron", "Vitamin C", "Sodium"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of fat is considered healthier?",
+      "type": "choice",
+      "choices": ["Saturated", "Trans fat", "Unsaturated", "Hydrogenated fat"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Food Industry & Packaging",
+  "quiz": [
+    {
+      "text": "Which packaging material is most recyclable?",
+      "type": "choice",
+      "choices": ["Plastic", "Cardboard", "Polystyrene", "Foil"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of food packaging?",
+      "type": "choice",
+      "choices": ["Protection", "Decoration", "Marketing only", "Storage only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Packaging can extend shelf life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Food packaging has no environmental impact.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Labels provide information on ingredients and allergens.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of food packaging used in the industry.",
+      "type": "input",
+      "answer": ["Cans", "Glass jars", "Plastic wrap", "Boxes"]
+    },
+    {
+      "text": "Give one reason why packaging is important for food safety.",
+      "type": "input",
+      "answer": ["Prevents contamination", "Preserves freshness", "Protects from damage"]
+    },
+    {
+      "text": "Which nutrient must always be listed on food labels?",
+      "type": "choice",
+      "choices": ["Protein", "Fiber", "Calories", "Fat", "All of the above"],
+      "answer": 4
+    },
+    {
+      "text": "Which type of packaging is considered eco-friendly?",
+      "type": "choice",
+      "choices": ["Biodegradable", "Plastic wrap", "Styrofoam", "Aluminium foil"],
+      "answer": 0
+    },
+    {
+      "text": "Which aspect of packaging appeals to consumers most?",
+      "type": "choice",
+      "choices": ["Design and colour", "Shape", "Material", "Weight"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Food Spoilage & Food Safety",
+  "quiz": [
+    {
+      "text": "Which microorganism is the most common cause of food poisoning?",
+      "type": "choice",
+      "choices": ["Bacteria", "Viruses", "Moulds", "Yeasts"],
+      "answer": 0
+    },
+    {
+      "text": "At what temperature range does bacteria multiply most rapidly?",
+      "type": "choice",
+      "choices": ["0–5°C", "5–63°C", "63–100°C", "Below 0°C"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Freezing kills bacteria.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cross-contamination can spread bacteria from raw to cooked foods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Food should always be reheated until piping hot.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method used to preserve food.",
+      "type": "input",
+      "answer": ["Freezing", "Canning", "Drying", "Vacuum packing"]
+    },
+    {
+      "text": "Give one sign of food spoilage.",
+      "type": "input",
+      "answer": ["Bad smell", "Mould growth", "Change in colour", "Slimy texture"]
+    },
+    {
+      "text": "Which bacteria is commonly linked with undercooked poultry?",
+      "type": "choice",
+      "choices": ["E. coli", "Salmonella", "Listeria", "Campylobacter"],
+      "answer": 1
+    },
+    {
+      "text": "Which food is most associated with botulism?",
+      "type": "choice",
+      "choices": ["Canned foods", "Bread", "Fruit", "Milk"],
+      "answer": 0
+    },
+    {
+      "text": "Which food safety measure is most important during food preparation?",
+      "type": "choice",
+      "choices": ["Washing hands", "Using herbs", "Cooking quickly", "Adding salt"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Foods: Meat, Fish, Cereal, Fruit/Veg, Dairy, Eggs",
+  "quiz": [
+    {
+      "text": "Which nutrient is most abundant in meat?",
+      "type": "choice",
+      "choices": ["Carbohydrate", "Protein", "Vitamin C", "Calcium"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main nutrient in cereals?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Fat", "Vitamin D"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Fish is a source of omega-3 fatty acids.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Eggs contain vitamin C.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dairy products are a good source of calcium.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one nutrient found in fruit and vegetables.",
+      "type": "input",
+      "answer": ["Vitamin C", "Fibre", "Folate", "Potassium"]
+    },
+    {
+      "text": "Give one function of protein in the diet.",
+      "type": "input",
+      "answer": ["Growth", "Repair", "Energy source"]
+    },
+    {
+      "text": "Which vitamin is abundant in oily fish?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin K"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the egg contains most of the fat?",
+      "type": "choice",
+      "choices": ["Egg white", "Shell", "Yolk", "Albumen"],
+      "answer": 2
+    },
+    {
+      "text": "Which mineral is found in high amounts in red meat?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Sodium", "Iodine"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Household Appliances",
+  "quiz": [
+    {
+      "text": "Which part of a washing machine spins clothes to remove water?",
+      "type": "choice",
+      "choices": ["Agitator", "Drum", "Filter", "Heater"],
+      "answer": 1
+    },
+    {
+      "text": "Which household appliance uses a thermostat to control temperature?",
+      "type": "choice",
+      "choices": ["Microwave", "Refrigerator", "Toaster", "Vacuum cleaner"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A microwave oven cooks food using electromagnetic waves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Vacuum cleaners use suction created by a motor.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A dishwasher always requires cold water only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one safety feature commonly found in modern kettles.",
+      "type": "input",
+      "answer": ["Automatic shut-off", "Boil dry protection"]
+    },
+    {
+      "text": "Give one way of reducing energy use when using appliances.",
+      "type": "input",
+      "answer": ["Use eco settings", "Unplug when not in use", "Choose energy efficient models"]
+    },
+    {
+      "text": "Which appliance is measured in watts to show energy use?",
+      "type": "choice",
+      "choices": ["Iron", "Cooker", "Washing machine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which appliance has a filter that must be cleaned regularly?",
+      "type": "choice",
+      "choices": ["Refrigerator", "Vacuum cleaner", "Kettle", "Microwave"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of an iron generates steam?",
+      "type": "choice",
+      "choices": ["Handle", "Water tank", "Soleplate", "Cord"],
+      "answer": 1
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Household Finances",
+  "quiz": [
+    {
+      "text": "Which of the following is a fixed expense?",
+      "type": "choice",
+      "choices": ["Groceries", "Electricity bill", "Mortgage repayment", "Clothing"],
+      "answer": 2
+    },
+    {
+      "text": "What does APR stand for in relation to loans?",
+      "type": "choice",
+      "choices": ["Annual Percentage Rate", "Annual Payment Ratio", "Applied Payment Rate", "Approved Percentage Ratio"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A budget helps to manage income and expenditure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Credit cards are a form of short-term borrowing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Savings accounts usually offer higher interest than loans charge.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method of electronic payment.",
+      "type": "input",
+      "answer": ["Debit card", "Credit card", "Bank transfer", "Direct debit"]
+    },
+    {
+      "text": "Give one advantage of saving money regularly.",
+      "type": "input",
+      "answer": ["Earns interest", "Provides security", "Funds emergencies", "Builds wealth"]
+    },
+    {
+      "text": "Which financial institution provides mortgages?",
+      "type": "choice",
+      "choices": ["Credit unions", "Banks", "Building societies", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which term refers to money received on a regular basis from work?",
+      "type": "choice",
+      "choices": ["Expenditure", "Income", "Savings", "Loan"],
+      "answer": 1
+    },
+    {
+      "text": "Which government tax is deducted directly from wages?",
+      "type": "choice",
+      "choices": ["VAT", "Excise duty", "PAYE", "Customs duty"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Marriage & Family Law",
+  "quiz": [
+    {
+      "text": "Which legal document is required for a valid marriage in Ireland?",
+      "type": "choice",
+      "choices": ["Birth certificate", "Marriage license", "Passport", "Deed of ownership"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a ground for divorce in Ireland?",
+      "type": "choice",
+      "choices": ["Adultery", "Mutual consent", "Desertion", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: A marriage must be registered with the civil authorities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cohabiting couples have the same legal rights as married couples.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Custody arrangements are always made by the parents themselves.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of family law that protects children.",
+      "type": "input",
+      "answer": ["Child custody", "Child protection", "Guardianship", "Adoption"]
+    },
+    {
+      "text": "Give one legal requirement for a civil marriage ceremony.",
+      "type": "input",
+      "answer": ["Witnesses present", "Registrar officiates", "Notice of intention to marry filed"]
+    },
+    {
+      "text": "Which type of contract outlines maintenance responsibilities after separation?",
+      "type": "choice",
+      "choices": ["Prenuptial agreement", "Separation agreement", "Will", "Lease agreement"],
+      "answer": 1
+    },
+    {
+      "text": "Which court deals with family law matters in Ireland?",
+      "type": "choice",
+      "choices": ["High Court", "Circuit Court", "District Court", "Family Court"],
+      "answer": 3
+    },
+    {
+      "text": "Which law protects spouses financially in the event of divorce?",
+      "type": "choice",
+      "choices": ["Family Law (Divorce) Act", "Marriage Act", "Civil Liability Act", "Child Protection Act"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Meal Planning & Preparation",
+  "quiz": [
+    {
+      "text": "Which nutrient should be included in every meal for energy?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrate", "Vitamin C", "Iron"],
+      "answer": 1
+    },
+    {
+      "text": "Which method of cooking preserves most vitamins?",
+      "type": "choice",
+      "choices": ["Boiling", "Steaming", "Deep-frying", "Roasting"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Meal planning can reduce food waste.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A balanced diet requires skipping breakfast.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Batch cooking saves time and energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to make a meal more visually appealing.",
+      "type": "input",
+      "answer": ["Use colour variety", "Garnish with herbs", "Arrange neatly", "Use different textures"]
+    },
+    {
+      "text": "Give one example of a complete protein source for a meal.",
+      "type": "input",
+      "answer": ["Meat", "Fish", "Eggs", "Soy products"]
+    },
+    {
+      "text": "Which cooking method uses hot air circulating around food?",
+      "type": "choice",
+      "choices": ["Boiling", "Baking", "Steaming", "Frying"],
+      "answer": 1
+    },
+    {
+      "text": "Which vitamin is most sensitive to heat during cooking?",
+      "type": "choice",
+      "choices": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin K"],
+      "answer": 0
+    },
+    {
+      "text": "Which meal planning strategy ensures nutritional balance?",
+      "type": "choice",
+      "choices": ["Include protein, carbohydrate, and vegetables", "Focus on one food group", "Eat only convenience foods", "Skip snacks"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Nutrition: Carbohydrates",
+  "quiz": [
+    {
+      "text": "Which type of carbohydrate provides quick energy?",
+      "type": "choice",
+      "choices": ["Simple sugars", "Complex starches", "Fiber", "Protein"],
+      "answer": 0
+    },
+    {
+      "text": "Which carbohydrate helps maintain healthy digestion?",
+      "type": "choice",
+      "choices": ["Fiber", "Glucose", "Sucrose", "Starch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Carbohydrates are the body's main source of energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All carbohydrates are unhealthy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Whole grains contain more fiber than refined grains.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a complex carbohydrate.",
+      "type": "input",
+      "answer": ["Brown rice", "Oats", "Whole wheat bread", "Potatoes"]
+    },
+    {
+      "text": "Name one food high in simple sugars.",
+      "type": "input",
+      "answer": ["Candy", "Honey", "Soda", "Chocolate"]
+    },
+    {
+      "text": "Which carbohydrate is not digested but aids gut health?",
+      "type": "choice",
+      "choices": ["Fiber", "Starch", "Glucose", "Fructose"],
+      "answer": 0
+    },
+    {
+      "text": "Which simple sugar is found naturally in fruit?",
+      "type": "choice",
+      "choices": ["Fructose", "Lactose", "Sucrose", "Glucose"],
+      "answer": 0
+    },
+    {
+      "text": "Which carbohydrate is stored in muscles for energy during exercise?",
+      "type": "choice",
+      "choices": ["Glycogen", "Fructose", "Starch", "Sucrose"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Nutrition: Lipids",
+  "quiz": [
+    {
+      "text": "Which type of fat is considered healthy?",
+      "type": "choice",
+      "choices": ["Unsaturated fat", "Saturated fat", "Trans fat", "Hydrogenated fat"],
+      "answer": 0
+    },
+    {
+      "text": "Which fat is commonly found in butter and cheese?",
+      "type": "choice",
+      "choices": ["Saturated fat", "Unsaturated fat", "Omega-3", "Trans fat"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Lipids provide more energy per gram than carbohydrates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Trans fats are beneficial for heart health.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Omega-3 fatty acids are found in fish and are heart-healthy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one food source of unsaturated fat.",
+      "type": "input",
+      "answer": ["Olive oil", "Avocado", "Nuts", "Seeds"]
+    },
+    {
+      "text": "Name one type of lipid that is solid at room temperature.",
+      "type": "input",
+      "answer": ["Saturated fat", "Butter", "Lard", "Coconut oil"]
+    },
+    {
+      "text": "Which fat should be limited to reduce cholesterol?",
+      "type": "choice",
+      "choices": ["Saturated fat", "Unsaturated fat", "Polyunsaturated fat", "Monounsaturated fat"],
+      "answer": 0
+    },
+    {
+      "text": "Which essential fatty acid cannot be produced by the body?",
+      "type": "choice",
+      "choices": ["Omega-3", "Omega-6", "Omega-9", "Saturated fat"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lipid is important for insulation and protecting organs?",
+      "type": "choice",
+      "choices": ["Body fat", "Omega-3", "Cholesterol", "Trans fat"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Nutrition: Protein",
+  "quiz": [
+    {
+      "text": "Which nutrient is essential for building and repairing body tissues?",
+      "type": "choice",
+      "choices": ["Protein", "Carbohydrates", "Lipids", "Fiber"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of protein contains all essential amino acids?",
+      "type": "choice",
+      "choices": ["Complete protein", "Incomplete protein", "Plant protein", "Fiber"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Eggs and milk are sources of complete protein.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Proteins are the main source of energy for the body.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Legumes are an example of plant-based protein.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one animal source of protein.",
+      "type": "input",
+      "answer": ["Chicken", "Beef", "Fish", "Eggs"]
+    },
+    {
+      "text": "Give one plant source of protein.",
+      "type": "input",
+      "answer": ["Lentils", "Beans", "Tofu", "Chickpeas"]
+    },
+    {
+      "text": "Which protein-rich food is suitable for vegetarians?",
+      "type": "choice",
+      "choices": ["Lentils", "Chicken", "Fish", "Eggs"],
+      "answer": 0
+    },
+    {
+      "text": "Which protein is found in dairy products?",
+      "type": "choice",
+      "choices": ["Casein", "Gluten", "Collagen", "Starch"],
+      "answer": 0
+    },
+    {
+      "text": "Which protein is important for muscle growth?",
+      "type": "choice",
+      "choices": ["Protein", "Fiber", "Carbohydrate", "Vitamin D"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Nutrition: Vitamins and Minerals",
+  "quiz": [
+    {
+      "text": "Which vitamin is important for healthy bones?",
+      "type": "choice",
+      "choices": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B12"],
+      "answer": 0
+    },
+    {
+      "text": "Which mineral is necessary for oxygen transport in blood?",
+      "type": "choice",
+      "choices": ["Iron", "Calcium", "Potassium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Vitamin C helps prevent scurvy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Excess vitamin A cannot be toxic.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Calcium is needed for strong teeth and bones.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one food rich in Vitamin C.",
+      "type": "input",
+      "answer": ["Orange", "Kiwi", "Strawberry", "Lemon"]
+    },
+    {
+      "text": "Name one mineral found in dairy products.",
+      "type": "input",
+      "answer": ["Calcium", "Magnesium", "Phosphorus", "Potassium"]
+    },
+    {
+      "text": "Which vitamin is important for vision?",
+      "type": "choice",
+      "choices": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin C"],
+      "answer": 0
+    },
+    {
+      "text": "Which mineral helps maintain fluid balance and nerve function?",
+      "type": "choice",
+      "choices": ["Potassium", "Iron", "Calcium", "Zinc"],
+      "answer": 0
+    },
+    {
+      "text": "Which vitamin is produced in the skin when exposed to sunlight?",
+      "type": "choice",
+      "choices": ["Vitamin D", "Vitamin B6", "Vitamin E", "Vitamin K"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Textiles",
+  "quiz": [
+    {
+      "text": "Which natural fibre comes from sheep?",
+      "type": "choice",
+      "choices": ["Wool", "Cotton", "Silk", "Linen"],
+      "answer": 0
+    },
+    {
+      "text": "Which fibre is made from silkworms?",
+      "type": "choice",
+      "choices": ["Silk", "Wool", "Cotton", "Polyester"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Polyester is a synthetic fibre.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Linen is made from the flax plant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cotton is a protein fibre.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one natural fibre used in textiles.",
+      "type": "input",
+      "answer": ["Cotton", "Wool", "Silk", "Linen"]
+    },
+    {
+      "text": "Name one synthetic fibre used in textiles.",
+      "type": "input",
+      "answer": ["Polyester", "Nylon", "Acrylic", "Spandex"]
+    },
+    {
+      "text": "Which textile property describes how easily a fabric stretches?",
+      "type": "choice",
+      "choices": ["Elasticity", "Durability", "Absorbency", "Thermal insulation"],
+      "answer": 0
+    },
+    {
+      "text": "Which textile property describes how well a fabric absorbs moisture?",
+      "type": "choice",
+      "choices": ["Absorbency", "Elasticity", "Lustre", "Strength"],
+      "answer": 0
+    },
+    {
+      "text": "Which textile property measures resistance to tearing or breaking?",
+      "type": "choice",
+      "choices": ["Strength", "Elasticity", "Absorbency", "Thermal insulation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "The Family",
+  "quiz": [
+    {
+      "text": "What is the primary role of the family in society?",
+      "type": "choice",
+      "choices": ["Socialisation of children", "Earning money only", "Manufacturing goods", "Transporting resources"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of family consists of parents and their children only?",
+      "type": "choice",
+      "choices": ["Nuclear family", "Extended family", "Single-parent family", "Blended family"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Extended families include grandparents, aunts, uncles, and cousins.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Single-parent families only exist due to divorce.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Families provide emotional support to their members.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a family responsibility.",
+      "type": "input",
+      "answer": ["Providing food", "Education of children", "Healthcare", "Emotional support"]
+    },
+    {
+      "text": "Give one example of a family right.",
+      "type": "input",
+      "answer": ["Right to privacy", "Right to protection", "Right to education", "Right to healthcare"]
+    },
+    {
+      "text": "Which family type forms when parents remarry and combine children from previous relationships?",
+      "type": "choice",
+      "choices": ["Blended family", "Nuclear family", "Extended family", "Single-parent family"],
+      "answer": 0
+    },
+    {
+      "text": "Which social function of the family teaches children moral values?",
+      "type": "choice",
+      "choices": ["Socialisation", "Recreation", "Income generation", "Transport"],
+      "answer": 0
+    },
+    {
+      "text": "Which family type consists of one parent raising children alone?",
+      "type": "choice",
+      "choices": ["Single-parent family", "Nuclear family", "Extended family", "Blended family"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Household Appliances",
+  "quiz": [
+    {
+      "text": "Which household appliance is used to remove dust from floors?",
+      "type": "choice",
+      "choices": ["Vacuum cleaner", "Washing machine", "Oven", "Microwave"],
+      "answer": 0
+    },
+    {
+      "text": "Which appliance is primarily used for cooking food using dry heat?",
+      "type": "choice",
+      "choices": ["Oven", "Blender", "Toaster", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A refrigerator is used to keep food cold and slow spoilage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A washing machine dries clothes automatically.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A microwave uses electromagnetic waves to heat food.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one household appliance used for cleaning.",
+      "type": "input",
+      "answer": ["Vacuum cleaner", "Dishwasher", "Mop", "Steam cleaner"]
+    },
+    {
+      "text": "Name one household appliance used for cooking.",
+      "type": "input",
+      "answer": ["Oven", "Stove", "Microwave", "Toaster"]
+    },
+    {
+      "text": "Which appliance is used to mix ingredients quickly?",
+      "type": "choice",
+      "choices": ["Blender", "Iron", "Oven", "Vacuum cleaner"],
+      "answer": 0
+    },
+    {
+      "text": "Which appliance keeps beverages hot for longer periods?",
+      "type": "choice",
+      "choices": ["Kettle", "Blender", "Washing machine", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "Which appliance is used to remove wrinkles from clothes?",
+      "type": "choice",
+      "choices": ["Iron", "Oven", "Microwave", "Vacuum cleaner"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Home Economics",
+  "topic": "Household Finances",
+  "quiz": [
+    {
+      "text": "Which document records all household income and expenditure?",
+      "type": "choice",
+      "choices": ["Budget", "Invoice", "Receipt", "Statement"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of account allows easy access to funds for daily spending?",
+      "type": "choice",
+      "choices": ["Current account", "Savings account", "Deposit account", "Investment account"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Interest is the cost of borrowing money.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A budget helps households spend without planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Receipts are proof of payment for goods or services.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one form of household income.",
+      "type": "input",
+      "answer": ["Salary", "Wages", "Pension", "Benefits"]
+    },
+    {
+      "text": "Name one form of household expenditure.",
+      "type": "input",
+      "answer": ["Rent", "Food", "Utilities", "Transport"]
+    },
+    {
+      "text": "Which household finance term means the difference between income and expenditure?",
+      "type": "choice",
+      "choices": ["Balance", "Budget", "Debt", "Loan"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of household expense is regular and fixed, e.g., rent or mortgage?",
+      "type": "choice",
+      "choices": ["Fixed expense", "Variable expense", "Discretionary expense", "Optional expense"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of household expense can change month to month, e.g., electricity or groceries?",
+      "type": "choice",
+      "choices": ["Variable expense", "Fixed expense", "Discretionary expense", "Optional expense"],
+      "answer": 0
+    }
+  ]
+}
+]

@@ -1,0 +1,20 @@
+{
+  "certificate": "lc",
+  "subject": "applied-maths",
+  "level": "hl",
+  "topics": [
+    "Circular Motion",
+    "Difference Equations",
+    "Differential Equations",
+    "Hooke's Law",
+    "Impacts & Collisions",
+    "Mathematical Modelling Project",
+    "Networks and Graphs",
+    "Newton's laws & Connected Particles",
+    "Optimal & Critical Paths",
+    "Projectiles",
+    "Uniform Accelerated Motion",
+    "Vectors",
+    "Work, Power, Energy & Momentum"
+  ]
+}

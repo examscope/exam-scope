@@ -1,0 +1,1138 @@
+[
+{
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "quiz": [
+    {
+      "text": "Simplify: 3x + 5x",
+      "type": "choice",
+      "choices": ["8x", "15x", "2x", "3x + 5"], 
+      "answer": 0
+    },
+    {
+      "text": "Factorise: x² + 5x",
+      "type": "choice",
+      "choices": ["x(x+5)", "(x+5)²", "x+5", "x² + 5"], 
+      "answer": 0
+    },
+    {
+      "text": "Simplify: 2(x + 3) + 4",
+      "type": "choice",
+      "choices": ["2x + 10", "2x + 7", "2x + 6", "2x + 12"], 
+      "answer": 0
+    },
+    {
+      "text": "Expand: (x + 2)(x + 3)",
+      "type": "choice",
+      "choices": ["x² + 5x + 6", "x² + 6x + 5", "x² + 5x + 5", "x² + 6x + 6"], 
+      "answer": 0
+    },
+    {
+      "text": "Factorise completely: x² - 9",
+      "type": "choice",
+      "choices": ["(x-3)(x+3)", "(x-9)(x+1)", "(x-1)(x+9)", "x(x-9)"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: x² + 2x + 1 = (x+1)²",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 2x + 3x = 6x",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: x² - x² = 0",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the letter in an expression called?",
+      "type": "input",
+      "answer": ["variable", "letter"]
+    },
+    {
+      "text": "What is the result of multiplying terms together called?",
+      "type": "input",
+      "answer": ["product"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Algebra - Equations",
+  "quiz": [
+    {
+      "text": "Solve: x + 5 = 12",
+      "type": "choice",
+      "choices": ["7", "17", "-7", "5"], 
+      "answer": 0
+    },
+    {
+      "text": "Solve: 2x = 10",
+      "type": "choice",
+      "choices": ["5", "12", "8", "10"], 
+      "answer": 0
+    },
+    {
+      "text": "Solve: 3x + 2 = 11",
+      "type": "choice",
+      "choices": ["3", "9", "2", "5"], 
+      "answer": 0
+    },
+    {
+      "text": "Solve: x - 7 = 0",
+      "type": "choice",
+      "choices": ["7", "-7", "0", "1"], 
+      "answer": 0
+    },
+    {
+      "text": "Solve: 5x = 25",
+      "type": "choice",
+      "choices": ["5", "20", "25", "0"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: x + 3 = 3 has solution x = 0",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 2x = 8 implies x = 6",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: x - 4 = 0 implies x = 4",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the value that makes an equation true called?",
+      "type": "input",
+      "answer": ["solution", "answer"]
+    },
+    {
+      "text": "What symbol is used to show equality in an equation?",
+      "type": "input",
+      "answer": ["equals", "equal"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Area & Volume",
+  "quiz": [
+    {
+      "text": "The area of a rectangle is calculated by:",
+      "type": "choice",
+      "choices": ["Length × Width", "2 × (Length + Width)", "Length + Width", "Length ÷ Width"], 
+      "answer": 0
+    },
+    {
+      "text": "The area of a triangle is:",
+      "type": "choice",
+      "choices": ["1/2 × Base × Height", "Base × Height", "Base + Height", "2 × Base × Height"], 
+      "answer": 0
+    },
+    {
+      "text": "The volume of a cube is:",
+      "type": "choice",
+      "choices": ["Side³", "Side²", "Side × 4", "3 × Side²"], 
+      "answer": 0
+    },
+    {
+      "text": "The volume of a rectangular prism is:",
+      "type": "choice",
+      "choices": ["Length × Width × Height", "Length × Width", "2 × (Length + Width + Height)", "Height × Width"], 
+      "answer": 0
+    },
+    {
+      "text": "The area of a circle is:",
+      "type": "choice",
+      "choices": ["πr²", "2πr", "πd", "πr"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Area of a square = Side × Side",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Volume of a cylinder = πr²h",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Area of a triangle = Base × Height",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What do you call the space inside a shape?",
+      "type": "input",
+      "answer": ["area"]
+    },
+    {
+      "text": "What do you call the space inside a 3D object?",
+      "type": "input",
+      "answer": ["volume"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Co-Ordinate Geometry of the Line",
+  "quiz": [
+    {
+      "text": "The slope of a line passing through points (x1, y1) and (x2, y2) is:",
+      "type": "choice",
+      "choices": ["(y2 - y1)/(x2 - x1)", "(x2 - x1)/(y2 - y1)", "y2 + y1", "x2 + x1"], 
+      "answer": 0
+    },
+    {
+      "text": "The equation of a line in slope-intercept form is:",
+      "type": "choice",
+      "choices": ["y = mx + c", "y = x + c", "y = m/x + c", "y = m² + c"], 
+      "answer": 0
+    },
+    {
+      "text": "Two lines are parallel if:",
+      "type": "choice",
+      "choices": ["Their slopes are equal", "Their slopes multiply to 1", "They intersect at origin", "Their slopes are negative"], 
+      "answer": 0
+    },
+    {
+      "text": "Two lines are perpendicular if:",
+      "type": "choice",
+      "choices": ["Slopes multiply to -1", "Slopes are equal", "Slopes add to 1", "Slopes add to 0"], 
+      "answer": 0
+    },
+    {
+      "text": "The y-intercept of a line is:",
+      "type": "choice",
+      "choices": ["The point where line crosses y-axis", "The slope", "The x-coordinate of a point", "The origin"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: A horizontal line has slope 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A vertical line has undefined slope.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Slope = (x2 - x1)/(y2 - y1)",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the name of the horizontal axis?",
+      "type": "input",
+      "answer": ["x axis", "x"]
+    },
+    {
+      "text": "What is the name of the vertical axis?",
+      "type": "input",
+      "answer": ["y axis", "y"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Co-Ordinate Geometry the Circle",
+  "quiz": [
+    {
+      "text": "The general equation of a circle with centre (h, k) and radius r is:",
+      "type": "choice",
+      "choices": ["(x-h)² + (y-k)² = r²", "x² + y² = r²", "(x+k)² + (y+h)² = r²", "(x-h) + (y-k) = r"], 
+      "answer": 0
+    },
+    {
+      "text": "The radius of a circle is:",
+      "type": "choice",
+      "choices": ["Distance from centre to any point on circle", "Distance across circle through centre", "Diameter/2", "Perimeter/2"], 
+      "answer": 0
+    },
+    {
+      "text": "The centre of the circle x² + y² - 4x + 6y - 12 = 0 is:",
+      "type": "choice",
+      "choices": ["(2, -3)", "(4, -6)", "(-2, 3)", "(2, 3)"], 
+      "answer": 0
+    },
+    {
+      "text": "The radius of the circle x² + y² - 4x + 6y - 12 = 0 is:",
+      "type": "choice",
+      "choices": ["√(2² + (-3)² + 12)", "√(4 + 9 - 12)", "√(16 + 36 + 12)", "√(4 + 9 + 12)"], 
+      "answer": 3
+    },
+    {
+      "text": "A circle passing through the origin has equation:",
+      "type": "choice",
+      "choices": ["x² + y² + 2gx + 2fy = 0", "x² + y² = 1", "(x-h)² + (y-k)² = r²", "x² + y² + c = 1"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: All points on a circle are equidistant from the centre.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The diameter = 2 × radius.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: x² + y² = r² is the standard form for a circle at origin.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the centre point of a circle called?",
+      "type": "input",
+      "answer": ["centre", "center"]
+    },
+    {
+      "text": "What is the distance from the centre to the edge called?",
+      "type": "input",
+      "answer": ["radius"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Complex Numbers",
+  "quiz": [
+    {
+      "text": "i² equals:",
+      "type": "choice",
+      "choices": ["-1", "1", "0", "i"], 
+      "answer": 0
+    },
+    {
+      "text": "The complex number 3 + 4i has real part:",
+      "type": "choice",
+      "choices": ["3", "4", "7", "12"], 
+      "answer": 0
+    },
+    {
+      "text": "The imaginary part of 2 - 5i is:",
+      "type": "choice",
+      "choices": ["-5", "2", "5", "-2"], 
+      "answer": 0
+    },
+    {
+      "text": "The conjugate of 3 + 2i is:",
+      "type": "choice",
+      "choices": ["3 - 2i", "-3 + 2i", "3 + 2i", "-3 - 2i"], 
+      "answer": 0
+    },
+    {
+      "text": "Multiplying i × i gives:",
+      "type": "choice",
+      "choices": ["-1", "1", "i²", "i"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Complex numbers can be represented on the Argand diagram.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The sum of two complex numbers is always real.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Conjugate of a complex number has opposite imaginary sign.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the real part of a complex number called?",
+      "type": "input",
+      "answer": ["real"]
+    },
+    {
+      "text": "What is the imaginary part of a complex number called?",
+      "type": "input",
+      "answer": ["imaginary"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Counting",
+  "quiz": [
+    {
+      "text": "How many ways can you arrange 3 books on a shelf?",
+      "type": "choice",
+      "choices": ["3", "6", "9", "12"],
+      "answer": 1
+    },
+    {
+      "text": "The number of ways to choose 2 items from 5 is:",
+      "type": "choice",
+      "choices": ["10", "20", "5", "15"],
+      "answer": 0
+    },
+    {
+      "text": "Factorial of 4 (4!) equals:",
+      "type": "choice",
+      "choices": ["24", "12", "16", "8"],
+      "answer": 0
+    },
+    {
+      "text": "Number of ways to arrange 4 students in a line is:",
+      "type": "choice",
+      "choices": ["16", "24", "12", "20"],
+      "answer": 1
+    },
+    {
+      "text": "The combination formula is:",
+      "type": "choice",
+      "choices": ["n!/r!(n-r)!", "n!/r!", "n!/(n-r)!", "r!/(n!(n-r)!)"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Permutations take order into account.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Combinations are used when order matters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 0! equals 1.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is another word for total number of items?",
+      "type": "input",
+      "answer": ["count", "number"]
+    },
+    {
+      "text": "What do you call a selection of items from a set?",
+      "type": "input",
+      "answer": ["combination", "subset"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Differentiation",
+  "quiz": [
+    {
+      "text": "The derivative of x² is:",
+      "type": "choice",
+      "choices": ["2x", "x", "x²", "2"],
+      "answer": 0
+    },
+    {
+      "text": "The derivative of sin x is:",
+      "type": "choice",
+      "choices": ["cos x", "-cos x", "sin x", "-sin x"],
+      "answer": 0
+    },
+    {
+      "text": "The derivative of e^x is:",
+      "type": "choice",
+      "choices": ["e^x", "xe^(x-1)", "x^e", "1/e^x"],
+      "answer": 0
+    },
+    {
+      "text": "The derivative of a constant is:",
+      "type": "choice",
+      "choices": ["0", "1", "The constant itself", "Undefined"],
+      "answer": 0
+    },
+    {
+      "text": "The derivative of x^n is:",
+      "type": "choice",
+      "choices": ["nx^(n-1)", "x^n", "n*x^n", "x^(n+1)"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Differentiation gives the slope of a curve.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The derivative of x is 2x.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The derivative of ln x is 1/x.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the process of finding the gradient called?",
+      "type": "input",
+      "answer": ["differentiation"]
+    },
+    {
+      "text": "What is the rate of change of a function called?",
+      "type": "input",
+      "answer": ["gradient"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Financial Maths",
+  "quiz": [
+    {
+      "text": "Simple interest is calculated using which formula?",
+      "type": "choice",
+      "choices": ["I = PRT", "I = PR/T", "I = P+RT", "I = PRT²"],
+      "answer": 0
+    },
+    {
+      "text": "Compound interest is calculated:",
+      "type": "choice",
+      "choices": ["Annually", "On principal only", "On principal + previous interest", "Only on previous interest"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A higher rate of interest increases the amount owed faster.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Simple interest depends on time, principal, and rate.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Compound interest formula is I = PRT.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "The total amount with simple interest of €1000 at 5% for 3 years is:",
+      "type": "input",
+      "answer": ["1150", "€1150"]
+    },
+    {
+      "text": "The total amount with €500 at 4% compound interest for 2 years is:",
+      "type": "input",
+      "answer": ["541", "€541"]
+    },
+    {
+      "text": "Simple interest on €800 at 6% for 2 years is:",
+      "type": "input",
+      "answer": ["96", "€96"]
+    },
+    {
+      "text": "What is money you earn from work called?",
+      "type": "input",
+      "answer": ["income"]
+    },
+    {
+      "text": "What is money you pay for goods called?",
+      "type": "input",
+      "answer": ["expense"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Functions",
+  "quiz": [
+    {
+      "text": "Which is a function?",
+      "type": "choice",
+      "choices": ["y² = x", "y = 2x + 3", "x² + y² = 1", "y² + x² = 4"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Every function passes the vertical line test.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A function can have two y-values for one x-value.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "The domain of y = √x is:",
+      "type": "input",
+      "answer": ["x ≥ 0", "x greater than or equal to 0"]
+    },
+    {
+      "text": "The range of y = x² is:",
+      "type": "input",
+      "answer": ["y ≥ 0", "y greater than or equal to 0"]
+    },
+    {
+      "text": "The function y = 3x - 5 is linear.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "y = x³ is an example of a polynomial function.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "y = 1/x is not defined at x = 0.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What links an input to exactly one output?",
+      "type": "input",
+      "answer": ["function"]
+    },
+    {
+      "text": "What is the input value called?",
+      "type": "input",
+      "answer": ["x", "input"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Geometry",
+  "quiz": [
+    {
+      "text": "The sum of interior angles of a triangle is:",
+      "type": "choice",
+      "choices": ["180°", "90°", "360°", "270°"],
+      "answer": 0
+    },
+    {
+      "text": "A square is also a rectangle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "The diagonals of a rhombus are perpendicular.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "The area of a triangle with base 6 and height 4 is:",
+      "type": "input",
+      "answer": ["12"]
+    },
+    {
+      "text": "The circumference of a circle with radius 5 is:",
+      "type": "input",
+      "answer": ["31.4", "31.4 cm"]
+    },
+    {
+      "text": "The sum of angles in a quadrilateral is 360°.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "A right-angled triangle has angles 30°, 60°, 90°.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "The area of a rectangle with length 8 and width 3 is:",
+      "type": "input",
+      "answer": ["24"]
+    },
+    {
+      "text": "What is a shape with three sides called?",
+      "type": "input",
+      "answer": ["triangle"]
+    },
+    {
+      "text": "What is a shape with four equal sides called?",
+      "type": "input",
+      "answer": ["square"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Geometry (Proofs and Constructions)",
+  "quiz": [
+    {
+      "text": "True or false: All angles in an equilateral triangle are equal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The midpoint of a line segment divides it into two equal lengths.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Construct a perpendicular bisector of a line segment.",
+      "type": "input",
+      "answer": ["Draw arcs from each endpoint, intersect arcs, join intersection points"]
+    },
+    {
+      "text": "Construct an angle of 60° using compass and straightedge.",
+      "type": "input",
+      "answer": ["Draw arc, mark points on arc, draw arcs from points, connect intersection with vertex"]
+    },
+    {
+      "text": "Prove the base angles of an isosceles triangle are equal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "The sum of interior angles in any polygon with n sides is 180(n-2).",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "The exterior angle of a triangle equals the sum of the two opposite interior angles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Construct a triangle given two sides and included angle.",
+      "type": "input",
+      "answer": ["Draw one side, set compass for second side, draw arcs from endpoints, join intersection"]
+    },
+    {
+      "text": "What is a logical argument to show something is true called?",
+      "type": "input",
+      "answer": ["proof"]
+    },
+    {
+      "text": "What do you use to draw accurate circles and lines?",
+      "type": "input",
+      "answer": ["compass", "ruler"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Graphing Functions",
+  "quiz": [
+    {
+      "text": "Which axis is horizontal on a graph?",
+      "type": "choice",
+      "choices": ["X", "Y", "Z", "W"],
+      "answer": 0
+    },
+    {
+      "text": "Which axis is vertical on a graph?",
+      "type": "choice",
+      "choices": ["X", "Y", "Z", "W"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The point where axes meet is called the origin.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All functions must be straight lines.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The graph of a function shows input and output.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these can be a function's output?",
+      "type": "choice",
+      "choices": ["Number", "Word", "Colour", "Animal"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these can be a function's input?",
+      "type": "choice",
+      "choices": ["Number", "Animal", "Colour", "Word"],
+      "answer": 0
+    },
+    {
+      "text": "Name the highest point on a curve.",
+      "type": "input",
+      "answer": ["maximum", "peak"]
+    },
+    {
+      "text": "Name the lowest point on a curve.",
+      "type": "input",
+      "answer": ["minimum", "valley"]
+    },
+    {
+      "text": "Which value is read along the horizontal axis?",
+      "type": "input",
+      "answer": ["input", "x value"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Indices",
+  "quiz": [
+    {
+      "text": "What is three squared?",
+      "type": "choice",
+      "choices": ["six", "nine", "twelve", "three"],
+      "answer": 1
+    },
+    {
+      "text": "What is two cubed?",
+      "type": "choice",
+      "choices": ["six", "eight", "four", "two"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Any number to the power of one is itself.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Zero to any power is zero.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: One to any power is always one.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which is bigger: two to the power of three or three to the power of two?",
+      "type": "choice",
+      "choices": ["two cubed", "three squared", "equal", "none"],
+      "answer": 0
+    },
+    {
+      "text": "Which is one to the power of five?",
+      "type": "choice",
+      "choices": ["one", "five", "zero", "ten"],
+      "answer": 0
+    },
+    {
+      "text": "Write the value of five squared.",
+      "type": "input",
+      "answer": ["twenty five", "25"]
+    },
+    {
+      "text": "Write the value of four cubed.",
+      "type": "input",
+      "answer": ["sixty four", "64"]
+    },
+    {
+      "text": "What is two to the power of four?",
+      "type": "input",
+      "answer": ["sixteen", "16"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Number Systems",
+  "quiz": [
+    {
+      "text": "Which of these is a natural number?",
+      "type": "choice",
+      "choices": ["minus two", "zero", "three", "negative one"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is a whole number?",
+      "type": "choice",
+      "choices": ["minus one", "zero", "three point five", "minus two"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: All integers are whole numbers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Zero is an integer.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All fractions are rational numbers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which is irrational?",
+      "type": "choice",
+      "choices": ["pi", "four", "five", "zero"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a negative integer?",
+      "type": "choice",
+      "choices": ["minus three", "two", "one", "zero"],
+      "answer": 0
+    },
+    {
+      "text": "Name a rational number.",
+      "type": "input",
+      "answer": ["one half", "half", "1 by 2"]
+    },
+    {
+      "text": "Name an irrational number.",
+      "type": "input",
+      "answer": ["pi", "root two", "square root of two"]
+    },
+    {
+      "text": "Give an example of a positive integer.",
+      "type": "input",
+      "answer": ["three", "5", "seven"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Probability",
+  "quiz": [
+    {
+      "text": "What is the chance of a coin landing heads?",
+      "type": "choice",
+      "choices": ["one half", "one third", "one", "zero"],
+      "answer": 0
+    },
+    {
+      "text": "What is the chance of rolling a six on a dice?",
+      "type": "choice",
+      "choices": ["one six", "one quarter", "one third", "one half"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Probability is always between zero and one.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Probability of impossible event is one.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Probability of certain event is one.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which event is impossible?",
+      "type": "choice",
+      "choices": ["rolling seven on a dice", "rolling three", "heads on coin", "tails on coin"],
+      "answer": 0
+    },
+    {
+      "text": "Which is more likely: heads or tails?",
+      "type": "choice",
+      "choices": ["both equal", "heads", "tails", "depends"],
+      "answer": 0
+    },
+    {
+      "text": "Write the probability of getting a four on a dice.",
+      "type": "input",
+      "answer": ["one six", "1 by 6", "one sixth"]
+    },
+    {
+      "text": "Write the probability of an impossible event.",
+      "type": "input",
+      "answer": ["zero", "0"]
+    },
+    {
+      "text": "Write the probability of a certain event.",
+      "type": "input",
+      "answer": ["one", "1"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Sequences & Series",
+  "quiz": [
+    {
+      "text": "What is the next number: 2, 4, 6, 8?",
+      "type": "choice",
+      "choices": ["ten", "nine", "twelve", "eleven"],
+      "answer": 0
+    },
+    {
+      "text": "What is the next number: 5, 10, 15, 20?",
+      "type": "choice",
+      "choices": ["twenty five", "thirty", "twenty one", "twenty four"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An arithmetic sequence adds the same number each time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A geometric sequence adds the same number each time.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sequences can be infinite.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which number comes after 3, 6, 12?",
+      "type": "choice",
+      "choices": ["eighteen", "twenty four", "twelve", "thirty six"],
+      "answer": 1
+    },
+    {
+      "text": "Which number comes after 1, 4, 7, 10?",
+      "type": "choice",
+      "choices": ["thirteen", "twelve", "eleven", "fourteen"],
+      "answer": 0
+    },
+    {
+      "text": "Write the next number after 2, 6, 18.",
+      "type": "input",
+      "answer": ["fifty four", "54"]
+    },
+    {
+      "text": "Write the next number after 1, 2, 4, 8.",
+      "type": "input",
+      "answer": ["sixteen", "16"]
+    },
+    {
+      "text": "Write the next number after 5, 15, 45.",
+      "type": "input",
+      "answer": ["one thirty five", "135"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Statistics",
+  "quiz": [
+    {
+      "text": "Which measure shows the middle value?",
+      "type": "choice",
+      "choices": ["mean", "median", "mode", "range"],
+      "answer": 1
+    },
+    {
+      "text": "Which measure shows the most common value?",
+      "type": "choice",
+      "choices": ["mean", "median", "mode", "range"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The mean is the sum divided by count.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The range is the difference between largest and smallest.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Median is affected by extreme values.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which measure is sensitive to outliers?",
+      "type": "choice",
+      "choices": ["mean", "median", "mode", "range"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure ignores extreme values?",
+      "type": "choice",
+      "choices": ["mean", "median", "mode", "range"],
+      "answer": 1
+    },
+    {
+      "text": "Write a measure of central tendency.",
+      "type": "input",
+      "answer": ["mean", "median", "mode"]
+    },
+    {
+      "text": "Write a measure of spread.",
+      "type": "input",
+      "answer": ["range", "interquartile range", "iqr"]
+    },
+    {
+      "text": "Write the average of 2, 4, 6.",
+      "type": "input",
+      "answer": ["four", "4"]
+    }
+  ]
+},
+{
+  "subject": "Mathematics",
+  "topic": "Trigonometry",
+  "quiz": [
+    {
+      "text": "What is the ratio of opposite to hypotenuse?",
+      "type": "choice",
+      "choices": ["sine", "cosine", "tangent", "secant"],
+      "answer": 0
+    },
+    {
+      "text": "What is the ratio of adjacent to hypotenuse?",
+      "type": "choice",
+      "choices": ["sine", "cosine", "tangent", "cotangent"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Tangent is opposite divided by adjacent.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cosine is opposite divided by adjacent.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sine and cosine are always less than one.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which ratio gives tangent of an angle?",
+      "type": "choice",
+      "choices": ["opposite over adjacent", "adjacent over hypotenuse", "opposite over hypotenuse", "adjacent over opposite"],
+      "answer": 0
+    },
+    {
+      "text": "Which ratio gives cosine of an angle?",
+      "type": "choice",
+      "choices": ["adjacent over hypotenuse", "opposite over hypotenuse", "opposite over adjacent", "hypotenuse over adjacent"],
+      "answer": 0
+    },
+    {
+      "text": "Write the sine of a right angle.",
+      "type": "input",
+      "answer": ["one", "1"]
+    },
+    {
+      "text": "Write the cosine of ninety degrees.",
+      "type": "input",
+      "answer": ["zero", "0"]
+    },
+    {
+      "text": "Write the tangent of zero degrees.",
+      "type": "input",
+      "answer": ["zero", "0"]
+    }
+  ]
+}
+]

@@ -1,0 +1,490 @@
+[
+{
+  "subject": "French",
+  "topic": "Opinion - Animals, nature and the environment",
+  "quiz": [
+    {
+      "text": "Which word means 'pollution' in French?",
+      "type": "choice",
+      "choices": ["La pollution", "La nature", "L'environnement", "L'animal"],
+      "answer": 0
+    },
+    {
+      "text": "Which French phrase expresses concern for endangered species?",
+      "type": "choice",
+      "choices": ["Les espèces menacées", "Les animaux domestiques", "Les forêts tropicales", "Les océans"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Recycler' means to recycle in French.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Déforestation' refers to planting more trees.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which French word means 'climate change'?",
+      "type": "choice",
+      "choices": ["Le changement climatique", "Le recyclage", "La biodiversité", "L'énergie"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to protect' in French?",
+      "type": "choice",
+      "choices": ["Protéger", "Détruire", "Polluer", "Éteindre"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Biodiversité' refers to the variety of life forms in an environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to protect the environment in French.",
+      "type": "input",
+      "answer": ["Recycler", "Réduire la pollution", "Protéger les animaux", "Planter des arbres"]
+    },
+    {
+      "text": "Give one reason protecting animals is important in French.",
+      "type": "input",
+      "answer": ["Préserver les espèces", "Maintenir l'équilibre écologique", "Protéger la biodiversité", "Éviter l'extinction"]
+    },
+    {
+      "text": "Which French phrase means 'renewable energy'?",
+      "type": "choice",
+      "choices": ["L'énergie renouvelable", "Le charbon", "Le pétrole", "La pollution"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Education",
+  "quiz": [
+    {
+      "text": "Which French word means 'school'?",
+      "type": "choice",
+      "choices": ["L'école", "La maison", "Le travail", "Le parc"],
+      "answer": 0
+    },
+    {
+      "text": "Which word refers to 'teacher' in French?",
+      "type": "choice",
+      "choices": ["Le professeur", "L'élève", "Le directeur", "Le camarade"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Apprendre' means 'to learn'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Éducation' refers only to university studies.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which French phrase means 'homework'?",
+      "type": "choice",
+      "choices": ["Les devoirs", "La récréation", "Le manuel", "La classe"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to study' in French?",
+      "type": "choice",
+      "choices": ["Étudier", "Jouer", "Dormir", "Manger"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Collège' in French refers to secondary school.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one advantage of education in French.",
+      "type": "input",
+      "answer": ["Améliorer les connaissances", "Obtenir un emploi", "Développer des compétences", "Grandir personnellement"]
+    },
+    {
+      "text": "Give one disadvantage of online learning in French.",
+      "type": "input",
+      "answer": ["Moins d'interaction sociale", "Problèmes techniques", "Distraction à la maison", "Manque de motivation"]
+    },
+    {
+      "text": "Which French word means 'university'?",
+      "type": "choice",
+      "choices": ["L'université", "Le lycée", "L'école", "Le collège"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Health",
+  "quiz": [
+    {
+      "text": "Which French phrase means 'to be healthy'?",
+      "type": "choice",
+      "choices": ["Être en bonne santé", "Être malade", "Avoir faim", "Faire du sport"],
+      "answer": 0
+    },
+    {
+      "text": "Which word refers to 'exercise' in French?",
+      "type": "choice",
+      "choices": ["L'exercice", "La nourriture", "Le sommeil", "Le stress"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Manger équilibré' means to eat a balanced diet.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Se reposer' means to exercise.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which French phrase means 'mental health'?",
+      "type": "choice",
+      "choices": ["La santé mentale", "La santé physique", "L'hygiène", "La nutrition"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to relax' in French?",
+      "type": "choice",
+      "choices": ["Se détendre", "Travailler", "Dormir", "Se lever"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'L'hygiène' refers to personal cleanliness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one habit that improves health in French.",
+      "type": "input",
+      "answer": ["Faire du sport", "Manger équilibré", "Dormir suffisamment", "Se détendre"]
+    },
+    {
+      "text": "Give one consequence of poor health in French.",
+      "type": "input",
+      "answer": ["Maladies", "Fatigue", "Stress", "Manque d'énergie"]
+    },
+    {
+      "text": "Which French word means 'nutrition'?",
+      "type": "choice",
+      "choices": ["La nutrition", "Le sport", "Le sommeil", "La santé"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Ireland, travel, tourism and culture",
+  "quiz": [
+    {
+      "text": "Which French word means 'tourism'?",
+      "type": "choice",
+      "choices": ["Le tourisme", "Le voyage", "La culture", "La nature"],
+      "answer": 0
+    },
+    {
+      "text": "Which phrase means 'to visit a place' in French?",
+      "type": "choice",
+      "choices": ["Visiter un endroit", "Aller à l'école", "Manger au restaurant", "Faire du sport"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Le patrimoine' refers to cultural heritage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'Un guide touristique' is a type of hotel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which French phrase means 'to explore nature'?",
+      "type": "choice",
+      "choices": ["Explorer la nature", "Visiter un musée", "Regarder un film", "Faire du shopping"],
+      "answer": 0
+    },
+    {
+      "text": "Which French word refers to 'Irish culture'?",
+      "type": "choice",
+      "choices": ["La culture irlandaise", "Le sport", "Le tourisme", "Le patrimoine"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Une auberge de jeunesse' is a type of accommodation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one famous Irish landmark in French.",
+      "type": "input",
+      "answer": ["La Chaussée des Géants", "Le Ring of Kerry", "Le château de Dublin", "Le Burren"]
+    },
+    {
+      "text": "Give one reason tourists visit Ireland in French.",
+      "type": "input",
+      "answer": ["La nature", "La culture", "L'histoire", "Les châteaux"]
+    },
+    {
+      "text": "Which French phrase means 'to plan a trip'?",
+      "type": "choice",
+      "choices": ["Planifier un voyage", "Réserver une chambre", "Faire du shopping", "Prendre un taxi"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Politics, social issues and equality",
+  "quiz": [
+    {
+      "text": "Which French word means 'government'?",
+      "type": "choice",
+      "choices": ["Le gouvernement", "Le parlement", "La loi", "La politique"],
+      "answer": 0
+    },
+    {
+      "text": "Which phrase means 'social equality' in French?",
+      "type": "choice",
+      "choices": ["L'égalité sociale", "La liberté", "Les droits de l'homme", "La démocratie"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Les droits de l'homme' refers to human rights.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: 'La pauvreté' means wealth.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which French phrase means 'to vote'?",
+      "type": "choice",
+      "choices": ["Voter", "Écrire", "Lire", "Gagner"],
+      "answer": 0
+    },
+    {
+      "text": "Which word refers to 'discrimination' in French?",
+      "type": "choice",
+      "choices": ["La discrimination", "La liberté", "L'égalité", "La justice"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'La démocratie' means democracy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to fight social injustice in French.",
+      "type": "input",
+      "answer": ["Protester", "Éduquer", "Voter", "Sensibiliser"]
+    },
+    {
+      "text": "Give one example of a social issue in French.",
+      "type": "input",
+      "answer": ["La pauvreté", "Le chômage", "La discrimination", "L'immigration"]
+    },
+    {
+      "text": "Which French word means 'human rights'?",
+      "type": "choice",
+      "choices": ["Les droits de l'homme", "La liberté", "L'égalité", "La justice"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Sport",
+  "quiz": [
+    {
+      "text": "Which French word means 'football'?",
+      "type": "choice",
+      "choices": ["Le football", "Le basket", "La natation", "Le tennis"],
+      "answer": 0
+    },
+    {
+      "text": "Which phrase means 'to train' in French?",
+      "type": "choice",
+      "choices": ["S'entraîner", "Jouer", "Courir", "Nager"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Un match' means a training session.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Une compétition' refers to a competition.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which French word means 'athlete'?",
+      "type": "choice",
+      "choices": ["Un athlète", "Un entraîneur", "Un spectateur", "Un joueur"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to win' in French?",
+      "type": "choice",
+      "choices": ["Gagner", "Perdre", "Jouer", "S'entraîner"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Un stade' refers to a stadium.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one popular sport in France in French.",
+      "type": "input",
+      "answer": ["Le football", "Le rugby", "Le tennis", "Le cyclisme"]
+    },
+    {
+      "text": "Give one benefit of playing sport in French.",
+      "type": "input",
+      "answer": ["Améliorer la santé", "Faire de l'exercice", "Renforcer l'esprit d'équipe", "Se divertir"]
+    },
+    {
+      "text": "Which French phrase means 'sports equipment'?",
+      "type": "choice",
+      "choices": ["Le matériel sportif", "Le stade", "La compétition", "Le joueur"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Technology and media",
+  "quiz": [
+    {
+      "text": "Which French word means 'computer'?",
+      "type": "choice",
+      "choices": ["L'ordinateur", "La télévision", "Le téléphone", "Le journal"],
+      "answer": 0
+    },
+    {
+      "text": "Which phrase means 'social media' in French?",
+      "type": "choice",
+      "choices": ["Les réseaux sociaux", "Les nouvelles", "La radio", "Le film"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Télécharger' means to upload.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'La technologie' refers to technology.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which French word means 'internet'?",
+      "type": "choice",
+      "choices": ["L'internet", "La télévision", "Le journal", "Le téléphone"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to send an email' in French?",
+      "type": "choice",
+      "choices": ["Envoyer un e-mail", "Téléphoner", "Regarder", "Écouter"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Un blog' refers to a website where someone writes regularly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one positive effect of technology in French.",
+      "type": "input",
+      "answer": ["Faciliter la communication", "Apprendre en ligne", "Partager des informations", "Divertissement"]
+    },
+    {
+      "text": "Give one negative effect of social media in French.",
+      "type": "input",
+      "answer": ["Cyberintimidation", "Perte de temps", "Stress", "Isolement"]
+    },
+    {
+      "text": "Which French phrase means 'mobile phone'?",
+      "type": "choice",
+      "choices": ["Le téléphone portable", "L'ordinateur", "La tablette", "Le journal"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "French",
+  "topic": "Opinion - Youth, teenagers and families",
+  "quiz": [
+    {
+      "text": "Which French word means 'teenager'?",
+      "type": "choice",
+      "choices": ["L'adolescent", "L'enfant", "Le parent", "Le grand-parent"],
+      "answer": 0
+    },
+    {
+      "text": "Which phrase means 'family life' in French?",
+      "type": "choice",
+      "choices": ["La vie de famille", "La vie sociale", "La vie scolaire", "La vie professionnelle"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Les parents' refers to grandparents.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: 'Les jeunes' refers to young people.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which French phrase means 'to get along with siblings'?",
+      "type": "choice",
+      "choices": ["S'entendre avec les frères et sœurs", "Parler aux parents", "Aller à l'école", "Faire du sport"],
+      "answer": 0
+    },
+    {
+      "text": "Which verb means 'to spend time with family' in French?",
+      "type": "choice",
+      "choices": ["Passer du temps en famille", "Étudier", "Jouer au football", "Regarder la télévision"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Une maison' means a family.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one responsibility of teenagers in French.",
+      "type": "input",
+      "answer": ["Faire ses devoirs", "Aider à la maison", "Respecter les parents", "Travailler"]
+    },
+    {
+      "text": "Give one activity families can do together in French.",
+      "type": "input",
+      "answer": ["Aller en vacances", "Faire du sport", "Regarder un film", "Manger ensemble"]
+    },
+    {
+      "text": "Which French word means 'parent'?",
+      "type": "choice",
+      "choices": ["Le parent", "L'enfant", "L'adolescent", "Le frère"],
+      "answer": 0
+    }
+  ]
+}
+]

@@ -1,0 +1,26 @@
+{
+  "certificate": "lc",
+  "subject": "french",
+  "level": "hl",
+  "topics": [
+    "AURAL - Conversation",
+    "AURAL - Interview",
+    "AURAL - News Pieces",
+    "Literary/Novel Comprehension",
+    "Newspaper/Magazine Comprehension",
+    "Opinion - Animals, nature and the environment",
+    "Opinion - Education",
+    "Opinion - Health",
+    "Opinion - Ireland, travel, tourism and culture",
+    "Opinion - Politics, social issues and equality",
+    "Opinion - Sport",
+    "Opinion - Technology and media",
+    "Opinion - Youth, teenagers and families",
+    "ORAL exam",
+    "Write a Diary...",
+    "Write a letter...",
+    "Write a Note...",
+    "Write an eMail...",
+    "Written Production (récit)"
+  ]
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "subject": "Religious Education",
+    "topic": "Buddhism",
+    "quiz": [
+      {
+        "text": "Who is the founder of Buddhism?",
+        "type": "choice",
+        "choices": ["Gautama Buddha", "Confucius", "Laozi", "Jesus Christ"],
+        "answer": 0
+      },
+      {
+        "text": "The ultimate goal of Buddhism is:",
+        "type": "choice",
+        "choices": ["Nirvana", "Heaven", "Reincarnation", "Salvation"],
+        "answer": 0
+      },
+      {
+        "text": "Buddhism teaches that suffering is caused by:",
+        "type": "choice",
+        "choices": ["Desire", "Faith", "Sin", "Ignorance"],
+        "answer": 0
+      },
+      {
+        "text": "Which of these is one of the Four Noble Truths?",
+        "type": "choice",
+        "choices": ["Life involves suffering", "Life is eternal", "God created the world", "Faith alone saves"],
+        "answer": 0
+      },
+      {
+        "text": "Buddhist teachings are often recorded in:",
+        "type": "choice",
+        "choices": ["Tripitaka", "Bible", "Quran", "Vedas"],
+        "answer": 0
+      },
+      {
+        "text": "Meditation in Buddhism is primarily used to:",
+        "type": "choice",
+        "choices": ["Calm the mind", "Pray to God", "Perform rituals", "Study scripture"],
+        "answer": 0
+      },
+      {
+        "text": "The Eightfold Path is a guide to:",
+        "type": "choice",
+        "choices": ["End suffering", "Enter heaven", "Worship deities", "Follow tradition"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Karma affects future rebirths in Buddhism.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All Buddhists believe in a single God.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Nirvana is a state of liberation from suffering.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Christianity",
+    "quiz": [
+      {
+        "text": "Who is the central figure of Christianity?",
+        "type": "choice",
+        "choices": ["Jesus Christ", "Moses", "Muhammad", "Buddha"],
+        "answer": 0
+      },
+      {
+        "text": "The holy book of Christianity is called:",
+        "type": "choice",
+        "choices": ["Bible", "Quran", "Torah", "Vedas"],
+        "answer": 0
+      },
+      {
+        "text": "Christianity teaches that salvation is through:",
+        "type": "choice",
+        "choices": ["Faith in Jesus", "Good karma", "Meditation", "Sacrifice"],
+        "answer": 0
+      },
+      {
+        "text": "Which sacrament celebrates the birth into the Christian faith?",
+        "type": "choice",
+        "choices": ["Baptism", "Confirmation", "Marriage", "Communion"],
+        "answer": 0
+      },
+      {
+        "text": "The cross is a symbol of:",
+        "type": "choice",
+        "choices": ["Jesus’ crucifixion", "A temple", "A holy book", "Prayer"],
+        "answer": 0
+      },
+      {
+        "text": "Christianity originated in which region?",
+        "type": "choice",
+        "choices": ["Middle East", "India", "China", "Greece"],
+        "answer": 0
+      },
+      {
+        "text": "Which day is commonly observed as the day of worship?",
+        "type": "choice",
+        "choices": ["Sunday", "Saturday", "Friday", "Wednesday"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Christians believe Jesus was resurrected.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Christianity has only one branch worldwide.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Prayer is an important practice in Christianity.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Communities of Faith",
+    "quiz": [
+      {
+        "text": "A group of people who share the same religious beliefs is called a:",
+        "type": "choice",
+        "choices": ["Community of faith", "Denomination", "Sect", "Parishioners"],
+        "answer": 0
+      },
+      {
+        "text": "Which of these is an example of a Christian community?",
+        "type": "choice",
+        "choices": ["Catholic parish", "Buddhist monastery", "Hindu temple", "Mosque"],
+        "answer": 0
+      },
+      {
+        "text": "A place where a community gathers to worship is called a:",
+        "type": "choice",
+        "choices": ["Church", "Temple", "Mosque", "Monastery"],
+        "answer": 0
+      },
+      {
+        "text": "Which role often leads worship in a Christian community?",
+        "type": "choice",
+        "choices": ["Priest/Pastor", "Monk", "Rabbi", "Imam"],
+        "answer": 0
+      },
+      {
+        "text": "Communities of faith help members to:",
+        "type": "choice",
+        "choices": ["Pray together", "Learn religious teachings", "Support each other", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Denominations are:",
+        "type": "choice",
+        "choices": ["Different branches within a religion", "Independent religions", "Sacred texts", "Festivals"],
+        "answer": 0
+      },
+      {
+        "text": "Rituals in a community are important because they:",
+        "type": "choice",
+        "choices": ["Bring people together", "Teach beliefs", "Celebrate important events", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "True or false: Communities of faith exist only for Christians.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Shared worship strengthens the bonds within a community.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Festivals and rituals are not important in religious communities.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Exploring Questions",
+    "quiz": [
+      {
+        "text": "Questions about the meaning of life are called:",
+        "type": "choice",
+        "choices": ["Existential questions", "Historical questions", "Scientific questions", "Mathematical questions"],
+        "answer": 0
+      },
+      {
+        "text": "Why do people explore religious questions?",
+        "type": "choice",
+        "choices": ["To understand purpose", "To learn rituals", "To memorize texts", "To attend festivals"],
+        "answer": 0
+      },
+      {
+        "text": "Philosophical questions often deal with:",
+        "type": "choice",
+        "choices": ["Morality and existence", "Cooking recipes", "Sports scores", "Weather patterns"],
+        "answer": 0
+      },
+      {
+        "text": "The question 'Why do people suffer?' is an example of:",
+        "type": "choice",
+        "choices": ["Religious question", "Scientific question", "Mathematical question", "Historical question"],
+        "answer": 0
+      },
+      {
+        "text": "Exploring questions helps people to:",
+        "type": "choice",
+        "choices": ["Reflect on beliefs", "Challenge ideas", "Seek understanding", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Answers to religious questions may come from:",
+        "type": "choice",
+        "choices": ["Sacred texts", "Personal reflection", "Community guidance", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Critical thinking is important when:",
+        "type": "choice",
+        "choices": ["Exploring questions", "Listening to music", "Running a race", "Eating food"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Exploring questions only provides one correct answer.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Religious questions help people understand themselves better.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Reflection and discussion are part of exploring questions.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Expressing Beliefs",
+    "quiz": [
+      {
+        "text": "Which of these is a way people express religious beliefs?",
+        "type": "choice",
+        "choices": ["Prayer", "Art", "Music", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Symbols in religion are used to:",
+        "type": "choice",
+        "choices": ["Represent beliefs", "Confuse people", "Teach science", "Entertain"],
+        "answer": 0
+      },
+      {
+        "text": "Sacred texts express beliefs through:",
+        "type": "choice",
+        "choices": ["Stories", "Laws", "Teachings", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Rituals often express:",
+        "type": "choice",
+        "choices": ["Faith", "Culture", "Tradition", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Music in religious worship can express:",
+        "type": "choice",
+        "choices": ["Praise", "Prayer", "Emotion", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Festivals express:",
+        "type": "choice",
+        "choices": ["Beliefs", "Joy", "Community", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Art can express religious beliefs by:",
+        "type": "choice",
+        "choices": ["Symbols and images", "Numbers and letters", "Only text", "Only sound"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: People only express beliefs through words.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Religious art and music can help people understand beliefs.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Rituals are not a way to show faith.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Hinduism",
+    "quiz": [
+      {
+        "text": "Hinduism originated in which country?",
+        "type": "choice",
+        "choices": ["India", "China", "Egypt", "Greece"],
+        "answer": 0
+      },
+      {
+        "text": "The sacred texts of Hinduism are called:",
+        "type": "choice",
+        "choices": ["Vedas", "Bible", "Quran", "Tripitaka"],
+        "answer": 0
+      },
+      {
+        "text": "The concept of rebirth in Hinduism is called:",
+        "type": "choice",
+        "choices": ["Reincarnation", "Nirvana", "Salvation", "Karma"],
+        "answer": 0
+      },
+      {
+        "text": "Karma refers to:",
+        "type": "choice",
+        "choices": ["Actions and their consequences", "A type of prayer", "A festival", "A sacred book"],
+        "answer": 0
+      },
+      {
+        "text": "Which of these is a major Hindu god?",
+        "type": "choice",
+        "choices": ["Brahma", "Zeus", "Allah", "Jesus"],
+        "answer": 0
+      },
+      {
+        "text": "Hindus aim to achieve liberation called:",
+        "type": "choice",
+        "choices": ["Moksha", "Heaven", "Nirvana", "Salvation"],
+        "answer": 0
+      },
+      {
+        "text": "Which festival celebrates the victory of good over evil?",
+        "type": "choice",
+        "choices": ["Diwali", "Christmas", "Ramadan", "Hanukkah"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Hinduism teaches the soul is reborn after death.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Karma has no effect on future lives in Hinduism.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: There is one single founder of Hinduism.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Islam",
+    "quiz": [
+      {
+        "text": "Who is considered the last prophet in Islam?",
+        "type": "choice",
+        "choices": ["Muhammad", "Jesus", "Moses", "Abraham"],
+        "answer": 0
+      },
+      {
+        "text": "The holy book of Islam is called:",
+        "type": "choice",
+        "choices": ["Quran", "Bible", "Torah", "Vedas"],
+        "answer": 0
+      },
+      {
+        "text": "Muslims pray facing which city?",
+        "type": "choice",
+        "choices": ["Mecca", "Medina", "Jerusalem", "Baghdad"],
+        "answer": 0
+      },
+      {
+        "text": "Which of these is one of the Five Pillars of Islam?",
+        "type": "choice",
+        "choices": ["Shahada", "Baptism", "Confession", "Communion"],
+        "answer": 0
+      },
+      {
+        "text": "Ramadan is a month of:",
+        "type": "choice",
+        "choices": ["Fasting", "Pilgrimage", "Prayer", "Charity"],
+        "answer": 0
+      },
+      {
+        "text": "The pilgrimage to Mecca is called:",
+        "type": "choice",
+        "choices": ["Hajj", "Umrah", "Diwali", "Christmas"],
+        "answer": 0
+      },
+      {
+        "text": "Zakat refers to:",
+        "type": "choice",
+        "choices": ["Charity", "Prayer", "Fasting", "Pilgrimage"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Muslims believe in only one God.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Muhammad wrote the Quran himself.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Daily prayer is an important part of Muslim life.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Judaism",
+    "quiz": [
+      {
+        "text": "The sacred text of Judaism is called the:",
+        "type": "choice",
+        "choices": ["Torah", "Bible", "Quran", "Vedas"],
+        "answer": 0
+      },
+      {
+        "text": "The Jewish day of rest is called:",
+        "type": "choice",
+        "choices": ["Shabbat", "Eid", "Sunday", "Hanukkah"],
+        "answer": 0
+      },
+      {
+        "text": "Who led the Israelites out of Egypt?",
+        "type": "choice",
+        "choices": ["Moses", "Abraham", "David", "Solomon"],
+        "answer": 0
+      },
+      {
+        "text": "Passover celebrates:",
+        "type": "choice",
+        "choices": ["The Exodus from Egypt", "The creation of the world", "A harvest festival", "The giving of the Torah"],
+        "answer": 0
+      },
+      {
+        "text": "The Star of David is a symbol of:",
+        "type": "choice",
+        "choices": ["Judaism", "Christianity", "Islam", "Hinduism"],
+        "answer": 0
+      },
+      {
+        "text": "Kosher food refers to:",
+        "type": "choice",
+        "choices": ["Food that meets Jewish dietary laws", "Any traditional meal", "Festive food", "Sacrificial food"],
+        "answer": 0
+      },
+      {
+        "text": "A synagogue is a place for:",
+        "type": "choice",
+        "choices": ["Worship and study", "Festivals", "Pilgrimage", "Meditation"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Jews believe in one God.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The Torah is read during Jewish worship services.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Jews celebrate Ramadan.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "Living Our Values",
+    "quiz": [
+      {
+        "text": "Which of these is an example of a moral value?",
+        "type": "choice",
+        "choices": ["Honesty", "Television", "Weather", "Sports"],
+        "answer": 0
+      },
+      {
+        "text": "Values help people to:",
+        "type": "choice",
+        "choices": ["Make good choices", "Play games", "Travel", "Eat food"],
+        "answer": 0
+      },
+      {
+        "text": "Showing respect to others is an example of:",
+        "type": "choice",
+        "choices": ["Living a value", "Ignoring rules", "Being lazy", "Following fashion"],
+        "answer": 0
+      },
+      {
+        "text": "Caring for the environment demonstrates which type of value?",
+        "type": "choice",
+        "choices": ["Social responsibility", "Religious rituals", "Academic success", "Fitness"],
+        "answer": 0
+      },
+      {
+        "text": "Empathy means:",
+        "type": "choice",
+        "choices": ["Understanding and sharing others’ feelings", "Ignoring others", "Winning competitions", "Studying hard"],
+        "answer": 0
+      },
+      {
+        "text": "Values can be learned from:",
+        "type": "choice",
+        "choices": ["Family", "Community", "Religious teachings", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Acting honestly and kindly shows:",
+        "type": "choice",
+        "choices": ["Integrity", "Laziness", "Carelessness", "Pride"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Living our values only affects ourselves.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Values guide moral decisions.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Respecting others is part of living values.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Religious Education",
+    "topic": "The Celebration of Faith & Prayer",
+    "quiz": [
+      {
+        "text": "Prayer is a way to:",
+        "type": "choice",
+        "choices": ["Communicate with God", "Cook food", "Play music", "Exercise"],
+        "answer": 0
+      },
+      {
+        "text": "Worship services often include:",
+        "type": "choice",
+        "choices": ["Prayer, singing, and readings", "Running races", "Shopping", "Watching movies"],
+        "answer": 0
+      },
+      {
+        "text": "Sacred festivals celebrate:",
+        "type": "choice",
+        "choices": ["Faith and beliefs", "Sports achievements", "Historical battles", "Weather events"],
+        "answer": 0
+      },
+      {
+        "text": "Meditation is a form of:",
+        "type": "choice",
+        "choices": ["Prayer or reflection", "Cooking", "Exercise", "Travel"],
+        "answer": 0
+      },
+      {
+        "text": "Pilgrimages are journeys to:",
+        "type": "choice",
+        "choices": ["Sacred places", "Tourist spots", "Sports arenas", "Markets"],
+        "answer": 0
+      },
+      {
+        "text": "Sacred music and hymns are used to:",
+        "type": "choice",
+        "choices": ["Express faith", "Entertain", "Exercise", "Cook"],
+        "answer": 0
+      },
+      {
+        "text": "Celebrating faith strengthens:",
+        "type": "choice",
+        "choices": ["Community bonds", "Sports skills", "Cooking ability", "Fashion sense"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Prayer is only important in Christianity.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Festivals can express religious beliefs.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Meditation is a form of reflection in many religions.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  }
+]

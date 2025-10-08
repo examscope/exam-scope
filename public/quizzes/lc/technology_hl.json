@@ -1,0 +1,1284 @@
+[
+{
+  "subject": "Technology",
+  "topic": "A Process of Design",
+  "quiz": [
+    {
+      "text": "Which stage of design involves generating multiple ideas?",
+      "type": "choice",
+      "choices": ["Idea generation", "Prototype testing", "Evaluation", "Final production"],
+      "answer": 0
+    },
+    {
+      "text": "Which stage assesses the effectiveness of a product?",
+      "type": "choice",
+      "choices": ["Evaluation", "Idea generation", "Research", "Production"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the design process involves drawing diagrams?",
+      "type": "choice",
+      "choices": ["Design development", "Testing", "Production", "Evaluation"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the first step in a design process?",
+      "type": "choice",
+      "choices": ["Brief analysis", "Prototype building", "Testing", "Final production"],
+      "answer": 0
+    },
+    {
+      "text": "Which process involves improving initial ideas?",
+      "type": "choice",
+      "choices": ["Design development", "Idea generation", "Brief analysis", "Final evaluation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Evaluation happens after testing a prototype.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Idea generation only involves one idea.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Prototypes are built to test ideas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one method to develop a design idea.",
+      "type": "input",
+      "answer": ["Sketching", "Model making", "CAD", "Drawing"]
+    },
+    {
+      "text": "Give one factor considered when evaluating a design.",
+      "type": "input",
+      "answer": ["Functionality", "Cost", "Aesthetics", "Safety"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Communications & Graphics Media",
+  "quiz": [
+    {
+      "text": "Which software is commonly used for vector graphics?",
+      "type": "choice",
+      "choices": ["Adobe Illustrator", "Photoshop", "Word", "Excel"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of media includes newspapers and magazines?",
+      "type": "choice",
+      "choices": ["Print media", "Digital media", "Broadcast media", "Social media"],
+      "answer": 0
+    },
+    {
+      "text": "Which media type is used for motion graphics?",
+      "type": "choice",
+      "choices": ["Animation", "Photography", "Print", "Broadcast"],
+      "answer": 0
+    },
+    {
+      "text": "Which file format is best for high-quality images with transparency?",
+      "type": "choice",
+      "choices": ["PNG", "JPEG", "GIF", "BMP"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle helps make graphics readable?",
+      "type": "choice",
+      "choices": ["Contrast", "Weight", "Length", "Brightness"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Raster graphics are made of pixels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Vector graphics lose quality when scaled.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Typography refers to arranging text.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of graphic media.",
+      "type": "input",
+      "answer": ["Print", "Digital", "Animation"]
+    },
+    {
+      "text": "Give one software used for graphics creation.",
+      "type": "input",
+      "answer": ["Adobe Illustrator", "Photoshop", "CorelDRAW"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Electricity & Electronics",
+  "quiz": [
+    {
+      "text": "What does a resistor do in a circuit?",
+      "type": "choice",
+      "choices": ["Limits current", "Stores energy", "Generates voltage", "Switches current"],
+      "answer": 0
+    },
+    {
+      "text": "Which component stores electrical energy?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Diode", "Transistor"],
+      "answer": 0
+    },
+    {
+      "text": "What converts AC to DC?",
+      "type": "choice",
+      "choices": ["Rectifier", "Battery", "Resistor", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "Which device amplifies an electrical signal?",
+      "type": "choice",
+      "choices": ["Transistor", "Diode", "Resistor", "Capacitor"],
+      "answer": 0
+    },
+    {
+      "text": "Which material allows electricity to flow easily?",
+      "type": "choice",
+      "choices": ["Conductor", "Insulator", "Resistor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A diode allows current to flow in both directions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ohm's Law relates voltage, current, and resistance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Batteries produce AC voltage.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of an electrical component.",
+      "type": "input",
+      "answer": ["Resistor", "Capacitor", "Transistor", "Diode"]
+    },
+    {
+      "text": "Give one safety precaution when working with electricity.",
+      "type": "input",
+      "answer": ["Turn off power", "Use insulated tools", "Wear gloves"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Energy",
+  "quiz": [
+    {
+      "text": "Which form of energy is stored in fuels?",
+      "type": "choice",
+      "choices": ["Chemical", "Kinetic", "Potential", "Thermal"],
+      "answer": 0
+    },
+    {
+      "text": "What energy is produced by moving objects?",
+      "type": "choice",
+      "choices": ["Kinetic", "Potential", "Electrical", "Chemical"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of energy comes from the sun?",
+      "type": "choice",
+      "choices": ["Solar", "Wind", "Thermal", "Chemical"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy transformation happens in a lamp?",
+      "type": "choice",
+      "choices": ["Electrical to light", "Light to electrical", "Chemical to thermal", "Kinetic to electrical"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of energy is stored in a stretched spring?",
+      "type": "choice",
+      "choices": ["Elastic potential", "Kinetic", "Chemical", "Thermal"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Energy can be created or destroyed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Kinetic energy depends on mass and velocity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Solar energy is renewable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of renewable energy.",
+      "type": "input",
+      "answer": ["Solar", "Wind", "Hydro", "Geothermal"]
+    },
+    {
+      "text": "Give one example of non-renewable energy.",
+      "type": "input",
+      "answer": ["Coal", "Oil", "Natural gas", "Petroleum"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Health & Safety",
+  "quiz": [
+    {
+      "text": "What does PPE stand for?",
+      "type": "choice",
+      "choices": ["Personal Protective Equipment", "Professional Practice Exam", "Public Protection Enterprise", "Primary Physical Exercise"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a common cause of accidents in workshops?",
+      "type": "choice",
+      "choices": ["Slips and trips", "Reading manuals", "Using goggles", "Following procedures"],
+      "answer": 0
+    },
+    {
+      "text": "Which fire extinguisher should be used on electrical fires?",
+      "type": "choice",
+      "choices": ["CO2", "Water", "Foam", "Wet chemical"],
+      "answer": 0
+    },
+    {
+      "text": "What should you do before using a power tool?",
+      "type": "choice",
+      "choices": ["Check for damage", "Use without checking", "Wear loose clothing", "Remove safety guards"],
+      "answer": 0
+    },
+    {
+      "text": "Which is important when lifting heavy objects?",
+      "type": "choice",
+      "choices": ["Bend knees and keep back straight", "Bend back only", "Lift quickly", "Twist while lifting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Safety signs are optional in workshops.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: PPE includes gloves, goggles, and helmets.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You should eat while using machinery.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of PPE.",
+      "type": "input",
+      "answer": ["Gloves", "Goggles", "Helmet", "Apron"]
+    },
+    {
+      "text": "Give one precaution to avoid accidents in a workshop.",
+      "type": "input",
+      "answer": ["Keep area clean", "Check equipment", "Follow instructions", "Wear PPE"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Information and Communications Technology",
+  "quiz": [
+    {
+      "text": "What does ICT stand for?",
+      "type": "choice",
+      "choices": ["Information and Communications Technology", "Internet and Computer Technology", "International Computer Training", "Integrated Communication Tools"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an input device?",
+      "type": "choice",
+      "choices": ["Keyboard", "Monitor", "Printer", "Speaker"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an output device?",
+      "type": "choice",
+      "choices": ["Printer", "Mouse", "Keyboard", "Scanner"],
+      "answer": 0
+    },
+    {
+      "text": "What is software that allows you to browse the internet?",
+      "type": "choice",
+      "choices": ["Web browser", "Operating system", "Spreadsheet", "Text editor"],
+      "answer": 0
+    },
+    {
+      "text": "Which device stores digital information?",
+      "type": "choice",
+      "choices": ["Hard drive", "Mouse", "Keyboard", "Printer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A firewall protects computers from malware.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: RAM is a permanent storage device.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: An email is a form of digital communication.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of an input device.",
+      "type": "input",
+      "answer": ["Keyboard", "Mouse", "Scanner", "Microphone"]
+    },
+    {
+      "text": "Give one example of output software or hardware.",
+      "type": "input",
+      "answer": ["Monitor", "Printer", "Speaker", "Projector"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials (Fabrics)",
+  "quiz": [
+    {
+      "text": "Which of the following is a natural fabric?",
+      "type": "choice",
+      "choices": ["Cotton", "Polyester", "Nylon", "Acrylic"],
+      "answer": 0
+    },
+    {
+      "text": "Which fabric is known for being very strong and durable?",
+      "type": "choice",
+      "choices": ["Silk", "Denim", "Wool", "Linen"],
+      "answer": 1
+    },
+    {
+      "text": "Which fabric is heat resistant and often used in protective clothing?",
+      "type": "choice",
+      "choices": ["Wool", "Cotton", "Kevlar", "Silk"],
+      "answer": 2
+    },
+    {
+      "text": "Which synthetic fabric is commonly used in sportswear?",
+      "type": "choice",
+      "choices": ["Polyester", "Wool", "Silk", "Cotton"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a breathable fabric?",
+      "type": "choice",
+      "choices": ["Cotton", "Nylon", "Polyester", "Acrylic"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Silk is a natural fabric.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Polyester is biodegradable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Wool is a good insulator.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one natural fabric.",
+      "type": "input",
+      "answer": ["Cotton", "Silk", "Wool", "Linen"]
+    },
+    {
+      "text": "Name one synthetic fabric.",
+      "type": "input",
+      "answer": ["Polyester", "Nylon", "Acrylic", "Spandex"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials (Metal)",
+  "quiz": [
+    {
+      "text": "Which of these metals is ferrous?",
+      "type": "choice",
+      "choices": ["Iron", "Aluminium", "Copper", "Zinc"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is lightweight and corrosion-resistant?",
+      "type": "choice",
+      "choices": ["Aluminium", "Iron", "Steel", "Copper"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is commonly used for electrical wiring?",
+      "type": "choice",
+      "choices": ["Copper", "Steel", "Aluminium", "Lead"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is magnetic?",
+      "type": "choice",
+      "choices": ["Iron", "Aluminium", "Copper", "Lead"],
+      "answer": 0
+    },
+    {
+      "text": "Which metal is often alloyed to make stainless steel?",
+      "type": "choice",
+      "choices": ["Chromium", "Aluminium", "Copper", "Zinc"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Aluminium is a ferrous metal.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Iron rusts when exposed to water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Copper is a good conductor of electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one non-ferrous metal.",
+      "type": "input",
+      "answer": ["Aluminium", "Copper", "Zinc", "Lead"]
+    },
+    {
+      "text": "Name one ferrous metal.",
+      "type": "input",
+      "answer": ["Iron", "Steel"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials (Plastics)",
+  "quiz": [
+    {
+      "text": "Which of the following is a thermoplastic?",
+      "type": "choice",
+      "choices": ["PVC", "Bakelite", "Melamine", "Phenol-formaldehyde"],
+      "answer": 0
+    },
+    {
+      "text": "Which plastic is commonly used for food containers?",
+      "type": "choice",
+      "choices": ["Polypropylene", "Phenol-formaldehyde", "Melamine", "Epoxy resin"],
+      "answer": 0
+    },
+    {
+      "text": "Which plastic is known for being very strong and impact resistant?",
+      "type": "choice",
+      "choices": ["Acrylic", "Polycarbonate", "PVC", "Polystyrene"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these plastics is biodegradable?",
+      "type": "choice",
+      "choices": ["PLA", "PVC", "Polycarbonate", "Polystyrene"],
+      "answer": 0
+    },
+    {
+      "text": "Which plastic is often used in electrical insulation?",
+      "type": "choice",
+      "choices": ["PVC", "Polystyrene", "Polycarbonate", "PET"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Thermosetting plastics can be remolded after heating.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Polyethylene is a common thermoplastic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: PVC is used for piping and electrical insulation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one thermoplastic.",
+      "type": "input",
+      "answer": ["PVC", "Polypropylene", "Polyethylene", "Polystyrene"]
+    },
+    {
+      "text": "Name one thermosetting plastic.",
+      "type": "input",
+      "answer": ["Bakelite", "Melamine", "Phenol-formaldehyde", "Epoxy resin"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials (Smart)",
+  "quiz": [
+    {
+      "text": "Which of these is a smart material?",
+      "type": "choice",
+      "choices": ["Shape memory alloy", "Copper", "PVC", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "Which smart material changes colour with temperature?",
+      "type": "choice",
+      "choices": ["Thermochromic pigment", "Nitinol", "PVC", "Polycarbonate"],
+      "answer": 0
+    },
+    {
+      "text": "Which material can return to its original shape after deformation when heated?",
+      "type": "choice",
+      "choices": ["Shape memory alloy", "Copper", "Aluminium", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "Which smart material can produce electricity when stressed?",
+      "type": "choice",
+      "choices": ["Piezoelectric material", "PVC", "Copper", "Nylon"],
+      "answer": 0
+    },
+    {
+      "text": "Which smart material is used in self-healing coatings?",
+      "type": "choice",
+      "choices": ["Polymer composites", "Steel", "PVC", "Aluminium"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Shape memory alloys are an example of smart materials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Piezoelectric materials generate heat when stressed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Thermochromic pigments can change colour with temperature.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one smart material.",
+      "type": "input",
+      "answer": ["Shape memory alloy", "Piezoelectric material", "Thermochromic pigment", "Polymer composites"]
+    },
+    {
+      "text": "Name one property of smart materials.",
+      "type": "input",
+      "answer": ["Shape memory", "Self-healing", "Colour change", "Electric generation"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials (Wood)",
+  "quiz": [
+    {
+      "text": "Which of these is a hardwood?",
+      "type": "choice",
+      "choices": ["Oak", "Pine", "Spruce", "Cedar"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a softwood?",
+      "type": "choice",
+      "choices": ["Pine", "Oak", "Mahogany", "Teak"],
+      "answer": 0
+    },
+    {
+      "text": "Which process is used to prevent wood from rotting?",
+      "type": "choice",
+      "choices": ["Pressure treatment", "Sanding", "Polishing", "Varnishing"],
+      "answer": 0
+    },
+    {
+      "text": "Which wood is commonly used for furniture making?",
+      "type": "choice",
+      "choices": ["Oak", "Pine", "Balsa", "Cedar"],
+      "answer": 0
+    },
+    {
+      "text": "Which wood is lightweight and used for modelling?",
+      "type": "choice",
+      "choices": ["Balsa", "Oak", "Mahogany", "Pine"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Hardwood comes from coniferous trees.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Softwood grows faster than hardwood.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All wood can be used outdoors without treatment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one hardwood.",
+      "type": "input",
+      "answer": ["Oak", "Mahogany", "Teak", "Ash"]
+    },
+    {
+      "text": "Name one softwood.",
+      "type": "input",
+      "answer": ["Pine", "Spruce", "Cedar", "Fir"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Materials and Production (All Materials)",
+  "quiz": [
+    {
+      "text": "Which of these materials is used in aerospace for its light weight and strength?",
+      "type": "choice",
+      "choices": ["Aluminium", "Steel", "Oak", "PVC"],
+      "answer": 0
+    },
+    {
+      "text": "Which production process involves shaping material using heat and pressure?",
+      "type": "choice",
+      "choices": ["Moulding", "Sanding", "Sawing", "Polishing"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is renewable and comes from trees?",
+      "type": "choice",
+      "choices": ["Wood", "Steel", "Plastic", "Glass"],
+      "answer": 0
+    },
+    {
+      "text": "Which material can be recycled and remoulded repeatedly?",
+      "type": "choice",
+      "choices": ["Thermoplastics", "Thermosetting plastics", "Concrete", "Bakelite"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is known for high electrical conductivity?",
+      "type": "choice",
+      "choices": ["Copper", "PVC", "Wood", "Polyethylene"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All metals can be recycled.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thermosetting plastics can be remelted and reshaped.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Wood is a non-renewable material.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one thermoplastic.",
+      "type": "input",
+      "answer": ["PVC", "Polypropylene", "Polyethylene", "Polystyrene"]
+    },
+    {
+      "text": "Name one renewable material used in production.",
+      "type": "input",
+      "answer": ["Wood", "Bamboo", "Cotton", "Wool"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Option: Applied Control Systems",
+  "quiz": [
+    {
+      "text": "Which component is used to sense a change in a system?",
+      "type": "choice",
+      "choices": ["Sensor", "Actuator", "Controller", "Processor"],
+      "answer": 0
+    },
+    {
+      "text": "Which component makes adjustments based on sensor input?",
+      "type": "choice",
+      "choices": ["Controller", "Sensor", "Actuator", "Processor"],
+      "answer": 0
+    },
+    {
+      "text": "Which device converts an electrical signal into a physical action?",
+      "type": "choice",
+      "choices": ["Actuator", "Sensor", "Microcontroller", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "Feedback in a control system is used to:",
+      "type": "choice",
+      "choices": ["Correct deviations", "Power the system", "Store data", "Generate noise"],
+      "answer": 0
+    },
+    {
+      "text": "Which system type maintains a set temperature automatically?",
+      "type": "choice",
+      "choices": ["Thermostat", "Motor", "Switch", "Battery"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An open-loop system uses feedback to correct errors.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A thermostat is an example of a closed-loop system.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Actuators can both sense and act.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one common sensor used in control systems.",
+      "type": "input",
+      "answer": ["Temperature sensor", "Proximity sensor", "Light sensor", "Pressure sensor"]
+    },
+    {
+      "text": "Name one actuator type used in mechanical systems.",
+      "type": "input",
+      "answer": ["Motor", "Solenoid", "Hydraulic piston", "Stepper motor"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Option: Electronics & Control",
+  "quiz": [
+    {
+      "text": "Which component stores electrical charge?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Diode", "Transistor"],
+      "answer": 0
+    },
+    {
+      "text": "Which device allows current to flow in only one direction?",
+      "type": "choice",
+      "choices": ["Diode", "Transistor", "Capacitor", "Inductor"],
+      "answer": 0
+    },
+    {
+      "text": "Which component can amplify electrical signals?",
+      "type": "choice",
+      "choices": ["Transistor", "Resistor", "LED", "Capacitor"],
+      "answer": 0
+    },
+    {
+      "text": "Which component opposes current flow?",
+      "type": "choice",
+      "choices": ["Resistor", "Transistor", "Capacitor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "Which component stores energy in a magnetic field?",
+      "type": "choice",
+      "choices": ["Inductor", "Capacitor", "Resistor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A transistor can act as a switch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Diodes can amplify signals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Capacitors block DC current in circuits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of transistor.",
+      "type": "input",
+      "answer": ["NPN", "PNP", "MOSFET", "JFET"]
+    },
+    {
+      "text": "Name one application of a diode.",
+      "type": "input",
+      "answer": ["Rectification", "Voltage regulation", "Signal demodulation", "LED"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Option: Information & Communications Technology",
+  "quiz": [
+    {
+      "text": "Which device is used to input data into a computer?",
+      "type": "choice",
+      "choices": ["Keyboard", "Monitor", "Printer", "Speaker"],
+      "answer": 0
+    },
+    {
+      "text": "Which component processes data and executes instructions?",
+      "type": "choice",
+      "choices": ["CPU", "RAM", "Hard drive", "Motherboard"],
+      "answer": 0
+    },
+    {
+      "text": "Which storage device is non-volatile?",
+      "type": "choice",
+      "choices": ["Hard disk", "RAM", "Cache", "Registers"],
+      "answer": 0
+    },
+    {
+      "text": "Which network connects computers over a small area like a school?",
+      "type": "choice",
+      "choices": ["LAN", "WAN", "MAN", "PAN"],
+      "answer": 0
+    },
+    {
+      "text": "Which protocol is used to access web pages?",
+      "type": "choice",
+      "choices": ["HTTP", "FTP", "SMTP", "DNS"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: RAM retains data after power is turned off.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The CPU is considered the 'brain' of the computer.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A printer is an input device.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one input device.",
+      "type": "input",
+      "answer": ["Keyboard", "Mouse", "Scanner", "Microphone"]
+    },
+    {
+      "text": "Name one output device.",
+      "type": "input",
+      "answer": ["Monitor", "Printer", "Speakers", "Projector"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Option: Manufacturing Systems",
+  "quiz": [
+    {
+      "text": "Which process is used to shape metal by hammering or pressing?",
+      "type": "choice",
+      "choices": ["Forging", "Casting", "Milling", "Drilling"],
+      "answer": 0
+    },
+    {
+      "text": "Which manufacturing method uses molten material poured into a mold?",
+      "type": "choice",
+      "choices": ["Casting", "Forging", "Stamping", "Extrusion"],
+      "answer": 0
+    },
+    {
+      "text": "Which system monitors production in real-time?",
+      "type": "choice",
+      "choices": ["CNC", "ERP", "SCADA", "PLC"],
+      "answer": 2
+    },
+    {
+      "text": "Which process cuts material using a rotating tool?",
+      "type": "choice",
+      "choices": ["Milling", "Casting", "Forging", "Welding"],
+      "answer": 0
+    },
+    {
+      "text": "Which process joins materials using heat?",
+      "type": "choice",
+      "choices": ["Welding", "Milling", "Drilling", "Casting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: CNC machines are manually operated.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Casting can produce complex shapes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Milling is a subtractive manufacturing process.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one material commonly used in casting.",
+      "type": "input",
+      "answer": ["Aluminium", "Iron", "Steel", "Bronze"]
+    },
+    {
+      "text": "Name one safety precaution in a manufacturing workshop.",
+      "type": "input",
+      "answer": ["Wear goggles", "Use gloves", "Wear protective clothing", "Keep hair tied back"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Option: Materials Technology",
+  "quiz": [
+    {
+      "text": "Which property describes a material's ability to resist deformation?",
+      "type": "choice",
+      "choices": ["Hardness", "Ductility", "Malleability", "Conductivity"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is considered a smart material?",
+      "type": "choice",
+      "choices": ["Shape memory alloy", "Steel", "Glass", "Wood"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is best for electrical insulation?",
+      "type": "choice",
+      "choices": ["Plastic", "Copper", "Aluminium", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "Which process shapes metal by hammering or pressing?",
+      "type": "choice",
+      "choices": ["Forging", "Casting", "Milling", "Turning"],
+      "answer": 0
+    },
+    {
+      "text": "Which property allows a material to stretch without breaking?",
+      "type": "choice",
+      "choices": ["Ductility", "Hardness", "Brittleness", "Density"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wood is a renewable material.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Glass is ductile.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Aluminium is lightweight and corrosion resistant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common plastic material used in manufacturing.",
+      "type": "input",
+      "answer": ["PVC", "Polyethylene", "Polystyrene", "Acrylic"]
+    },
+    {
+      "text": "Name one property of a smart material.",
+      "type": "input",
+      "answer": ["Shape memory", "Self-healing", "Responsive to temperature", "Responsive to electricity"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Project & Quality Management",
+  "quiz": [
+    {
+      "text": "Which chart is commonly used to plan project tasks over time?",
+      "type": "choice",
+      "choices": ["Gantt chart", "Pie chart", "Flow chart", "Bar chart"],
+      "answer": 0
+    },
+    {
+      "text": "Which term refers to measuring the quality of a product?",
+      "type": "choice",
+      "choices": ["Quality control", "Project planning", "Resource management", "Risk assessment"],
+      "answer": 0
+    },
+    {
+      "text": "Which phase involves identifying risks before a project starts?",
+      "type": "choice",
+      "choices": ["Risk assessment", "Implementation", "Evaluation", "Design"],
+      "answer": 0
+    },
+    {
+      "text": "Which document outlines project tasks, deadlines, and responsibilities?",
+      "type": "choice",
+      "choices": ["Project plan", "Quality report", "Budget sheet", "Risk log"],
+      "answer": 0
+    },
+    {
+      "text": "Which process ensures products meet required standards?",
+      "type": "choice",
+      "choices": ["Quality assurance", "Project management", "Task scheduling", "Cost estimation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Evaluation occurs after project completion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Risk assessment is only done after production starts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A Gantt chart shows the sequence of tasks.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one tool used in project management.",
+      "type": "input",
+      "answer": ["Gantt chart", "Flow chart", "Kanban board", "Spreadsheet"]
+    },
+    {
+      "text": "Name one aspect of quality management.",
+      "type": "input",
+      "answer": ["Quality control", "Quality assurance", "Standards compliance", "Inspection"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Sample Project Folder",
+  "quiz": [
+    {
+      "text": "What is the purpose of a sample project folder?",
+      "type": "choice",
+      "choices": ["Showcase previous work", "Store tools", "Replace project plan", "Manage staff"],
+      "answer": 0
+    },
+    {
+      "text": "Which section typically contains design sketches?",
+      "type": "choice",
+      "choices": ["Design documentation", "Project evaluation", "Quality control", "Materials list"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the folder tracks project deadlines?",
+      "type": "choice",
+      "choices": ["Project schedule", "Materials record", "Risk log", "Inspection sheet"],
+      "answer": 0
+    },
+    {
+      "text": "Which content demonstrates problem-solving steps?",
+      "type": "choice",
+      "choices": ["Process notes", "Final product", "Budget sheet", "Safety checklist"],
+      "answer": 0
+    },
+    {
+      "text": "Which element of a sample project folder is optional?",
+      "type": "choice",
+      "choices": ["Photographs of prototypes", "Project plan", "Evaluation", "Materials list"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A sample project folder should include evaluation notes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Safety sheets are never required in the folder.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sketches can be included in the folder.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of documentation typically found in a sample project folder.",
+      "type": "input",
+      "answer": ["Design sketches", "Process notes", "Evaluation report", "Project plan"]
+    },
+    {
+      "text": "Name one purpose of a sample project folder.",
+      "type": "input",
+      "answer": ["Showcase work", "Record project process", "Track evaluation", "Demonstrate skills"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Structures & Mechanisms",
+  "quiz": [
+    {
+      "text": "Which mechanism converts rotary motion into linear motion?",
+      "type": "choice",
+      "choices": ["Cam and follower", "Gear train", "Pulley system", "Lever"],
+      "answer": 0
+    },
+    {
+      "text": "Which simple machine is used to amplify force?",
+      "type": "choice",
+      "choices": ["Lever", "Wheel and axle", "Inclined plane", "Pulley"],
+      "answer": 0
+    },
+    {
+      "text": "Which gear type is used to change rotational direction?",
+      "type": "choice",
+      "choices": ["Bevel gear", "Spur gear", "Worm gear", "Rack and pinion"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism stores potential energy to release later?",
+      "type": "choice",
+      "choices": ["Spring", "Pulley", "Hydraulic cylinder", "Wheel"],
+      "answer": 0
+    },
+    {
+      "text": "Which structure is used to support weight over a span?",
+      "type": "choice",
+      "choices": ["Beam", "Pulley", "Rack", "Gear"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A lever can multiply force or distance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cams are used to convert linear motion to rotary motion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Gears are used to transmit motion and torque.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of mechanism used to transmit motion.",
+      "type": "input",
+      "answer": ["Gear", "Pulley", "Cam", "Lever"]
+    },
+    {
+      "text": "Name one purpose of a structure in engineering.",
+      "type": "input",
+      "answer": ["Support load", "Provide stability", "Span a distance", "Resist bending"]
+    }
+  ]
+},
+{
+  "subject": "Technology",
+  "topic": "Technology in Society",
+  "quiz": [
+    {
+      "text": "Which is an example of technology improving healthcare?",
+      "type": "choice",
+      "choices": ["MRI machines", "Typewriters", "Steam engines", "Manual plows"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector uses technology for automation and efficiency?",
+      "type": "choice",
+      "choices": ["Manufacturing", "Artisan crafts", "Manual farming", "Traditional fishing"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a negative effect of technology in society?",
+      "type": "choice",
+      "choices": ["Job displacement", "Improved communication", "Remote learning", "Medical advancements"],
+      "answer": 0
+    },
+    {
+      "text": "Which technology supports global communication?",
+      "type": "choice",
+      "choices": ["Internet", "Steam engine", "Typewriter", "Printing press"],
+      "answer": 0
+    },
+    {
+      "text": "Which field is influenced by technology through AI and machine learning?",
+      "type": "choice",
+      "choices": ["Data analysis", "Carpentry", "Sculpting", "Traditional farming"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Technology always has only positive impacts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Technology can reduce barriers to education.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Social media is an example of technology affecting society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one positive impact of technology on society.",
+      "type": "input",
+      "answer": ["Improved healthcare", "Better communication", "Access to education", "Automation"]
+    },
+    {
+      "text": "Name one negative impact of technology on society.",
+      "type": "input",
+      "answer": ["Job loss", "Screen addiction", "Privacy issues", "Environmental harm"]
+    }
+  ]
+}
+
+]

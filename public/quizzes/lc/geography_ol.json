@@ -1,0 +1,1832 @@
+[
+{
+  "subject": "Geography",
+  "topic": "Aerial photos",
+  "quiz": [
+    {
+      "text": "Which term describes a photo taken from an aircraft?",
+      "type": "choice",
+      "choices": ["Aerial photo", "Satellite image", "Map", "Diagram"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature can be measured using scale on an aerial photo?",
+      "type": "choice",
+      "choices": ["Distance", "Temperature", "Rainfall", "Population"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Shadows in an aerial photo can help identify the height of objects.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: An aerial photo always shows the north direction at the top.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of aerial photo shows the landscape in colour?",
+      "type": "choice",
+      "choices": ["Vertical photo", "Oblique photo", "Infrared photo", "Black and white photo"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is easiest to identify in an oblique aerial photo?",
+      "type": "choice",
+      "choices": ["Buildings", "Roads", "Rivers", "Vegetation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Aerial photos are only used for mapping.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to interpret land use in an aerial photo.",
+      "type": "input",
+      "answer": ["Colour", "Texture", "Pattern", "Shape of fields"]
+    },
+    {
+      "text": "Give one example of a human feature visible in an aerial photo.",
+      "type": "input",
+      "answer": ["Roads", "Buildings", "Bridges", "Railways"]
+    },
+    {
+      "text": "Which French term is sometimes used for aerial photography in geography?",
+      "type": "choice",
+      "choices": ["Photographie aérienne", "Carte", "Diagramme", "Image satellite"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Earthquakes & Volcanoes",
+  "quiz": [
+    {
+      "text": "Which term describes a sudden shaking of the ground?",
+      "type": "choice",
+      "choices": ["Earthquake", "Volcano", "Tsunami", "Landslide"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures earthquakes?",
+      "type": "choice",
+      "choices": ["Seismograph", "Thermometer", "Barometer", "Anemometer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Most earthquakes occur along plate boundaries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Lava is found below the Earth's crust.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of volcano is steep-sided and explosive?",
+      "type": "choice",
+      "choices": ["Stratovolcano", "Shield volcano", "Cinder cone", "Caldera"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is commonly emitted during volcanic eruptions?",
+      "type": "choice",
+      "choices": ["Sulfur dioxide", "Oxygen", "Nitrogen", "Carbon monoxide"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Ring of Fire is a zone of high earthquake and volcanic activity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one primary effect of an earthquake.",
+      "type": "input",
+      "answer": ["Building collapse", "Ground rupture", "Fires", "Injury"]
+    },
+    {
+      "text": "Give one secondary effect of a volcanic eruption.",
+      "type": "input",
+      "answer": ["Lahars", "Ashfall", "Flooding", "Climate impact"]
+    },
+    {
+      "text": "Which type of plate boundary commonly causes earthquakes?",
+      "type": "choice",
+      "choices": ["Transform", "Divergent", "Convergent", "Both A and C"],
+      "answer": 3
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - Developing Economies",
+  "quiz": [
+    {
+      "text": "Which term describes a country with low income and limited industry?",
+      "type": "choice",
+      "choices": ["Developing country", "Developed country", "Emerging economy", "Industrialised nation"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector employs most people in developing economies?",
+      "type": "choice",
+      "choices": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Developing countries often have high literacy rates.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Infrastructure is often poorly developed in developing economies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term refers to the process of improving economic conditions?",
+      "type": "choice",
+      "choices": ["Development", "Growth", "Inflation", "Urbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of aid is sent in money or goods to help developing countries?",
+      "type": "choice",
+      "choices": ["Foreign aid", "Direct investment", "Trade embargo", "Tax"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Tourism can contribute to economic development.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one problem faced by developing economies.",
+      "type": "input",
+      "answer": ["Poverty", "Unemployment", "Poor healthcare", "Limited education"]
+    },
+    {
+      "text": "Give one example of a developing country.",
+      "type": "input",
+      "answer": ["Kenya", "Bangladesh", "Nepal", "Ethiopia"]
+    },
+    {
+      "text": "Which term describes a sudden increase in income or industry?",
+      "type": "choice",
+      "choices": ["Economic growth", "Economic development", "Inflation", "Deflation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - Energy",
+  "quiz": [
+    {
+      "text": "Which energy source comes from the sun?",
+      "type": "choice",
+      "choices": ["Solar energy", "Coal", "Wind energy", "Nuclear energy"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy source is non-renewable?",
+      "type": "choice",
+      "choices": ["Coal", "Wind", "Solar", "Hydroelectric"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wind energy produces greenhouse gases.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Nuclear energy uses uranium as fuel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which energy source comes from moving water?",
+      "type": "choice",
+      "choices": ["Hydroelectric", "Geothermal", "Biomass", "Coal"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes energy obtained from plants and animals?",
+      "type": "choice",
+      "choices": ["Biomass", "Solar", "Wind", "Fossil fuels"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Renewable energy sources can be replenished naturally.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one advantage of renewable energy.",
+      "type": "input",
+      "answer": ["Reduces pollution", "Sustainable", "Reduces greenhouse gases", "Infinite supply"]
+    },
+    {
+      "text": "Give one disadvantage of non-renewable energy.",
+      "type": "input",
+      "answer": ["Finite supply", "Pollution", "Greenhouse gas emissions", "Environmental damage"]
+    },
+    {
+      "text": "Which fossil fuel is most commonly used for electricity generation?",
+      "type": "choice",
+      "choices": ["Coal", "Wind", "Solar", "Hydroelectric"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - Environmental impact",
+  "quiz": [
+    {
+      "text": "Which term describes the effect of human activities on the environment?",
+      "type": "choice",
+      "choices": ["Environmental impact", "Economic growth", "Urbanisation", "Industrialisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas contributes most to the greenhouse effect?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Deforestation reduces biodiversity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Recycling increases the use of raw materials.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the destruction of soil and land by human activity?",
+      "type": "choice",
+      "choices": ["Land degradation", "Flooding", "Erosion", "Urbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which form of energy reduces carbon emissions?",
+      "type": "choice",
+      "choices": ["Renewable energy", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Climate change can affect agriculture.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one human activity that causes air pollution.",
+      "type": "input",
+      "answer": ["Burning fossil fuels", "Factories", "Transport", "Deforestation"]
+    },
+    {
+      "text": "Give one effect of water pollution.",
+      "type": "input",
+      "answer": ["Harm to aquatic life", "Health problems", "Contaminated drinking water", "Loss of biodiversity"]
+    },
+    {
+      "text": "Which term describes when industries release chemicals into the environment?",
+      "type": "choice",
+      "choices": ["Industrial pollution", "Sustainable development", "Recycling", "Deforestation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - European Union",
+  "quiz": [
+    {
+      "text": "What does EU stand for?",
+      "type": "choice",
+      "choices": ["European Union", "Economic Union", "European Universities", "Euro Unit"],
+      "answer": 0
+    },
+    {
+      "text": "Which currency is used by most EU countries?",
+      "type": "choice",
+      "choices": ["Euro", "Pound", "Dollar", "Franc"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ireland is a member of the European Union.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The EU has no influence on environmental laws in member states.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which EU institution proposes legislation?",
+      "type": "choice",
+      "choices": ["European Commission", "European Parliament", "Council of Europe", "European Court of Justice"],
+      "answer": 0
+    },
+    {
+      "text": "Which EU policy promotes free movement of goods, services, capital, and people?",
+      "type": "choice",
+      "choices": ["Single Market", "Customs Union", "Common Agricultural Policy", "Schengen Agreement"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: EU membership can provide funding for regional development.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one benefit of EU membership for a country.",
+      "type": "input",
+      "answer": ["Trade opportunities", "Funding for infrastructure", "Peace and security", "Mobility of workers"]
+    },
+    {
+      "text": "Give one example of an EU law or regulation.",
+      "type": "input",
+      "answer": ["Environmental protection laws", "Consumer protection laws", "Data protection laws", "Labour laws"]
+    },
+    {
+      "text": "Which EU agreement allows people to travel freely across most member states?",
+      "type": "choice",
+      "choices": ["Schengen Agreement", "Eurozone Agreement", "Lisbon Treaty", "Treaty of Maastricht"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - Multinationals & Globalisation",
+  "quiz": [
+    {
+      "text": "Which term describes a company that operates in more than one country?",
+      "type": "choice",
+      "choices": ["Multinational", "Local business", "Small enterprise", "Franchise"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the increasing interconnectedness of the world economy?",
+      "type": "choice",
+      "choices": ["Globalisation", "Urbanisation", "Industrialisation", "Colonisation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Globalisation can lead to cultural exchange.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Multinationals always pay high taxes in every country they operate.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes outsourcing production to other countries?",
+      "type": "choice",
+      "choices": ["Offshoring", "Insourcing", "Franchising", "Licensing"],
+      "answer": 0
+    },
+    {
+      "text": "Which industry is commonly dominated by multinationals?",
+      "type": "choice",
+      "choices": ["Technology", "Agriculture", "Local markets", "Craft industries"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Globalisation can lead to job creation in developing countries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one positive effect of globalisation on local economies.",
+      "type": "input",
+      "answer": ["Job creation", "Investment", "Technology transfer", "Infrastructure improvement"]
+    },
+    {
+      "text": "Give one negative effect of multinational companies.",
+      "type": "input",
+      "answer": ["Exploitation of workers", "Environmental damage", "Cultural homogenisation", "Tax avoidance"]
+    },
+    {
+      "text": "Which organisation promotes global trade rules?",
+      "type": "choice",
+      "choices": ["World Trade Organization", "IMF", "EU", "UNESCO"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Elective - Economic",
+  "quiz": [
+    {
+      "text": "Which sector produces raw materials?",
+      "type": "choice",
+      "choices": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector adds value to raw materials?",
+      "type": "choice",
+      "choices": ["Secondary sector", "Primary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Services are part of the tertiary sector.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mining is a tertiary activity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the movement of people, goods, or capital for economic gain?",
+      "type": "choice",
+      "choices": ["Trade", "Migration", "Transport", "Urbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of economy is controlled mainly by the government?",
+      "type": "choice",
+      "choices": ["Planned economy", "Market economy", "Mixed economy", "Traditional economy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Developing countries often rely heavily on agriculture.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one natural resource important for economic activity.",
+      "type": "input",
+      "answer": ["Oil", "Coal", "Timber", "Water"]
+    },
+    {
+      "text": "Give one factor that attracts foreign investment.",
+      "type": "input",
+      "answer": ["Low taxes", "Skilled workforce", "Good infrastructure", "Political stability"]
+    },
+    {
+      "text": "Which type of industry is car manufacturing?",
+      "type": "choice",
+      "choices": ["Secondary", "Primary", "Tertiary", "Quaternary"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Elective - Human",
+  "quiz": [
+    {
+      "text": "Which term describes the study of people and their activities?",
+      "type": "choice",
+      "choices": ["Human geography", "Physical geography", "Cartography", "Geology"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects population distribution?",
+      "type": "choice",
+      "choices": ["Climate", "Plate tectonics", "Soil type", "Volcanic activity"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Urban areas tend to have higher population densities than rural areas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Migration only occurs internationally.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes people moving from rural to urban areas?",
+      "type": "choice",
+      "choices": ["Urbanisation", "Industrialisation", "Suburbanisation", "Counter-urbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor might cause people to leave an area?",
+      "type": "choice",
+      "choices": ["Push factor", "Pull factor", "Gravity", "Economic incentive"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Human activities can influence climate change.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one push factor for migration.",
+      "type": "input",
+      "answer": ["War", "Poverty", "Natural disaster", "Unemployment"]
+    },
+    {
+      "text": "Give one pull factor for migration.",
+      "type": "input",
+      "answer": ["Job opportunities", "Better healthcare", "Education", "Safety"]
+    },
+    {
+      "text": "Which type of settlement is small and rural?",
+      "type": "choice",
+      "choices": ["Village", "City", "Town", "Metropolis"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Glaciation",
+  "quiz": [
+    {
+      "text": "Which type of glacier is found in valleys?",
+      "type": "choice",
+      "choices": ["Valley glacier", "Ice sheet", "Piedmont glacier", "Cirque glacier"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is created when a glacier erodes the land?",
+      "type": "choice",
+      "choices": ["U-shaped valley", "V-shaped valley", "Delta", "Floodplain"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Glacial deposition creates moraines.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Glaciers move uphill due to ice flow.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which landform is a lake formed in a glacial hollow?",
+      "type": "choice",
+      "choices": ["Tarn", "Oxbow lake", "Lagoon", "Reservoir"],
+      "answer": 0
+    },
+    {
+      "text": "Which process describes the wearing away of rock by ice?",
+      "type": "choice",
+      "choices": ["Plucking", "Weathering", "Deposition", "Erosion by water"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Erratics are rocks transported and deposited by glaciers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one feature created by glacial deposition.",
+      "type": "input",
+      "answer": ["Moraine", "Drumlin", "Eskers", "Outwash plain"]
+    },
+    {
+      "text": "Give one evidence of past glaciation in Ireland.",
+      "type": "input",
+      "answer": ["Glacial valleys", "Erratics", "Moraines", "Drumlins"]
+    },
+    {
+      "text": "Which term describes the edge of a glacier?",
+      "type": "choice",
+      "choices": ["Terminus", "Summit", "Crevasse", "Cirque"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Human - Population",
+  "quiz": [
+    {
+      "text": "Which term describes the number of people per square kilometre?",
+      "type": "choice",
+      "choices": ["Population density", "Birth rate", "Death rate", "Migration rate"],
+      "answer": 0
+    },
+    {
+      "text": "Which term refers to the number of births per 1,000 people per year?",
+      "type": "choice",
+      "choices": ["Birth rate", "Death rate", "Fertility rate", "Population growth rate"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A high fertility rate contributes to population growth.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Emigration increases the population of a country.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the movement of people from one country to another?",
+      "type": "choice",
+      "choices": ["Migration", "Urbanisation", "Industrialisation", "Suburbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can cause population decline?",
+      "type": "choice",
+      "choices": ["High death rate", "Low emigration", "High birth rate", "Urbanisation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Population pyramids show age and gender structure.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that affects population distribution.",
+      "type": "input",
+      "answer": ["Climate", "Soil", "Water supply", "Employment"]
+    },
+    {
+      "text": "Give one effect of overpopulation.",
+      "type": "input",
+      "answer": ["Resource depletion", "Pollution", "Housing shortage", "Traffic congestion"]
+    },
+    {
+      "text": "Which term describes the number of deaths per 1,000 people per year?",
+      "type": "choice",
+      "choices": ["Death rate", "Birth rate", "Fertility rate", "Population growth rate"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Human - Urban Geography",
+  "quiz": [
+    {
+      "text": "Which term describes the growth of towns and cities?",
+      "type": "choice",
+      "choices": ["Urbanisation", "Suburbanisation", "Counter-urbanisation", "Ruralisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of urban area has high population density and tall buildings?",
+      "type": "choice",
+      "choices": ["City", "Village", "Town", "Hamlet"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Suburbanisation is the movement of people from cities to rural towns nearby.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Counter-urbanisation occurs when people move from rural areas to cities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the planned development of housing on city outskirts?",
+      "type": "choice",
+      "choices": ["Suburban housing", "Urban sprawl", "Gentrification", "Industrial zoning"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor attracts people to urban areas?",
+      "type": "choice",
+      "choices": ["Employment", "Isolation", "High taxes", "Poor infrastructure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Urban areas often have more services and amenities than rural areas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one problem caused by rapid urbanisation.",
+      "type": "input",
+      "answer": ["Traffic congestion", "Pollution", "Housing shortage", "Strain on services"]
+    },
+    {
+      "text": "Give one benefit of urbanisation.",
+      "type": "input",
+      "answer": ["Better employment opportunities", "Access to healthcare", "Education", "Transport"]
+    },
+    {
+      "text": "Which term describes the redevelopment of inner city areas?",
+      "type": "choice",
+      "choices": ["Gentrification", "Urbanisation", "Suburbanisation", "Rural depopulation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Karst Regions",
+  "quiz": [
+    {
+      "text": "Which type of rock is most commonly associated with karst landscapes?",
+      "type": "choice",
+      "choices": ["Limestone", "Granite", "Sandstone", "Basalt"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is a typical depression formed in karst regions?",
+      "type": "choice",
+      "choices": ["Sinkhole", "Delta", "Drumlin", "Oxbow lake"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Karst regions often have underground rivers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Stalactites grow from the ground upwards.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which landform is formed by chemical weathering in limestone?",
+      "type": "choice",
+      "choices": ["Limestone pavement", "Volcanic cone", "U-shaped valley", "Delta"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is a large underground cave system in karst regions?",
+      "type": "choice",
+      "choices": ["Cavern", "Glacier", "Moraine", "Lagoon"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Karst regions are resistant to chemical weathering.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one feature formed by deposition in karst caves.",
+      "type": "input",
+      "answer": ["Stalactite", "Stalagmite", "Flowstone", "Column"]
+    },
+    {
+      "text": "Give one example of a karst region in Ireland.",
+      "type": "input",
+      "answer": ["The Burren", "Clare", "County Clare", "Burren region"]
+    },
+    {
+      "text": "Which process dissolves limestone to form karst features?",
+      "type": "choice",
+      "choices": ["Carbonation", "Erosion by wind", "Freeze-thaw", "Abrasion"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Mapwork",
+  "quiz": [
+    {
+      "text": "Which term describes the scale 1:50,000 on a map?",
+      "type": "choice",
+      "choices": ["Large scale", "Small scale", "Medium scale", "Topographic scale"],
+      "answer": 0
+    },
+    {
+      "text": "Which feature is shown using contour lines on a map?",
+      "type": "choice",
+      "choices": ["Elevation", "Population", "River length", "Road type"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Map symbols must be explained in the map key.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The compass rose shows distance on a map.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the vertical interval between contour lines?",
+      "type": "choice",
+      "choices": ["Contour interval", "Scale interval", "Topographic interval", "Gradient"],
+      "answer": 0
+    },
+    {
+      "text": "Which line on a map joins points of equal elevation?",
+      "type": "choice",
+      "choices": ["Contour line", "Longitude", "Latitude", "Grid line"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Steep slopes are indicated by widely spaced contours.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method used to measure distance on a map.",
+      "type": "input",
+      "answer": ["Scale ruler", "Measuring wheel", "Grid reference", "Protractor"]
+    },
+    {
+      "text": "Give one example of a physical feature you might identify on a topographic map.",
+      "type": "input",
+      "answer": ["River", "Hill", "Mountain", "Lake"]
+    },
+    {
+      "text": "Which system uses letters and numbers to locate a point on a map?",
+      "type": "choice",
+      "choices": ["Grid reference", "Latitude system", "Longitude system", "Compass bearing"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Option - Atmosphere & Ocean",
+  "quiz": [
+    {
+      "text": "Which layer of the atmosphere contains most of the weather?",
+      "type": "choice",
+      "choices": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "answer": 0
+    },
+    {
+      "text": "Which ocean current warms the western coasts of Europe?",
+      "type": "choice",
+      "choices": ["North Atlantic Drift", "Gulf Stream", "California Current", "Benguela Current"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Hurricanes form over cold ocean waters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Coriolis effect influences wind direction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which phenomenon causes tides?",
+      "type": "choice",
+      "choices": ["Gravitational pull of the moon", "Wind patterns", "Earthquake activity", "Volcanic activity"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the transfer of heat from the equator to the poles by ocean currents?",
+      "type": "choice",
+      "choices": ["Heat redistribution", "Conduction", "Evaporation", "Precipitation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The atmosphere contains mostly oxygen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one greenhouse gas found in the atmosphere.",
+      "type": "input",
+      "answer": ["Carbon dioxide", "Methane", "Nitrous oxide", "Water vapour"]
+    },
+    {
+      "text": "Give one effect of ocean currents on coastal climate.",
+      "type": "input",
+      "answer": ["Warmer winters", "Milder summers", "Increased rainfall", "Storm intensification"]
+    },
+    {
+      "text": "Which process describes the movement of ocean water from surface to depth?",
+      "type": "choice",
+      "choices": ["Thermohaline circulation", "Upwelling", "Wave refraction", "Tsunami formation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Option - Culture & Identity",
+  "quiz": [
+    {
+      "text": "Which term describes the customs and traditions of a society?",
+      "type": "choice",
+      "choices": ["Culture", "Identity", "Demography", "Society"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can influence cultural identity?",
+      "type": "choice",
+      "choices": ["Language", "Climate", "Soil type", "Elevation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Cultural identity can include religion and beliefs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Migration has no effect on cultural identity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the feeling of belonging to a group or nation?",
+      "type": "choice",
+      "choices": ["National identity", "Globalisation", "Ethnicity", "Subculture"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the loss of traditional culture due to outside influences?",
+      "type": "choice",
+      "choices": ["Cultural homogenisation", "Urbanisation", "Global warming", "Industrialisation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Festivals can strengthen cultural identity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one element of culture that can define a community.",
+      "type": "input",
+      "answer": ["Language", "Food", "Clothing", "Music"]
+    },
+    {
+      "text": "Give one example of cultural heritage in Ireland.",
+      "type": "input",
+      "answer": ["Irish language", "Traditional music", "Dance", "Folklore"]
+    },
+    {
+      "text": "Which term describes a smaller cultural group within a larger society?",
+      "type": "choice",
+      "choices": ["Subculture", "Global culture", "Mainstream", "Ethnic group"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Option - Geoecology",
+  "quiz": [
+    {
+      "text": "Which term describes the study of interactions between organisms and their environment?",
+      "type": "choice",
+      "choices": ["Ecology", "Geology", "Meteorology", "Hydrology"],
+      "answer": 0
+    },
+    {
+      "text": "Which ecosystem is characterised by coniferous forests and cold winters?",
+      "type": "choice",
+      "choices": ["Taiga", "Savanna", "Tundra", "Deciduous forest"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Soil type affects vegetation patterns.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Human activity has no effect on geoecology.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which term describes the loss of soil fertility due to erosion or overuse?",
+      "type": "choice",
+      "choices": ["Desertification", "Deforestation", "Salinisation", "Pollution"],
+      "answer": 0
+    },
+    {
+      "text": "Which biome is found near the equator and has high rainfall?",
+      "type": "choice",
+      "choices": ["Tropical rainforest", "Taiga", "Grassland", "Tundra"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wetlands are important for biodiversity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one human activity that can damage ecosystems.",
+      "type": "input",
+      "answer": ["Deforestation", "Pollution", "Overfishing", "Urbanisation"]
+    },
+    {
+      "text": "Give one example of an ecosystem service provided by forests.",
+      "type": "input",
+      "answer": ["Carbon storage", "Oxygen production", "Soil protection", "Water regulation"]
+    },
+    {
+      "text": "Which factor most influences vegetation patterns globally?",
+      "type": "choice",
+      "choices": ["Climate", "Altitude", "Soil", "Latitude"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Option - Global Interdependence",
+  "quiz": [
+    {
+      "text": "Which term describes the growing connection of countries through trade and communication?",
+      "type": "choice",
+      "choices": ["Globalisation", "Urbanisation", "Industrialisation", "Regionalisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation regulates international trade?",
+      "type": "choice",
+      "choices": ["WTO", "UNESCO", "IMF", "WHO"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Global interdependence reduces the need for imports and exports.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Multinational corporations operate in more than one country.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes countries that rely on each other for goods and services?",
+      "type": "choice",
+      "choices": ["Interdependent", "Self-sufficient", "Isolated", "Developing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can increase global interdependence?",
+      "type": "choice",
+      "choices": ["Advances in communication", "Climate change", "Earthquakes", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Global trade can lead to economic inequality between countries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one benefit of global interdependence.",
+      "type": "input",
+      "answer": ["Access to goods", "Economic growth", "Technology transfer", "Cultural exchange"]
+    },
+    {
+      "text": "Give one challenge associated with global interdependence.",
+      "type": "input",
+      "answer": ["Trade disputes", "Economic dependency", "Environmental impact", "Exploitation of labor"]
+    },
+    {
+      "text": "Which term describes the relocation of production to different countries?",
+      "type": "choice",
+      "choices": ["Offshoring", "Outsourcing", "Reshoring", "Insourcing"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Plate Tectonics",
+  "quiz": [
+    {
+      "text": "Which type of plate boundary causes earthquakes?",
+      "type": "choice",
+      "choices": ["Conservative", "Destructive", "Constructive", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which type of plate boundary forms mid-ocean ridges?",
+      "type": "choice",
+      "choices": ["Constructive", "Destructive", "Conservative", "Transform"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Volcanoes only occur at destructive plate boundaries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The Himalayas formed due to the collision of two continental plates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which layer of the Earth contains tectonic plates?",
+      "type": "choice",
+      "choices": ["Crust", "Mantle", "Outer core", "Inner core"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of plate boundary causes subduction?",
+      "type": "choice",
+      "choices": ["Destructive", "Constructive", "Conservative", "Transform"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Transform boundaries often create mountain ranges.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one famous earthquake-prone region.",
+      "type": "input",
+      "answer": ["Ring of Fire", "California", "Japan", "Nepal"]
+    },
+    {
+      "text": "Give one feature formed by destructive plate boundaries.",
+      "type": "input",
+      "answer": ["Volcanoes", "Deep ocean trenches", "Fold mountains"]
+    },
+    {
+      "text": "Which force drives the movement of tectonic plates?",
+      "type": "choice",
+      "choices": ["Mantle convection", "Gravity", "Earth’s rotation", "Tidal forces"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Regions - Continental",
+  "quiz": [
+    {
+      "text": "Which continent is the largest by land area?",
+      "type": "choice",
+      "choices": ["Asia", "Africa", "Europe", "North America"],
+      "answer": 0
+    },
+    {
+      "text": "Which continent has the most countries?",
+      "type": "choice",
+      "choices": ["Africa", "Asia", "Europe", "South America"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Antarctica has a permanent human population.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Europe is a continent entirely in the Northern Hemisphere.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which continent is known as the 'Dark Continent' historically?",
+      "type": "choice",
+      "choices": ["Africa", "Asia", "South America", "Australia"],
+      "answer": 0
+    },
+    {
+      "text": "Which continent is surrounded by the Indian Ocean?",
+      "type": "choice",
+      "choices": ["Africa", "Asia", "Australia", "Europe"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: South America has both tropical rainforests and deserts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one mountain range in Asia.",
+      "type": "input",
+      "answer": ["Himalayas", "Karakoram", "Tien Shan", "Kunlun"]
+    },
+    {
+      "text": "Give one major river in Africa.",
+      "type": "input",
+      "answer": ["Nile", "Congo", "Niger", "Zambezi"]
+    },
+    {
+      "text": "Which continent is the flattest on average?",
+      "type": "choice",
+      "choices": ["Australia", "Europe", "Asia", "North America"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Regions - European",
+  "quiz": [
+    {
+      "text": "Which European country has the largest population?",
+      "type": "choice",
+      "choices": ["Germany", "France", "United Kingdom", "Italy"],
+      "answer": 0
+    },
+    {
+      "text": "Which European country is known for its fjords?",
+      "type": "choice",
+      "choices": ["Norway", "Sweden", "Finland", "Denmark"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The European Union includes all European countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Europe is the second smallest continent by land area.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which river flows through Budapest and Vienna?",
+      "type": "choice",
+      "choices": ["Danube", "Rhine", "Thames", "Seine"],
+      "answer": 0
+    },
+    {
+      "text": "Which European country has the most coastline?",
+      "type": "choice",
+      "choices": ["Norway", "Greece", "Italy", "Spain"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Alps extend across France, Switzerland, and Austria.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one major port city in Europe.",
+      "type": "input",
+      "answer": ["Rotterdam", "Hamburg", "Barcelona", "Antwerp"]
+    },
+    {
+      "text": "Give one landlocked European country.",
+      "type": "input",
+      "answer": ["Switzerland", "Austria", "Hungary", "Czech Republic"]
+    },
+    {
+      "text": "Which European country is divided into regions called Cantons?",
+      "type": "choice",
+      "choices": ["Switzerland", "Germany", "Italy", "Spain"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Regions - Ireland",
+  "quiz": [
+    {
+      "text": "Which is the highest mountain in Ireland?",
+      "type": "choice",
+      "choices": ["Carrauntoohil", "Slieve Donard", "Mount Brandon", "Croagh Patrick"],
+      "answer": 0
+    },
+    {
+      "text": "Which river is the longest in Ireland?",
+      "type": "choice",
+      "choices": ["Shannon", "Liffey", "Barrow", "Suire"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ireland is entirely located in the Northern Hemisphere.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The Burren is a karst limestone region in Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which county is Dublin located in?",
+      "type": "choice",
+      "choices": ["Dublin", "Cork", "Galway", "Kerry"],
+      "answer": 0
+    },
+    {
+      "text": "Which Irish city is famous for its wine and food festivals?",
+      "type": "choice",
+      "choices": ["Cork", "Galway", "Limerick", "Waterford"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The Giant’s Causeway is located in Northern Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one mountain range in Ireland.",
+      "type": "input",
+      "answer": ["MacGillycuddy’s Reeks", "Wicklow Mountains", "Slieve Bloom", "Mourne Mountains"]
+    },
+    {
+      "text": "Give one major lake in Ireland.",
+      "type": "input",
+      "answer": ["Lough Neagh", "Lough Corrib", "Lough Derg", "Lough Ree"]
+    },
+    {
+      "text": "Which Irish city is known as the 'City of Tribes'?",
+      "type": "choice",
+      "choices": ["Galway", "Cork", "Dublin", "Limerick"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Rivers",
+  "quiz": [
+    {
+      "text": "Which stage of a river is characterized by steep gradients and waterfalls?",
+      "type": "choice",
+      "choices": ["Youthful", "Mature", "Old", "Floodplain"],
+      "answer": 0
+    },
+    {
+      "text": "Which river feature is formed by deposition on the inside of a bend?",
+      "type": "choice",
+      "choices": ["Meander", "Oxbow lake", "Slip-off slope", "Levee"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Rivers erode on the outside of bends and deposit on the inside.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A river's load consists only of dissolved minerals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which process causes vertical erosion in a river valley?",
+      "type": "choice",
+      "choices": ["Hydraulic action", "Attrition", "Abrasion", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which feature is formed when a river leaves its main channel during a flood?",
+      "type": "choice",
+      "choices": ["Levee", "Floodplain", "Delta", "Oxbow lake"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A delta forms when a river meets the sea or a lake.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one major river in Ireland.",
+      "type": "input",
+      "answer": ["Shannon", "Liffey", "Barrow", "Suire"]
+    },
+    {
+      "text": "Give one type of river erosion.",
+      "type": "input",
+      "answer": ["Hydraulic action", "Abrasion", "Attrition", "Solution"]
+    },
+    {
+      "text": "Which river feature is a former meander cut off from the main channel?",
+      "type": "choice",
+      "choices": ["Oxbow lake", "Levee", "Floodplain", "Waterfall"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Rocks, Weathering & Mass Movement",
+  "quiz": [
+    {
+      "text": "Which type of weathering involves the breakdown of rock by chemical reactions?",
+      "type": "choice",
+      "choices": ["Chemical", "Mechanical", "Biological", "Freeze-thaw"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of weathering occurs when water enters cracks, freezes, and expands?",
+      "type": "choice",
+      "choices": ["Freeze-thaw", "Exfoliation", "Carbonation", "Hydration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Biological weathering can be caused by plant roots.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mass movement refers only to landslides.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which type of rock is most resistant to weathering?",
+      "type": "choice",
+      "choices": ["Granite", "Limestone", "Sandstone", "Shale"],
+      "answer": 0
+    },
+    {
+      "text": "Which process describes the chemical reaction of carbon dioxide with limestone?",
+      "type": "choice",
+      "choices": ["Carbonation", "Hydration", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rockfall occurs when rocks loosen and fall freely down a slope.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of mass movement.",
+      "type": "input",
+      "answer": ["Landslide", "Mudflow", "Rockfall", "Slump"]
+    },
+    {
+      "text": "Give one factor that influences the rate of weathering.",
+      "type": "input",
+      "answer": ["Climate", "Rock type", "Vegetation", "Slope"]
+    },
+    {
+      "text": "Which type of weathering breaks rocks into smaller pieces without changing their chemical composition?",
+      "type": "choice",
+      "choices": ["Mechanical", "Chemical", "Biological", "Oxidation"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Economic - Multinationals & Globalisation",
+  "quiz": [
+    {
+      "text": "Which of the following is an example of a multinational company?",
+      "type": "choice",
+      "choices": ["Apple", "Tesco", "Amazon", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which term describes the process of businesses operating internationally?",
+      "type": "choice",
+      "choices": ["Globalisation", "Urbanisation", "Industrialisation", "Privatisation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Multinational companies only operate in their home country.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Globalisation increases trade and cultural exchange.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which country hosts the European headquarters of many tech multinationals?",
+      "type": "choice",
+      "choices": ["Ireland", "France", "Germany", "Spain"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor attracts multinationals to a country?",
+      "type": "choice",
+      "choices": ["Low taxes", "Skilled workforce", "Good infrastructure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Globalisation has no impact on local culture.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one advantage of multinationals operating in a country.",
+      "type": "input",
+      "answer": ["Employment", "Investment", "Technology transfer", "Economic growth"]
+    },
+    {
+      "text": "Give one disadvantage of globalisation.",
+      "type": "input",
+      "answer": ["Job losses", "Cultural homogenisation", "Environmental damage", "Exploitation"]
+    },
+    {
+      "text": "Which term describes companies sourcing materials or production from different countries?",
+      "type": "choice",
+      "choices": ["Outsourcing", "Insourcing", "Franchising", "Licensing"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Elective - Economic",
+  "quiz": [
+    {
+      "text": "Which sector of the economy includes farming and fishing?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector involves manufacturing and industry?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The tertiary sector includes shops and services.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Economic development is the same in all countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which indicator measures the wealth and standard of living of a country?",
+      "type": "choice",
+      "choices": ["GDP", "Population", "Climate", "Exports"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector includes research, IT, and education?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Developing countries usually have a higher percentage of workers in the primary sector.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that influences economic development.",
+      "type": "input",
+      "answer": ["Resources", "Infrastructure", "Education", "Trade"]
+    },
+    {
+      "text": "Give one example of a secondary industry.",
+      "type": "input",
+      "answer": ["Car manufacturing", "Textile factory", "Steel production", "Food processing"]
+    },
+    {
+      "text": "Which sector provides banking, transport, and healthcare?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 2
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Tables/Graphs Questions",
+  "quiz": [
+    {
+      "text": "Which type of graph is best for showing changes over time?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph is used to compare quantities for different categories?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Scatter plot", "Histogram"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A pie chart shows proportions of a whole.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Histograms are used for categorical data.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which is the independent variable usually plotted on a graph?",
+      "type": "choice",
+      "choices": ["X-axis", "Y-axis", "Z-axis", "Legend"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph would you use to show rainfall per month?",
+      "type": "choice",
+      "choices": ["Line graph", "Bar chart", "Pie chart", "Histogram"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Scatter plots show relationships between two variables.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one advantage of using graphs in Geography.",
+      "type": "input",
+      "answer": ["Visualisation", "Easy comparison", "Interpret trends", "Clear presentation"]
+    },
+    {
+      "text": "Name one way to avoid misleading graphs.",
+      "type": "input",
+      "answer": ["Consistent scales", "Label axes", "Use correct type", "Avoid exaggeration"]
+    },
+    {
+      "text": "Which graph is suitable for showing percentages of a whole?",
+      "type": "choice",
+      "choices": ["Pie chart", "Line graph", "Bar chart", "Histogram"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "The Sea",
+  "quiz": [
+    {
+      "text": "Which process wears away the coastline by wave action?",
+      "type": "choice",
+      "choices": ["Erosion", "Deposition", "Transportation", "Weathering"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of wave carries material along the coast?",
+      "type": "choice",
+      "choices": ["Constructive", "Destructive", "Longshore drift", "Swash"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Sand dunes are formed by deposition from the sea.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Destructive waves build beaches.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which coastal feature is a narrow ridge of rock extending into the sea?",
+      "type": "choice",
+      "choices": ["Spit", "Headland", "Stack", "Arch"],
+      "answer": 1
+    },
+    {
+      "text": "Which process forms an arch from a headland?",
+      "type": "choice",
+      "choices": ["Hydraulic action", "Abrasion", "Attrition", "Weathering"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Beaches are formed mainly by deposition.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of coastal erosion.",
+      "type": "input",
+      "answer": ["Cliff retreat", "Wave-cut platform", "Sea cave", "Arch formation"]
+    },
+    {
+      "text": "Name one feature formed by deposition along the coast.",
+      "type": "input",
+      "answer": ["Spit", "Beach", "Sand dune", "Barrier island"]
+    },
+    {
+      "text": "Which process moves sediment along the coastline?",
+      "type": "choice",
+      "choices": ["Longshore drift", "Erosion", "Weathering", "Tectonic activity"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Urban Land uses",
+  "quiz": [
+    {
+      "text": "Which zone in a city usually contains offices and shops?",
+      "type": "choice",
+      "choices": ["Central Business District", "Residential", "Industrial", "Suburban"],
+      "answer": 0
+    },
+    {
+      "text": "Which zone is mainly for factories and warehouses?",
+      "type": "choice",
+      "choices": ["Industrial", "Commercial", "Residential", "Greenbelt"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Residential zones are located farthest from the city center.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CBDs usually have high land values and tall buildings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes the spread of urban areas into surrounding countryside?",
+      "type": "choice",
+      "choices": ["Urban sprawl", "Gentrification", "Suburbanisation", "Regeneration"],
+      "answer": 0
+    },
+    {
+      "text": "Which urban zone often has low-density housing?",
+      "type": "choice",
+      "choices": ["Suburban", "CBD", "Industrial", "Inner city"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Inner city areas are often the oldest part of the city.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one factor that influences land use patterns in a city.",
+      "type": "input",
+      "answer": ["Transport", "Land value", "Zoning laws", "Topography"]
+    },
+    {
+      "text": "Name one type of commercial activity found in urban areas.",
+      "type": "input",
+      "answer": ["Shops", "Banks", "Restaurants", "Offices"]
+    },
+    {
+      "text": "Which process improves and modernises old urban areas?",
+      "type": "choice",
+      "choices": ["Regeneration", "Gentrification", "Suburbanisation", "Urban sprawl"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Geography",
+  "topic": "Weather & Climate",
+  "quiz": [
+    {
+      "text": "Which instrument measures air temperature?",
+      "type": "choice",
+      "choices": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures air pressure?",
+      "type": "choice",
+      "choices": ["Thermometer", "Barometer", "Hygrometer", "Rain gauge"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Humidity is the amount of water vapor in the air.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Climate refers to short-term atmospheric conditions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which winds blow from high pressure to low pressure?",
+      "type": "choice",
+      "choices": ["Trade winds", "Prevailing westerlies", "Local winds", "All winds"],
+      "answer": 3
+    },
+    {
+      "text": "Which factor affects temperature in a region?",
+      "type": "choice",
+      "choices": ["Latitude", "Altitude", "Ocean currents", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Rainfall is usually higher on the windward side of mountains.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of precipitation.",
+      "type": "input",
+      "answer": ["Rain", "Snow", "Hail", "Sleet"]
+    },
+    {
+      "text": "Name one factor that influences the climate of a location.",
+      "type": "input",
+      "answer": ["Latitude", "Ocean currents", "Altitude", "Topography"]
+    },
+    {
+      "text": "Which term describes the average weather over a long period?",
+      "type": "choice",
+      "choices": ["Weather", "Climate", "Meteorology", "Atmosphere"],
+      "answer": 1
+    }
+  ]
+}
+]

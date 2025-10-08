@@ -1,0 +1,1344 @@
+[
+{
+  "subject": "English",
+  "topic": "Reading to Analyse and Evaluate",
+  "quiz": [
+    {
+      "text": "Which of the following is a key feature of analytical reading?",
+      "type": "choice",
+      "choices": ["Identifying themes", "Watching a movie", "Drawing pictures", "Reciting poetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device compares two unlike things using 'like' or 'as'?",
+      "type": "choice",
+      "choices": ["Simile", "Metaphor", "Alliteration", "Personification"],
+      "answer": 0
+    },
+    {
+      "text": "Which method helps evaluate the reliability of a text?",
+      "type": "choice",
+      "choices": ["Looking at the author", "Guessing", "Ignoring context", "Counting words"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is considered when analysing character?",
+      "type": "choice",
+      "choices": ["Dialogue", "Font size", "Page number", "Chapter length"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique involves noticing repetition of sounds or words?",
+      "type": "choice",
+      "choices": ["Alliteration", "Hyperbole", "Irony", "Personification"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Analysing a text only involves summarising the plot.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Context can influence interpretation of a text.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Evaluating tone is part of analytical reading.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one theme you might analyse in a poem or story.",
+      "type": "input",
+      "answer": ["love", "death", "friendship", "power", "justice"]
+    },
+    {
+      "text": "Give one method for evaluating a text's reliability.",
+      "type": "input",
+      "answer": ["consider the author", "check sources", "consider context", "compare with facts"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Responding to Texts",
+  "quiz": [
+    {
+      "text": "Which response technique involves linking examples to ideas?",
+      "type": "choice",
+      "choices": ["Analysis", "Copying", "Skipping", "Summarising only"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of a text is useful for identifying tone?",
+      "type": "choice",
+      "choices": ["Word choice", "Page number", "Font type", "Paragraph length"],
+      "answer": 0
+    },
+    {
+      "text": "Which strategy helps organise a written response?",
+      "type": "choice",
+      "choices": ["PEEL paragraphs", "Highlighting only", "Counting words", "Skipping sections"],
+      "answer": 0
+    },
+    {
+      "text": "Which approach is important for linking text to personal experience?",
+      "type": "choice",
+      "choices": ["Reflective response", "Memorisation", "Drawing pictures", "Skipping sections"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an effective way to support an argument in a response?",
+      "type": "choice",
+      "choices": ["Quoting the text", "Guessing", "Ignoring evidence", "Writing unrelated ideas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A response should include personal opinion where appropriate.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: It is never acceptable to reference the text in a response.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Linking evidence to ideas strengthens a response.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a textual feature you could reference in a response.",
+      "type": "input",
+      "answer": ["dialogue", "description", "metaphor", "simile", "tone"]
+    },
+    {
+      "text": "Give one way to organise a response essay or paragraph.",
+      "type": "input",
+      "answer": ["PEEL paragraph", "topic sentence first", "link evidence to idea", "conclusion sentence"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Shakespearean Drama",
+  "quiz": [
+    {
+      "text": "Which device is commonly used by Shakespeare to reveal a character’s thoughts?",
+      "type": "choice",
+      "choices": ["Soliloquy", "Monologue", "Dialogue", "Chorus"],
+      "answer": 0
+    },
+    {
+      "text": "Which Shakespeare play features the line 'To be or not to be'?",
+      "type": "choice",
+      "choices": ["Hamlet", "Macbeth", "Othello", "Romeo and Juliet"],
+      "answer": 0
+    },
+    {
+      "text": "What is dramatic irony?",
+      "type": "choice",
+      "choices": ["When the audience knows more than the characters", "A long speech", "A fight scene", "A comic relief"],
+      "answer": 0
+    },
+    {
+      "text": "Which character type is a tragic hero?",
+      "type": "choice",
+      "choices": ["Noble character with a fatal flaw", "Villain only", "Comic sidekick", "Background character"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is used to create tension in Shakespearean drama?",
+      "type": "choice",
+      "choices": ["Conflict", "Stage directions", "Scenery", "Music only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Shakespeare often uses iambic pentameter in his plays.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Soliloquies are spoken to other characters on stage.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Shakespeare wrote both comedies and tragedies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a Shakespearean theme.",
+      "type": "input",
+      "answer": ["ambition", "love", "jealousy", "revenge", "power"]
+    },
+    {
+      "text": "Name one literary device used by Shakespeare to enhance drama.",
+      "type": "input",
+      "answer": ["metaphor", "simile", "dramatic irony", "personification", "alliteration"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Studied - Drama",
+  "quiz": [
+    {
+      "text": "Which element of drama involves how characters interact on stage?",
+      "type": "choice",
+      "choices": ["Characterisation", "Lighting", "Set design", "Sound effects"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps reveal a character’s personality in a play?",
+      "type": "choice",
+      "choices": ["Dialogue", "Stage props", "Costume only", "Scene number"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a key feature of a dramatic climax?",
+      "type": "choice",
+      "choices": ["Turning point", "Introduction", "Dialogue only", "Conclusion"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique increases audience tension?",
+      "type": "choice",
+      "choices": ["Suspense", "Exposition", "Narration", "Flashback"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of play deals with serious social or personal issues?",
+      "type": "choice",
+      "choices": ["Drama", "Comedy", "Farce", "Melodrama"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Stage directions tell actors what to do.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Drama only involves spoken dialogue.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Conflict is a central element in drama.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one way playwrights create tension in a scene.",
+      "type": "input",
+      "answer": ["conflict", "suspense", "pacing", "cliffhanger"]
+    },
+    {
+      "text": "Name one type of character in drama.",
+      "type": "input",
+      "answer": ["protagonist", "antagonist", "foil", "supporting character"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Studied - Fiction",
+  "quiz": [
+    {
+      "text": "Which element defines the time and place of a story?",
+      "type": "choice",
+      "choices": ["Setting", "Plot", "Theme", "Characterisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which point of view uses 'I' in narration?",
+      "type": "choice",
+      "choices": ["First person", "Third person", "Second person", "Omniscient"],
+      "answer": 0
+    },
+    {
+      "text": "What term describes the sequence of events in a story?",
+      "type": "choice",
+      "choices": ["Plot", "Theme", "Conflict", "Characterisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which element expresses the central idea or message?",
+      "type": "choice",
+      "choices": ["Theme", "Conflict", "Climax", "Exposition"],
+      "answer": 0
+    },
+    {
+      "text": "Which literary device involves giving human traits to non-human things?",
+      "type": "choice",
+      "choices": ["Personification", "Metaphor", "Simile", "Alliteration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A protagonist is always a good character.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Conflict is essential in fiction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dialogue only develops plot, not character.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a narrative technique in fiction.",
+      "type": "input",
+      "answer": ["flashback", "foreshadowing", "stream of consciousness", "internal monologue"]
+    },
+    {
+      "text": "Name one type of conflict in fiction.",
+      "type": "input",
+      "answer": ["man vs man", "man vs nature", "man vs self", "man vs society"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Studied - Film",
+  "quiz": [
+    {
+      "text": "Which term describes the visual framing of a shot in film?",
+      "type": "choice",
+      "choices": ["Composition", "Editing", "Sound design", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "Which editing technique shows actions happening at the same time?",
+      "type": "choice",
+      "choices": ["Cross-cutting", "Montage", "Fade", "Jump cut"],
+      "answer": 0
+    },
+    {
+      "text": "Which element sets the mood or atmosphere in a scene?",
+      "type": "choice",
+      "choices": ["Lighting", "Plot", "Dialogue", "Narrator"],
+      "answer": 0
+    },
+    {
+      "text": "Which sound technique emphasizes a character’s emotions?",
+      "type": "choice",
+      "choices": ["Score/Music", "Ambient sound", "Foley", "Dialogue only"],
+      "answer": 0
+    },
+    {
+      "text": "Which camera shot captures the subject from head to toe?",
+      "type": "choice",
+      "choices": ["Long shot", "Close-up", "Medium shot", "Extreme close-up"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Montage sequences condense time in film.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A close-up shot often conveys emotion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Diegetic sound comes from outside the film world.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a film editing technique.",
+      "type": "input",
+      "answer": ["cut", "fade", "dissolve", "jump cut", "montage"]
+    },
+    {
+      "text": "Name one type of camera shot.",
+      "type": "input",
+      "answer": ["close-up", "medium shot", "long shot", "extreme close-up", "tracking shot"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Studied - Poetry",
+  "quiz": [
+    {
+      "text": "Which term describes a repeated vowel sound in poetry?",
+      "type": "choice",
+      "choices": ["Alliteration", "Assonance", "Onomatopoeia", "Consonance"],
+      "answer": 1
+    },
+    {
+      "text": "Which literary device gives human traits to non-human things?",
+      "type": "choice",
+      "choices": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "answer": 2
+    },
+    {
+      "text": "Which type of poem does not follow a rhyme or rhythm scheme?",
+      "type": "choice",
+      "choices": ["Haiku", "Free verse", "Sonnet", "Limerick"],
+      "answer": 1
+    },
+    {
+      "text": "Which term refers to the central message of a poem?",
+      "type": "choice",
+      "choices": ["Theme", "Tone", "Mood", "Rhyme"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of rhyme occurs within a line?",
+      "type": "choice",
+      "choices": ["End rhyme", "Internal rhyme", "Slant rhyme", "Eye rhyme"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A stanza is a group of lines in a poem.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All poetry must rhyme.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Imagery appeals to the senses.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a poetic device.",
+      "type": "input",
+      "answer": ["alliteration", "assonance", "metaphor", "simile", "personification"]
+    },
+    {
+      "text": "Name one type of poem.",
+      "type": "input",
+      "answer": ["sonnet", "haiku", "free verse", "limerick", "ode"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Articles",
+  "quiz": [
+    {
+      "text": "Which is the main purpose of a newspaper article?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform", "To persuade", "To describe a poem"],
+      "answer": 1
+    },
+    {
+      "text": "Which section often gives the writer’s opinion?",
+      "type": "choice",
+      "choices": ["Editorial", "News report", "Interview", "Feature story"],
+      "answer": 0
+    },
+    {
+      "text": "Which element attracts attention at the top of the article?",
+      "type": "choice",
+      "choices": ["Headline", "Body", "Caption", "Footnote"],
+      "answer": 0
+    },
+    {
+      "text": "Which tense is usually used in news reports?",
+      "type": "choice",
+      "choices": ["Past", "Present", "Future", "Conditional"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of an article summarizes the main points?",
+      "type": "choice",
+      "choices": ["Introduction", "Body", "Conclusion", "Sidebar"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Articles always include the writer’s opinion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Facts are used to support statements in articles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Captions explain images or photographs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one feature of a newspaper article.",
+      "type": "input",
+      "answer": ["headline", "introduction", "body", "conclusion", "caption"]
+    },
+    {
+      "text": "Name one type of article.",
+      "type": "input",
+      "answer": ["news report", "editorial", "feature", "interview"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Autobiography",
+  "quiz": [
+    {
+      "text": "Which point of view is most common in autobiographies?",
+      "type": "choice",
+      "choices": ["First person", "Second person", "Third person", "Omniscient"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the main purpose of an autobiography?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform about the writer’s life", "To persuade the reader", "To write poetry"],
+      "answer": 1
+    },
+    {
+      "text": "Which element is usually included to show important life events?",
+      "type": "choice",
+      "choices": ["Timeline", "Dialogue", "Imagery", "Rhyme"],
+      "answer": 0
+    },
+    {
+      "text": "Which tense is usually used in autobiographies?",
+      "type": "choice",
+      "choices": ["Past tense", "Present tense", "Future tense", "Conditional tense"],
+      "answer": 0
+    },
+    {
+      "text": "Which section often reflects on life lessons?",
+      "type": "choice",
+      "choices": ["Introduction", "Body", "Conclusion", "Footnotes"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: An autobiography is a fictional account of someone else’s life.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Autobiographies always include photos.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Autobiographies often reveal personal thoughts and feelings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one feature commonly found in an autobiography.",
+      "type": "input",
+      "answer": ["first person", "timeline", "life events", "reflection", "personal experience"]
+    },
+    {
+      "text": "Give one reason someone might write an autobiography.",
+      "type": "input",
+      "answer": ["to inform", "to inspire", "to entertain", "to reflect", "to leave a legacy"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Drama",
+  "quiz": [
+    {
+      "text": "Which element shows the setting of a play?",
+      "type": "choice",
+      "choices": ["Stage directions", "Dialogue", "Monologue", "Prologue"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a character speaking alone on stage?",
+      "type": "choice",
+      "choices": ["Dialogue", "Soliloquy", "Aside", "Monologue"],
+      "answer": 1
+    },
+    {
+      "text": "Which is the main purpose of drama?",
+      "type": "choice",
+      "choices": ["To inform", "To entertain and convey ideas", "To persuade", "To write poetry"],
+      "answer": 1
+    },
+    {
+      "text": "Which is a common structure of a play?",
+      "type": "choice",
+      "choices": ["Exposition, Rising Action, Climax, Falling Action, Resolution", "Introduction, Body, Conclusion", "Beginning, Middle, End", "Paragraphs and Chapters"],
+      "answer": 0
+    },
+    {
+      "text": "Which element gives clues about how characters should speak or move?",
+      "type": "choice",
+      "choices": ["Stage directions", "Dialogue", "Narrator", "Prologue"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A monologue is a conversation between two characters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Drama is meant to be performed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dialogue is only found in novels, not plays.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a dramatic device.",
+      "type": "input",
+      "answer": ["soliloquy", "aside", "monologue", "dramatic irony", "foreshadowing"]
+    },
+    {
+      "text": "Name one feature of the structure of a play.",
+      "type": "input",
+      "answer": ["exposition", "climax", "falling action", "resolution", "rising action"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Fiction",
+  "quiz": [
+    {
+      "text": "Which point of view is common in fiction texts?",
+      "type": "choice",
+      "choices": ["First person", "Second person", "Third person", "Omniscient"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main purpose of fiction?",
+      "type": "choice",
+      "choices": ["To inform", "To entertain and explore ideas", "To persuade", "To give instructions"],
+      "answer": 1
+    },
+    {
+      "text": "Which element describes the time and place of a story?",
+      "type": "choice",
+      "choices": ["Plot", "Setting", "Character", "Theme"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes the sequence of events in a story?",
+      "type": "choice",
+      "choices": ["Setting", "Plot", "Characterisation", "Conflict"],
+      "answer": 1
+    },
+    {
+      "text": "Which element conveys the main message or idea?",
+      "type": "choice",
+      "choices": ["Theme", "Conflict", "Climax", "Foreshadowing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fiction texts always use real people as characters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Dialogue helps to develop characters.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A story's setting cannot affect its mood.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of conflict in fiction.",
+      "type": "input",
+      "answer": ["person vs person", "person vs self", "person vs nature", "person vs society", "internal conflict"]
+    },
+    {
+      "text": "Give one feature of a main character.",
+      "type": "input",
+      "answer": ["protagonist", "hero", "antihero", "character development", "traits"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Grammar",
+  "quiz": [
+    {
+      "text": "Which part of speech describes a person, place, or thing?",
+      "type": "choice",
+      "choices": ["Verb", "Noun", "Adjective", "Adverb"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of speech describes an action?",
+      "type": "choice",
+      "choices": ["Verb", "Pronoun", "Conjunction", "Preposition"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of a linking verb?",
+      "type": "choice",
+      "choices": ["Run", "Is", "Jump", "Think"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of speech describes a noun?",
+      "type": "choice",
+      "choices": ["Adverb", "Pronoun", "Adjective", "Verb"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of speech connects words or clauses?",
+      "type": "choice",
+      "choices": ["Conjunction", "Preposition", "Pronoun", "Adjective"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An adverb always describes a verb.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Pronouns replace nouns.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Prepositions show relationships between nouns and other words.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a pronoun.",
+      "type": "input",
+      "answer": ["he", "she", "it", "they", "we"]
+    },
+    {
+      "text": "Give one example of a conjunction.",
+      "type": "input",
+      "answer": ["and", "but", "or", "because", "so"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Media",
+  "quiz": [
+    {
+      "text": "Which is a primary purpose of media texts?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform", "To persuade", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is a headline intended to do?",
+      "type": "choice",
+      "choices": ["Provide detailed information", "Grab attention", "Analyse content", "Summarise paragraphs"],
+      "answer": 1
+    },
+    {
+      "text": "Which medium is considered digital media?",
+      "type": "choice",
+      "choices": ["Newspaper", "Television", "Social media", "Poster"],
+      "answer": 2
+    },
+    {
+      "text": "Which term describes bias in media?",
+      "type": "choice",
+      "choices": ["Objectivity", "Subjectivity", "Fact", "Analysis"],
+      "answer": 1
+    },
+    {
+      "text": "Which is a feature of persuasive media?",
+      "type": "choice",
+      "choices": ["Neutral language", "Emotive language", "Footnotes", "Graphs"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Media can shape public opinion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All media is unbiased.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Social media is a type of traditional media.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of media text.",
+      "type": "input",
+      "answer": ["newspaper", "magazine", "website", "television", "radio"]
+    },
+    {
+      "text": "Name one persuasive technique in media.",
+      "type": "input",
+      "answer": ["emotive language", "statistics", "repetition", "expert opinion", "slogans"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Poetry",
+  "quiz": [
+    {
+      "text": "Which term describes the main subject of a poem?",
+      "type": "choice",
+      "choices": ["Theme", "Rhyme", "Meter", "Stanza"],
+      "answer": 0
+    },
+    {
+      "text": "Which element refers to the pattern of stressed and unstressed syllables?",
+      "type": "choice",
+      "choices": ["Rhyme", "Meter", "Tone", "Imagery"],
+      "answer": 1
+    },
+    {
+      "text": "What does imagery in poetry do?",
+      "type": "choice",
+      "choices": ["Creates sound effects", "Uses figurative language to create mental images", "Determines stanza length", "Provides footnotes"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes the attitude of the poet toward the subject?",
+      "type": "choice",
+      "choices": ["Tone", "Rhyme", "Theme", "Stanza"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a common poetic device?",
+      "type": "choice",
+      "choices": ["Alliteration", "Paragraphing", "Subheading", "Indexing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Rhyme occurs when words sound similar.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Poems always have a regular rhyme scheme.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Stanzas are like paragraphs in poetry.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a poetic device.",
+      "type": "input",
+      "answer": ["alliteration", "metaphor", "simile", "personification", "onomatopoeia"]
+    },
+    {
+      "text": "Name one element used to convey meaning in poetry.",
+      "type": "input",
+      "answer": ["tone", "imagery", "theme", "symbolism", "structure"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Speech",
+  "quiz": [
+    {
+      "text": "What is the primary purpose of a speech?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform", "To persuade", "Any of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which feature makes a speech persuasive?",
+      "type": "choice",
+      "choices": ["Rhetorical questions", "Footnotes", "Tables", "Indexing"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes repetition of sounds at the beginning of words in a speech?",
+      "type": "choice",
+      "choices": ["Alliteration", "Simile", "Metaphor", "Rhyme"],
+      "answer": 0
+    },
+    {
+      "text": "What is the intended effect of emotive language in a speech?",
+      "type": "choice",
+      "choices": ["To appeal to logic", "To appeal to emotions", "To explain statistics", "To create rhyme"],
+      "answer": 1
+    },
+    {
+      "text": "Which element contributes to a speaker's credibility?",
+      "type": "choice",
+      "choices": ["Tone of voice", "Use of statistics", "Personal anecdotes", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: A speech can only be persuasive.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Tone is important in conveying a speaker’s attitude.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rhetorical questions are used to engage the audience.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a persuasive technique in speeches.",
+      "type": "input",
+      "answer": ["rhetorical question", "emotive language", "repetition", "statistics", "anecdote"]
+    },
+    {
+      "text": "Name one element that makes a speech effective.",
+      "type": "input",
+      "answer": ["tone", "structure", "gesture", "pausing", "eye contact"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Unseen - Visuals",
+  "quiz": [
+    {
+      "text": "Which is an example of a visual text?",
+      "type": "choice",
+      "choices": ["Photograph", "Novel", "Speech", "Article"],
+      "answer": 0
+    },
+    {
+      "text": "What does symbolism in visuals often represent?",
+      "type": "choice",
+      "choices": ["Literal meaning", "Deeper meaning", "Grammar rules", "Footnotes"],
+      "answer": 1
+    },
+    {
+      "text": "Which element draws the viewer’s attention?",
+      "type": "choice",
+      "choices": ["Colour", "Paragraphs", "Rhyme", "Index"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique suggests movement in visuals?",
+      "type": "choice",
+      "choices": ["Lines", "Alliteration", "Metaphor", "Repetition of words"],
+      "answer": 0
+    },
+    {
+      "text": "What can captions in visuals do?",
+      "type": "choice",
+      "choices": ["Provide context", "Create rhyme", "Replace images", "Ignore meaning"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Every visual contains symbolism.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Colour can affect the mood of a visual.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Captions are always optional and unimportant.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a visual technique.",
+      "type": "input",
+      "answer": ["contrast", "symbolism", "colour", "lines", "composition"]
+    },
+    {
+      "text": "Name one element used to guide the viewer’s eye in a visual.",
+      "type": "input",
+      "answer": ["lines", "focus", "lighting", "perspective", "colour"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Aesthetic",
+  "quiz": [
+    {
+      "text": "Which of the following is most important in aesthetic writing?",
+      "type": "choice",
+      "choices": ["Factual accuracy", "Emotional impact", "Number of words", "References"],
+      "answer": 1
+    },
+    {
+      "text": "What type of language is commonly used in aesthetic writing?",
+      "type": "choice",
+      "choices": ["Descriptive", "Technical", "Instructional", "Legal"],
+      "answer": 0
+    },
+    {
+      "text": "Which element helps create imagery in writing?",
+      "type": "choice",
+      "choices": ["Similes and metaphors", "Bullet points", "Headings", "Footnotes"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a characteristic of aesthetic writing?",
+      "type": "choice",
+      "choices": ["Objective tone", "Creative expression", "Financial data", "Step-by-step instructions"],
+      "answer": 1
+    },
+    {
+      "text": "Which sense is commonly engaged in aesthetic writing?",
+      "type": "choice",
+      "choices": ["Sight", "Hearing", "Touch", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Aesthetic writing is focused mainly on facts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Aesthetic writing often uses figurative language.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Structure is not important in aesthetic writing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one technique used to create imagery in writing.",
+      "type": "input",
+      "answer": ["simile", "metaphor", "personification", "imagery", "descriptive language"]
+    },
+    {
+      "text": "Name one way to make writing more aesthetic.",
+      "type": "input",
+      "answer": ["figurative language", "sensory details", "creative expression", "vivid description", "imaginative language"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Argumentative",
+  "quiz": [
+    {
+      "text": "What is the main purpose of argumentative writing?",
+      "type": "choice",
+      "choices": ["To describe a scene", "To persuade the reader", "To entertain with stories", "To summarize a novel"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is essential in argumentative writing?",
+      "type": "choice",
+      "choices": ["Thesis statement", "Rhyme scheme", "Character sketches", "Illustrations"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique strengthens an argument?",
+      "type": "choice",
+      "choices": ["Using evidence and examples", "Using decorative fonts", "Writing long sentences", "Adding fictional dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a common feature of argumentative writing?",
+      "type": "choice",
+      "choices": ["Counterarguments", "Imagery", "Personification", "Sensory details"],
+      "answer": 0
+    },
+    {
+      "text": "Which tone is usually best in argumentative writing?",
+      "type": "choice",
+      "choices": ["Objective and logical", "Emotional only", "Poetic", "Informal slang"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Opinion alone is enough in argumentative writing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A strong conclusion reinforces the argument.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Counterarguments weaken your essay and should be avoided.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one way to strengthen an argumentative essay.",
+      "type": "input",
+      "answer": ["provide evidence", "use examples", "address counterarguments", "cite sources", "reason logically"]
+    },
+    {
+      "text": "Name one element of a strong argumentative structure.",
+      "type": "input",
+      "answer": ["introduction", "thesis statement", "body paragraphs", "conclusion", "counterargument"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Informative",
+  "quiz": [
+    {
+      "text": "What is the main purpose of informative writing?",
+      "type": "choice",
+      "choices": ["To entertain", "To inform and explain", "To persuade", "To describe emotions"],
+      "answer": 1
+    },
+    {
+      "text": "Which structure is common in informative writing?",
+      "type": "choice",
+      "choices": ["Chronological order", "Rhyme scheme", "Dialogue", "Imagery"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following should informative writing avoid?",
+      "type": "choice",
+      "choices": ["Facts", "Evidence", "Personal opinion without support", "Headings and subheadings"],
+      "answer": 2
+    },
+    {
+      "text": "Which tone is suitable for informative writing?",
+      "type": "choice",
+      "choices": ["Objective and clear", "Emotional and dramatic", "Persuasive only", "Colloquial slang"],
+      "answer": 0
+    },
+    {
+      "text": "Which element enhances clarity in informative writing?",
+      "type": "choice",
+      "choices": ["Examples and illustrations", "Figurative language", "Poetic devices", "Long sentences without breaks"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Informative writing should provide evidence.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Personal opinion without facts is sufficient in informative writing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Headings and bullet points can make information clearer.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method to make informative writing clear and understandable.",
+      "type": "input",
+      "answer": ["headings", "subheadings", "bullet points", "examples", "illustrations"]
+    },
+    {
+      "text": "Give one way to support statements in informative writing.",
+      "type": "input",
+      "answer": ["evidence", "statistics", "facts", "examples", "data"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Letter",
+  "quiz": [
+    {
+      "text": "Which is essential in a formal letter?",
+      "type": "choice",
+      "choices": ["Salutation and closing", "Poetic imagery", "Rhyme scheme", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of tone is best for a formal letter?",
+      "type": "choice",
+      "choices": ["Polite and professional", "Casual and humorous", "Angry and emotional", "Colloquial and slangy"],
+      "answer": 0
+    },
+    {
+      "text": "Which part usually comes first in a formal letter?",
+      "type": "choice",
+      "choices": ["Introduction", "Conclusion", "Body", "Signature"],
+      "answer": 0
+    },
+    {
+      "text": "Which is important in a letter to a friend?",
+      "type": "choice",
+      "choices": ["Friendly and personal tone", "Formal greetings only", "Complex vocabulary", "Avoiding emotions"],
+      "answer": 0
+    },
+    {
+      "text": "Which should letters avoid?",
+      "type": "choice",
+      "choices": ["Clear structure", "Rude language", "Appropriate greetings", "Signature and date"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A letter should always have a date.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Informal letters do not require greetings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Closing phrases help conclude a letter politely.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one element of a formal letter.",
+      "type": "input",
+      "answer": ["salutation", "closing", "address", "signature", "date"]
+    },
+    {
+      "text": "Give one element commonly used in informal letters.",
+      "type": "input",
+      "answer": ["personal tone", "friendly greeting", "emoticons", "casual language", "storytelling"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Narrative",
+  "quiz": [
+    {
+      "text": "What is the main purpose of narrative writing?",
+      "type": "choice",
+      "choices": ["To tell a story", "To persuade", "To inform", "To describe an object"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is essential in narrative writing?",
+      "type": "choice",
+      "choices": ["Characters", "Graphs", "Statistics", "Footnotes"],
+      "answer": 0
+    },
+    {
+      "text": "Which point of view is common in narratives?",
+      "type": "choice",
+      "choices": ["First-person or third-person", "Only first-person", "Only third-person", "Second-person only"],
+      "answer": 0
+    },
+    {
+      "text": "Which element helps create tension in a narrative?",
+      "type": "choice",
+      "choices": ["Conflict", "Indexing", "Bullet points", "Tables"],
+      "answer": 0
+    },
+    {
+      "text": "Which is NOT typical in a narrative?",
+      "type": "choice",
+      "choices": ["Dialogue", "Character development", "Step-by-step instructions", "Setting description"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A narrative always has a beginning, middle, and end.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Narrative writing never includes dialogue.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Characters help readers relate to the story.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one element that makes a narrative engaging.",
+      "type": "input",
+      "answer": ["characters", "setting", "plot", "conflict", "dialogue"]
+    },
+    {
+      "text": "Name one type of narrative point of view.",
+      "type": "input",
+      "answer": ["first-person", "third-person", "omniscient", "limited", "second-person"]
+    }
+  ]
+},
+{
+  "subject": "English",
+  "topic": "Writing - Persuasive",
+  "quiz": [
+    {
+      "text": "What is the main purpose of persuasive writing?",
+      "type": "choice",
+      "choices": ["To convince the reader", "To tell a story", "To describe a place", "To provide instructions"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique is common in persuasive writing?",
+      "type": "choice",
+      "choices": ["Rhetorical questions", "Graphs and tables only", "Dialogue", "Imaginary creatures"],
+      "answer": 0
+    },
+    {
+      "text": "Which element strengthens a persuasive argument?",
+      "type": "choice",
+      "choices": ["Evidence and examples", "Long paragraphs without breaks", "Repetition of unrelated ideas", "Complex vocabulary only"],
+      "answer": 0
+    },
+    {
+      "text": "Which tone is most effective in persuasive writing?",
+      "type": "choice",
+      "choices": ["Confident and clear", "Casual and vague", "Emotional but unclear", "Monotone and boring"],
+      "answer": 0
+    },
+    {
+      "text": "Which should be avoided in persuasive writing?",
+      "type": "choice",
+      "choices": ["Logical argument", "Unsupported claims", "Facts", "Examples"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Persuasive writing always uses facts to support arguments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Opinions without support can weaken persuasive writing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Persuasive writing can include rhetorical devices to engage the reader.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method to make a persuasive argument stronger.",
+      "type": "input",
+      "answer": ["evidence", "examples", "statistics", "facts", "logic"]
+    },
+    {
+      "text": "Give one type of persuasive technique.",
+      "type": "input",
+      "answer": ["rhetorical question", "repetition", "appeal to emotion", "appeal to logic", "counterargument"]
+    }
+  ]
+}
+]

@@ -1,0 +1,612 @@
+[
+{
+  "subject": "Irish T2",
+  "topic": "Compulsory Texts - Drama",
+  "quiz": [
+    {
+      "text": "Who is the main character in the play?",
+      "type": "choice",
+      "choices": ["Pádraig", "Seán", "Máire", "Nóra"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The play is set in rural Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which theme is central to the drama?",
+      "type": "choice",
+      "choices": ["Family conflict", "Science", "Travel", "Sports"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dialogue is used to reveal character traits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Who provides comic relief in the play?",
+      "type": "choice",
+      "choices": ["Seán", "Pádraig", "Máire", "Nóra"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The play includes both acts and scenes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which event triggers the main conflict?",
+      "type": "choice",
+      "choices": ["Inheritance dispute", "A storm", "A wedding", "A school exam"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the main idea or message of a drama.",
+      "type": "input",
+      "answer": ["theme", "central theme", "message"]
+    },
+    {
+      "text": "Type the term for a speech by a character alone on stage.",
+      "type": "input",
+      "answer": ["monologue", "soliloquy"]
+    },
+    {
+      "text": "Which device is often used to create tension in drama?",
+      "type": "choice",
+      "choices": ["Suspense", "Flashback", "Exposition", "Narration"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Compulsory Texts - Novel",
+  "quiz": [
+    {
+      "text": "Who is the protagonist of the novel?",
+      "type": "choice",
+      "choices": ["Seán", "Pádraig", "Máire", "Nóra"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The novel takes place in the 20th century.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which theme is explored in the novel?",
+      "type": "choice",
+      "choices": ["Identity", "Mathematics", "Astronomy", "Sports"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The narrative is written from a first-person perspective.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Who is the main antagonist in the novel?",
+      "type": "choice",
+      "choices": ["Seán", "Pádraig", "Máire", "Nóra"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Novels usually contain chapters and subplots.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which event marks the climax of the novel?",
+      "type": "choice",
+      "choices": ["Family argument", "A journey", "A festival", "A school event"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the underlying message or lesson in a novel.",
+      "type": "input",
+      "answer": ["theme", "moral", "lesson"]
+    },
+    {
+      "text": "Type the term for the person or force opposing the protagonist.",
+      "type": "input",
+      "answer": ["antagonist", "opponent"]
+    },
+    {
+      "text": "Which literary device is often used to show a character’s thoughts?",
+      "type": "choice",
+      "choices": ["Internal monologue", "Dialogue", "Foreshadowing", "Setting"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Compulsory Texts - Poetry / Song",
+  "quiz": [
+    {
+      "text": "Which element is often used to create rhythm in poetry?",
+      "type": "choice",
+      "choices": ["Meter", "Plot", "Character", "Setting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Imagery in poetry appeals to the senses.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which figure of speech compares two unlike things using 'like' or 'as'?",
+      "type": "choice",
+      "choices": ["Simile", "Metaphor", "Personification", "Alliteration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A refrain is a line or phrase repeated in a poem or song.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element expresses the emotional atmosphere of a poem?",
+      "type": "choice",
+      "choices": ["Mood", "Plot", "Setting", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Poetry can use sound devices like alliteration and rhyme.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes giving human qualities to non-human things?",
+      "type": "choice",
+      "choices": ["Personification", "Hyperbole", "Metaphor", "Simile"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the main message or idea in a poem or song.",
+      "type": "input",
+      "answer": ["theme", "main idea", "message"]
+    },
+    {
+      "text": "Type the term for the repeated pattern of sounds at the end of lines.",
+      "type": "input",
+      "answer": ["rhyme", "rhyme scheme"]
+    },
+    {
+      "text": "Which device emphasizes a sound by repeating it at the start of words?",
+      "type": "choice",
+      "choices": ["Alliteration", "Onomatopoeia", "Metaphor", "Simile"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Compulsory Texts - Short Story",
+  "quiz": [
+    {
+      "text": "Who is usually the main character in a short story?",
+      "type": "choice",
+      "choices": ["Protagonist", "Antagonist", "Narrator", "Foil"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Short stories often focus on a single incident or conflict.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element provides background information on setting and characters?",
+      "type": "choice",
+      "choices": ["Exposition", "Climax", "Resolution", "Dialogue"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A short story usually has multiple subplots.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which event is the turning point in a short story?",
+      "type": "choice",
+      "choices": ["Climax", "Exposition", "Introduction", "Resolution"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dialogue in short stories can reveal character traits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term refers to the solution or ending of the story?",
+      "type": "choice",
+      "choices": ["Resolution", "Climax", "Exposition", "Conflict"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for the main problem or struggle faced by the protagonist.",
+      "type": "input",
+      "answer": ["conflict", "main conflict", "problem"]
+    },
+    {
+      "text": "Type the term for the person telling the story.",
+      "type": "input",
+      "answer": ["narrator", "storyteller"]
+    },
+    {
+      "text": "Which device gives hints about what will happen later in the story?",
+      "type": "choice",
+      "choices": ["Foreshadowing", "Flashback", "Simile", "Metaphor"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Grammar Awareness",
+  "quiz": [
+    {
+      "text": "Which part of speech names a person, place, thing, or idea?",
+      "type": "choice",
+      "choices": ["Noun", "Verb", "Adjective", "Adverb"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An adjective describes a noun.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which part of speech shows an action or state of being?",
+      "type": "choice",
+      "choices": ["Verb", "Noun", "Adverb", "Pronoun"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Adverbs always modify nouns.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which part of speech replaces a noun?",
+      "type": "choice",
+      "choices": ["Pronoun", "Adjective", "Verb", "Conjunction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A conjunction joins words or clauses.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which term describes a word that shows possession?",
+      "type": "choice",
+      "choices": ["Possessive", "Subjective", "Objective", "Reflexive"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a word that connects sentences, clauses, or words.",
+      "type": "input",
+      "answer": ["conjunction", "linking word"]
+    },
+    {
+      "text": "Type the term for a word that modifies a verb, adjective, or another adverb.",
+      "type": "input",
+      "answer": ["adverb", "modifying word"]
+    },
+    {
+      "text": "Which type of sentence asks a question?",
+      "type": "choice",
+      "choices": ["Interrogative", "Declarative", "Exclamatory", "Imperative"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Reading Comprehension",
+  "quiz": [
+    {
+      "text": "What is the main idea of a passage called?",
+      "type": "choice",
+      "choices": ["Theme", "Plot", "Character", "Setting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Supporting details help explain the main idea.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which question asks for the author’s opinion or attitude?",
+      "type": "choice",
+      "choices": ["Inference", "Literal", "Vocabulary", "Summary"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Skimming a passage helps identify the main idea quickly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which skill involves drawing conclusions from the text?",
+      "type": "choice",
+      "choices": ["Inference", "Summarizing", "Scanning", "Predicting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Reading comprehension only tests knowledge of vocabulary.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which technique helps locate specific information quickly?",
+      "type": "choice",
+      "choices": ["Scanning", "Summarizing", "Inference", "Prediction"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a brief summary of the main points in a passage.",
+      "type": "input",
+      "answer": ["summary", "main points"]
+    },
+    {
+      "text": "Type the term for reading quickly to get the general idea.",
+      "type": "input",
+      "answer": ["skimming", "overview reading"]
+    },
+    {
+      "text": "Which skill involves using context to understand an unfamiliar word?",
+      "type": "choice",
+      "choices": ["Context clues", "Prediction", "Summarizing", "Scanning"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Write a Job Advertisement",
+  "quiz": [
+    {
+      "text": "What is the first element to include in a job advertisement?",
+      "type": "choice",
+      "choices": ["Job Title", "Salary", "Location", "Requirements"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A job advertisement should always include contact information.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element explains what the applicant will do in the role?",
+      "type": "choice",
+      "choices": ["Job Description", "Job Title", "Requirements", "Salary"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Optional benefits like holidays or bonuses can be included.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which part of the ad lists the skills or qualifications needed?",
+      "type": "choice",
+      "choices": ["Requirements", "Job Description", "Job Title", "Location"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Using clear, concise language is important in job ads.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which detail attracts applicants to apply for the position?",
+      "type": "choice",
+      "choices": ["Salary and Benefits", "Job Description", "Requirements", "Location"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a short, eye-catching summary of the job.",
+      "type": "input",
+      "answer": ["headline", "job headline", "title"]
+    },
+    {
+      "text": "Type the term for the section that lists tasks the applicant will perform.",
+      "type": "input",
+      "answer": ["job description", "description"]
+    },
+    {
+      "text": "Which method is often used to indicate how to apply for the job?",
+      "type": "choice",
+      "choices": ["Contact Information", "Job Title", "Salary", "Location"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Write a Magazine Article",
+  "quiz": [
+    {
+      "text": "Which element grabs the reader’s attention in a magazine article?",
+      "type": "choice",
+      "choices": ["Headline", "Body", "Author Name", "Date"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A magazine article should have a clear structure with introduction, body, and conclusion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which section provides detailed information or arguments?",
+      "type": "choice",
+      "choices": ["Body", "Headline", "Author Bio", "Image Caption"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Including quotes from experts can make a magazine article more credible.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element identifies the writer of the article?",
+      "type": "choice",
+      "choices": ["Author Name", "Headline", "Subheading", "Date"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Subheadings help organize content and make it easier to read.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which device engages readers by asking questions or giving advice?",
+      "type": "choice",
+      "choices": ["Call to Action", "Headline", "Body Paragraph", "Quote"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a short description under a headline, summarizing the article.",
+      "type": "input",
+      "answer": ["subheading", "subtitle"]
+    },
+    {
+      "text": "Type the term for the main idea or topic discussed in the article.",
+      "type": "input",
+      "answer": ["theme", "topic", "main idea"]
+    },
+    {
+      "text": "Which element attracts readers visually alongside the text?",
+      "type": "choice",
+      "choices": ["Image or Graphic", "Body Paragraph", "Author Name", "Headline"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Write an Email",
+  "quiz": [
+    {
+      "text": "Which element should appear at the top of a formal email?",
+      "type": "choice",
+      "choices": ["Recipient's Address", "Subject Line", "Signature", "Greeting"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A greeting should match the level of formality of the email.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which part of the email contains the main message?",
+      "type": "choice",
+      "choices": ["Body", "Subject", "Greeting", "Signature"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Including a polite closing is optional in formal emails.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which element identifies the sender of the email?",
+      "type": "choice",
+      "choices": ["Signature", "Greeting", "Subject", "Attachment"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Emails should be concise and clear.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which part briefly explains the purpose of the email?",
+      "type": "choice",
+      "choices": ["Subject Line", "Body", "Greeting", "Signature"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for a polite ending line in an email.",
+      "type": "input",
+      "answer": ["closing", "valediction", "ending line"]
+    },
+    {
+      "text": "Type the term for a formal way to start an email, e.g., 'Dear Sir/Madam'.",
+      "type": "input",
+      "answer": ["greeting", "salutation"]
+    },
+    {
+      "text": "Which element can include additional files or documents?",
+      "type": "choice",
+      "choices": ["Attachment", "Signature", "Body", "Subject Line"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Irish T2",
+  "topic": "Write an Essay",
+  "quiz": [
+    {
+      "text": "Which part of the essay introduces the topic?",
+      "type": "choice",
+      "choices": ["Introduction", "Body", "Conclusion", "Title"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Each paragraph in the body should focus on a single idea.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element sums up the essay and restates the main points?",
+      "type": "choice",
+      "choices": ["Conclusion", "Introduction", "Title", "Body Paragraph"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Using examples or evidence strengthens an essay.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which element appears at the very top and tells the reader the topic?",
+      "type": "choice",
+      "choices": ["Title", "Introduction", "Body", "Conclusion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Essays should have a clear logical order.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which technique helps link paragraphs smoothly?",
+      "type": "choice",
+      "choices": ["Transition Words", "Headings", "Footnotes", "Subheadings"],
+      "answer": 0
+    },
+    {
+      "text": "Type the term for supporting details used to back up ideas in an essay.",
+      "type": "input",
+      "answer": ["evidence", "examples", "supporting details"]
+    },
+    {
+      "text": "Type the term for the main idea or argument of an essay.",
+      "type": "input",
+      "answer": ["thesis", "main idea", "central argument"]
+    },
+    {
+      "text": "Which element concludes a paragraph and links it to the next one?",
+      "type": "choice",
+      "choices": ["Closing Sentence", "Topic Sentence", "Title", "Introduction"],
+      "answer": 0
+    }
+  ]
+}
+]

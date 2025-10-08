@@ -1,0 +1,31 @@
+{
+  "certificate": "jc",
+  "subject": "home-economics",
+  "level": "cl",
+  "topics": [
+    "Consumers",
+    "Cooking Food",
+    "Digestion",
+    "Fashion & Clothes",
+    "Food Choices, Packaging and Labelling",
+    "Food Safety & Hygiene",
+    "Foods",
+    "Health and Wellbeing",
+    "Home Baking",
+    "Home Hygiene & Safety",
+    "House Choice & Design",
+    "Menu Planning",
+    "Money Management",
+    "Nutrition",
+    "Sewing",
+    "Shopping",
+    "Special Diets",
+    "Sustainability: Food",
+    "Sustainability: Home",
+    "Sustainability: Textiles",
+    "Technology, Safety and Services in the Home",
+    "Textile Care",
+    "Textiles & Fabrics",
+    "The Family"
+  ]
+}

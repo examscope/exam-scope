@@ -1,0 +1,1334 @@
+[
+  {
+    "subject": "Biology",
+    "topic": "Bacteria, Viruses, Fungi & Protista",
+    "quiz": [
+      {"text": "Which of the following is not a type of microorganism?", "type": "choice", "choices": ["Virus", "Fungus", "Bacterium", "Worm"], "answer": 3},
+      {"text": "Which microorganism is used in the production of yoghurt?", "type": "choice", "choices": ["Virus", "Bacteria", "Fungi", "Protista"], "answer": 1},
+      {"text": "Which of the following can only reproduce inside a host cell?", "type": "choice", "choices": ["Bacteria", "Fungi", "Virus", "Protista"], "answer": 2},
+      {"text": "Which microorganism causes athlete's foot?", "type": "choice", "choices": ["Virus", "Fungi", "Bacteria", "Protista"], "answer": 1},
+      {"text": "Which of the following is a protist?", "type": "choice", "choices": ["Amoeba", "Yeast", "E. coli", "Influenza"], "answer": 0},
+      {"text": "True or false: Viruses are considered living organisms.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Bacteria reproduce by binary fission.", "type": "truefalse", "answer": true},
+      {"text": "True or false: All fungi are harmful to humans.", "type": "truefalse", "answer": false},
+      {"text": "Name a disease caused by a virus.", "type": "input", "answer": ["flu", "influenza", "cold", "HIV", "coronavirus", "covid"]},
+      {"text": "What type of microorganism is yeast?", "type": "input", "answer": ["fungus", "fungi"]}
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Biochemical Reactions & Enzymes",
+    "quiz": [
+      {"text": "What is the function of enzymes?", "type": "choice", "choices": ["Provide energy", "Speed up reactions", "Store nutrients", "Break down cells"], "answer": 1},
+      {"text": "Which of the following affects enzyme activity?", "type": "choice", "choices": ["pH", "Temperature", "Substrate concentration", "All of the above"], "answer": 3},
+      {"text": "What is the substrate of the enzyme amylase?", "type": "choice", "choices": ["Protein", "Fat", "Starch", "Water"], "answer": 2},
+      {"text": "What are enzymes made of?", "type": "choice", "choices": ["Lipids", "Proteins", "Carbohydrates", "DNA"], "answer": 1},
+      {"text": "Which enzyme breaks down proteins?", "type": "choice", "choices": ["Amylase", "Lipase", "Pepsin", "Lactase"], "answer": 2},
+      {"text": "True or false: Enzymes are used up in chemical reactions.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Amylase breaks down starch into glucose.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Enzymes are specific to one substrate.", "type": "truefalse", "answer": true},
+      {"text": "What is the term for the area where the substrate binds to the enzyme?", "type": "input", "answer": ["active site"]},
+      {"text": "Name a factor that can denature an enzyme.", "type": "input", "answer": ["temperature", "high temperature", "extreme temperature", "pH", "wrong pH"]}
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Blood & Circulatory System",
+    "quiz": [
+      {"text": "What type of blood vessel carries blood away from the heart?", "type": "choice", "choices": ["Vein", "Capillary", "Artery", "Valve"], "answer": 2},
+      {"text": "What component of blood carries oxygen?", "type": "choice", "choices": ["White blood cells", "Plasma", "Platelets", "Red blood cells"], "answer": 3},
+      {"text": "What prevents backflow of blood in the heart?", "type": "choice", "choices": ["Arteries", "Valves", "Capillaries", "Veins"], "answer": 1},
+      {"text": "Which of the following helps in clotting blood?", "type": "choice", "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"], "answer": 2},
+      {"text": "Which chamber of the heart pumps blood to the lungs?", "type": "choice", "choices": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"], "answer": 1},
+      {"text": "True or false: Arteries have thin walls and valves.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Red blood cells have a nucleus.", "type": "truefalse", "answer": false},
+      {"text": "True or false: The heart has four chambers.", "type": "truefalse", "answer": true},
+      {"text": "Name the main protein in red blood cells that carries oxygen.", "type": "input", "answer": ["haemoglobin", "hemoglobin"]},
+      {"text": "What is the name of the blood vessels where exchange of gases occurs?", "type": "input", "answer": ["capillaries", "capillary"]}
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Breathing System",
+    "quiz": [
+      {"text": "Where does gas exchange take place in the lungs?", "type": "choice", "choices": ["Bronchi", "Alveoli", "Trachea", "Bronchioles"], "answer": 1},
+      {"text": "What muscle helps the lungs expand and contract?", "type": "choice", "choices": ["Heart", "Ribs", "Liver", "Diaphragm"], "answer": 3},
+      {"text": "Which gas is removed from the body during exhalation?", "type": "choice", "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "answer": 1},
+      {"text": "What is the function of the trachea?", "type": "choice", "choices": ["Digest food", "Filter blood", "Carry air to the lungs", "Pump blood"], "answer": 2},
+      {"text": "What structure prevents food from entering the windpipe?", "type": "choice", "choices": ["Diaphragm", "Larynx", "Epiglottis", "Alveolus"], "answer": 2},
+      {"text": "True or false: The alveoli have thick walls to protect them.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Breathing is a passive process.", "type": "truefalse", "answer": false},
+      {"text": "True or false: The diaphragm flattens when you inhale.", "type": "truefalse", "answer": true},
+      {"text": "Name the small air sacs in the lungs where gas exchange occurs.", "type": "input", "answer": ["alveoli", "alveolus"]},
+      {"text": "What gas do humans take in when they breathe?", "type": "input", "answer": ["oxygen"]}
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "quiz": [
+      {"text": "What is the process of normal cell division called?", "type": "choice", "choices": ["Meiosis", "Fission", "Fusion", "Mitosis"], "answer": 3},
+      {"text": "Which type of cell division produces sex cells?", "type": "choice", "choices": ["Mitosis", "Meiosis", "Binary fission", "Cloning"], "answer": 1},
+      {"text": "How many daughter cells are formed in mitosis?", "type": "choice", "choices": ["1", "2", "3", "4"], "answer": 1},
+      {"text": "In which type of cell division is genetic variation introduced?", "type": "choice", "choices": ["Mitosis", "Fission", "Meiosis", "Budding"], "answer": 2},
+      {"text": "Which cell organelle is involved in cell division?", "type": "choice", "choices": ["Nucleus", "Ribosome", "Mitochondrion", "Golgi body"], "answer": 0},
+      {"text": "True or false: Mitosis results in genetically identical cells.", "type": "truefalse", "answer": true},
+      {"text": "True or false: Meiosis happens in body cells.", "type": "truefalse", "answer": false},
+      {"text": "True or false: Cell division is important for growth and repair.", "type": "truefalse", "answer": true},
+      {"text": "Name the cell division process that occurs in the production of gametes.", "type": "input", "answer": ["meiosis"]},
+      {"text": "How many cells are produced from one cell in mitosis?", "type": "input", "answer": ["2", "two"]}
+    ]
+  },
+{
+  "subject": "Biology",
+  "topic": "Cell Metabolism & Osmosis",
+  "quiz": [
+    {
+      "text": "Which of the following is a product of aerobic respiration?",
+      "type": "choice",
+      "choices": ["Lactic acid", "Ethanol", "Carbon dioxide", "Glucose"],
+      "answer": 2
+    },
+    {
+      "text": "Which organelle is responsible for photosynthesis?",
+      "type": "choice",
+      "choices": ["Nucleus", "Mitochondrion", "Chloroplast", "Ribosome"],
+      "answer": 2
+    },
+    {
+      "text": "Osmosis is the movement of water across a membrane from...",
+      "type": "choice",
+      "choices": [
+        "a high solute concentration to low",
+        "a low solute concentration to high",
+        "high pressure to low pressure",
+        "low temperature to high temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Which molecule stores energy in cells?",
+      "type": "choice",
+      "choices": ["DNA", "ATP", "Glucose", "Protein"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is an anabolic process?",
+      "type": "choice",
+      "choices": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Enzymes are used up in chemical reactions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Osmosis requires energy from ATP.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Anaerobic respiration occurs without oxygen.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the process by which plants make glucose.",
+      "type": "input",
+      "answer": ["photosynthesis"]
+    },
+    {
+      "text": "Name the molecule that acts as the cell’s main energy currency.",
+      "type": "input",
+      "answer": ["atp", "adenosine triphosphate"]
+    }
+  ]
+},
+{
+  "subject": "Biology",
+  "topic": "Digestive System",
+  "quiz": [
+    {
+      "text": "Where does most nutrient absorption take place?",
+      "type": "choice",
+      "choices": ["Stomach", "Large intestine", "Small intestine", "Liver"],
+      "answer": 2
+    },
+    {
+      "text": "What is the function of bile?",
+      "type": "choice",
+      "choices": [
+        "Digest protein",
+        "Emulsify fats",
+        "Absorb nutrients",
+        "Neutralise acids"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Which enzyme breaks down starch?",
+      "type": "choice",
+      "choices": ["Lipase", "Amylase", "Pepsin", "Protease"],
+      "answer": 1
+    },
+    {
+      "text": "What organ produces insulin and digestive enzymes?",
+      "type": "choice",
+      "choices": ["Liver", "Stomach", "Pancreas", "Gall bladder"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is not part of the digestive system?",
+      "type": "choice",
+      "choices": ["Oesophagus", "Trachea", "Rectum", "Mouth"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The stomach produces hydrochloric acid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Enzymes speed up digestion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The liver stores bile.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the name of the muscular contractions that move food through the digestive tract?",
+      "type": "input",
+      "answer": ["peristalsis", "muscular contractions"]
+    },
+    {
+      "text": "Name the part of the small intestine where most digestion occurs.",
+      "type": "input",
+      "answer": ["duodenum"]
+    }
+  ]
+},
+{
+  "subject": "Biology",
+  "topic": "Ecology & Ecosystems",
+  "quiz": [
+    {
+      "text": "What is the term for all the living organisms in an area?",
+      "type": "choice",
+      "choices": ["Habitat", "Community", "Population", "Biosphere"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a decomposer?",
+      "type": "choice",
+      "choices": ["Rabbit", "Bacteria", "Fox", "Oak tree"],
+      "answer": 1
+    },
+    {
+      "text": "What do we call the role an organism plays in an ecosystem?",
+      "type": "choice",
+      "choices": ["Habitat", "Biome", "Niche", "Trophic level"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is an abiotic factor?",
+      "type": "choice",
+      "choices": ["Predators", "Soil pH", "Trees", "Insects"],
+      "answer": 1
+    },
+    {
+      "text": "What is a producer in an ecosystem?",
+      "type": "choice",
+      "choices": [
+        "An animal that eats plants",
+        "An organism that makes its own food",
+        "An organism that feeds on dead matter",
+        "An organism that hunts other animals"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Carnivores eat only plants.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Energy is lost between trophic levels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ecosystems can include lakes and forests.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the term for a living factor in the environment?",
+      "type": "input",
+      "answer": ["biotic factor", "biotic"]
+    },
+    {
+      "text": "What type of organism makes its own food using sunlight?",
+      "type": "input",
+      "answer": ["producer", "autotroph"]
+    }
+  ]
+},
+{
+  "subject": "Biology",
+  "topic": "Excretion",
+  "quiz": [
+    {
+      "text": "Which organ removes urea from the blood?",
+      "type": "choice",
+      "choices": ["Heart", "Lungs", "Kidneys", "Liver"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main excretory product of respiration?",
+      "type": "choice",
+      "choices": ["Oxygen", "Water", "Carbon dioxide", "Glucose"],
+      "answer": 2
+    },
+    {
+      "text": "Which structure in the skin helps in temperature regulation?",
+      "type": "choice",
+      "choices": ["Pores", "Hair", "Sweat glands", "Nerves"],
+      "answer": 2
+    },
+    {
+      "text": "Which organ produces urea?",
+      "type": "choice",
+      "choices": ["Liver", "Kidneys", "Lungs", "Heart"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is not an excretory organ?",
+      "type": "choice",
+      "choices": ["Skin", "Lungs", "Kidneys", "Stomach"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Sweat is made up mostly of water and salts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Excretion is the removal of undigested food.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The lungs excrete carbon dioxide.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What liquid is produced by the kidneys?",
+      "type": "input",
+      "answer": ["urine"]
+    },
+    {
+      "text": "Name the organ that removes carbon dioxide from the body.",
+      "type": "input",
+      "answer": ["lungs"]
+    }
+  ]
+},
+{
+  "subject": "Biology",
+  "topic": "Experiment Questions",
+  "quiz": [
+    {
+      "text": "What is the purpose of a control in an experiment?",
+      "type": "choice",
+      "choices": [
+        "To test the hypothesis",
+        "To measure results",
+        "To provide comparison",
+        "To collect data"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "Which piece of equipment is used to measure temperature?",
+      "type": "choice",
+      "choices": ["Pipette", "Thermometer", "Graduated cylinder", "Beaker"],
+      "answer": 1
+    },
+    {
+      "text": "In an enzyme experiment, what variable might be changed?",
+      "type": "choice",
+      "choices": ["pH", "Height", "Weight", "Time of day"],
+      "answer": 0
+    },
+    {
+      "text": "What is used to test for starch in leaves?",
+      "type": "choice",
+      "choices": ["Benedict's solution", "Biuret solution", "Iodine", "Ethanol"],
+      "answer": 2
+    },
+    {
+      "text": "Which tool helps to see microscopic organisms?",
+      "type": "choice",
+      "choices": ["Telescope", "Magnifying glass", "Microscope", "Bunsen burner"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Repeating an experiment improves accuracy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Benedict’s solution tests for protein.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Enzymes are affected by temperature.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the solution used to test for reducing sugar.",
+      "type": "input",
+      "answer": ["benedict's solution", "benedicts solution", "benedict solution"]
+    },
+    {
+      "text": "What colour does iodine turn in the presence of starch?",
+      "type": "input",
+      "answer": ["blue-black", "blue black", "dark blue", "black"]
+    }
+  ]
+},
+{
+"subject": "Biology",
+"topic": "Eye/Ear & Nervous System",
+"quiz": [
+    {
+    "text": "Which part of the eye controls the amount of light entering?",
+    "type": "choice",
+    "choices": ["Retina", "Pupil", "Iris", "Cornea"],
+    "answer": 2
+    },
+    {
+    "text": "What part of the ear helps maintain balance?",
+    "type": "choice",
+    "choices": ["Cochlea", "Hammer", "Semi-circular canals", "Eardrum"],
+    "answer": 2
+    },
+    {
+    "text": "Which part of the nervous system controls reflex actions?",
+    "type": "choice",
+    "choices": ["Brain", "Spinal cord", "Cerebrum", "Medulla"],
+    "answer": 1
+    },
+    {
+    "text": "Which part of the brain controls voluntary movement?",
+    "type": "choice",
+    "choices": ["Cerebellum", "Cerebrum", "Medulla", "Spinal cord"],
+    "answer": 1
+    },
+    {
+    "text": "Which of these is a function of the ear?",
+    "type": "choice",
+    "choices": ["Smelling", "Hearing", "Touch", "Sight"],
+    "answer": 1
+    },
+    {
+    "text": "True or false: The retina is involved in balance.",
+    "type": "truefalse",
+    "answer": false
+    },
+    {
+    "text": "True or false: The cerebrum is the largest part of the brain.",
+    "type": "truefalse",
+    "answer": true
+    },
+    {
+    "text": "True or false: The optic nerve carries sound signals to the brain.",
+    "type": "truefalse",
+    "answer": false
+    },
+    {
+    "text": "What part of the eye focuses light onto the retina?",
+    "type": "input",
+    "answer": ["lens", "the lens"]
+    },
+    {
+    "text": "Name the part of the ear that detects sound vibrations.",
+    "type": "input",
+    "answer": ["cochlea", "the cochlea"]
+    }
+]
+},
+{
+"subject": "Biology",
+"topic": "Food & Food Tests",
+"quiz": [
+    {
+    "text": "Which nutrient is tested using Benedict's solution?",
+    "type": "choice",
+    "choices": ["Starch", "Protein", "Glucose", "Fat"],
+    "answer": 2
+    },
+    {
+    "text": "Which food test requires iodine solution?",
+    "type": "choice",
+    "choices": ["Protein", "Fat", "Starch", "Glucose"],
+    "answer": 2
+    },
+    {
+    "text": "What colour indicates the presence of protein using Biuret solution?",
+    "type": "choice",
+    "choices": ["Blue", "Purple", "Red", "Yellow"],
+    "answer": 1
+    },
+    {
+    "text": "Which of the following is a carbohydrate?",
+    "type": "choice",
+    "choices": ["Glucose", "Protein", "Fat", "Vitamin C"],
+    "answer": 0
+    },
+    {
+    "text": "What nutrient does the brown paper test detect?",
+    "type": "choice",
+    "choices": ["Protein", "Fat", "Glucose", "Starch"],
+    "answer": 1
+    },
+    {
+    "text": "True or false: Iodine turns black if starch is present.",
+    "type": "truefalse",
+    "answer": true
+    },
+    {
+    "text": "True or false: Protein is tested using Benedict’s solution.",
+    "type": "truefalse",
+    "answer": false
+    },
+    {
+    "text": "True or false: Fat leaves a translucent spot on brown paper.",
+    "type": "truefalse",
+    "answer": true
+    },
+    {
+    "text": "What solution is used to test for reducing sugars?",
+    "type": "input",
+    "answer": ["benedict's solution", "benedicts", "benedict solution"]
+    },
+    {
+    "text": "Name one food that contains starch.",
+    "type": "input",
+    "answer": ["potato", "bread", "pasta", "rice"]
+    }
+]
+},
+{
+"subject": "Biology",
+"topic": "Genetics, DNA & Evolution",
+"quiz": [
+    {
+    "text": "Which part of the cell contains DNA?",
+    "type": "choice",
+    "choices": ["Nucleus", "Ribosome", "Cytoplasm", "Cell wall"],
+    "answer": 0
+    },
+    {
+    "text": "What is a gene?",
+    "type": "choice",
+    "choices": ["Type of cell", "Part of the nucleus", "A section of DNA", "A type of blood cell"],
+    "answer": 2
+    },
+    {
+    "text": "What does DNA stand for?",
+    "type": "choice",
+    "choices": ["Deoxyribose acid", "Double nucleic acid", "Deoxyribonucleic acid", "Deoxynucleic acid"],
+    "answer": 2
+    },
+    {
+    "text": "Who is known for discovering the theory of natural selection?",
+    "type": "choice",
+    "choices": ["Newton", "Einstein", "Darwin", "Mendel"],
+    "answer": 2
+    },
+    {
+    "text": "Which structure carries genetic information?",
+    "type": "choice",
+    "choices": ["Ribosome", "Mitochondrion", "Chromosome", "Cytoplasm"],
+    "answer": 2
+    },
+    {
+    "text": "True or false: Humans have 46 chromosomes.",
+    "type": "truefalse",
+    "answer": true
+    },
+    {
+    "text": "True or false: Inherited traits are passed on by proteins.",
+    "type": "truefalse",
+    "answer": false
+    },
+    {
+    "text": "True or false: Evolution happens over a short period of time.",
+    "type": "truefalse",
+    "answer": false
+    },
+    {
+    "text": "Name the person who discovered how traits are inherited using pea plants.",
+    "type": "input",
+    "answer": ["mendel", "gregor mendel", "gregor"]
+    },
+    {
+    "text": "What shape is the DNA molecule often described as?",
+    "type": "input",
+    "answer": ["double helix", "a double helix", "helix"]
+    }
+]
+},
+  {
+    "subject": "Biology",
+    "topic": "Hormonal System",
+    "quiz": [
+      {
+        "text": "Which gland produces insulin?",
+        "type": "choice",
+        "choices": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+        "answer": 3
+      },
+      {
+        "text": "Which hormone controls the 'fight or flight' response?",
+        "type": "choice",
+        "choices": ["Insulin", "Thyroxine", "Adrenaline", "Oestrogen"],
+        "answer": 2
+      },
+      {
+        "text": "What gland is located in the neck and controls metabolism?",
+        "type": "choice",
+        "choices": ["Pancreas", "Thyroid", "Pituitary", "Adrenal"],
+        "answer": 1
+      },
+      {
+        "text": "Which hormone is responsible for lowering blood sugar levels?",
+        "type": "choice",
+        "choices": ["Glucagon", "Insulin", "Adrenaline", "Thyroxine"],
+        "answer": 1
+      },
+      {
+        "text": "What hormone is produced during stress?",
+        "type": "choice",
+        "choices": ["Adrenaline", "Insulin", "Oestrogen", "Progesterone"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Hormones are transported by the nervous system.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: The pituitary gland is often called the 'master gland'.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Adrenaline increases heart rate and breathing.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name the hormone that regulates blood sugar by increasing it.",
+        "type": "input",
+        "answer": ["glucagon", "the hormone glucagon"]
+      },
+      {
+        "text": "Where in the body is insulin produced?",
+        "type": "input",
+        "answer": ["pancreas", "in the pancreas"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Human Reproduction",
+    "quiz": [
+      {
+        "text": "Where does fertilisation normally take place?",
+        "type": "choice",
+        "choices": ["Uterus", "Ovary", "Fallopian tube", "Cervix"],
+        "answer": 2
+      },
+      {
+        "text": "What is the function of the placenta?",
+        "type": "choice",
+        "choices": ["Produce sperm", "Develop the egg", "Exchange materials between mother and baby", "Protect the uterus"],
+        "answer": 2
+      },
+      {
+        "text": "Which hormone is responsible for ovulation?",
+        "type": "choice",
+        "choices": ["LH", "FSH", "Progesterone", "Oestrogen"],
+        "answer": 0
+      },
+      {
+        "text": "Where is sperm produced?",
+        "type": "choice",
+        "choices": ["Penis", "Testes", "Bladder", "Prostate"],
+        "answer": 1
+      },
+      {
+        "text": "What is the name of the female gamete?",
+        "type": "choice",
+        "choices": ["Zygote", "Egg", "Embryo", "Sperm"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: Fertilisation happens in the uterus.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: The menstrual cycle usually lasts around 28 days.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Sperm are produced in the ovaries.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "What is the name of the structure where a baby develops?",
+        "type": "input",
+        "answer": ["uterus", "womb", "the uterus", "the womb"]
+      },
+      {
+        "text": "Name one function of the amniotic fluid.",
+        "type": "input",
+        "answer": [
+          "protects the baby",
+          "cushions the baby",
+          "protects the embryo",
+          "protects the foetus",
+          "shock absorber",
+          "acts as a shock absorber"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Immunity",
+    "quiz": [
+      {
+        "text": "What type of cell produces antibodies?",
+        "type": "choice",
+        "choices": ["Red blood cells", "Platelets", "White blood cells", "Plasma"],
+        "answer": 2
+      },
+      {
+        "text": "Which of the following is a type of white blood cell?",
+        "type": "choice",
+        "choices": ["Neuron", "Lymphocyte", "Erythrocyte", "Platelet"],
+        "answer": 1
+      },
+      {
+        "text": "Which type of immunity involves vaccines?",
+        "type": "choice",
+        "choices": ["Natural active", "Natural passive", "Artificial active", "Artificial passive"],
+        "answer": 2
+      },
+      {
+        "text": "What does a vaccine contain?",
+        "type": "choice",
+        "choices": ["Live virus", "Dead or weakened pathogen", "Red blood cells", "Antibodies"],
+        "answer": 1
+      },
+      {
+        "text": "What organ helps produce white blood cells?",
+        "type": "choice",
+        "choices": ["Liver", "Stomach", "Bone marrow", "Lungs"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Antibodies are produced by red blood cells.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: A vaccine gives you passive immunity.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: The skin acts as a physical barrier against infection.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one type of white blood cell involved in immunity.",
+        "type": "input",
+        "answer": ["lymphocyte", "phagocyte", "white blood cell", "t cell", "b cell"]
+      },
+      {
+        "text": "What is the purpose of a vaccine?",
+        "type": "input",
+        "answer": [
+          "to produce immunity",
+          "to protect against disease",
+          "to trigger antibody production",
+          "to help the body fight infection"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Musculoskeletal System",
+    "quiz": [
+      {
+        "text": "What type of joint is the elbow?",
+        "type": "choice",
+        "choices": ["Ball and socket", "Pivot", "Hinge", "Fixed"],
+        "answer": 2
+      },
+      {
+        "text": "Which of the following connects muscle to bone?",
+        "type": "choice",
+        "choices": ["Ligament", "Cartilage", "Tendon", "Joint"],
+        "answer": 2
+      },
+      {
+        "text": "Where is the femur located?",
+        "type": "choice",
+        "choices": ["Arm", "Skull", "Leg", "Hand"],
+        "answer": 2
+      },
+      {
+        "text": "What protects the ends of bones in a joint?",
+        "type": "choice",
+        "choices": ["Ligaments", "Muscles", "Cartilage", "Tendons"],
+        "answer": 2
+      },
+      {
+        "text": "What type of muscle is found in the heart?",
+        "type": "choice",
+        "choices": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Ligaments connect muscles to bones.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: The human skeleton supports the body.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The biceps muscle works by pushing bones.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name the type of joint found in the shoulder.",
+        "type": "input",
+        "answer": ["ball and socket", "ball-and-socket", "ball socket joint"]
+      },
+      {
+        "text": "What connects bones to each other?",
+        "type": "input",
+        "answer": ["ligament", "ligaments"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Photosynthesis",
+    "quiz": [
+      {
+        "text": "Where does photosynthesis take place?",
+        "type": "choice",
+        "choices": ["Root", "Stem", "Chloroplast", "Vacuole"],
+        "answer": 2
+      },
+      {
+        "text": "Which gas is used during photosynthesis?",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 1
+      },
+      {
+        "text": "What is the main product of photosynthesis?",
+        "type": "choice",
+        "choices": ["Oxygen", "Glucose", "Carbon dioxide", "Water"],
+        "answer": 1
+      },
+      {
+        "text": "Which pigment is essential for photosynthesis?",
+        "type": "choice",
+        "choices": ["Xylem", "Phloem", "Chlorophyll", "Starch"],
+        "answer": 2
+      },
+      {
+        "text": "Which part of the plant contains the most chloroplasts?",
+        "type": "choice",
+        "choices": ["Stem", "Leaf", "Root", "Flower"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: Photosynthesis produces carbon dioxide.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Light is needed for photosynthesis.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Chlorophyll is found in plant roots.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name the green pigment involved in photosynthesis.",
+        "type": "input",
+        "answer": ["chlorophyll"]
+      },
+      {
+        "text": "Write the name of the sugar produced in photosynthesis.",
+        "type": "input",
+        "answer": ["glucose", "sugar", "plant sugar"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Plant Reproduction",
+    "quiz": [
+      {
+        "text": "Which part of the flower contains the ovules?",
+        "type": "choice",
+        "choices": ["Petal", "Stigma", "Ovary", "Anther"],
+        "answer": 2
+      },
+      {
+        "text": "What is the male part of a flower called?",
+        "type": "choice",
+        "choices": ["Pistil", "Stamen", "Ovule", "Petal"],
+        "answer": 1
+      },
+      {
+        "text": "Where is pollen produced?",
+        "type": "choice",
+        "choices": ["Stigma", "Ovary", "Anther", "Style"],
+        "answer": 2
+      },
+      {
+        "text": "What process follows pollination?",
+        "type": "choice",
+        "choices": ["Fertilisation", "Photosynthesis", "Growth", "Respiration"],
+        "answer": 0
+      },
+      {
+        "text": "Which part of the flower attracts insects?",
+        "type": "choice",
+        "choices": ["Sepal", "Petal", "Anther", "Filament"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: Pollen travels from the ovary to the stigma.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Fertilisation occurs in the ovary.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Petals are involved in making seeds.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name the process of transferring pollen to the stigma.",
+        "type": "input",
+        "answer": ["pollination", "the process of pollination"]
+      },
+      {
+        "text": "What structure forms a seed after fertilisation?",
+        "type": "input",
+        "answer": ["ovule", "the ovule"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Plant Responses",
+    "quiz": [
+      {
+        "text": "What is a plant's growth response to light called?",
+        "type": "choice",
+        "choices": ["Geotropism", "Phototropism", "Hydrotropism", "Thigmotropism"],
+        "answer": 1
+      },
+      {
+        "text": "Which part of the plant grows toward light?",
+        "type": "choice",
+        "choices": ["Roots", "Stems", "Flowers", "Seeds"],
+        "answer": 1
+      },
+      {
+        "text": "Which plant hormone controls growth?",
+        "type": "choice",
+        "choices": ["Adrenaline", "Auxin", "Estrogen", "Insulin"],
+        "answer": 1
+      },
+      {
+        "text": "What is a plant's response to gravity called?",
+        "type": "choice",
+        "choices": ["Phototropism", "Geotropism", "Chemotropism", "Hydrotropism"],
+        "answer": 1
+      },
+      {
+        "text": "Which direction do plant roots usually grow?",
+        "type": "choice",
+        "choices": ["Upwards", "Sideways", "Toward gravity", "Toward light"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Geotropism is a response to light.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Auxin causes cells to elongate.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Stems grow away from light.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one plant hormone involved in responses.",
+        "type": "input",
+        "answer": ["auxin", "plant hormone auxin"]
+      },
+      {
+        "text": "What is the response of a plant to gravity called?",
+        "type": "input",
+        "answer": ["geotropism", "gravitropism"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Plant Responses & Seed growth",
+    "quiz": [
+      {
+        "text": "Which hormone controls phototropism in plants?",
+        "type": "choice",
+        "choices": ["Gibberellin", "Auxin", "Ethylene", "Cytokinin"],
+        "answer": 1
+      },
+      {
+        "text": "What is the term for a plant's growth response to gravity?",
+        "type": "choice",
+        "choices": ["Hydrotropism", "Geotropism", "Thigmotropism", "Phototropism"],
+        "answer": 1
+      },
+      {
+        "text": "Which of the following promotes seed germination?",
+        "type": "choice",
+        "choices": ["Auxin", "Gibberellin", "Ethylene", "Abscisic Acid"],
+        "answer": 1
+      },
+      {
+        "text": "What condition usually breaks seed dormancy?",
+        "type": "choice",
+        "choices": ["Heat", "Cold", "Dark", "Humidity"],
+        "answer": 1
+      },
+      {
+        "text": "What is a common trigger for phototropism in seedlings?",
+        "type": "choice",
+        "choices": ["Temperature", "Water", "Sunlight", "Gravity"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Auxins cause cells to elongate on the side facing the light.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Gibberellins delay seed germination.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Phototropism helps plants get more sunlight.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name the plant hormone responsible for geotropism.",
+        "type": "input",
+        "answer": ["auxin"]
+      },
+      {
+        "text": "What is the term for a seed's temporary inactivity before germination?",
+        "type": "input",
+        "answer": ["dormancy", "seed dormancy"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Plant Structure",
+    "quiz": [
+      {
+        "text": "Which part of the plant carries water from roots to leaves?",
+        "type": "choice",
+        "choices": ["Phloem", "Xylem", "Cambium", "Stomata"],
+        "answer": 1
+      },
+      {
+        "text": "Where does most photosynthesis take place in a leaf?",
+        "type": "choice",
+        "choices": ["Spongy mesophyll", "Upper epidermis", "Palisade layer", "Lower epidermis"],
+        "answer": 2
+      },
+      {
+        "text": "What tissue transports food in plants?",
+        "type": "choice",
+        "choices": ["Xylem", "Phloem", "Cortex", "Pith"],
+        "answer": 1
+      },
+      {
+        "text": "What structure controls gas exchange in leaves?",
+        "type": "choice",
+        "choices": ["Cuticle", "Xylem", "Phloem", "Stomata"],
+        "answer": 3
+      },
+      {
+        "text": "Which plant organ anchors the plant in the soil?",
+        "type": "choice",
+        "choices": ["Stem", "Leaf", "Root", "Flower"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Phloem transports only water.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Stomata open and close to control water loss.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The cuticle is a waxy layer that prevents water loss.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name the plant tissue that transports water.",
+        "type": "input",
+        "answer": ["xylem"]
+      },
+      {
+        "text": "What is the name of the cells that control the opening of stomata?",
+        "type": "input",
+        "answer": ["guard cells", "guard cell"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Respiration",
+    "quiz": [
+      {
+        "text": "Where does aerobic respiration mainly take place?",
+        "type": "choice",
+        "choices": ["Chloroplast", "Cytoplasm", "Mitochondrion", "Nucleus"],
+        "answer": 2
+      },
+      {
+        "text": "What is the end product of anaerobic respiration in muscles?",
+        "type": "choice",
+        "choices": ["Carbon dioxide", "Lactic acid", "Water", "Ethanol"],
+        "answer": 1
+      },
+      {
+        "text": "Which of the following is needed for aerobic respiration?",
+        "type": "choice",
+        "choices": ["Carbon dioxide", "Nitrogen", "Oxygen", "Light"],
+        "answer": 2
+      },
+      {
+        "text": "Which gas is released during aerobic respiration?",
+        "type": "choice",
+        "choices": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+        "answer": 3
+      },
+      {
+        "text": "What is the energy molecule produced by respiration?",
+        "type": "choice",
+        "choices": ["DNA", "ATP", "RNA", "NADP"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: Anaerobic respiration requires oxygen.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Mitochondria are known as the powerhouses of the cell.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Water is a product of aerobic respiration.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one product of anaerobic respiration in muscles.",
+        "type": "input",
+        "answer": ["lactic acid"]
+      },
+      {
+        "text": "What gas is required for aerobic respiration?",
+        "type": "input",
+        "answer": ["oxygen"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "The Scientific Method",
+    "quiz": [
+      {
+        "text": "What is the first step of the scientific method?",
+        "type": "choice",
+        "choices": ["Experiment", "Observation", "Hypothesis", "Conclusion"],
+        "answer": 1
+      },
+      {
+        "text": "What is a testable prediction called?",
+        "type": "choice",
+        "choices": ["Law", "Result", "Hypothesis", "Conclusion"],
+        "answer": 2
+      },
+      {
+        "text": "Which of the following is part of a good experiment?",
+        "type": "choice",
+        "choices": ["Bias", "Uncontrolled variables", "Replication", "Guessing"],
+        "answer": 2
+      },
+      {
+        "text": "What is the purpose of a control in an experiment?",
+        "type": "choice",
+        "choices": ["To change results", "To compare against the test", "To increase complexity", "To collect data"],
+        "answer": 1
+      },
+      {
+        "text": "What follows after analysing the results of an experiment?",
+        "type": "choice",
+        "choices": ["Conclusion", "Observation", "Hypothesis", "Control"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The scientific method is a fixed set of steps that must always be followed in order.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Hypotheses must be testable.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Scientific results should be replicable.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "What is a suggested explanation for a set of observations?",
+        "type": "input",
+        "answer": ["hypothesis"]
+      },
+      {
+        "text": "What do we call the factor we change in an experiment?",
+        "type": "input",
+        "answer": ["independent variable", "variable"]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topic": "Transport in Plants",
+    "quiz": [
+      {
+        "text": "Which plant tissue transports water?",
+        "type": "choice",
+        "choices": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+        "answer": 1
+      },
+      {
+        "text": "Which structure in a leaf allows water to exit as vapour?",
+        "type": "choice",
+        "choices": ["Cuticle", "Phloem", "Stomata", "Xylem"],
+        "answer": 2
+      },
+      {
+        "text": "What process pulls water up through the xylem?",
+        "type": "choice",
+        "choices": ["Transpiration", "Photosynthesis", "Respiration", "Translocation"],
+        "answer": 0
+      },
+      {
+        "text": "What is the movement of food through a plant called?",
+        "type": "choice",
+        "choices": ["Respiration", "Transpiration", "Translocation", "Circulation"],
+        "answer": 2
+      },
+      {
+        "text": "Which cells control the opening of stomata?",
+        "type": "choice",
+        "choices": ["Root hair cells", "Xylem cells", "Guard cells", "Phloem cells"],
+        "answer": 2
+      },
+      {
+        "text": "True or false: Phloem carries water from the roots.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Water loss from leaves is called transpiration.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Stomata are always open.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name the process by which water is lost from the leaves.",
+        "type": "input",
+        "answer": ["transpiration"]
+      },
+      {
+        "text": "What tissue moves food through the plant?",
+        "type": "input",
+        "answer": ["phloem"]
+      }
+    ]
+  }
+]

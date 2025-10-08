@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <script src="https://kit.fontawesome.com/515deb5b82.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="/images/icons/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>ExamScope | Saved Worksheets</title>
+</head>
+
+<body>
+
+    <div class="home-container">
+        <div class="home-content">
+            <div style="height: 45px;"></div>
+            <div class="home-back" onclick="previousPage()"><i class="fa-solid fa-chevron-left back-chevron"></i> Back</div>
+            <div class="home-title">Saved Worksheets</div>
+            <div class="home-para">View your saved sheets with questions collected from different subjects and topics.</div>
+            <div class="home-nav">
+                <a href="index.html" class="nav-link">Exam Questions <div class="home-hr-fill"></div></a>
+                <a href="my-results.html" class="nav-link">Quiz Results <div class="home-hr-fill"></div></a>
+                <a href="past-papers.html" class="nav-link">Past Papers <div class="home-hr-fill"></div></a>
+                <a href="saved-questions.html" class="nav-link">Saved Questions <div class="home-hr-fill"></div></a>
+                <a href="worksheet-builder.html" class="nav-link nav-link-active">Worksheet Builder <div class="home-hr-fill hr-fill-active"></div></a>
+            </div>
+            <div class="home-hr"></div>
+
+            <div class="pap-table sash-table">
+                <div class="pap-inside-scroll">
+                    <div class="sash-inside">
+                        <div class="sash-top">
+                            <div class="sash-heading sash-name-head">Worksheet link</div>
+                            <div class="sash-heading">Subject</div>
+                            <div class="sash-heading">Level</div>
+                            <div class="sash-heading">Last edited</div>
+                            <div class="sash-heading">Remove</div>
+                        </div>
+                        <!-- 
+                        <div class="sash-row">
+                            <div class="sash-name-col">
+                                <div class="sash-txt sash-name">Leaving Cert Biology - Evaporative Cooling Qu</div>
+                            </div>
+                            <div class="pap-year-col">
+                                <div class="sash-txt">Construction</div>
+                            </div>
+                            <div class="pap-year-col">
+                                <div class="sash-level sash-hl">Higher</div>
+                            </div>
+                            <div class="pap-year-col">
+                                <div class="sash-txt">12/07/2025</div>
+                            </div>
+                            <div class="pap-year-col">
+                                <div class="btn-sash-del">Delete</div>
+                            </div>
+                        </div>
+                        -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="sav-empty" style="display: none;">
+                <i class="fa-solid fa-folder-open sav-empty-icon"></i>
+                <div class="sav-empty-title">No Worksheets found</div>
+                <div class="sav-empty-txt">No worksheets saved yet. Build a custom worksheet to collect and organise your selected questions.</div>
+                <a href="worksheet-builder.html" class="sav-empty-btn">Create Worksheet</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

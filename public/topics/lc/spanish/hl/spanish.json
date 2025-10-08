@@ -1,0 +1,26 @@
+{
+  "certificate": "lc",
+  "subject": "spanish",
+  "level": "hl",
+  "topics": [
+    "Aural - Anuncio/ Announcement",
+    "Aural - Descriptivo/ Description",
+    "Aural - Dialogo/ Dialogue",
+    "Aural - El Tiempo/ Weather",
+    "Aural - Una Noticia/News",
+    "Journalistic Text",
+    "Opinion Text",
+    "Role Play 1: Alojamiento",
+    "Role Play 2: El portátil roto",
+    "Role Play 3: Una autocaravana/cámper",
+    "Role Play 4: El medio ambiente",
+    "Role Play 5: Avería de coche",
+    "ORAL exam",
+    "Prescribed Literature (Ana Alcolea, El medallón perdido)",
+    "Prescribed Literature (Relato de un náufrago)",
+    "Short Comprehensions",
+    "Write a Dialogue...",
+    "Write a Diary Entry/Note",
+    "Write a Letter/email..."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "certificate": "jc",
+  "subject": "engineering",
+  "level": "cl",
+  "topics": [
+    "Assembly/Joining Techniques",
+    "CAM - Computer Aided Manufacture",
+    "Decorative Finishing of Metals",
+    "Design & Graphics",
+    "Electronics & Robotics",
+    "Energy",
+    "Engines",
+    "Environmental Impacts",
+    "Furnaces",
+    "Health and Safety",
+    "Heat Treatments",
+    "Inventors and Engineers in Soceity",
+    "Lathe Work: Manual & CNC",
+    "Marking Out & Manufacturing Processes",
+    "Materials: Properties, Reason for Selection, Finishes & Applications",
+    "Measuring Instruments & Gauges",
+    "Mechanisms",
+    "Modern/Smart Technology & ICT",
+    "Pnuematics & Hydraulics",
+    "Polymers and Polymer Manufacturing",
+    "Practical Exam (2007-2019)",
+    "Project (2007-2019)",
+    "Soldering & Brazing",
+    "Tools & Equipment"
+  ]
+}

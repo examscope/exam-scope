@@ -1,0 +1,32 @@
+{
+  "certificate": "jc",
+  "subject": "geography",
+  "level": "cl",
+  "topics": [
+    "Climate Change",
+    "Climates",
+    "Earthquakes",
+    "Economic Activities (Primary)",
+    "Economic Activities (Secondary)",
+    "Economic Activities (Tertiary): Tourism & Transport",
+    "Economic Inequality",
+    "Fluvial Landscapes & Human Interaction with Rivers",
+    "Fold Mountains",
+    "Geographical Skills: Aerial Photographs",
+    "Geographical Skills: Graphs & Tables",
+    "Geographical Skills: O.S. Mapwork",
+    "Glacial Landscapes & Human Interaction",
+    "Globalisation",
+    "Marine Landscapes & Human Interaction with the Sea",
+    "Mass movement",
+    "Natural Disasters",
+    "Population & Migration",
+    "Rocks & Natural Resources",
+    "Settlement",
+    "Soils",
+    "The Earth & Plates",
+    "Volcanoes",
+    "Weather",
+    "Weathering"
+  ]
+}

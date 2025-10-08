@@ -1,0 +1,27 @@
+{
+  "certificate": "jc",
+  "subject": "graphics",
+  "level": "cl",
+  "topics": [
+    "Area Conversion",
+    "Auxiliary Projection",
+    "Axonometric/Isometric",
+    "CAD",
+    "Circles & Circles in Contact",
+    "Conic Section (Ellipses and Parabolas)",
+    "Developments & Solids in Contact",
+    "Enlargements/Reductions",
+    "Geometric Constructions",
+    "Geometric Solids",
+    "Graphs",
+    "Orthographic Projection",
+    "Perspective",
+    "Pictorial Drawing",
+    "Polygons & Spatial Ability Skills",
+    "Rotation of Objects",
+    "Sketching & Shading",
+    "Tangents",
+    "Transformation Geometry",
+    "Trigonometry"
+  ]
+}

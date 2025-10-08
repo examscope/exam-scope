@@ -1,0 +1,1039 @@
+[
+{
+  "subject": "Applied Technology",
+  "topic": "Control Systems & Logic Gates",
+  "quiz": [
+    {
+      "text": "Which logic gate gives an output of 1 only when both inputs are 1?",
+      "type": "choice",
+      "choices": ["OR", "AND", "NOT", "NAND"],
+      "answer": 1
+    },
+    {
+      "text": "What does a NOT gate do to its input?",
+      "type": "choice",
+      "choices": ["Keeps it the same", "Adds 1", "Reverses it", "Turns it to 0"],
+      "answer": 2
+    },
+    {
+      "text": "Which symbol is used for an OR gate?",
+      "type": "choice",
+      "choices": ["Flat front with curve", "D-shape", "Triangle with circle", "Rectangle"],
+      "answer": 0
+    },
+    {
+      "text": "A NAND gate is a combination of which two gates?",
+      "type": "choice",
+      "choices": ["AND + NOT", "OR + NOT", "XOR + NOT", "AND + OR"],
+      "answer": 0
+    },
+    {
+      "text": "Which gate is often called an 'inverter'?",
+      "type": "choice",
+      "choices": ["AND", "OR", "NOT", "NOR"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: An OR gate gives an output of 1 if at least one input is 1.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Control systems are only used in computers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A truth table shows all possible input and output combinations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What does LED stand for?",
+      "type": "input",
+      "answer": ["light emitting diode", "light-emitting diode"]
+    },
+    {
+      "text": "Name one everyday device that uses a control system.",
+      "type": "input",
+      "answer": ["washing machine", "traffic lights", "microwave", "oven", "heating system"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Design and Manufacture of Projects",
+  "quiz": [
+    {
+      "text": "Which of these is the first step in the design process?",
+      "type": "choice",
+      "choices": ["Evaluation", "Research", "Testing", "Manufacture"],
+      "answer": 1
+    },
+    {
+      "text": "What is the purpose of a working drawing?",
+      "type": "choice",
+      "choices": ["Decoration", "Entertainment", "Guidance for making", "Storage"],
+      "answer": 2
+    },
+    {
+      "text": "Which tool would you use to cut wood?",
+      "type": "choice",
+      "choices": ["File", "Hammer", "Saw", "Clamp"],
+      "answer": 2
+    },
+    {
+      "text": "What is used to join two pieces of wood at right angles?",
+      "type": "choice",
+      "choices": ["Screw", "Nail", "Mortise and tenon joint", "Glue only"],
+      "answer": 2
+    },
+    {
+      "text": "Which stage of design involves judging if the product works well?",
+      "type": "choice",
+      "choices": ["Research", "Evaluation", "Making", "Sketching"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Brainstorming is a method used to generate ideas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Prototypes are final finished products.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Safety is an important part of project manufacture.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What does CAD stand for?",
+      "type": "input",
+      "answer": ["computer aided design", "computer-aided design"]
+    },
+    {
+      "text": "Name one finish you could apply to wood to protect it.",
+      "type": "input",
+      "answer": ["varnish", "paint", "wax", "oil", "stain"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Developments",
+  "quiz": [
+    {
+      "text": "Which of these is an example of a technological development in transport?",
+      "type": "choice",
+      "choices": ["Smartphones", "Electric cars", "Wooden wheels", "Candles"],
+      "answer": 1
+    },
+    {
+      "text": "Which invention made fast worldwide communication possible?",
+      "type": "choice",
+      "choices": ["Aeroplane", "Telegraph", "Printing press", "Internet"],
+      "answer": 3
+    },
+    {
+      "text": "What material is commonly used in modern aircraft?",
+      "type": "choice",
+      "choices": ["Steel", "Aluminium", "Wood", "Concrete"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these was an early energy development?",
+      "type": "choice",
+      "choices": ["Solar panels", "Windmills", "Nuclear power", "Electric cars"],
+      "answer": 1
+    },
+    {
+      "text": "Which period introduced mass production in factories?",
+      "type": "choice",
+      "choices": ["Stone Age", "Industrial Revolution", "Middle Ages", "Space Age"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The invention of the steam engine was part of the Industrial Revolution.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Renewable energy developments include solar and wind power.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Developments in technology never affect society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one modern development in communication technology.",
+      "type": "input",
+      "answer": ["internet", "smartphone", "social media", "email", "video call"]
+    },
+    {
+      "text": "What do we call developments that reduce harm to the environment?",
+      "type": "input",
+      "answer": ["sustainable developments", "green technology", "eco-friendly developments"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Drawing and Visual Communication",
+  "quiz": [
+    {
+      "text": "Which drawing tool is used to draw circles?",
+      "type": "choice",
+      "choices": ["Set square", "Compass", "Protractor", "Ruler"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of drawing shows an object in 3D?",
+      "type": "choice",
+      "choices": ["Plan view", "Isometric drawing", "Elevation", "Orthographic"],
+      "answer": 1
+    },
+    {
+      "text": "Which instrument is used to measure angles?",
+      "type": "choice",
+      "choices": ["Protractor", "Compass", "Ruler", "Dividers"],
+      "answer": 0
+    },
+    {
+      "text": "Which line type is used to represent hidden edges?",
+      "type": "choice",
+      "choices": ["Continuous thick line", "Dashed line", "Chain line", "Thin line"],
+      "answer": 1
+    },
+    {
+      "text": "What does CAD allow designers to do?",
+      "type": "choice",
+      "choices": ["Cook food", "Draw by computer", "Make prototypes", "Cut materials"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Orthographic drawings show multiple 2D views of an object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rendering makes drawings look more realistic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A set square is used for measuring weight.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one piece of equipment used for technical drawing.",
+      "type": "input",
+      "answer": ["ruler", "compass", "protractor", "set square", "pencil"]
+    },
+    {
+      "text": "What does 3D stand for?",
+      "type": "input",
+      "answer": ["three dimensional", "3 dimensional", "three-dimension"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Electricity and Basic Circuits",
+  "quiz": [
+    {
+      "text": "What unit is used to measure electric current?",
+      "type": "choice",
+      "choices": ["Volts", "Amps", "Watts", "Ohms"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these components stores electrical charge?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Diode", "Switch"],
+      "answer": 1
+    },
+    {
+      "text": "What happens to current in a series circuit?",
+      "type": "choice",
+      "choices": ["It splits into parts", "It stays the same throughout", "It disappears", "It increases at each component"],
+      "answer": 1
+    },
+    {
+      "text": "Which symbol is used for a resistor in circuit diagrams?",
+      "type": "choice",
+      "choices": ["Zigzag line", "Circle", "Triangle", "Square"],
+      "answer": 0
+    },
+    {
+      "text": "Which device is used to protect circuits from too much current?",
+      "type": "choice",
+      "choices": ["Fuse", "Battery", "Bulb", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A voltmeter is always connected in parallel in a circuit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ohm’s Law relates voltage, current, and resistance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electricity cannot be stored in batteries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What does LED stand for?",
+      "type": "input",
+      "answer": ["light emitting diode", "light-emitting diode"]
+    },
+    {
+      "text": "Name one component that can open and close a circuit.",
+      "type": "input",
+      "answer": ["switch", "push button", "toggle switch"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Energy",
+  "quiz": [
+    {
+      "text": "Which of these is a renewable source of energy?",
+      "type": "choice",
+      "choices": ["Coal", "Oil", "Wind", "Gas"],
+      "answer": 2
+    },
+    {
+      "text": "Which unit is used to measure energy?",
+      "type": "choice",
+      "choices": ["Watts", "Newtons", "Joules", "Amps"],
+      "answer": 2
+    },
+    {
+      "text": "Which form of energy is stored in a stretched elastic band?",
+      "type": "choice",
+      "choices": ["Kinetic", "Potential", "Chemical", "Nuclear"],
+      "answer": 1
+    },
+    {
+      "text": "Which energy conversion happens in a solar panel?",
+      "type": "choice",
+      "choices": ["Light to electrical", "Heat to light", "Chemical to heat", "Sound to light"],
+      "answer": 0
+    },
+    {
+      "text": "Which form of energy is produced when fuel is burned?",
+      "type": "choice",
+      "choices": ["Electrical", "Light and heat", "Nuclear", "Kinetic"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Energy cannot be created or destroyed, only changed form.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fossil fuels are examples of renewable energy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Wind turbines convert kinetic energy of air into electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one non-renewable energy source.",
+      "type": "input",
+      "answer": ["coal", "oil", "gas", "peat"]
+    },
+    {
+      "text": "What does biomass energy come from?",
+      "type": "input",
+      "answer": ["plants", "organic matter", "wood", "crops", "animal waste"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Energy & the Environment",
+  "quiz": [
+    {
+      "text": "Which of these is a renewable energy source?",
+      "type": "choice",
+      "choices": ["Coal", "Oil", "Wind", "Gas"],
+      "answer": 2
+    },
+    {
+      "text": "Which gas is mainly responsible for global warming?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a fossil fuel?",
+      "type": "choice",
+      "choices": ["Wind", "Coal", "Solar", "Hydro"],
+      "answer": 1
+    },
+    {
+      "text": "Which energy source creates no pollution when generating electricity?",
+      "type": "choice",
+      "choices": ["Coal", "Wind", "Oil", "Gas"],
+      "answer": 1
+    },
+    {
+      "text": "Which is a negative effect of burning fossil fuels?",
+      "type": "choice",
+      "choices": ["Cleaner air", "Reduced CO2", "Acid rain", "Renewable supply"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Recycling reduces waste going to landfill.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Solar panels convert light energy into heat energy only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Wind turbines generate electricity without fuel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one renewable energy source.",
+      "type": "input",
+      "answer": ["wind", "solar", "hydro", "tidal", "geothermal", "biomass"]
+    },
+    {
+      "text": "What do we call the warming of the Earth’s atmosphere due to gases trapping heat?",
+      "type": "input",
+      "answer": ["greenhouse effect", "global warming"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Health and Safety",
+  "quiz": [
+    {
+      "text": "Which colour is used for safety signs indicating danger?",
+      "type": "choice",
+      "choices": ["Green", "Blue", "Yellow", "Red"],
+      "answer": 3
+    },
+    {
+      "text": "What does PPE stand for?",
+      "type": "choice",
+      "choices": ["Personal Protective Equipment", "Public Protection Equipment", "Primary Protective Equipment", "Personal Project Essentials"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is correct workshop behaviour?",
+      "type": "choice",
+      "choices": ["Running", "Wearing goggles", "Using tools carelessly", "Not listening to instructions"],
+      "answer": 1
+    },
+    {
+      "text": "Which fire extinguisher is suitable for electrical fires?",
+      "type": "choice",
+      "choices": ["Water", "Foam", "CO2", "Powder"],
+      "answer": 2
+    },
+    {
+      "text": "What should you do first if someone is injured?",
+      "type": "choice",
+      "choices": ["Panic", "Get help", "Ignore it", "Continue working"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Loose clothing is safe to wear when using machines.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Safety goggles protect your eyes from dust and debris.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You should always ask permission before using dangerous tools.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one piece of PPE used in the workshop.",
+      "type": "input",
+      "answer": ["goggles", "gloves", "ear defenders", "apron", "mask", "helmet"]
+    },
+    {
+      "text": "What should you do before switching on any machine?",
+      "type": "input",
+      "answer": ["check safety", "ask permission", "make sure it is safe", "get teacher's permission"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "ICT",
+  "quiz": [
+    {
+      "text": "What does ICT stand for?",
+      "type": "choice",
+      "choices": ["Information and Computer Technology", "Information and Communication Technology", "Internet and Communication Tools", "Information Control Technology"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is an example of input hardware?",
+      "type": "choice",
+      "choices": ["Printer", "Mouse", "Monitor", "Speaker"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a storage device?",
+      "type": "choice",
+      "choices": ["Keyboard", "USB stick", "Mouse", "Monitor"],
+      "answer": 1
+    },
+    {
+      "text": "What is used to protect a computer from viruses?",
+      "type": "choice",
+      "choices": ["Anti-virus software", "Word processor", "Spreadsheet", "Firewall only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a web browser?",
+      "type": "choice",
+      "choices": ["Google Docs", "Firefox", "PowerPoint", "Excel"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A printer is an input device.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A spreadsheet can be used for calculations and graphs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ICT is only used in schools.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one example of an output device.",
+      "type": "input",
+      "answer": ["printer", "monitor", "speaker", "projector"]
+    },
+    {
+      "text": "What does CPU stand for?",
+      "type": "input",
+      "answer": ["central processing unit", "central processor unit"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Materials",
+  "quiz": [
+    {
+      "text": "Which of these is a hardwood?",
+      "type": "choice",
+      "choices": ["Pine", "Oak", "Spruce", "Cedar"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a property of metals?",
+      "type": "choice",
+      "choices": ["Brittle", "Conduct electricity", "Lightweight like foam", "Non-magnetic"],
+      "answer": 1
+    },
+    {
+      "text": "Which plastic softens when heated and can be reshaped?",
+      "type": "choice",
+      "choices": ["Thermosetting", "Thermoplastic", "Ceramic", "Composite"],
+      "answer": 1
+    },
+    {
+      "text": "Which material is commonly used in school workshops for model making?",
+      "type": "choice",
+      "choices": ["Steel", "MDF", "Glass", "Copper"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a composite material?",
+      "type": "choice",
+      "choices": ["Concrete", "Aluminium", "Copper", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Softwoods come from fast-growing trees.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thermosetting plastics can be melted and reshaped many times.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Aluminium is lighter than steel.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one property of wood.",
+      "type": "input",
+      "answer": ["strong", "light", "natural", "grain", "easy to work", "hard", "durable"]
+    },
+    {
+      "text": "What does MDF stand for?",
+      "type": "input",
+      "answer": ["medium density fibreboard", "medium-density fibre board"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Mechanisms",
+  "quiz": [
+    {
+      "text": "Which mechanism is used to lift heavy loads with less effort?",
+      "type": "choice",
+      "choices": ["Lever", "Pulley", "Spring", "Cam"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these changes rotary motion into linear motion?",
+      "type": "choice",
+      "choices": ["Gear", "Rack and pinion", "Pulley", "Screw"],
+      "answer": 1
+    },
+    {
+      "text": "What is the purpose of a gear train?",
+      "type": "choice",
+      "choices": ["To store energy", "To transfer motion", "To stop rotation", "To reduce friction"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is an example of a first-class lever?",
+      "type": "choice",
+      "choices": ["Wheelbarrow", "Scissors", "Nutcracker", "Tongs"],
+      "answer": 1
+    },
+    {
+      "text": "Which mechanism is used in clocks to keep steady movement?",
+      "type": "choice",
+      "choices": ["Cam", "Crank", "Escapement", "Ratchet"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A pulley system can be used to gain a mechanical advantage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gears can be used to increase or decrease speed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A cam and follower convert linear motion into rotary motion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of motion that mechanisms can produce.",
+      "type": "input",
+      "answer": ["rotary", "linear", "reciprocating", "oscillating"]
+    },
+    {
+      "text": "What is the point called where a lever pivots?",
+      "type": "input",
+      "answer": ["fulcrum", "pivot"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Robotics & Automated Systems",
+  "quiz": [
+    {
+      "text": "Which of these is an example of a robotic application?",
+      "type": "choice",
+      "choices": ["Vacuum cleaner", "Industrial arm", "Calculator", "Bicycle"],
+      "answer": 1
+    },
+    {
+      "text": "What does a sensor in a robot do?",
+      "type": "choice",
+      "choices": ["Provide power", "Give information", "Store programs", "Control speed"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a benefit of using robots in factories?",
+      "type": "choice",
+      "choices": ["Higher wages", "Consistency", "Longer working hours", "Less training"],
+      "answer": 1
+    },
+    {
+      "text": "Which component acts like the 'brain' of a robot?",
+      "type": "choice",
+      "choices": ["Motor", "Controller", "Sensor", "Battery"],
+      "answer": 1
+    },
+    {
+      "text": "What type of motion does a servo motor provide?",
+      "type": "choice",
+      "choices": ["Linear", "Rotary", "Oscillating", "Reciprocating"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Robots can be programmed to carry out repetitive tasks.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Automated systems always require human input during operation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sensors allow robots to respond to their environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one industry where robots are commonly used.",
+      "type": "input",
+      "answer": ["manufacturing", "car industry", "electronics", "medicine", "surgery"]
+    },
+    {
+      "text": "What does 'automation' mean?",
+      "type": "input",
+      "answer": ["using machines to do tasks automatically", "automatic operation", "doing tasks without human control"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Structures and Forces",
+  "quiz": [
+    {
+      "text": "Which of these is a natural structure?",
+      "type": "choice",
+      "choices": ["Bridge", "Tree", "House", "Chair"],
+      "answer": 1
+    },
+    {
+      "text": "What force pulls objects towards the earth?",
+      "type": "choice",
+      "choices": ["Friction", "Gravity", "Compression", "Tension"],
+      "answer": 1
+    },
+    {
+      "text": "Which force acts to stretch a material?",
+      "type": "choice",
+      "choices": ["Compression", "Torsion", "Tension", "Shear"],
+      "answer": 2
+    },
+    {
+      "text": "Which structure type is often used in bridges?",
+      "type": "choice",
+      "choices": ["Truss", "Frame", "Beam", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is the purpose of using a gusset plate in a frame?",
+      "type": "choice",
+      "choices": ["Decoration", "Strengthening joints", "Reducing weight", "Improving appearance"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Compression pushes materials together.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A cantilever bridge is supported at both ends.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Shear force tries to slide one part of a material over another.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of bridge structure.",
+      "type": "input",
+      "answer": ["beam", "arch", "truss", "suspension", "cantilever"]
+    },
+    {
+      "text": "What is the upward force acting on a structure in water called?",
+      "type": "input",
+      "answer": ["buoyancy", "upthrust"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Technology & Society",
+  "quiz": [
+    {
+      "text": "Which of these is a positive impact of technology on society?",
+      "type": "choice",
+      "choices": ["Job loss", "Faster communication", "Pollution", "Isolation"],
+      "answer": 1
+    },
+    {
+      "text": "What is a negative impact of cars on the environment?",
+      "type": "choice",
+      "choices": ["Faster travel", "Traffic safety", "Air pollution", "Improved trade"],
+      "answer": 2
+    },
+    {
+      "text": "Which technology has transformed how people connect worldwide?",
+      "type": "choice",
+      "choices": ["Television", "Radio", "Internet", "Printing press"],
+      "answer": 2
+    },
+    {
+      "text": "What is the digital divide?",
+      "type": "choice",
+      "choices": ["Gap between young and old", "Gap between rich and poor in access to technology", "Gap between rural and city life", "Difference in education levels"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a renewable energy technology?",
+      "type": "choice",
+      "choices": ["Wind turbines", "Coal plants", "Nuclear power", "Oil rigs"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Technology always has only positive impacts on society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Social media can influence public opinion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Recycling technology helps reduce waste.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way technology has improved healthcare.",
+      "type": "input",
+      "answer": ["scanners", "x-rays", "mri", "ct scan", "medicine", "vaccines", "telemedicine"]
+    },
+    {
+      "text": "Give one example of how technology can negatively affect the environment.",
+      "type": "input",
+      "answer": ["pollution", "e-waste", "deforestation", "carbon emissions"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Tools and Equipment",
+  "quiz": [
+    {
+      "text": "Which tool is used to measure small lengths accurately?",
+      "type": "choice",
+      "choices": ["Ruler", "Vernier calipers", "Set square", "Compass"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is used to tighten or loosen bolts?",
+      "type": "choice",
+      "choices": ["Hammer", "Chisel", "Spanner", "File"],
+      "answer": 2
+    },
+    {
+      "text": "Which tool is commonly used for cutting wood?",
+      "type": "choice",
+      "choices": ["Hacksaw", "Coping saw", "Tenon saw", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which tool is used to make holes in materials?",
+      "type": "choice",
+      "choices": ["Screwdriver", "Drill", "Clamp", "Vice"],
+      "answer": 1
+    },
+    {
+      "text": "What safety equipment should be worn when using machines?",
+      "type": "choice",
+      "choices": ["Earphones", "Safety goggles", "Slippers", "Gloves only"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A coping saw can cut curves in wood or plastic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A vice is used to hold materials firmly in place.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A hammer is used for tightening screws.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one tool used for measuring angles.",
+      "type": "input",
+      "answer": ["protractor", "set square", "bevel"]
+    },
+    {
+      "text": "What tool is used to drive nails into wood?",
+      "type": "input",
+      "answer": ["hammer", "claw hammer"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Transistors & Microchips",
+  "quiz": [
+    {
+      "text": "What does a transistor do in a circuit?",
+      "type": "choice",
+      "choices": ["Stores data", "Amplifies signals", "Generates electricity", "Provides light"],
+      "answer": 1
+    },
+    {
+      "text": "Which material are most transistors made from?",
+      "type": "choice",
+      "choices": ["Plastic", "Silicon", "Copper", "Glass"],
+      "answer": 1
+    },
+    {
+      "text": "What is a microchip also called?",
+      "type": "choice",
+      "choices": ["Integrated circuit", "Battery", "Switch", "Motor"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of a device with a microchip?",
+      "type": "choice",
+      "choices": ["Table", "Smartphone", "Spoon", "Book"],
+      "answer": 1
+    },
+    {
+      "text": "Which component is essential for modern computers?",
+      "type": "choice",
+      "choices": ["Resistor", "Microchip", "Fuse", "Capacitor"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A transistor can act as an electronic switch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Microchips are only used in computers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Silicon is a conductor of electricity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one everyday device that contains a microchip.",
+      "type": "input",
+      "answer": ["phone", "calculator", "television", "car", "computer", "washing machine"]
+    },
+    {
+      "text": "What does 'IC' stand for in electronics?",
+      "type": "input",
+      "answer": ["integrated circuit", "ic"]
+    }
+  ]
+},
+{
+  "subject": "Applied Technology",
+  "topic": "Your Design Journey",
+  "quiz": [
+    {
+      "text": "What is the first stage in the design process?",
+      "type": "choice",
+      "choices": ["Evaluation", "Research", "Planning", "Testing"],
+      "answer": 1
+    },
+    {
+      "text": "Which stage involves creating sketches and models of ideas?",
+      "type": "choice",
+      "choices": ["Analysis", "Concept development", "Evaluation", "Production"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is part of evaluating a design?",
+      "type": "choice",
+      "choices": ["Checking against criteria", "Making rough sketches", "Researching materials", "Building a model"],
+      "answer": 0
+    },
+    {
+      "text": "What do designers use to collect information about a problem?",
+      "type": "choice",
+      "choices": ["Survey", "Calculator", "Glue", "Hammer"],
+      "answer": 0
+    },
+    {
+      "text": "Which stage comes after planning in the design process?",
+      "type": "choice",
+      "choices": ["Production", "Research", "Testing", "Concept development"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Designers should ignore client requirements when planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Models and prototypes help designers test their ideas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Evaluation is done at the end of the design process only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method designers use to generate ideas.",
+      "type": "input",
+      "answer": ["brainstorming", "sketching", "mind mapping", "modeling"]
+    },
+    {
+      "text": "What do designers consider when selecting materials?",
+      "type": "input",
+      "answer": ["strength", "cost", "availability", "suitability", "durability"]
+    }
+  ]
+}
+]

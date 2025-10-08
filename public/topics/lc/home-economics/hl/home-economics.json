@@ -1,0 +1,33 @@
+{
+  "certificate": "lc",
+  "subject": "home-economics",
+  "level": "hl",
+  "topics": [
+    "Consumer Studies",
+    "Diet & Health",
+    "Elective1: Energy & Emissions",
+    "Elective1: Heating, Water, Lighting..",
+    "Elective1: Housing (Planning, building..)",
+    "Elective1: Interior Design",
+    "Elective2: Fabrics",
+    "Elective2: Patterns & Fashion",
+    "Elective3: (un)employment & Poverty",
+    "Elective3: Education in Ireland",
+    "Elective3: Family Life & Leisure",
+    "Environment",
+    "Food Assignments",
+    "Food Industry & Packaging",
+    "Food Spoilage & Food Safety",
+    "Foods: Meat, Fish, Cereal, Fruit/Veg, Dairy, Eggs",
+    "Household Appliances",
+    "Household Finances",
+    "Marriage & Family Law",
+    "Meal Planning & Preparation",
+    "Nutrition: Carbohydrates",
+    "Nutrition: Lipids",
+    "Nutrition: Protein",
+    "Nutrition: Vitamins and Minerals",
+    "Textiles",
+    "The Family"
+  ]
+}

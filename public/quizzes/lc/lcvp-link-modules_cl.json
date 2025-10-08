@@ -1,0 +1,490 @@
+[
+{
+  "subject": "LCVP",
+  "topic": "1. Career Investigation",
+  "quiz": [
+    {
+      "text": "Which tool is commonly used to research different careers?",
+      "type": "choice",
+      "choices": ["Job portals", "Recipe books", "Maps", "Sports guides"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main aim of a career investigation?",
+      "type": "choice",
+      "choices": ["Explore potential careers", "Write essays", "Plan holidays", "Learn sports"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is important when choosing a career?",
+      "type": "choice",
+      "choices": ["Skills and interests", "Favourite food", "Height", "Pets"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is often used to gather career information?",
+      "type": "choice",
+      "choices": ["Interviews", "Watching TV", "Playing games", "Reading novels"],
+      "answer": 0
+    },
+    {
+      "text": "Career investigation often helps with:",
+      "type": "choice",
+      "choices": ["Future career planning", "Cooking meals", "Gardening", "Painting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Career investigation only involves online research.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Identifying your strengths is part of career investigation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Career investigation ignores personal interests.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of career you could investigate.",
+      "type": "input",
+      "answer": ["teacher", "engineer", "doctor", "artist"]
+    },
+    {
+      "text": "Provide one source of career information.",
+      "type": "input",
+      "answer": ["internet", "careers office", "interviews", "books"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "1. Introduction to Working Life",
+  "quiz": [
+    {
+      "text": "What is the primary purpose of introducing students to working life?",
+      "type": "choice",
+      "choices": ["Understand workplaces", "Learn sports", "Draw maps", "Study history"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is essential in any workplace?",
+      "type": "choice",
+      "choices": ["Communication", "Singing", "Dancing", "Painting"],
+      "answer": 0
+    },
+    {
+      "text": "Workplace etiquette includes:",
+      "type": "choice",
+      "choices": ["Punctuality", "Sleeping", "Playing games", "Skipping work"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects job satisfaction?",
+      "type": "choice",
+      "choices": ["Work environment", "Favorite color", "Height", "Pets"],
+      "answer": 0
+    },
+    {
+      "text": "Teamwork in the workplace helps to:",
+      "type": "choice",
+      "choices": ["Achieve goals efficiently", "Cook meals", "Play music", "Sleep better"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Workplace rules are optional for employees.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Communication skills are important in working life.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Introduction to working life teaches only manual skills.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one example of a workplace.",
+      "type": "input",
+      "answer": ["office", "factory", "hospital", "school"]
+    },
+    {
+      "text": "Provide one key skill learned in working life introduction.",
+      "type": "input",
+      "answer": ["communication", "teamwork", "time management", "problem-solving"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "1. Job Seeking Skills",
+  "quiz": [
+    {
+      "text": "Which document is most important when applying for a job?",
+      "type": "choice",
+      "choices": ["CV", "Shopping list", "Diary", "Recipe book"],
+      "answer": 0
+    },
+    {
+      "text": "A good cover letter should:",
+      "type": "choice",
+      "choices": ["Introduce yourself and highlight skills", "Describe your holidays", "List hobbies only", "Include favorite movies"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill helps during a job interview?",
+      "type": "choice",
+      "choices": ["Communication", "Sleeping", "Gaming", "Drawing"],
+      "answer": 0
+    },
+    {
+      "text": "A follow-up after an interview shows:",
+      "type": "choice",
+      "choices": ["Interest and professionalism", "Disinterest", "Forgetfulness", "Anger"],
+      "answer": 0
+    },
+    {
+      "text": "Job advertisements are usually found in:",
+      "type": "choice",
+      "choices": ["Newspapers or online portals", "TV shows", "Comic books", "Recipe magazines"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: It is acceptable to lie on your CV.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Preparing answers before an interview is helpful.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Job applications don’t require proofreading.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of question commonly asked in interviews.",
+      "type": "input",
+      "answer": ["strengths", "weaknesses", "experience", "skills"]
+    },
+    {
+      "text": "Provide one tip for successful job seeking.",
+      "type": "input",
+      "answer": ["prepare a CV", "practice interviews", "network", "research companies"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "1. Work Placement",
+  "quiz": [
+    {
+      "text": "What is the main purpose of a work placement?",
+      "type": "choice",
+      "choices": ["Gain practical experience", "Go on holiday", "Play sports", "Study history"],
+      "answer": 0
+    },
+    {
+      "text": "During work placement, students should:",
+      "type": "choice",
+      "choices": ["Follow instructions carefully", "Ignore tasks", "Skip work", "Chat only"], 
+      "answer": 0
+    },
+    {
+      "text": "Which skill is developed during work placement?",
+      "type": "choice",
+      "choices": ["Time management", "Cooking", "Sleeping", "Singing"],
+      "answer": 0
+    },
+    {
+      "text": "Feedback during placement helps students to:",
+      "type": "choice",
+      "choices": ["Improve performance", "Relax more", "Play games", "Ignore rules"],
+      "answer": 0
+    },
+    {
+      "text": "A work placement report usually includes:",
+      "type": "choice",
+      "choices": ["Tasks completed and learning outcomes", "Holiday plans", "Favorite TV shows", "Sports activities"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Students should be punctual during placement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Work placement is optional and unimportant.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Observing colleagues is part of learning on placement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one task a student might perform on placement.",
+      "type": "input",
+      "answer": ["filing", "customer service", "data entry", "research"]
+    },
+    {
+      "text": "Provide one benefit of completing a work placement.",
+      "type": "input",
+      "answer": ["experience", "skills development", "networking", "confidence"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "2. An Enterprise Activity",
+  "quiz": [
+    {
+      "text": "What is the main aim of an enterprise activity?",
+      "type": "choice",
+      "choices": ["Develop a business idea", "Play games", "Write essays", "Plan holidays"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is essential in planning an enterprise activity?",
+      "type": "choice",
+      "choices": ["Market research", "Sleeping", "Drawing", "Cooking"],
+      "answer": 0
+    },
+    {
+      "text": "An enterprise activity usually involves:",
+      "type": "choice",
+      "choices": ["Teamwork", "Watching TV", "Playing music", "Shopping"],
+      "answer": 0
+    },
+    {
+      "text": "The final evaluation of an enterprise activity assesses:",
+      "type": "choice",
+      "choices": ["Planning, execution, and results", "Favorite movies", "Sports performance", "Homework completion"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is practiced during an enterprise activity?",
+      "type": "choice",
+      "choices": ["Problem-solving", "Sleeping", "Drawing", "Singing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Enterprise activities are only about making money.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Working in teams is common in enterprise activities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Planning is not necessary for a successful enterprise activity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of enterprise activity students might do.",
+      "type": "input",
+      "answer": ["fundraising", "selling products", "organizing events", "community projects"]
+    },
+    {
+      "text": "Provide one outcome that can be achieved from an enterprise activity.",
+      "type": "input",
+      "answer": ["skills development", "teamwork", "problem-solving", "confidence"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "2. Enterprise Skills",
+  "quiz": [
+    {
+      "text": "Which skill is essential for entrepreneurship?",
+      "type": "choice",
+      "choices": ["Creativity", "Sleeping", "Watching TV", "Playing music"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill helps in making effective business decisions?",
+      "type": "choice",
+      "choices": ["Problem-solving", "Singing", "Gaming", "Drawing"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is practiced by presenting ideas clearly?",
+      "type": "choice",
+      "choices": ["Communication", "Sleeping", "Cooking", "Running"],
+      "answer": 0
+    },
+    {
+      "text": "Time management in enterprise activities ensures:",
+      "type": "choice",
+      "choices": ["Tasks are completed efficiently", "More free time", "Sleeping more", "Playing games"],
+      "answer": 0
+    },
+    {
+      "text": "Teamwork skills in enterprise help to:",
+      "type": "choice",
+      "choices": ["Achieve goals together", "Work alone", "Ignore tasks", "Play sports only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Creativity is not important in enterprise skills.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Leadership is a key enterprise skill.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Decision-making skills are rarely used in enterprise activities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one enterprise skill learned through LCVP.",
+      "type": "input",
+      "answer": ["communication", "teamwork", "problem-solving", "leadership"]
+    },
+    {
+      "text": "Provide one way students can practice enterprise skills.",
+      "type": "input",
+      "answer": ["running a project", "planning an activity", "creating a product", "organizing events"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "2. Local Business Enterprises",
+  "quiz": [
+    {
+      "text": "What is the primary aim of a local business enterprise?",
+      "type": "choice",
+      "choices": ["Make a profit", "Provide free meals", "Host events", "Study history"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the success of a local business?",
+      "type": "choice",
+      "choices": ["Location", "Favorite color", "Height of staff", "Weather only"],
+      "answer": 0
+    },
+    {
+      "text": "Break-even analysis determines:",
+      "type": "choice",
+      "choices": ["When revenue equals costs", "Profit only", "Expenses only", "Taxes only"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a fixed cost for a small business?",
+      "type": "choice",
+      "choices": ["Rent", "Raw materials", "Hourly wages", "Advertising per sale"],
+      "answer": 0
+    },
+    {
+      "text": "Marketing in local businesses aims to:",
+      "type": "choice",
+      "choices": ["Attract customers", "Reduce rent", "Hire staff", "Paint the shop"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Local businesses only exist to make profit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Understanding customers helps business success.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Break-even analysis is only used by large companies.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of local business enterprise.",
+      "type": "input",
+      "answer": ["cafe", "shop", "bakery", "restaurant"]
+    },
+    {
+      "text": "Provide one way a business can attract customers.",
+      "type": "input",
+      "answer": ["advertising", "special offers", "social media", "loyalty programs"]
+    }
+  ]
+},
+{
+  "subject": "LCVP",
+  "topic": "2. Local Voluntary/Community Enterprises",
+  "quiz": [
+    {
+      "text": "What is the main aim of a voluntary/community enterprise?",
+      "type": "choice",
+      "choices": ["Benefit the community", "Make a profit", "Sell products", "Hire staff"],
+      "answer": 0
+    },
+    {
+      "text": "Voluntary enterprises are often funded by:",
+      "type": "choice",
+      "choices": ["Donations", "Profits only", "Taxes only", "Loans from banks"],
+      "answer": 0
+    },
+    {
+      "text": "Community enterprises focus on:",
+      "type": "choice",
+      "choices": ["Improving local welfare", "Selling products online", "Hosting parties", "Opening restaurants"],
+      "answer": 0
+    },
+    {
+      "text": "Volunteers in these enterprises usually:",
+      "type": "choice",
+      "choices": ["Work without pay", "Receive high salaries", "Own the business", "Buy products only"],
+      "answer": 0
+    },
+    {
+      "text": "An example of a community enterprise is:",
+      "type": "choice",
+      "choices": ["Local sports club", "Bank", "Shop", "Restaurant"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Voluntary enterprises aim for maximum profit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Volunteers are the main workforce in community enterprises.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Community enterprises only benefit owners.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of voluntary/community enterprise.",
+      "type": "input",
+      "answer": ["youth club", "charity shop", "sports club", "community garden"]
+    },
+    {
+      "text": "Provide one way community enterprises can raise funds.",
+      "type": "input",
+      "answer": ["donations", "fundraising events", "grants", "sponsorship"]
+    }
+  ]
+}
+]

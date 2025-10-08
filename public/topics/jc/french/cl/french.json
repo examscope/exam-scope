@@ -1,0 +1,27 @@
+{
+  "certificate": "jc",
+  "subject": "french",
+  "level": "cl",
+  "topics": [
+    "(Old Course) Reading - Articles",
+    "(Old Course) Reading - Interviews",
+    "(Old Course) Reading - Recipes",
+    "(Old Course) Reading - Short Extracts",
+    "(Old Course) Reading - Signs",
+    "(Old Course) Reading Comprehension",
+    "(Old Course) Write a Letter",
+    "AURAL - Long Conversations",
+    "AURAL - Long Piece",
+    "AURAL - News Pieces",
+    "AURAL - Short Conversations",
+    "Reading - Answer Questions in English",
+    "Reading - Answer Questions in French",
+    "Reading - Match Picture with Description",
+    "Reading - Multiple Choice",
+    "Writing - Answer Messages",
+    "Writing - Complete Phrases",
+    "Writing - Email / Blog",
+    "Writing - Fill in a form",
+    "Writing - Grammar Awareness"
+  ]
+}

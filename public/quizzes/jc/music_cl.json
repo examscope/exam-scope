@@ -1,0 +1,191 @@
+[
+  {
+    "subject": "Music",
+    "topic": "Composing Task - Backing Chords",
+    "quiz": [
+      {
+        "text": "Which chord is commonly used as the tonic in C major?",
+        "type": "choice",
+        "choices": ["C major", "G major", "F major", "A minor"],
+        "answer": 0
+      },
+      {
+        "text": "What is the dominant chord in the key of G major?",
+        "type": "choice",
+        "choices": ["G major", "D major", "C major", "E minor"],
+        "answer": 1
+      },
+      {
+        "text": "Which chord is often used to end a piece in a major key?",
+        "type": "choice",
+        "choices": ["Tonic", "Dominant", "Subdominant", "Mediant"],
+        "answer": 0
+      },
+      {
+        "text": "The subdominant chord in F major is:",
+        "type": "choice",
+        "choices": ["F major", "Bb major", "C major", "D minor"],
+        "answer": 1
+      },
+      {
+        "text": "A chord progression I-IV-V-I in C major is:",
+        "type": "choice",
+        "choices": ["C-F-G-C", "C-G-F-C", "C-D-G-C", "C-Am-F-C"],
+        "answer": 0
+      },
+      {
+        "text": "Which chord contains the notes C, E, G?",
+        "type": "choice",
+        "choices": ["C major", "A minor", "F major", "G major"],
+        "answer": 0
+      },
+      {
+        "text": "Which chord contains a minor third?",
+        "type": "choice",
+        "choices": ["C major", "A minor", "G major", "F major"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: The dominant chord creates tension that often resolves to the tonic.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The tonic chord is usually the home chord of the key.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Backing chords always have to follow a strict progression.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Music",
+    "topic": "Composing Task - Melody/Jingles",
+    "quiz": [
+      {
+        "text": "A catchy short tune used in advertisements is called a:",
+        "type": "choice",
+        "choices": ["Melody", "Harmony", "Jingle", "Chord"],
+        "answer": 2
+      },
+      {
+        "text": "A melody that moves by small intervals is called:",
+        "type": "choice",
+        "choices": ["Stepwise", "Leaping", "Chromatic", "Arpeggio"],
+        "answer": 0
+      },
+      {
+        "text": "A melody that jumps large intervals is called:",
+        "type": "choice",
+        "choices": ["Stepwise", "Leaping", "Chromatic", "Scalar"],
+        "answer": 1
+      },
+      {
+        "text": "Which feature makes a melody memorable?",
+        "type": "choice",
+        "choices": ["Rhythm", "Repetition", "Dynamics", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "In a jingle, the melody is often:",
+        "type": "choice",
+        "choices": ["Simple", "Complex", "Slow", "Dissonant"],
+        "answer": 0
+      },
+      {
+        "text": "A sequence of notes moving in a pattern is called a:",
+        "type": "choice",
+        "choices": ["Motif", "Chord", "Interval", "Bassline"],
+        "answer": 0
+      },
+      {
+        "text": "A melody that repeats at different pitches is using:",
+        "type": "choice",
+        "choices": ["Imitation", "Sequence", "Inversion", "Retrograde"],
+        "answer": 1
+      },
+      {
+        "text": "True or false: A jingle should be easy to remember.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Stepwise motion makes a melody harder to sing.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Repetition is a common technique in jingles.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+  "subject": "Music",
+  "topic": "Composing Task - Triads",
+  "quiz": [
+    {
+      "text": "A triad is a chord made up of how many notes?",
+      "type": "choice",
+      "choices": ["2", "3", "4", "5"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a major triad?",
+      "type": "choice",
+      "choices": ["C-E-G", "C-Eb-G", "C-F-A", "C-D-G"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a minor triad?",
+      "type": "choice",
+      "choices": ["C-E-G", "C-Eb-G", "C-F-A", "C-G-B"],
+      "answer": 1
+    },
+    {
+      "text": "A diminished triad contains which intervals?",
+      "type": "choice",
+      "choices": ["Root, major third, perfect fifth", "Root, minor third, diminished fifth", "Root, perfect fourth, perfect fifth", "Root, major third, minor seventh"],
+      "answer": 1
+    },
+    {
+      "text": "Which triad is made of the notes C, E, G#?",
+      "type": "choice",
+      "choices": ["C major", "C minor", "C augmented", "C diminished"],
+      "answer": 2
+    },
+    {
+      "text": "In triads, the root note is:",
+      "type": "choice",
+      "choices": ["The lowest note", "The highest note", "The middle note", "Optional note"],
+      "answer": 0
+    },
+    {
+      "text": "Triads are the basic building blocks of:",
+      "type": "choice",
+      "choices": ["Harmony", "Rhythm", "Melody", "Dynamics"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A major triad has a major third and perfect fifth.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Minor triads are often used to create a sad or melancholic mood.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Triads can only be played on piano.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+}
+]

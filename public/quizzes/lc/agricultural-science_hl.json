@@ -1,0 +1,1039 @@
+[
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Diseases",
+  "quiz": [
+    {
+      "text": "Which of the following is a bacterial disease in cattle?",
+      "type": "choice",
+      "choices": ["Foot-and-mouth", "Tuberculosis", "Ringworm", "Liver fluke"],
+      "answer": 1
+    },
+    {
+      "text": "What type of pathogen causes foot rot in sheep?",
+      "type": "choice",
+      "choices": ["Virus", "Fungus", "Bacteria", "Parasite"],
+      "answer": 2
+    },
+    {
+      "text": "Which disease is caused by a deficiency of copper in animals?",
+      "type": "choice",
+      "choices": ["Scours", "Grass tetany", "Swayback", "Liver fluke"],
+      "answer": 2
+    },
+    {
+      "text": "Which disease affects the liver of sheep and is caused by a fluke?",
+      "type": "choice",
+      "choices": ["Foot rot", "Tuberculosis", "Liver fluke", "Ringworm"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is used to prevent clostridial diseases?",
+      "type": "choice",
+      "choices": ["Worm dose", "Antibiotics", "Vaccine", "Fungicide"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Bovine TB is caused by a virus.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ringworm is a fungal disease.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Liver fluke is spread through snails in wet ground.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one disease caused by a parasite in livestock.",
+      "type": "input",
+      "answer": ["liver fluke", "lungworm", "worms", "coccidiosis"]
+    },
+    {
+      "text": "What is the best method of disease prevention on a farm?",
+      "type": "input",
+      "answer": ["vaccination", "biosecurity", "cleanliness", "herd health plan"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Physiology - Digestive System",
+  "quiz": [
+    {
+      "text": "Which part of a ruminant’s stomach is known as the true stomach?",
+      "type": "choice",
+      "choices": ["Rumen", "Reticulum", "Omasum", "Abomasum"],
+      "answer": 3
+    },
+    {
+      "text": "Where does microbial fermentation occur in a cow?",
+      "type": "choice",
+      "choices": ["Abomasum", "Small intestine", "Rumen", "Omasum"],
+      "answer": 2
+    },
+    {
+      "text": "What is the function of the small intestine?",
+      "type": "choice",
+      "choices": ["Absorption of nutrients", "Grinding food", "Producing bile", "Absorbing water"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the digestive system absorbs water?",
+      "type": "choice",
+      "choices": ["Rumen", "Small intestine", "Large intestine", "Abomasum"],
+      "answer": 2
+    },
+    {
+      "text": "Which organ produces bile for digestion?",
+      "type": "choice",
+      "choices": ["Pancreas", "Stomach", "Liver", "Spleen"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The omasum is involved in water absorption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All animals have a four-chambered stomach.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Enzymes break down food into absorbable molecules.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the name of the first stomach chamber in a ruminant?",
+      "type": "input",
+      "answer": ["rumen", "the rumen"]
+    },
+    {
+      "text": "Name one function of the abomasum.",
+      "type": "input",
+      "answer": ["digestion", "chemical digestion", "enzyme secretion"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Animal Physiology - Reproductive Systems",
+  "quiz": [
+    {
+      "text": "Where does fertilisation occur in mammals?",
+      "type": "choice",
+      "choices": ["Uterus", "Ovary", "Fallopian tube", "Cervix"],
+      "answer": 2
+    },
+    {
+      "text": "What hormone triggers ovulation in cows?",
+      "type": "choice",
+      "choices": ["Oestrogen", "LH", "FSH", "Progesterone"],
+      "answer": 1
+    },
+    {
+      "text": "Which structure produces sperm in males?",
+      "type": "choice",
+      "choices": ["Scrotum", "Epididymis", "Testes", "Vas deferens"],
+      "answer": 2
+    },
+    {
+      "text": "What is the function of the placenta?",
+      "type": "choice",
+      "choices": ["Production of milk", "Sperm storage", "Nourishment of foetus", "Protection of ovum"],
+      "answer": 2
+    },
+    {
+      "text": "What is the term for an animal’s readiness to mate?",
+      "type": "choice",
+      "choices": ["Gestation", "Heat", "Ovulation", "Parturition"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Artificial insemination uses hormones to cause fertilisation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Progesterone maintains pregnancy in cows.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only males produce oestrogen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one male reproductive organ.",
+      "type": "input",
+      "answer": ["testes", "penis", "scrotum", "vas deferens"]
+    },
+    {
+      "text": "What is the name of the process where a cow releases an egg?",
+      "type": "input",
+      "answer": ["ovulation", "release of egg"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Beef Cattle",
+  "quiz": [
+    {
+      "text": "Which of the following is a continental beef breed?",
+      "type": "choice",
+      "choices": ["Friesian", "Hereford", "Charolais", "Jersey"],
+      "answer": 2
+    },
+    {
+      "text": "At what age are beef cattle typically slaughtered?",
+      "type": "choice",
+      "choices": ["6 months", "12 months", "18–24 months", "36 months"],
+      "answer": 2
+    },
+    {
+      "text": "Which system focuses on buying and fattening cattle for a short time?",
+      "type": "choice",
+      "choices": ["Suckler herd", "Store-to-beef", "Dairy herd", "Calf-to-weanling"],
+      "answer": 1
+    },
+    {
+      "text": "What is the average daily live weight gain of a beef animal?",
+      "type": "choice",
+      "choices": ["0.5 kg", "1.0 kg", "1.5 kg", "2.0 kg"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these improves carcass quality?",
+      "type": "choice",
+      "choices": ["Grass-only diet", "Late weaning", "Creep feeding", "Reduced handling"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Friesians are primarily used for beef production.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Calving interval affects profitability in beef systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Creep feeding is used to boost weaning weights.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that affects carcass quality.",
+      "type": "input",
+      "answer": ["nutrition", "breed", "age", "sex"]
+    },
+    {
+      "text": "Name a beef breed commonly used in Ireland.",
+      "type": "input",
+      "answer": ["limousin", "charolais", "hereford", "angus"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Classification of Animals & Plants",
+  "quiz": [
+    {
+      "text": "Which kingdom do cows belong to?",
+      "type": "choice",
+      "choices": ["Plantae", "Fungi", "Animalia", "Protista"],
+      "answer": 2
+    },
+    {
+      "text": "What is the binomial name for the domestic dog?",
+      "type": "choice",
+      "choices": ["Canis lupus", "Canis familiaris", "Felis catus", "Bos taurus"],
+      "answer": 1
+    },
+    {
+      "text": "What group do flowering plants belong to?",
+      "type": "choice",
+      "choices": ["Gymnosperms", "Bryophytes", "Angiosperms", "Algae"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is a phylum of animals?",
+      "type": "choice",
+      "choices": ["Chordata", "Monocot", "Angiosperm", "Dicot"],
+      "answer": 0
+    },
+    {
+      "text": "What is the broadest level in biological classification?",
+      "type": "choice",
+      "choices": ["Phylum", "Order", "Class", "Kingdom"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Mammals are vertebrates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All plants are autotrophic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Binomial names are written in English.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the kingdom to which grasses belong.",
+      "type": "input",
+      "answer": ["plantae", "plant"]
+    },
+    {
+      "text": "What is the two-part naming system in classification called?",
+      "type": "input",
+      "answer": ["binomial nomenclature", "binomial system"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Crop Production",
+  "quiz": [
+    {
+      "text": "Which of these is a cereal crop?",
+      "type": "choice",
+      "choices": ["Barley", "Carrot", "Turnip", "Potato"],
+      "answer": 0
+    },
+    {
+      "text": "What is the term for the process of planting crops directly into the soil?",
+      "type": "choice",
+      "choices": ["Transplanting", "Direct drilling", "Irrigation", "Cultivation"],
+      "answer": 1
+    },
+    {
+      "text": "Which nutrient is essential for leafy crop growth?",
+      "type": "choice",
+      "choices": ["Potassium", "Nitrogen", "Phosphorus", "Magnesium"],
+      "answer": 1
+    },
+    {
+      "text": "Which is an advantage of crop rotation?",
+      "type": "choice",
+      "choices": ["Increased weeds", "Soil exhaustion", "Reduced pests", "Lower yields"],
+      "answer": 2
+    },
+    {
+      "text": "What machinery is used to harvest grain crops?",
+      "type": "choice",
+      "choices": ["Plough", "Sprayer", "Combine harvester", "Seeder"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Monoculture improves biodiversity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cover crops help prevent soil erosion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Phosphorus is vital for root development.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of a root crop.",
+      "type": "input",
+      "answer": ["carrot", "beetroot", "turnip", "parsnip"]
+    },
+    {
+      "text": "What is the main purpose of liming soil?",
+      "type": "input",
+      "answer": ["to reduce acidity", "neutralise soil", "raise pH", "increase soil pH"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Dairy Cattle",
+  "quiz": [
+    {
+      "text": "Which breed is known for high butterfat content in milk?",
+      "type": "choice",
+      "choices": ["Holstein", "Jersey", "Friesian", "Limousin"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for the first milk produced after calving?",
+      "type": "choice",
+      "choices": ["Colostrum", "Mastitis", "Rumen", "Whey"],
+      "answer": 0
+    },
+    {
+      "text": "How often are most dairy cows milked?",
+      "type": "choice",
+      "choices": ["Once a day", "Twice a day", "Every second day", "Weekly"],
+      "answer": 1
+    },
+    {
+      "text": "What is a common disease affecting dairy udders?",
+      "type": "choice",
+      "choices": ["TB", "Brucellosis", "Mastitis", "Footrot"],
+      "answer": 2
+    },
+    {
+      "text": "What is the ideal body condition score before calving?",
+      "type": "choice",
+      "choices": ["1.0", "2.0", "3.0", "4.0"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Somatic cell count is an indicator of milk quality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dairy cows are usually housed all year round in Ireland.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Artificial insemination is widely used in dairy herds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the name of the chamber in a cow's stomach where fermentation occurs?",
+      "type": "input",
+      "answer": ["rumen", "the rumen"]
+    },
+    {
+      "text": "What is colostrum rich in?",
+      "type": "input",
+      "answer": ["antibodies", "nutrients", "immunoglobulins"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Energy Crop & Catch Crop",
+  "quiz": [
+    {
+      "text": "Which of the following is an energy crop?",
+      "type": "choice",
+      "choices": ["Maize", "Ryegrass", "Barley", "Clover"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main use of catch crops?",
+      "type": "choice",
+      "choices": ["Animal bedding", "Weed control", "Soil protection", "Milk production"],
+      "answer": 2
+    },
+    {
+      "text": "Which crop is commonly used for biofuel?",
+      "type": "choice",
+      "choices": ["Oilseed rape", "Peas", "Turnip", "Lucerne"],
+      "answer": 0
+    },
+    {
+      "text": "When are catch crops usually sown?",
+      "type": "choice",
+      "choices": ["Winter", "Before harvest", "After harvest", "During silage season"],
+      "answer": 2
+    },
+    {
+      "text": "What is a benefit of using energy crops?",
+      "type": "choice",
+      "choices": ["Increased emissions", "Soil degradation", "Renewable energy", "Pest increase"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Catch crops can be grazed by livestock.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Energy crops contribute to Ireland’s fossil fuel imports.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Catch crops are only used in organic farming.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one common catch crop grown in Ireland.",
+      "type": "input",
+      "answer": ["mustard", "stubble turnip", "rape", "forage rye"]
+    },
+    {
+      "text": "What is the main environmental benefit of energy crops?",
+      "type": "input",
+      "answer": ["reduce carbon emissions", "carbon reduction", "renewable energy source"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Fertilisers - Pollution - Environment - Cycles",
+  "quiz": [
+    {
+      "text": "Which nutrient in fertiliser is mainly responsible for leafy growth?",
+      "type": "choice",
+      "choices": ["Potassium", "Nitrogen", "Phosphorus", "Sulphur"],
+      "answer": 1
+    },
+    {
+      "text": "Which gas is released when excess nitrogen fertiliser is lost through volatilisation?",
+      "type": "choice",
+      "choices": ["Nitrous oxide", "Carbon dioxide", "Methane", "Ammonia"],
+      "answer": 3
+    },
+    {
+      "text": "Which process describes nitrate movement into groundwater?",
+      "type": "choice",
+      "choices": ["Erosion", "Leaching", "Run‑off", "Denitrification"],
+      "answer": 1
+    },
+    {
+      "text": "Which fertiliser type supplies phosphorus most quickly?",
+      "type": "choice",
+      "choices": ["Rock phosphate", "Superphosphate", "Urea", "Muriate of potash"],
+      "answer": 1
+    },
+    {
+      "text": "Which cycle converts atmospheric nitrogen into a form plants can use?",
+      "type": "choice",
+      "choices": ["Carbon cycle", "Nitrogen cycle", "Water cycle", "Phosphorus cycle"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Eutrophication is caused by excess nutrients entering water bodies.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Denitrification converts nitrates into nitrogen gas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Buffer strips reduce nutrient run‑off into rivers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one farming practice that reduces fertiliser run‑off.",
+      "type": "input",
+      "answer": ["buffer strips", "cover crops", "correct spreading timing", "soil testing"]
+    },
+    {
+      "text": "What is the process by which plants absorb carbon dioxide called?",
+      "type": "input",
+      "answer": ["photosynthesis"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Genetics",
+  "quiz": [
+    {
+      "text": "What term describes the genetic makeup of an organism?",
+      "type": "choice",
+      "choices": ["Phenotype", "Genotype", "Chromosome", "Allele"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following carries genetic information?",
+      "type": "choice",
+      "choices": ["RNA", "Protein", "DNA", "Lipids"],
+      "answer": 2
+    },
+    {
+      "text": "How many chromosomes are in a normal cattle somatic cell?",
+      "type": "choice",
+      "choices": ["23", "30", "60", "46"],
+      "answer": 2
+    },
+    {
+      "text": "What is the probability of producing a recessive homozygous offspring from two heterozygotes?",
+      "type": "choice",
+      "choices": ["0%", "25%", "50%", "75%"],
+      "answer": 1
+    },
+    {
+      "text": "Which breeding method pairs unrelated individuals to increase variation?",
+      "type": "choice",
+      "choices": ["Inbreeding", "Crossbreeding", "Cloning", "Back‑crossing"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Dominant alleles always mask recessive alleles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Sex‑linked traits are carried on autosomes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Mutation introduces new alleles into a population.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the scientist who discovered the basic principles of heredity with pea plants.",
+      "type": "input",
+      "answer": ["gregor mendel", "mendel"]
+    },
+    {
+      "text": "What is the term for different forms of a gene?",
+      "type": "input",
+      "answer": ["alleles", "allele"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Grassland",
+  "quiz": [
+    {
+      "text": "Which grass species is most widely used in Irish pasture?",
+      "type": "choice",
+      "choices": ["Italian ryegrass", "Perennial ryegrass", "Timothy", "Cocksfoot"],
+      "answer": 1
+    },
+    {
+      "text": "What is the target pre‑grazing cover for high‑quality grass (kg DM/ha)?",
+      "type": "choice",
+      "choices": ["500–700", "800–1 000", "1 100–1 300", "1 600–1 800"],
+      "answer": 2
+    },
+    {
+      "text": "Which nutrient most influences grass growth in early spring?",
+      "type": "choice",
+      "choices": ["Potassium", "Nitrogen", "Sulphur", "Calcium"],
+      "answer": 1
+    },
+    {
+      "text": "Which grazing system divides land into many paddocks grazed sequentially?",
+      "type": "choice",
+      "choices": ["Set stocking", "Rotational grazing", "Zero grazing", "Strip grazing"],
+      "answer": 1
+    },
+    {
+      "text": "Which clover species is commonly mixed with grass to fix nitrogen?",
+      "type": "choice",
+      "choices": ["Red clover", "White clover", "Alsike clover", "Crimson clover"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Grass growth peaks in midsummer in Ireland.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Over‑grazing increases sward quality.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Soil pH should be around 6.3 for optimum grass growth.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one advantage of rotational grazing.",
+      "type": "input",
+      "answer": ["better grass utilisation", "improved regrowth", "reduced poaching"]
+    },
+    {
+      "text": "What machine is used to measure pasture height?",
+      "type": "input",
+      "answer": ["grass plate meter", "rising plate meter", "sward stick"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Innovation and Biotechnology in Agriculture",
+  "quiz": [
+    {
+      "text": "Which technology uses satellite data to guide variable‑rate fertiliser application?",
+      "type": "choice",
+      "choices": ["Drone surveying", "Precision agriculture GPS", "Blockchain", "CRISPR editing"],
+      "answer": 1
+    },
+    {
+      "text": "What does GMO stand for?",
+      "type": "choice",
+      "choices": ["Genetic Material Organism", "Genetically Modified Organism", "General Microbe Operation", "Gene Manipulated Output"],
+      "answer": 1
+    },
+    {
+      "text": "Which gene‑editing tool is widely used for precise DNA cuts?",
+      "type": "choice",
+      "choices": ["PCR", "Gel electrophoresis", "CRISPR‑Cas9", "Southern blot"],
+      "answer": 2
+    },
+    {
+      "text": "What benefit do RFID tags provide in livestock management?",
+      "type": "choice",
+      "choices": ["Track feed prices", "Real‑time animal identification", "Measure rainfall", "Predict milk prices"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a biofertiliser?",
+      "type": "choice",
+      "choices": ["Ammonium nitrate", "Compost tea", "Superphosphate", "Muriate of potash"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: GM crops can be engineered for drought tolerance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Drone imagery cannot detect crop nutrient deficiencies.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Precision agriculture aims to apply inputs uniformly across fields.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one potential advantage of gene editing in crops.",
+      "type": "input",
+      "answer": ["disease resistance", "higher yield", "drought tolerance", "improved nutrition"]
+    },
+    {
+      "text": "What does GPS stand for in precision farming?",
+      "type": "input",
+      "answer": ["global positioning system", "gps"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Pigs",
+  "quiz": [
+    {
+      "text": "What is the gestation period of a sow (days)?",
+      "type": "choice",
+      "choices": ["84", "90", "114", "150"],
+      "answer": 2
+    },
+    {
+      "text": "Which breed is known for lean meat and rapid growth?",
+      "type": "choice",
+      "choices": ["Large White", "Tamworth", "Berkshire", "Gloucestershire Old Spot"],
+      "answer": 0
+    },
+    {
+      "text": "At what weight are pigs typically slaughtered (kg live weight)?",
+      "type": "choice",
+      "choices": ["40–50", "50–70", "100–110", "150–160"],
+      "answer": 2
+    },
+    {
+      "text": "Which disease can be prevented by iron injections in piglets?",
+      "type": "choice",
+      "choices": ["Scours", "Anaemia", "Mastitis", "Foot rot"],
+      "answer": 1
+    },
+    {
+      "text": "What housing system gives pigs free access to outdoor space?",
+      "type": "choice",
+      "choices": ["Slatted house", "Dry sow stall", "Farrowing crate", "Free‑range"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Piglets are normally weaned at 3–4 weeks.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: High‑fibre diets are ideal for finishing pigs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Tail docking may reduce tail‑biting in intensive systems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common pig breed used in commercial production.",
+      "type": "input",
+      "answer": ["large white", "landrace", "duroc", "pietrain"]
+    },
+    {
+      "text": "What mineral supplement is routinely given to newborn piglets?",
+      "type": "input",
+      "answer": ["iron", "iron injection", "iron supplement"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Plant Physiology",
+  "quiz": [
+    {
+      "text": "Which process in plants uses sunlight to produce food?",
+      "type": "choice",
+      "choices": ["Respiration", "Transpiration", "Photosynthesis", "Fermentation"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main function of stomata?",
+      "type": "choice",
+      "choices": ["Absorb water", "Exchange gases", "Support the plant", "Store food"],
+      "answer": 1
+    },
+    {
+      "text": "Which plant hormone is responsible for cell elongation?",
+      "type": "choice",
+      "choices": ["Ethylene", "Auxin", "Cytokinin", "Gibberellin"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of the plant carries water from the roots to the leaves?",
+      "type": "choice",
+      "choices": ["Phloem", "Xylem", "Cambium", "Palisade layer"],
+      "answer": 1
+    },
+    {
+      "text": "Which pigment is essential for photosynthesis?",
+      "type": "choice",
+      "choices": ["Carotene", "Anthocyanin", "Chlorophyll", "Xanthophyll"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Phloem transports only water in plants.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Transpiration helps in the upward movement of water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Chlorophyll absorbs green light best.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the loss of water vapour from plant leaves called?",
+      "type": "input",
+      "answer": ["transpiration"]
+    },
+    {
+      "text": "Name the tissue that transports sugars in a plant.",
+      "type": "input",
+      "answer": ["phloem", "the phloem"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Scientific Practices - Experiments & Investigations",
+  "quiz": [
+    {
+      "text": "Which part of the scientific method involves forming an educated guess?",
+      "type": "choice",
+      "choices": ["Observation", "Conclusion", "Hypothesis", "Experiment"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is a variable that is kept constant in an experiment?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Control variable", "Independent variable", "Unmeasured variable"],
+      "answer": 1
+    },
+    {
+      "text": "What is the purpose of replication in an experiment?",
+      "type": "choice",
+      "choices": ["To test a different hypothesis", "To improve accuracy", "To save time", "To increase variability"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these steps comes first in an investigation?",
+      "type": "choice",
+      "choices": ["Collecting data", "Drawing a conclusion", "Forming a hypothesis", "Making observations"],
+      "answer": 3
+    },
+    {
+      "text": "Which one is the dependent variable in a test on fertiliser effect on growth?",
+      "type": "choice",
+      "choices": ["Amount of fertiliser", "Type of plant", "Plant growth", "Soil type"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A control group is used to compare results in experiments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Repeating an experiment reduces the accuracy of results.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: All variables must be changed during a fair test.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What do we call the factor that is changed in an experiment?",
+      "type": "input",
+      "answer": ["independent variable"]
+    },
+    {
+      "text": "What do you call the data collected during an experiment?",
+      "type": "input",
+      "answer": ["results", "observations", "data"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Sheep",
+  "quiz": [
+    {
+      "text": "What is the term for a female sheep?",
+      "type": "choice",
+      "choices": ["Ewe", "Ram", "Lamb", "Wether"],
+      "answer": 0
+    },
+    {
+      "text": "Which breed of sheep is most common for wool production?",
+      "type": "choice",
+      "choices": ["Suffolk", "Texel", "Merino", "Charollais"],
+      "answer": 2
+    },
+    {
+      "text": "What is the average gestation period for a sheep?",
+      "type": "choice",
+      "choices": ["100 days", "120 days", "150 days", "180 days"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main cause of lamb mortality in the first few days?",
+      "type": "choice",
+      "choices": ["Predators", "Lack of colostrum", "Overheating", "Genetic disorders"],
+      "answer": 1
+    },
+    {
+      "text": "Which mineral is important to prevent swayback in lambs?",
+      "type": "choice",
+      "choices": ["Iron", "Zinc", "Copper", "Magnesium"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Castration in lambs is done to improve meat quality.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A ram is a female sheep used for breeding.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sheep are ruminants and have a four-chambered stomach.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the first milk produced by a ewe called?",
+      "type": "input",
+      "answer": ["colostrum"]
+    },
+    {
+      "text": "What is the name for a castrated male sheep?",
+      "type": "input",
+      "answer": ["wether", "a wether"]
+    }
+  ]
+},
+{
+  "subject": "Agricultural Science",
+  "topic": "Soil Science",
+  "quiz": [
+    {
+      "text": "Which soil type has the best drainage?",
+      "type": "choice",
+      "choices": ["Clay", "Loam", "Silt", "Sand"],
+      "answer": 3
+    },
+    {
+      "text": "What is the ideal pH range for most crops?",
+      "type": "choice",
+      "choices": ["3.5 - 4.5", "5.5 - 7.0", "7.5 - 9.0", "9.0 - 10.5"],
+      "answer": 1
+    },
+    {
+      "text": "Which soil particle is the smallest?",
+      "type": "choice",
+      "choices": ["Sand", "Silt", "Gravel", "Clay"],
+      "answer": 3
+    },
+    {
+      "text": "Which nutrient is essential for root development?",
+      "type": "choice",
+      "choices": ["Nitrogen", "Phosphorus", "Potassium", "Magnesium"],
+      "answer": 1
+    },
+    {
+      "text": "What does NPK stand for in fertilisers?",
+      "type": "choice",
+      "choices": ["Nitrogen, Phosphorus, Potassium", "Nickel, Potash, Krypton", "Nitrogen, Potash, Keratin", "None of the above"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Soil with high clay content has poor drainage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Lime is added to soil to reduce acidity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Organic matter decreases soil fertility.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the dark, organic component of soil called?",
+      "type": "input",
+      "answer": ["humus"]
+    },
+    {
+      "text": "What tool is used to measure soil pH?",
+      "type": "input",
+      "answer": ["pH meter", "soil pH meter", "pH probe"]
+    }
+  ]
+}
+]

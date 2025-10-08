@@ -1,0 +1,241 @@
+[
+{
+  "subject": "German",
+  "topic": "Reading - Text with Questions",
+  "quiz": [
+    {
+      "text": "Which of these is the correct translation for 'house' in German?",
+      "type": "choice",
+      "choices": ["Haus", "Baum", "Auto", "Buch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Der Hund' means 'the cat'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Translate 'school' into German.",
+      "type": "input",
+      "answer": ["schule", "die schule"]
+    },
+    {
+      "text": "Which word means 'friend' in German?",
+      "type": "choice",
+      "choices": ["Freund", "Mädchen", "Lehrer", "Brot"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Guten Morgen' is a greeting used in the evening.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What is the German word for 'book'?",
+      "type": "choice",
+      "choices": ["Buch", "Stuhl", "Tisch", "Lampe"],
+      "answer": 0
+    },
+    {
+      "text": "Translate 'apple' into German.",
+      "type": "input",
+      "answer": ["apfel", "der apfel"]
+    },
+    {
+      "text": "True or false: 'Danke' means 'thank you' in German.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these words means 'water' in German?",
+      "type": "choice",
+      "choices": ["Wasser", "Milch", "Saft", "Kaffee"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Tisch' is the German word for 'chair'.",
+      "type": "truefalse",
+      "answer": false
+    }
+  ]
+},
+{
+  "subject": "German",
+  "topic": "Writing - Blog/Letter/Email...",
+  "quiz": [
+    {
+      "text": "Which greeting is correct for a formal letter in German?",
+      "type": "choice",
+      "choices": ["Liebe Freunde", "Sehr geehrte Damen und Herren", "Hallo Leute", "Hi"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Mit freundlichen Grüßen' is used to end a formal email.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'I am writing to you' into German.",
+      "type": "input",
+      "answer": ["ich schreibe Ihnen", "ich schreibe dir", "ich schreibe an Sie"]
+    },
+    {
+      "text": "Which phrase would you use to start a friendly email?",
+      "type": "choice",
+      "choices": ["Liebe Anna", "Sehr geehrte Frau Müller", "Mit freundlichen Grüßen", "Guten Morgen"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: 'Betreff' in an email means 'subject'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which closing is appropriate for a casual email?",
+      "type": "choice",
+      "choices": ["Viele Grüße", "Mit freundlichen Grüßen", "Hochachtungsvoll", "Sehr geehrte Damen und Herren"],
+      "answer": 0
+    },
+    {
+      "text": "Translate 'I hope you are well' into German.",
+      "type": "input",
+      "answer": ["ich hoffe, es geht dir gut", "ich hoffe, es geht Ihnen gut"]
+    },
+    {
+      "text": "True or false: 'Anhang' refers to the main body of an email.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which phrase can you use to ask for information politely in an email?",
+      "type": "choice",
+      "choices": ["Könnten Sie mir bitte sagen", "Gib mir Infos", "Sag mir schnell", "Was ist los?"],
+      "answer": 0
+    },
+    {
+      "text": "Translate 'Thank you for your reply' into German.",
+      "type": "input",
+      "answer": ["danke für Ihre Antwort", "danke für deine Antwort"]
+    }
+  ]
+},
+{
+  "subject": "German",
+  "topic": "Writing - Common Expressions/Words",
+  "quiz": [
+    {
+      "text": "Which German word means 'please'?",
+      "type": "choice",
+      "choices": ["Danke", "Bitte", "Hallo", "Tschüss"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Entschuldigung' means 'sorry'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Translate 'good morning' into German.",
+      "type": "input",
+      "answer": ["guten Morgen", "morgen"]
+    },
+    {
+      "text": "Which phrase is used to say 'goodbye' in German?",
+      "type": "choice",
+      "choices": ["Hallo", "Tschüss", "Danke", "Bitte"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Wie geht’s?' is a casual way to ask 'How are you?'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which German word means 'thank you'?",
+      "type": "choice",
+      "choices": ["Bitte", "Entschuldigung", "Danke", "Hallo"],
+      "answer": 2
+    },
+    {
+      "text": "Translate 'see you later' into German.",
+      "type": "input",
+      "answer": ["bis später", "wir sehen uns später"]
+    },
+    {
+      "text": "True or false: 'Guten Abend' is used in the morning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which phrase would you use to ask 'What is your name?' in German?",
+      "type": "choice",
+      "choices": ["Wie heißt du?", "Wo wohnst du?", "Wie alt bist du?", "Was machst du?"],
+      "answer": 0
+    },
+    {
+      "text": "Translate 'excuse me' into German.",
+      "type": "input",
+      "answer": ["Entschuldigung", "Verzeihung"]
+    }
+  ]
+},
+{
+  "subject": "German",
+  "topic": "Writing - Finish the Sentence",
+  "quiz": [
+    {
+      "text": "Complete: Ich ____ in Deutschland.",
+      "type": "input",
+      "answer": ["wohne", "bin wohnhaft"]
+    },
+    {
+      "text": "Complete: Er ____ Fußball.",
+      "type": "input",
+      "answer": ["spielt", "macht"]
+    },
+    {
+      "text": "Which word correctly completes: Wir ____ ins Kino.",
+      "type": "choice",
+      "choices": ["geht", "gehen", "gehts", "gehe"],
+      "answer": 1
+    },
+    {
+      "text": "Complete: Sie ____ gerne Bücher.",
+      "type": "input",
+      "answer": ["liest", "lesen gern"]
+    },
+    {
+      "text": "True or false: 'Ich habe Hunger' means 'I am thirsty'.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which word correctly completes: Du ____ mein Freund.",
+      "type": "choice",
+      "choices": ["bist", "ist", "seid", "bin"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: Wir ____ am Wochenende nach München.",
+      "type": "input",
+      "answer": ["fahren", "gehen", "reisen"]
+    },
+    {
+      "text": "True or false: 'Er mag Pizza' means 'He likes pizza'.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which word completes: Ich ____ gern Musik.",
+      "type": "choice",
+      "choices": ["höre", "hörst", "hört", "hören"],
+      "answer": 0
+    },
+    {
+      "text": "Complete: Sie ____ im Park.",
+      "type": "input",
+      "answer": ["läuft", "spaziert", "geht"]
+    }
+  ]
+}
+]

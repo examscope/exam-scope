@@ -1,0 +1,2082 @@
+[
+  {
+    "subject": "Science",
+    "topic": "B Biodiversity",
+    "quiz": [
+      {
+        "text": "Biodiversity refers to:",
+        "type": "choice",
+        "choices": ["The variety of living organisms", "The number of mountains", "Weather patterns", "Water sources"],
+        "answer": 0
+      },
+      {
+        "text": "A habitat is:",
+        "type": "choice",
+        "choices": ["The natural environment of an organism", "A type of rock", "A food source", "A disease"],
+        "answer": 0
+      },
+      {
+        "text": "Which of these is an example of a species?",
+        "type": "choice",
+        "choices": ["Homo sapiens", "Mammal", "Forest", "Ocean"],
+        "answer": 0
+      },
+      {
+        "text": "Why is biodiversity important?",
+        "type": "choice",
+        "choices": ["Ecosystem stability", "Food sources", "Medicines", "All of the above"],
+        "answer": 3
+      },
+      {
+        "text": "Endangered species are:",
+        "type": "choice",
+        "choices": ["At risk of extinction", "Common everywhere", "Plants only", "Animals only"],
+        "answer": 0
+      },
+      {
+        "text": "Conservation efforts aim to:",
+        "type": "choice",
+        "choices": ["Protect biodiversity", "Increase pollution", "Destroy habitats", "None of the above"],
+        "answer": 0
+      },
+      {
+        "text": "An ecosystem includes:",
+        "type": "choice",
+        "choices": ["Living and non-living things", "Only animals", "Only plants", "Only rocks"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Biodiversity includes plants, animals, and microorganisms.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A habitat is not related to biodiversity.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Protecting endangered species helps maintain biodiversity.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Breathing System",
+    "quiz": [
+      {
+        "text": "The main organ of the breathing system is the:",
+        "type": "choice",
+        "choices": ["Lungs", "Heart", "Stomach", "Brain"],
+        "answer": 0
+      },
+      {
+        "text": "Air enters the lungs through the:",
+        "type": "choice",
+        "choices": ["Trachea", "Esophagus", "Arteries", "Veins"],
+        "answer": 0
+      },
+      {
+        "text": "Which structure prevents food from entering the trachea?",
+        "type": "choice",
+        "choices": ["Epiglottis", "Diaphragm", "Alveoli", "Bronchi"],
+        "answer": 0
+      },
+      {
+        "text": "Gas exchange occurs in the:",
+        "type": "choice",
+        "choices": ["Alveoli", "Trachea", "Bronchi", "Diaphragm"],
+        "answer": 0
+      },
+      {
+        "text": "The diaphragm is used for:",
+        "type": "choice",
+        "choices": ["Breathing", "Digestion", "Circulation", "Thinking"],
+        "answer": 0
+      },
+      {
+        "text": "Oxygen from the lungs is carried to the body by:",
+        "type": "choice",
+        "choices": ["Blood", "Air", "Muscles", "Skin"],
+        "answer": 0
+      },
+      {
+        "text": "Carbon dioxide is removed from the body through:",
+        "type": "choice",
+        "choices": ["Exhalation", "Inhalation", "Digestion", "Sweating"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Lungs are the only organs involved in breathing.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Oxygen is taken in and carbon dioxide is released during breathing.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The diaphragm helps expand the chest during inhalation.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Cells",
+    "quiz": [
+      {
+        "text": "The basic unit of life is the:",
+        "type": "choice",
+        "choices": ["Cell", "Tissue", "Organ", "Organ system"],
+        "answer": 0
+      },
+      {
+        "text": "Which part of the cell controls its activities?",
+        "type": "choice",
+        "choices": ["Nucleus", "Cytoplasm", "Cell membrane", "Mitochondria"],
+        "answer": 0
+      },
+      {
+        "text": "The cell membrane is responsible for:",
+        "type": "choice",
+        "choices": ["Controlling what enters and leaves", "Producing energy", "Storing DNA", "Making proteins"],
+        "answer": 0
+      },
+      {
+        "text": "Mitochondria are known as the:",
+        "type": "choice",
+        "choices": ["Powerhouse of the cell", "Brain of the cell", "Skeleton of the cell", "Heart of the cell"],
+        "answer": 0
+      },
+      {
+        "text": "Plant cells have which additional structure that animal cells do not?",
+        "type": "choice",
+        "choices": ["Cell wall", "Nucleus", "Mitochondria", "Ribosome"],
+        "answer": 0
+      },
+      {
+        "text": "Cytoplasm is:",
+        "type": "choice",
+        "choices": ["The jelly-like substance inside the cell", "The outer wall of the cell", "The energy producer", "The DNA storage area"],
+        "answer": 0
+      },
+      {
+        "text": "Ribosomes are responsible for:",
+        "type": "choice",
+        "choices": ["Protein synthesis", "Energy production", "Cell division", "DNA replication"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: All living organisms are made of cells.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Animal cells have a cell wall.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Mitochondria produce energy for the cell.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Circulatory System",
+    "quiz": [
+      {
+        "text": "The main organ of the circulatory system is the:",
+        "type": "choice",
+        "choices": ["Heart", "Lungs", "Brain", "Kidney"],
+        "answer": 0
+      },
+      {
+        "text": "Blood vessels that carry blood away from the heart are called:",
+        "type": "choice",
+        "choices": ["Arteries", "Veins", "Capillaries", "Lymph vessels"],
+        "answer": 0
+      },
+      {
+        "text": "Blood vessels that carry blood to the heart are called:",
+        "type": "choice",
+        "choices": ["Veins", "Arteries", "Capillaries", "Lymph vessels"],
+        "answer": 0
+      },
+      {
+        "text": "Which component of blood carries oxygen?",
+        "type": "choice",
+        "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+        "answer": 0
+      },
+      {
+        "text": "White blood cells are responsible for:",
+        "type": "choice",
+        "choices": ["Fighting infection", "Carrying oxygen", "Clotting blood", "Transporting nutrients"],
+        "answer": 0
+      },
+      {
+        "text": "Platelets help the body by:",
+        "type": "choice",
+        "choices": ["Clotting blood", "Transporting oxygen", "Fighting bacteria", "Producing energy"],
+        "answer": 0
+      },
+      {
+        "text": "Capillaries are:",
+        "type": "choice",
+        "choices": ["Tiny blood vessels where exchange occurs", "Large veins", "Parts of the heart", "Muscles"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The heart pumps blood around the body.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Arteries carry blood to the heart.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Platelets are important for blood clotting.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Digestive System",
+    "quiz": [
+      {
+        "text": "The first part of the digestive system is the:",
+        "type": "choice",
+        "choices": ["Mouth", "Stomach", "Small intestine", "Esophagus"],
+        "answer": 0
+      },
+      {
+        "text": "Food moves from the mouth to the stomach through the:",
+        "type": "choice",
+        "choices": ["Esophagus", "Small intestine", "Large intestine", "Liver"],
+        "answer": 0
+      },
+      {
+        "text": "Which organ produces bile to help digest fats?",
+        "type": "choice",
+        "choices": ["Liver", "Pancreas", "Stomach", "Gallbladder"],
+        "answer": 0
+      },
+      {
+        "text": "The small intestine is mainly responsible for:",
+        "type": "choice",
+        "choices": ["Absorption of nutrients", "Chewing food", "Storing waste", "Filtering blood"],
+        "answer": 0
+      },
+      {
+        "text": "The large intestine absorbs:",
+        "type": "choice",
+        "choices": ["Water", "Proteins", "Fats", "Vitamins only"],
+        "answer": 0
+      },
+      {
+        "text": "Enzymes in the digestive system:",
+        "type": "choice",
+        "choices": ["Break down food", "Pump blood", "Carry oxygen", "Filter waste"],
+        "answer": 0
+      },
+      {
+        "text": "Teeth help to:",
+        "type": "choice",
+        "choices": ["Chew and break down food", "Absorb nutrients", "Produce enzymes", "Store bile"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The stomach produces acid to help digest food.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The small intestine absorbs most nutrients from food.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The liver is not involved in digestion.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Ecology & Habitat Study",
+    "quiz": [
+      {
+        "text": "An ecosystem includes:",
+        "type": "choice",
+        "choices": ["All living and non-living things in an area", "Only animals", "Only plants", "Only water"],
+        "answer": 0
+      },
+      {
+        "text": "A habitat is:",
+        "type": "choice",
+        "choices": ["The natural home of an organism", "A type of food", "A body organ", "A kind of plant"],
+        "answer": 0
+      },
+      {
+        "text": "Producers in an ecosystem are usually:",
+        "type": "choice",
+        "choices": ["Plants", "Animals", "Fungi", "Bacteria"],
+        "answer": 0
+      },
+      {
+        "text": "Consumers are organisms that:",
+        "type": "choice",
+        "choices": ["Eat other organisms", "Produce their own food", "Live in water only", "Live in deserts only"],
+        "answer": 0
+      },
+      {
+        "text": "Decomposers:",
+        "type": "choice",
+        "choices": ["Break down dead material", "Produce food", "Consume live animals only", "Provide shelter"],
+        "answer": 0
+      },
+      {
+        "text": "Biodiversity refers to:",
+        "type": "choice",
+        "choices": ["The variety of living things in an area", "The number of rocks in an area", "Only animals", "Only plants"],
+        "answer": 0
+      },
+      {
+        "text": "Human activity can affect habitats by:",
+        "type": "choice",
+        "choices": ["Pollution, deforestation, and urbanization", "Planting flowers only", "Watching wildlife", "Studying rocks"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Every organism in a habitat has a role to play.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Decomposers help recycle nutrients in ecosystems.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Humans have no effect on ecosystems.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Evolution",
+    "quiz": [
+      {
+        "text": "The process by which species change over time is called:",
+        "type": "choice",
+        "choices": ["Evolution", "Photosynthesis", "Digestion", "Respiration"],
+        "answer": 0
+      },
+      {
+        "text": "Charles Darwin is famous for the theory of:",
+        "type": "choice",
+        "choices": ["Natural selection", "Relativity", "Cell theory", "Gravity"],
+        "answer": 0
+      },
+      {
+        "text": "Natural selection favors:",
+        "type": "choice",
+        "choices": ["Organisms best suited to their environment", "The fastest animals", "The strongest animals", "All organisms equally"],
+        "answer": 0
+      },
+      {
+        "text": "Fossils are important because they:",
+        "type": "choice",
+        "choices": ["Provide evidence of past life", "Provide oxygen", "Make soil fertile", "Create energy"],
+        "answer": 0
+      },
+      {
+        "text": "A trait that helps an organism survive is called:",
+        "type": "choice",
+        "choices": ["Adaptation", "Mutation", "Reproduction", "Diet"],
+        "answer": 0
+      },
+      {
+        "text": "Speciation occurs when:",
+        "type": "choice",
+        "choices": ["Populations become reproductively isolated", "Animals migrate", "Plants grow faster", "Predators hunt prey"],
+        "answer": 0
+      },
+      {
+        "text": "Extinction means:",
+        "type": "choice",
+        "choices": ["A species no longer exists", "A species is growing fast", "A species is moving habitats", "A species is healthy"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Evolution occurs over many generations.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All individuals in a species evolve in the same way.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Fossils can provide evidence of evolution.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Genetics",
+    "quiz": [
+      {
+        "text": "Genes are made of:",
+        "type": "choice",
+        "choices": ["DNA", "Proteins", "Carbohydrates", "Lipids"],
+        "answer": 0
+      },
+      {
+        "text": "Alleles are:",
+        "type": "choice",
+        "choices": ["Different forms of a gene", "Cells", "Organelles", "Enzymes"],
+        "answer": 0
+      },
+      {
+        "text": "An organism with two identical alleles is called:",
+        "type": "choice",
+        "choices": ["Homozygous", "Heterozygous", "Dominant", "Recessive"],
+        "answer": 0
+      },
+      {
+        "text": "An organism with two different alleles is called:",
+        "type": "choice",
+        "choices": ["Heterozygous", "Homozygous", "Dominant", "Recessive"],
+        "answer": 0
+      },
+      {
+        "text": "The study of heredity is called:",
+        "type": "choice",
+        "choices": ["Genetics", "Ecology", "Evolution", "Anatomy"],
+        "answer": 0
+      },
+      {
+        "text": "Dominant alleles:",
+        "type": "choice",
+        "choices": ["Mask recessive alleles", "Are weaker than recessive alleles", "Disappear over time", "Cause mutations only"],
+        "answer": 0
+      },
+      {
+        "text": "Recessive alleles:",
+        "type": "choice",
+        "choices": ["Only show when dominant allele is absent", "Always appear", "Control growth only", "Are dangerous"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Offspring inherit genes from both parents.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All traits are determined by a single gene.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Dominant alleles always show over recessive alleles.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Human Health",
+    "quiz": [
+      {
+        "text": "Vaccines help the body to:",
+        "type": "choice",
+        "choices": ["Build immunity to diseases", "Digest food", "Produce energy", "Control blood pressure"],
+        "answer": 0
+      },
+      {
+        "text": "A balanced diet provides:",
+        "type": "choice",
+        "choices": ["All nutrients needed for health", "Only carbohydrates", "Only vitamins", "Only proteins"],
+        "answer": 0
+      },
+      {
+        "text": "Exercise is important because it:",
+        "type": "choice",
+        "choices": ["Strengthens muscles and heart", "Increases sickness", "Reduces immunity", "Weakens bones"],
+        "answer": 0
+      },
+      {
+        "text": "Hygiene practices help prevent:",
+        "type": "choice",
+        "choices": ["Spread of diseases", "Exercise fatigue", "Obesity only", "Allergies only"],
+        "answer": 0
+      },
+      {
+        "text": "Pathogens are:",
+        "type": "choice",
+        "choices": ["Microorganisms that cause disease", "Healthy cells", "Nutrients", "Vitamins"],
+        "answer": 0
+      },
+      {
+        "text": "Mental health is important for:",
+        "type": "choice",
+        "choices": ["Overall well-being", "Only physical strength", "Only sleeping", "Only nutrition"],
+        "answer": 0
+      },
+      {
+        "text": "Drugs and alcohol can:",
+        "type": "choice",
+        "choices": ["Harm the body and mind", "Improve immunity", "Increase energy only", "Cure diseases"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Washing hands regularly helps prevent infections.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Only physical health matters; mental health is not important.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Vaccines can prevent some diseases.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Human Reproduction",
+    "quiz": [
+      {
+        "text": "The male reproductive cells are called:",
+        "type": "choice",
+        "choices": ["Sperm", "Eggs", "Zygotes", "Embryos"],
+        "answer": 0
+      },
+      {
+        "text": "The female reproductive cells are called:",
+        "type": "choice",
+        "choices": ["Eggs", "Sperm", "Embryos", "Placenta"],
+        "answer": 0
+      },
+      {
+        "text": "Fertilization occurs when:",
+        "type": "choice",
+        "choices": ["Sperm meets egg", "Egg divides", "Embryo grows", "Placenta forms"],
+        "answer": 0
+      },
+      {
+        "text": "The uterus is:",
+        "type": "choice",
+        "choices": ["Where a baby develops", "Where sperm is produced", "Part of the digestive system", "Part of the lungs"],
+        "answer": 0
+      },
+      {
+        "text": "Puberty is the stage when:",
+        "type": "choice",
+        "choices": ["The body becomes capable of reproduction", "The body stops growing", "The heart grows", "Bones weaken"],
+        "answer": 0
+      },
+      {
+        "text": "The placenta:",
+        "type": "choice",
+        "choices": ["Provides nutrients to the developing baby", "Produces sperm", "Stores blood", "Cleans the kidneys"],
+        "answer": 0
+      },
+      {
+        "text": "Hormones in reproduction:",
+        "type": "choice",
+        "choices": ["Control development and reproduction", "Control digestion", "Control blood flow", "Control breathing"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Fertilization occurs outside the body in humans.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Puberty occurs in both males and females.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The uterus is where the baby develops during pregnancy.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Photosynthesis",
+    "quiz": [
+      {
+        "text": "Photosynthesis takes place mainly in the:",
+        "type": "choice",
+        "choices": ["Leaves", "Roots", "Stems", "Flowers"],
+        "answer": 0
+      },
+      {
+        "text": "The gas absorbed by plants during photosynthesis is:",
+        "type": "choice",
+        "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "The gas released by plants during photosynthesis is:",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "The energy for photosynthesis comes from:",
+        "type": "choice",
+        "choices": ["Sunlight", "Water", "Soil", "Wind"],
+        "answer": 0
+      },
+      {
+        "text": "Chlorophyll is important because it:",
+        "type": "choice",
+        "choices": ["Absorbs sunlight", "Stores water", "Transports nutrients", "Produces seeds"],
+        "answer": 0
+      },
+      {
+        "text": "Glucose produced in photosynthesis is used for:",
+        "type": "choice",
+        "choices": ["Energy and growth", "Water storage", "Seed production only", "Leaf color"],
+        "answer": 0
+      },
+      {
+        "text": "Water for photosynthesis is absorbed mainly by the:",
+        "type": "choice",
+        "choices": ["Roots", "Leaves", "Stems", "Flowers"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Photosynthesis produces oxygen as a by-product.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Photosynthesis occurs mainly in the roots.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Sunlight is necessary for photosynthesis.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Plant Growth & Reproduction",
+    "quiz": [
+      {
+        "text": "Seeds germinate when they receive:",
+        "type": "choice",
+        "choices": ["Water, oxygen, and warmth", "Sunlight only", "Soil only", "Carbon dioxide only"],
+        "answer": 0
+      },
+      {
+        "text": "Pollination is:",
+        "type": "choice",
+        "choices": ["Transfer of pollen from anther to stigma", "Seed growth", "Leaf formation", "Root absorption"],
+        "answer": 0
+      },
+      {
+        "text": "Fertilization in plants results in:",
+        "type": "choice",
+        "choices": ["Formation of seeds", "Production of leaves", "Stem growth", "Flower opening"],
+        "answer": 0
+      },
+      {
+        "text": "Asexual reproduction in plants occurs through:",
+        "type": "choice",
+        "choices": ["Cuttings, runners, or bulbs", "Seeds only", "Pollination", "Photosynthesis"],
+        "answer": 0
+      },
+      {
+        "text": "The function of roots is to:",
+        "type": "choice",
+        "choices": ["Absorb water and minerals", "Produce flowers", "Produce seeds", "Make leaves"],
+        "answer": 0
+      },
+      {
+        "text": "The function of leaves is to:",
+        "type": "choice",
+        "choices": ["Carry out photosynthesis", "Absorb water only", "Store seeds", "Protect roots"],
+        "answer": 0
+      },
+      {
+        "text": "Stems help by:",
+        "type": "choice",
+        "choices": ["Transporting water and nutrients", "Producing pollen only", "Carrying seeds only", "Absorbing sunlight only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Seeds need water, oxygen, and warmth to germinate.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Pollination is the same as fertilization.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Plants can reproduce both sexually and asexually.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "B Respiration",
+    "quiz": [
+      {
+        "text": "The main gas inhaled during respiration is:",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "The main gas exhaled during respiration is:",
+        "type": "choice",
+        "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "Cellular respiration produces:",
+        "type": "choice",
+        "choices": ["Energy (ATP)", "Oxygen", "Water only", "Glucose only"],
+        "answer": 0
+      },
+      {
+        "text": "The organ mainly responsible for breathing is the:",
+        "type": "choice",
+        "choices": ["Lungs", "Heart", "Liver", "Kidneys"],
+        "answer": 0
+      },
+      {
+        "text": "Glucose is broken down during respiration to produce:",
+        "type": "choice",
+        "choices": ["Energy, carbon dioxide, and water", "Only oxygen", "Only energy", "Only water"],
+        "answer": 0
+      },
+      {
+        "text": "Aerobic respiration requires:",
+        "type": "choice",
+        "choices": ["Oxygen", "Water only", "Carbon dioxide only", "Sunlight"],
+        "answer": 0
+      },
+      {
+        "text": "Anaerobic respiration occurs when:",
+        "type": "choice",
+        "choices": ["Oxygen is not available", "Glucose is absent", "Water is present", "Sunlight is present"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Respiration occurs in all living cells.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Oxygen is not needed for aerobic respiration.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Respiration releases energy for cellular activities.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C Acids & Bases",
+    "quiz": [
+      {
+        "text": "A substance with a pH less than 7 is called:",
+        "type": "choice",
+        "choices": ["Acid", "Base", "Neutral", "Salt"],
+        "answer": 0
+      },
+      {
+        "text": "A substance with a pH greater than 7 is called:",
+        "type": "choice",
+        "choices": ["Base", "Acid", "Neutral", "Salt"],
+        "answer": 0
+      },
+      {
+        "text": "Neutral substances have a pH of:",
+        "type": "choice",
+        "choices": ["7", "0", "14", "1"],
+        "answer": 0
+      },
+      {
+        "text": "Litmus paper turns red in:",
+        "type": "choice",
+        "choices": ["Acid", "Base", "Neutral", "Salt solution"],
+        "answer": 0
+      },
+      {
+        "text": "Litmus paper turns blue in:",
+        "type": "choice",
+        "choices": ["Base", "Acid", "Neutral", "Salt solution"],
+        "answer": 0
+      },
+      {
+        "text": "Common acids include:",
+        "type": "choice",
+        "choices": ["Hydrochloric acid and citric acid", "Sodium hydroxide and ammonia", "Water and salt", "Oxygen and nitrogen"],
+        "answer": 0
+      },
+      {
+        "text": "Common bases include:",
+        "type": "choice",
+        "choices": ["Sodium hydroxide and ammonia", "Hydrochloric acid and citric acid", "Water only", "Carbon dioxide"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Acids can be neutralized by bases.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Bases have a sour taste.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: A neutral solution has a pH of 7.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C Chemical Reactions",
+    "quiz": [
+      {
+        "text": "A chemical reaction involves:",
+        "type": "choice",
+        "choices": ["Formation of new substances", "Change of shape only", "Melting only", "Boiling only"],
+        "answer": 0
+      },
+      {
+        "text": "The substances present before a reaction are called:",
+        "type": "choice",
+        "choices": ["Reactants", "Products", "Catalysts", "Solvents"],
+        "answer": 0
+      },
+      {
+        "text": "The substances formed after a reaction are called:",
+        "type": "choice",
+        "choices": ["Products", "Reactants", "Catalysts", "Solvents"],
+        "answer": 0
+      },
+      {
+        "text": "A catalyst is used to:",
+        "type": "choice",
+        "choices": ["Speed up a reaction without being used up", "Slow down a reaction", "Change the reactants", "Change the products"],
+        "answer": 0
+      },
+      {
+        "text": "Combustion reactions require:",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Water"],
+        "answer": 0
+      },
+      {
+        "text": "Exothermic reactions:",
+        "type": "choice",
+        "choices": ["Release energy", "Absorb energy", "Change state only", "Do not produce energy"],
+        "answer": 0
+      },
+      {
+        "text": "Endothermic reactions:",
+        "type": "choice",
+        "choices": ["Absorb energy", "Release energy", "Produce catalysts", "Release water only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: A chemical reaction produces substances different from the reactants.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Catalysts are consumed in a reaction.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Combustion always needs oxygen.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C Common Gases",
+    "quiz": [
+      {
+        "text": "The gas used in breathing and produced by plants is:",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "The gas produced during combustion is:",
+        "type": "choice",
+        "choices": ["Carbon dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+        "answer": 0
+      },
+      {
+        "text": "Hydrogen is commonly used in:",
+        "type": "choice",
+        "choices": ["Fuel and chemical reactions", "Breathing", "Photosynthesis", "Digestion"],
+        "answer": 0
+      },
+      {
+        "text": "Nitrogen makes up most of the:",
+        "type": "choice",
+        "choices": ["Air", "Water", "Soil", "Oxygen supply"],
+        "answer": 0
+      },
+      {
+        "text": "Carbon monoxide is dangerous because it:",
+        "type": "choice",
+        "choices": ["Binds to hemoglobin and prevents oxygen transport", "Helps breathing", "Is sweet-smelling", "Produces energy"],
+        "answer": 0
+      },
+      {
+        "text": "Ammonia gas is commonly used in:",
+        "type": "choice",
+        "choices": ["Cleaning products", "Fuel", "Food only", "Medicine only"],
+        "answer": 0
+      },
+      {
+        "text": "The gas essential for combustion is:",
+        "type": "choice",
+        "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Oxygen supports combustion.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Carbon dioxide is poisonous at high concentrations.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Nitrogen is highly reactive.",
+        "type": "truefalse",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C Elements, Compounds & Mixtures",
+    "quiz": [
+      {
+        "text": "An element is:",
+        "type": "choice",
+        "choices": ["A substance made of one type of atom", "A mixture of substances", "A compound only", "A molecule of water"],
+        "answer": 0
+      },
+      {
+        "text": "A compound is:",
+        "type": "choice",
+        "choices": ["Two or more elements chemically combined", "A single element", "A mixture of liquids only", "A gas only"],
+        "answer": 0
+      },
+      {
+        "text": "A mixture is:",
+        "type": "choice",
+        "choices": ["Two or more substances physically combined", "One element only", "A compound only", "An acid solution only"],
+        "answer": 0
+      },
+      {
+        "text": "Water (H₂O) is an example of a:",
+        "type": "choice",
+        "choices": ["Compound", "Element", "Mixture", "Acid"],
+        "answer": 0
+      },
+      {
+        "text": "Air is an example of a:",
+        "type": "choice",
+        "choices": ["Mixture", "Element", "Compound", "Metal"],
+        "answer": 0
+      },
+      {
+        "text": "Iron is an example of a:",
+        "type": "choice",
+        "choices": ["Element", "Compound", "Mixture", "Acid"],
+        "answer": 0
+      },
+      {
+        "text": "Salt (NaCl) is an example of a:",
+        "type": "choice",
+        "choices": ["Compound", "Element", "Mixture", "Metal"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Mixtures can be separated by physical methods.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Elements can be broken down into simpler substances.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Compounds have properties different from their constituent elements.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C Metals & Non-Metals",
+    "quiz": [
+      {
+        "text": "Metals are generally:",
+        "type": "choice",
+        "choices": ["Good conductors of heat and electricity", "Poor conductors", "Brittle and dull", "Gases only"],
+        "answer": 0
+      },
+      {
+        "text": "Non-metals are generally:",
+        "type": "choice",
+        "choices": ["Poor conductors of heat and electricity", "Good conductors", "Shiny and malleable", "Magnetic only"],
+        "answer": 0
+      },
+      {
+        "text": "Metals tend to be:",
+        "type": "choice",
+        "choices": ["Malleable and ductile", "Brittle", "Colorless", "Non-conductive"],
+        "answer": 0
+      },
+      {
+        "text": "Non-metals tend to be:",
+        "type": "choice",
+        "choices": ["Brittle if solid", "Malleable", "Ductile", "Shiny metals"],
+        "answer": 0
+      },
+      {
+        "text": "Metals react with acids to produce:",
+        "type": "choice",
+        "choices": ["Hydrogen gas", "Oxygen gas", "Carbon dioxide", "Water"],
+        "answer": 0
+      },
+      {
+        "text": "Non-metals do not usually react with:",
+        "type": "choice",
+        "choices": ["Acids to produce hydrogen", "Oxygen", "Water", "Bases"],
+        "answer": 0
+      },
+      {
+        "text": "Examples of metals include:",
+        "type": "choice",
+        "choices": ["Iron, copper, aluminum", "Oxygen, nitrogen, chlorine", "Water, salt, sugar", "Sulfur, phosphorus, chlorine"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Metals are usually shiny and can be polished.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Non-metals are good conductors of electricity.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Metals can be bent without breaking.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C States of Matter",
+    "quiz": [
+      {
+        "text": "Particles in a solid are:",
+        "type": "choice",
+        "choices": ["Closely packed and vibrate in place", "Far apart and move freely", "Far apart but fixed", "Closely packed and move freely"],
+        "answer": 0
+      },
+      {
+        "text": "Particles in a liquid are:",
+        "type": "choice",
+        "choices": ["Close together but can move past each other", "Far apart and move freely", "Fixed in position", "Very far apart and stationary"],
+        "answer": 0
+      },
+      {
+        "text": "Particles in a gas are:",
+        "type": "choice",
+        "choices": ["Far apart and move freely", "Close together and vibrate", "Close together and fixed", "Close together and flow easily"],
+        "answer": 0
+      },
+      {
+        "text": "Melting is the change from:",
+        "type": "choice",
+        "choices": ["Solid to liquid", "Liquid to solid", "Liquid to gas", "Gas to liquid"],
+        "answer": 0
+      },
+      {
+        "text": "Boiling is the change from:",
+        "type": "choice",
+        "choices": ["Liquid to gas", "Gas to liquid", "Solid to liquid", "Liquid to solid"],
+        "answer": 0
+      },
+      {
+        "text": "Condensation is the change from:",
+        "type": "choice",
+        "choices": ["Gas to liquid", "Liquid to gas", "Solid to gas", "Gas to solid"],
+        "answer": 0
+      },
+      {
+        "text": "Sublimation is the change from:",
+        "type": "choice",
+        "choices": ["Solid to gas", "Gas to liquid", "Liquid to gas", "Liquid to solid"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Solids have a definite shape and volume.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Gases have a definite shape and volume.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Liquids take the shape of their container.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C The Atom",
+    "quiz": [
+      {
+        "text": "The center of an atom is called the:",
+        "type": "choice",
+        "choices": ["Nucleus", "Electron cloud", "Proton shell", "Neutron ring"],
+        "answer": 0
+      },
+      {
+        "text": "Electrons are:",
+        "type": "choice",
+        "choices": ["Negatively charged particles", "Positively charged particles", "Neutral particles", "Found in the nucleus only"],
+        "answer": 0
+      },
+      {
+        "text": "Protons are:",
+        "type": "choice",
+        "choices": ["Positively charged particles", "Negatively charged particles", "Neutral particles", "Found in electron shells only"],
+        "answer": 0
+      },
+      {
+        "text": "Neutrons are:",
+        "type": "choice",
+        "choices": ["Neutral particles in the nucleus", "Negatively charged particles", "Positively charged particles", "Electrons"],
+        "answer": 0
+      },
+      {
+        "text": "The atomic number of an element represents the number of:",
+        "type": "choice",
+        "choices": ["Protons", "Electrons only", "Neutrons only", "All subatomic particles"],
+        "answer": 0
+      },
+      {
+        "text": "The mass number of an atom is the sum of:",
+        "type": "choice",
+        "choices": ["Protons and neutrons", "Protons only", "Electrons only", "Neutrons only"],
+        "answer": 0
+      },
+      {
+        "text": "Electrons occupy regions called:",
+        "type": "choice",
+        "choices": ["Electron shells or energy levels", "Proton shells", "Neutron rings", "Nucleus only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Protons and neutrons are found in the nucleus.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Electrons are heavier than protons.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Atoms are mostly empty space.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "C The Periodic Table",
+    "quiz": [
+      {
+        "text": "Elements in the same group have:",
+        "type": "choice",
+        "choices": ["Similar chemical properties", "Same mass number", "Same number of neutrons", "Same state at room temperature"],
+        "answer": 0
+      },
+      {
+        "text": "The horizontal rows in the periodic table are called:",
+        "type": "choice",
+        "choices": ["Periods", "Groups", "Families", "Series"],
+        "answer": 0
+      },
+      {
+        "text": "The vertical columns in the periodic table are called:",
+        "type": "choice",
+        "choices": ["Groups", "Periods", "Rows", "Series"],
+        "answer": 0
+      },
+      {
+        "text": "Metals are usually found on the:",
+        "type": "choice",
+        "choices": ["Left side of the periodic table", "Right side", "Top only", "Bottom only"],
+        "answer": 0
+      },
+      {
+        "text": "Non-metals are usually found on the:",
+        "type": "choice",
+        "choices": ["Right side of the periodic table", "Left side", "Middle only", "Top only"],
+        "answer": 0
+      },
+      {
+        "text": "The atomic number increases:",
+        "type": "choice",
+        "choices": ["From left to right across a period", "From top to bottom across a group", "Randomly", "Only in groups"],
+        "answer": 0
+      },
+      {
+        "text": "Noble gases are found in:",
+        "type": "choice",
+        "choices": ["Group 18", "Group 1", "Transition metals", "Lanthanides"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Elements in the same group have the same number of valence electrons.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All elements in a period have the same properties.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Metals are generally malleable and ductile.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Earth in Balance",
+    "quiz": [
+      {
+        "text": "The greenhouse effect is caused by:",
+        "type": "choice",
+        "choices": ["Gases trapping heat in the atmosphere", "Oceans absorbing heat", "Wind currents", "Earth's rotation"],
+        "answer": 0
+      },
+      {
+        "text": "Renewable energy sources include:",
+        "type": "choice",
+        "choices": ["Solar, wind, hydro", "Coal and oil", "Natural gas only", "Nuclear only"],
+        "answer": 0
+      },
+      {
+        "text": "Deforestation can lead to:",
+        "type": "choice",
+        "choices": ["Loss of biodiversity", "Decrease in rainfall only", "Increase in oxygen", "Fewer earthquakes"],
+        "answer": 0
+      },
+      {
+        "text": "Recycling helps to:",
+        "type": "choice",
+        "choices": ["Reduce waste and conserve resources", "Increase landfill space", "Produce more raw materials", "Destroy habitats"],
+        "answer": 0
+      },
+      {
+        "text": "Climate change is primarily caused by:",
+        "type": "choice",
+        "choices": ["Human activities increasing greenhouse gases", "Earthquakes", "Volcanic eruptions only", "Solar flares only"],
+        "answer": 0
+      },
+      {
+        "text": "Acid rain results from:",
+        "type": "choice",
+        "choices": ["Pollutants in the atmosphere mixing with rain", "Normal rainfall", "Evaporation only", "Sea spray"],
+        "answer": 0
+      },
+      {
+        "text": "Biodiversity is important because:",
+        "type": "choice",
+        "choices": ["It maintains ecosystem balance", "It produces pollution", "It increases greenhouse gases", "It decreases oxygen levels"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Human activity has no impact on climate change.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Solar energy is a renewable resource.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Recycling reduces the need for raw materials.",
+        "type": "truefalse",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Earth, Sun & Moon",
+    "quiz": [
+      {
+        "text": "The Earth rotates on its axis once every:",
+        "type": "choice",
+        "choices": ["24 hours", "365 days", "12 hours", "7 days"],
+        "answer": 0
+      },
+      {
+        "text": "The Moon completes one orbit around Earth in approximately:",
+        "type": "choice",
+        "choices": ["27 days", "30 days", "24 hours", "365 days"],
+        "answer": 0
+      },
+      {
+        "text": "The tilt of the Earth's axis causes:",
+        "type": "choice",
+        "choices": ["Seasons", "Eclipses", "Tides", "Day and night only"],
+        "answer": 0
+      },
+      {
+        "text": "A lunar eclipse occurs when:",
+        "type": "choice",
+        "choices": ["Earth is between Sun and Moon", "Moon is between Sun and Earth", "Sun is between Earth and Moon", "Moon is full"],
+        "answer": 0
+      },
+      {
+        "text": "A solar eclipse occurs when:",
+        "type": "choice",
+        "choices": ["Moon is between Sun and Earth", "Earth is between Sun and Moon", "Sun is behind Earth", "Moon is full"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The same side of the Moon always faces Earth.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The Sun is a star.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The Earth's rotation causes eclipses.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one phase of the Moon.",
+        "type": "input",
+        "answer": ["new moon", "full moon", "first quarter", "last quarter"]
+      },
+      {
+        "text": "How many degrees is the Earth's axis tilted?",
+        "type": "input",
+        "answer": ["23.5", "23.5 degrees", "23.5°"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Energy Sources",
+    "quiz": [
+      {
+        "text": "Renewable energy comes from:",
+        "type": "choice",
+        "choices": ["Sources that are replenished naturally", "Fossil fuels only", "Nuclear materials only", "Non-replenishable sources"],
+        "answer": 0
+      },
+      {
+        "text": "Non-renewable energy includes:",
+        "type": "choice",
+        "choices": ["Coal, oil, natural gas", "Wind, solar, hydro", "Tides, waves, sunlight", "Geothermal only"],
+        "answer": 0
+      },
+      {
+        "text": "Solar panels convert:",
+        "type": "choice",
+        "choices": ["Solar energy to electrical energy", "Wind energy to mechanical energy", "Hydro energy to thermal energy", "Nuclear energy to solar energy"],
+        "answer": 0
+      },
+      {
+        "text": "Fossil fuels release:",
+        "type": "choice",
+        "choices": ["Carbon dioxide when burned", "Oxygen when burned", "Water when burned", "Nitrogen only"],
+        "answer": 0
+      },
+      {
+        "text": "Wind energy uses:",
+        "type": "choice",
+        "choices": ["Turbines to generate electricity", "Solar panels", "Hydroelectric dams", "Fossil fuels"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Geothermal energy comes from the Earth's heat.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Renewable energy sources will run out in a short time.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Fossil fuels are non-renewable.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one renewable energy source.",
+        "type": "input",
+        "answer": ["solar", "wind", "hydro", "geothermal", "tides"]
+      },
+      {
+        "text": "Name one non-renewable energy source.",
+        "type": "input",
+        "answer": ["coal", "oil", "natural gas", "fossil fuels"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Origin of the Universe",
+    "quiz": [
+      {
+        "text": "The Big Bang theory explains:",
+        "type": "choice",
+        "choices": ["The origin of the universe", "The formation of Earth", "The origin of life", "The movement of planets"],
+        "answer": 0
+      },
+      {
+        "text": "The universe is currently:",
+        "type": "choice",
+        "choices": ["Expanding", "Contracting", "Static", "Collapsing"],
+        "answer": 0
+      },
+      {
+        "text": "Cosmic microwave background radiation is evidence of:",
+        "type": "choice",
+        "choices": ["The Big Bang", "The solar system", "Earth's formation", "Gravity only"],
+        "answer": 0
+      },
+      {
+        "text": "Galaxies are:",
+        "type": "choice",
+        "choices": ["Collections of stars, gas, and dust", "Single stars only", "Planets orbiting the Sun", "Moons around Earth"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: The universe started from a singularity.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The Big Bang is still happening today.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: The Big Bang explains the formation of life on Earth.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one piece of evidence for the Big Bang.",
+        "type": "input",
+        "answer": ["cosmic microwave background", "redshift", "expanding universe"]
+      },
+      {
+        "text": "Name one type of galaxy.",
+        "type": "input",
+        "answer": ["spiral", "elliptical", "irregular"]
+      },
+      {
+        "text": "Which scientist is most associated with the Big Bang theory?",
+        "type": "input",
+        "answer": ["george lemaitre", "lemaitre", "george lemaître"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Space",
+    "quiz": [
+      {
+        "text": "A planet is defined as:",
+        "type": "choice",
+        "choices": ["An object orbiting a star with enough mass for a spherical shape", "A star producing its own light", "A moon orbiting another planet", "A comet in the solar system"],
+        "answer": 0
+      },
+      {
+        "text": "A star is:",
+        "type": "choice",
+        "choices": ["A hot ball of gas producing light", "A planet orbiting the Sun", "A satellite around Earth", "A galaxy"],
+        "answer": 0
+      },
+      {
+        "text": "The solar system includes:",
+        "type": "choice",
+        "choices": ["Planets, moons, asteroids, and the Sun", "Only the Sun and planets", "Only moons and asteroids", "Stars in the galaxy"],
+        "answer": 0
+      },
+      {
+        "text": "Comets are made of:",
+        "type": "choice",
+        "choices": ["Ice, dust, and rock", "Gas only", "Metallic cores", "Liquid water only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Moons only orbit planets.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: All stars are the same size and temperature.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Asteroids are found mainly in the asteroid belt.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one planet in our solar system.",
+        "type": "input",
+        "answer": ["earth", "mars", "venus", "jupiter", "saturn", "mercury", "uranus", "neptune"]
+      },
+      {
+        "text": "Name one type of celestial object other than planets.",
+        "type": "input",
+        "answer": ["star", "moon", "asteroid", "comet", "meteor"]
+      },
+      {
+        "text": "What force keeps planets in orbit around the Sun?",
+        "type": "input",
+        "answer": ["gravity", "gravitational force"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "E&S Water & Carbon Cycles",
+    "quiz": [
+      {
+        "text": "The water cycle includes all the following except:",
+        "type": "choice",
+        "choices": ["Condensation", "Evaporation", "Precipitation", "Photosynthesis"],
+        "answer": 3
+      },
+      {
+        "text": "Transpiration is:",
+        "type": "choice",
+        "choices": ["Water release from plants", "Evaporation from oceans", "Rainfall", "Condensation in clouds"],
+        "answer": 0
+      },
+      {
+        "text": "Carbon is stored in the following except:",
+        "type": "choice",
+        "choices": ["Atmosphere", "Fossil fuels", "Oceans", "Moon rocks"],
+        "answer": 3
+      },
+      {
+        "text": "Photosynthesis removes carbon dioxide from:",
+        "type": "choice",
+        "choices": ["The atmosphere", "The ocean", "Rocks", "Soil bacteria only"],
+        "answer": 0
+      },
+      {
+        "text": "Respiration releases carbon dioxide into:",
+        "type": "choice",
+        "choices": ["The atmosphere", "The ocean", "Plants only", "Rocks only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Water evaporates only from lakes and oceans.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Carbon cycles through the atmosphere, oceans, and living things.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Fossil fuels release carbon dioxide when burned.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one stage of the water cycle.",
+        "type": "input",
+        "answer": ["evaporation", "condensation", "precipitation", "transpiration"]
+      },
+      {
+        "text": "Name one reservoir of carbon.",
+        "type": "input",
+        "answer": ["atmosphere", "oceans", "fossil fuels", "plants", "soil"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "NoS - Investigating Science",
+    "quiz": [
+      {
+        "text": "A hypothesis is:",
+        "type": "choice",
+        "choices": ["A testable prediction", "A proven fact", "An opinion", "A conclusion only"],
+        "answer": 0
+      },
+      {
+        "text": "Variables in an experiment are:",
+        "type": "choice",
+        "choices": ["Factors that can change", "Always constant", "Irrelevant to results", "The same as observations"],
+        "answer": 0
+      },
+      {
+        "text": "The independent variable is:",
+        "type": "choice",
+        "choices": ["The factor you change", "The factor you measure", "A control", "Random noise"],
+        "answer": 0
+      },
+      {
+        "text": "The dependent variable is:",
+        "type": "choice",
+        "choices": ["The factor you measure", "The factor you change", "A control", "The hypothesis"],
+        "answer": 0
+      },
+      {
+        "text": "A control in an experiment is used to:",
+        "type": "choice",
+        "choices": ["Provide a standard for comparison", "Change the independent variable", "Measure the dependent variable", "Reduce accuracy"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Experiments must be repeatable.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Observations can include measurements and descriptions.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: A hypothesis must be untestable to be valid.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one safety rule in the lab.",
+        "type": "input",
+        "answer": ["wear goggles", "wear lab coat", "follow instructions", "wash hands"]
+      },
+      {
+        "text": "Name one type of data collected in experiments.",
+        "type": "input",
+        "answer": ["quantitative", "qualitative"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Density",
+    "quiz": [
+      {
+        "text": "Density is defined as:",
+        "type": "choice",
+        "choices": ["Mass per unit volume", "Volume per unit mass", "Weight per unit area", "Mass per unit length"],
+        "answer": 0
+      },
+      {
+        "text": "The formula for density is:",
+        "type": "choice",
+        "choices": ["Density = Mass ÷ Volume", "Density = Volume ÷ Mass", "Density = Mass × Volume", "Density = Mass + Volume"],
+        "answer": 0
+      },
+      {
+        "text": "Which of the following has the highest density?",
+        "type": "choice",
+        "choices": ["Lead", "Water", "Wood", "Air"],
+        "answer": 0
+      },
+      {
+        "text": "Objects with density less than water will:",
+        "type": "choice",
+        "choices": ["Float", "Sink", "Vaporize", "Melt"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Density is measured in kg/m³.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Density changes with the size of an object.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Temperature can affect density.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one unit for density.",
+        "type": "input",
+        "answer": ["kg/m3", "g/cm3", "kilogram per cubic metre", "gram per cubic centimetre"]
+      },
+      {
+        "text": "What property determines if an object floats in water?",
+        "type": "input",
+        "answer": ["density", "buoyancy"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Electricity",
+    "quiz": [
+      {
+        "text": "Current is measured in:",
+        "type": "choice",
+        "choices": ["Amperes", "Volts", "Ohms", "Watts"],
+        "answer": 0
+      },
+      {
+        "text": "Voltage is measured in:",
+        "type": "choice",
+        "choices": ["Volts", "Amperes", "Watts", "Ohms"],
+        "answer": 0
+      },
+      {
+        "text": "Resistance is measured in:",
+        "type": "choice",
+        "choices": ["Ohms", "Volts", "Amperes", "Watts"],
+        "answer": 0
+      },
+      {
+        "text": "Ohm's law states:",
+        "type": "choice",
+        "choices": ["V = I × R", "V = R ÷ I", "I = V ÷ W", "R = V + I"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Current is the flow of electrons.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Higher resistance allows more current to flow.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: A series circuit has one path for current.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "Name one component that can increase resistance in a circuit.",
+        "type": "input",
+        "answer": ["resistor", "light bulb"]
+      },
+      {
+        "text": "What is the symbol for a battery in a circuit diagram?",
+        "type": "input",
+        "answer": ["battery", "cell", "voltage source"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Energy",
+    "quiz": [
+      {
+        "text": "Kinetic energy depends on:",
+        "type": "choice",
+        "choices": ["Mass and speed", "Mass only", "Height only", "Temperature"],
+        "answer": 0
+      },
+      {
+        "text": "Potential energy depends on:",
+        "type": "choice",
+        "choices": ["Mass, gravity, and height", "Speed only", "Temperature only", "Volume only"],
+        "answer": 0
+      },
+      {
+        "text": "Energy is measured in:",
+        "type": "choice",
+        "choices": ["Joules", "Watts", "Amperes", "Volts"],
+        "answer": 0
+      },
+      {
+        "text": "Renewable energy comes from:",
+        "type": "choice",
+        "choices": ["Natural sources that are replenished", "Fossil fuels", "Nuclear only", "Non-replenishable sources"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Energy can neither be created nor destroyed.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Kinetic energy is the energy of motion.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Energy cannot be transformed from one form to another.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one form of energy.",
+        "type": "input",
+        "answer": ["kinetic", "potential", "thermal", "chemical", "electrical", "sound", "light"]
+      },
+      {
+        "text": "Name one renewable energy source.",
+        "type": "input",
+        "answer": ["solar", "wind", "hydro", "geothermal", "tides"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Forces",
+    "quiz": [
+      {
+        "text": "Force is measured in:",
+        "type": "choice",
+        "choices": ["Newtons", "Joules", "Watts", "Amperes"],
+        "answer": 0
+      },
+      {
+        "text": "A contact force occurs when:",
+        "type": "choice",
+        "choices": ["Objects touch each other", "Objects are separated by distance", "Gravity acts only", "Magnetism only"],
+        "answer": 0
+      },
+      {
+        "text": "A non-contact force example is:",
+        "type": "choice",
+        "choices": ["Gravity", "Friction", "Tension", "Air resistance"],
+        "answer": 0
+      },
+      {
+        "text": "Friction always:",
+        "type": "choice",
+        "choices": ["Opposes motion", "Assists motion", "Has no effect", "Increases speed automatically"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: Mass and weight are the same.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: Gravity pulls objects toward Earth.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Balanced forces cause acceleration.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one force that acts at a distance.",
+        "type": "input",
+        "answer": ["gravity", "magnetic", "electrostatic"]
+      },
+      {
+        "text": "Name one force that requires contact.",
+        "type": "input",
+        "answer": ["friction", "tension", "normal force", "air resistance"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Measurement",
+    "quiz": [
+      {
+        "text": "The SI unit of length is:",
+        "type": "choice",
+        "choices": ["Metre", "Kilogram", "Second", "Ampere"],
+        "answer": 0
+      },
+      {
+        "text": "The SI unit of mass is:",
+        "type": "choice",
+        "choices": ["Kilogram", "Metre", "Newton", "Joule"],
+        "answer": 0
+      },
+      {
+        "text": "The SI unit of time is:",
+        "type": "choice",
+        "choices": ["Second", "Minute", "Hour", "Metre"],
+        "answer": 0
+      },
+      {
+        "text": "A vernier caliper is used to measure:",
+        "type": "choice",
+        "choices": ["Length and diameter", "Mass", "Temperature", "Volume only"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: A balance measures weight.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "True or false: SI units are standard worldwide.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Accuracy and precision are the same thing.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one instrument used to measure volume.",
+        "type": "input",
+        "answer": ["measuring cylinder", "pipette", "burette", "beaker"]
+      },
+      {
+        "text": "Name one instrument used to measure temperature.",
+        "type": "input",
+        "answer": ["thermometer", "digital thermometer", "mercury thermometer"]
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "topic": "P Speed, Velocity & Acceleration",
+    "quiz": [
+      {
+        "text": "Speed is defined as:",
+        "type": "choice",
+        "choices": ["Distance ÷ Time", "Time ÷ Distance", "Acceleration ÷ Time", "Force ÷ Mass"],
+        "answer": 0
+      },
+      {
+        "text": "Velocity is:",
+        "type": "choice",
+        "choices": ["Speed with direction", "Distance only", "Acceleration only", "Speed squared"],
+        "answer": 0
+      },
+      {
+        "text": "Acceleration is:",
+        "type": "choice",
+        "choices": ["Change in velocity ÷ Time", "Distance ÷ Time", "Force ÷ Mass", "Speed × Time"],
+        "answer": 0
+      },
+      {
+        "text": "The SI unit of speed is:",
+        "type": "choice",
+        "choices": ["m/s", "m²", "kg", "N"],
+        "answer": 0
+      },
+      {
+        "text": "True or false: A car moving at constant speed has zero acceleration.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Velocity can be negative.",
+        "type": "truefalse",
+        "answer": true
+      },
+      {
+        "text": "True or false: Acceleration always increases speed.",
+        "type": "truefalse",
+        "answer": false
+      },
+      {
+        "text": "Name one factor that can change acceleration.",
+        "type": "input",
+        "answer": ["force", "mass", "direction"]
+      },
+      {
+        "text": "Name one formula relating speed, distance, and time.",
+        "type": "input",
+        "answer": ["speed = distance ÷ time", "distance = speed × time", "time = distance ÷ speed"]
+      }
+    ]
+  }
+]

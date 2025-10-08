@@ -1,0 +1,33 @@
+{
+  "certificate": "lc",
+  "subject": "physics",
+  "level": "ol",
+  "topics": [
+    "Acceleration",
+    "Current & Charge",
+    "Electric Circuits",
+    "Electromagnetic Induction",
+    "Experiment Questions",
+    "Force,Mass & Momentum",
+    "Heat & Heat Transfer",
+    "Lenses",
+    "Light",
+    "Magnetics",
+    "Nuclear Energy",
+    "Potential Difference & Capacitance",
+    "Pressure, Gravity & Moments",
+    "Reflection & Mirrors",
+    "Refraction",
+    "Resistance",
+    "Semiconductors",
+    "Speed,Displacement,Velocity",
+    "Static Electricity",
+    "Temperature",
+    "The Atom, Nucleus & Radioactivity",
+    "The Electron",
+    "Vectors & Scalars",
+    "Vibrations & Sound",
+    "Waves & Wave Motion",
+    "Work, Energy & Power"
+  ]
+}

@@ -1,0 +1,856 @@
+[
+{
+  "subject": "Physical Education",
+  "topic": "Biomechanics: Analysing Skill and Technique",
+  "quiz": [
+    {
+      "text": "Which plane divides the body into left and right halves?",
+      "type": "choice",
+      "choices": ["Sagittal", "Frontal", "Transverse", "Diagonal"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lever has the fulcrum between effort and load?",
+      "type": "choice",
+      "choices": ["First-class", "Second-class", "Third-class", "Fourth-class"],
+      "answer": 0
+    },
+    {
+      "text": "Angular motion occurs around what kind of axis?",
+      "type": "choice",
+      "choices": ["Linear", "Rotational", "Diagonal", "Frontal"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for the ability to change direction quickly?",
+      "type": "choice",
+      "choices": ["Agility", "Flexibility", "Balance", "Power"],
+      "answer": 0
+    },
+    {
+      "text": "The stretch-shortening cycle is associated with which type of muscle action?",
+      "type": "choice",
+      "choices": ["Isometric", "Concentric", "Eccentric", "Plyometric"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Kinematics studies forces causing motion.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The centre of mass changes when a gymnast moves their limbs.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Newton's third law states that every action has an equal and opposite reaction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the term for the fastest rate of change of velocity?",
+      "type": "input",
+      "answer": ["acceleration", "rate of acceleration"]
+    },
+    {
+      "text": "Name the type of motion that occurs when a cyclist pedals around a track bend.",
+      "type": "input",
+      "answer": ["angular motion", "rotational motion"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Skill, Ability and Skilled Performance",
+  "quiz": [
+    {
+      "text": "Which type of skill is performed under pressure with little conscious thought?",
+      "type": "choice",
+      "choices": ["Open", "Closed", "Automatic", "Gross"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is an example of a fine motor skill?",
+      "type": "choice",
+      "choices": ["Throwing a javelin", "Writing with a pen", "Running", "Jumping"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor distinguishes a skilled performer from a novice?",
+      "type": "choice",
+      "choices": ["Accuracy and consistency", "Height", "Age", "Weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of skill is performed in a stable, predictable environment?",
+      "type": "choice",
+      "choices": ["Open", "Closed", "Gross", "Complex"],
+      "answer": 1
+    },
+    {
+      "text": "Which theory suggests learning occurs in stages from cognitive to autonomous?",
+      "type": "choice",
+      "choices": ["Fitts and Posner", "Skinner", "Piaget", "Bandura"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An open skill is performed in a constantly changing environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All gross motor skills require fine precision.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ability is innate while skill is learned.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the stage where a performer practices the skill until it becomes automatic.",
+      "type": "input",
+      "answer": ["autonomous stage", "autonomy stage"]
+    },
+    {
+      "text": "What is the term for a skill that is adaptable to different environments?",
+      "type": "input",
+      "answer": ["open skill", "adaptable skill"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Diet, Nutrition, Hydration and Energy Systems",
+  "quiz": [
+    {
+      "text": "Which macronutrient is the primary source of energy during high-intensity exercise?",
+      "type": "choice",
+      "choices": ["Protein", "Fat", "Carbohydrate", "Vitamins"],
+      "answer": 2
+    },
+    {
+      "text": "Which vitamin is fat-soluble?",
+      "type": "choice",
+      "choices": ["Vitamin C", "Vitamin B12", "Vitamin D", "Vitamin B6"],
+      "answer": 2
+    },
+    {
+      "text": "Which mineral is essential for oxygen transport in the blood?",
+      "type": "choice",
+      "choices": ["Calcium", "Iron", "Potassium", "Magnesium"],
+      "answer": 1
+    },
+    {
+      "text": "Which energy system supplies ATP for short bursts of 0–10 seconds?",
+      "type": "choice",
+      "choices": ["Aerobic", "ATP-PC", "Glycolytic", "Oxidative"],
+      "answer": 1
+    },
+    {
+      "text": "How much water is recommended daily for average adults?",
+      "type": "choice",
+      "choices": ["1–2 litres", "2–3 litres", "3–4 litres", "4–5 litres"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Protein is the main source of energy for endurance events.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Glycogen stores are limited and can affect performance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electrolytes help maintain fluid balance and nerve function.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one high-quality protein source suitable for athletes.",
+      "type": "input",
+      "answer": ["chicken", "eggs", "fish", "lean beef", "tofu"]
+    },
+    {
+      "text": "What energy system is primarily used for a 400m sprint?",
+      "type": "input",
+      "answer": ["glycolytic system", "anaerobic glycolysis", "lactic acid system"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Physical Demands of Performance",
+  "quiz": [
+    {
+      "text": "Which component of fitness is defined as the ability to exert force quickly?",
+      "type": "choice",
+      "choices": ["Strength", "Power", "Speed", "Endurance"],
+      "answer": 1
+    },
+    {
+      "text": "Which energy system is most important for long-distance running?",
+      "type": "choice",
+      "choices": ["ATP-PC", "Glycolytic", "Aerobic", "Phosphagen"],
+      "answer": 2
+    },
+    {
+      "text": "Which type of muscle fibre is best suited for endurance activities?",
+      "type": "choice",
+      "choices": ["Type I", "Type IIa", "Type IIb", "Type IIx"],
+      "answer": 0
+    },
+    {
+      "text": "What term describes the ability to change direction quickly?",
+      "type": "choice",
+      "choices": ["Agility", "Balance", "Coordination", "Power"],
+      "answer": 0
+    },
+    {
+      "text": "Which fitness component is tested using a beep test?",
+      "type": "choice",
+      "choices": ["Strength", "Flexibility", "Aerobic endurance", "Power"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Muscular endurance is the ability of a muscle to perform repeated contractions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Speed and agility are considered components of skill-related fitness.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Flexibility has no impact on reducing injury risk.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method of measuring aerobic fitness.",
+      "type": "input",
+      "answer": ["beep test", "VO2 max test", "cooper test"]
+    },
+    {
+      "text": "Which fitness component is most important for a shot putter?",
+      "type": "input",
+      "answer": ["power", "strength"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Psychological Demands of Performance",
+  "quiz": [
+    {
+      "text": "Which theory explains how arousal affects performance in a bell-shaped curve?",
+      "type": "choice",
+      "choices": ["Drive theory", "Inverted-U theory", "Cognitive theory", "Social learning theory"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of anxiety is long-term and generalised?",
+      "type": "choice",
+      "choices": ["State anxiety", "Trait anxiety", "Competitive anxiety", "Situational anxiety"],
+      "answer": 1
+    },
+    {
+      "text": "Which psychological skill helps athletes focus on relevant cues?",
+      "type": "choice",
+      "choices": ["Motivation", "Concentration", "Confidence", "Arousal control"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes a performer’s belief in their ability to succeed?",
+      "type": "choice",
+      "choices": ["Confidence", "Motivation", "Self-efficacy", "Resilience"],
+      "answer": 0
+    },
+    {
+      "text": "Which technique involves imagining successful performance?",
+      "type": "choice",
+      "choices": ["Goal setting", "Relaxation", "Visualization", "Feedback"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: High trait anxiety always improves performance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Motivation can be intrinsic or extrinsic.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Concentration is unaffected by distractions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one strategy to reduce pre-competition anxiety.",
+      "type": "input",
+      "answer": ["deep breathing", "visualization", "progressive muscle relaxation", "meditation"]
+    },
+    {
+      "text": "What is the term for setting specific performance goals?",
+      "type": "input",
+      "answer": ["goal setting", "performance goal setting"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Training Methods and Designing a Fitness Plan",
+  "quiz": [
+    {
+      "text": "Which training method alternates high and low intensity periods?",
+      "type": "choice",
+      "choices": ["Continuous", "Interval", "Fartlek", "Circuit"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of training develops muscular endurance?",
+      "type": "choice",
+      "choices": ["Resistance training", "Circuit training", "Plyometric training", "Flexibility training"],
+      "answer": 1
+    },
+    {
+      "text": "Which principle ensures training becomes progressively harder to see improvement?",
+      "type": "choice",
+      "choices": ["Specificity", "Overload", "Reversibility", "Variation"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of training involves continuous exercise without rest?",
+      "type": "choice",
+      "choices": ["Interval", "Continuous", "Fartlek", "Plyometric"],
+      "answer": 1
+    },
+    {
+      "text": "Which fitness component is primarily targeted by plyometric training?",
+      "type": "choice",
+      "choices": ["Strength", "Power", "Endurance", "Flexibility"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A well-designed fitness plan should consider the individual’s goals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Reversibility means fitness gains are permanent even without training.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Circuit training can combine strength and endurance exercises.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one variable that can be adjusted to apply overload in training.",
+      "type": "input",
+      "answer": ["intensity", "duration", "frequency", "resistance"]
+    },
+    {
+      "text": "What is the principle of designing training to match the specific demands of a sport?",
+      "type": "input",
+      "answer": ["specificity", "sport specificity"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "3. Structures, Strategies, Roles & Conventions",
+  "quiz": [
+    {
+      "text": "Which formation is commonly used in team sports to defend a goal?",
+      "type": "choice",
+      "choices": ["4-4-2", "3-5-2", "5-3-2", "4-3-3"],
+      "answer": 0
+    },
+    {
+      "text": "Which strategy focuses on controlling possession of the ball?",
+      "type": "choice",
+      "choices": ["Counter-attack", "Tiki-taka", "Zone defence", "Man-to-man marking"],
+      "answer": 1
+    },
+    {
+      "text": "Which role in a basketball team is usually responsible for organizing the attack?",
+      "type": "choice",
+      "choices": ["Point guard", "Centre", "Shooting guard", "Small forward"],
+      "answer": 0
+    },
+    {
+      "text": "Which convention is used to signal a free kick in soccer?",
+      "type": "choice",
+      "choices": ["Whistle", "Flag", "Horn", "Hand signal"],
+      "answer": 0
+    },
+    {
+      "text": "Which structure in rugby allows for both offensive and defensive plays simultaneously?",
+      "type": "choice",
+      "choices": ["Backline", "Scrum", "Ruck", "Maul"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In man-to-man marking, each player is responsible for a specific opponent.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A zone defence allows players to move freely without assigned areas.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Formations in team sports are fixed and never change during a match.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one key responsibility of a midfielder in soccer.",
+      "type": "input",
+      "answer": ["passing", "defending", "supporting attack", "linking defense and attack"]
+    },
+    {
+      "text": "What is the term for a planned set of movements or tactics to achieve an objective?",
+      "type": "input",
+      "answer": ["strategy", "tactic", "game plan"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "4. Planning for Optimum Performance",
+  "quiz": [
+    {
+      "text": "Which type of training plan is designed to peak performance at a specific time?",
+      "type": "choice",
+      "choices": ["Periodized plan", "Continuous plan", "Random plan", "Circuit plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor should be considered when planning a training program?",
+      "type": "choice",
+      "choices": ["Age", "Weather", "Equipment", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which assessment helps identify an athlete’s strengths and weaknesses?",
+      "type": "choice",
+      "choices": ["Fitness test", "Game strategy", "Video analysis", "Nutrition plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of goal setting uses measurable targets?",
+      "type": "choice",
+      "choices": ["SMART goals", "Abstract goals", "Motivational goals", "Process goals"],
+      "answer": 0
+    },
+    {
+      "text": "Which training component focuses on recovery between sessions?",
+      "type": "choice",
+      "choices": ["Rest", "Endurance", "Strength", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Planning for optimum performance should consider psychological factors.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A one-size-fits-all training plan works for all athletes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Nutrition and hydration are irrelevant in performance planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method for monitoring an athlete’s progress.",
+      "type": "input",
+      "answer": ["fitness testing", "performance analysis", "tracking training load"]
+    },
+    {
+      "text": "What is the term for gradually increasing training intensity over time?",
+      "type": "input",
+      "answer": ["progressive overload", "overload principle"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "5. Promoting Physical Activity",
+  "quiz": [
+    {
+      "text": "Which initiative encourages people to walk more in daily life?",
+      "type": "choice",
+      "choices": ["Step Count Challenge", "Sit Less Program", "Sleep Well Campaign", "Screen Time Challenge"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can increase participation in sport for teenagers?",
+      "type": "choice",
+      "choices": ["Access to facilities", "Parental support", "Variety of activities", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which program is commonly used to increase physical activity in schools?",
+      "type": "choice",
+      "choices": ["PE classes", "After-school clubs", "Active breaks", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which campaign focuses on reducing sedentary behaviour?",
+      "type": "choice",
+      "choices": ["Move More", "Eat Healthy", "Study Hard", "Sleep Tight"],
+      "answer": 0
+    },
+    {
+      "text": "Which benefit is associated with regular physical activity?",
+      "type": "choice",
+      "choices": ["Improved fitness", "Better mental health", "Lower risk of disease", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Only elite athletes benefit from physical activity programs.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Community involvement can increase participation in sport.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Technology has no role in promoting physical activity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one strategy to promote physical activity in schools.",
+      "type": "input",
+      "answer": ["active breaks", "PE classes", "after-school clubs", "inter-school competitions"]
+    },
+    {
+      "text": "What is one way to encourage adults to exercise regularly?",
+      "type": "input",
+      "answer": ["workplace challenges", "walking groups", "community fitness classes"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "6. Ethics & Fair Play",
+  "quiz": [
+    {
+      "text": "Which term describes following the rules and showing respect in sport?",
+      "type": "choice",
+      "choices": ["Fair play", "Unsportsmanlike behaviour", "Cheating", "Doping"],
+      "answer": 0
+    },
+    {
+      "text": "Which action is considered unethical in sport?",
+      "type": "choice",
+      "choices": ["Performance-enhancing drugs", "Teamwork", "Respecting opponents", "Following rules"],
+      "answer": 0
+    },
+    {
+      "text": "Which concept encourages athletes to accept the result of a game gracefully?",
+      "type": "choice",
+      "choices": ["Sportsmanship", "Winning at all costs", "Cheating", "Unsportsmanlike conduct"],
+      "answer": 0
+    },
+    {
+      "text": "Which behaviour demonstrates respect for officials?",
+      "type": "choice",
+      "choices": ["Accepting decisions", "Arguing aggressively", "Ignoring calls", "Cheating"],
+      "answer": 0
+    },
+    {
+      "text": "Which principle ensures equality and fairness in sport?",
+      "type": "choice",
+      "choices": ["Equal opportunity", "Doping", "Corruption", "Cheating"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fair play includes respecting opponents and teammates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cheating can undermine trust in sport.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ethics only apply to professional athletes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one example of unethical behaviour in sport.",
+      "type": "input",
+      "answer": ["doping", "cheating", "deliberate foul"]
+    },
+    {
+      "text": "What is one way athletes can demonstrate sportsmanship?",
+      "type": "input",
+      "answer": ["shaking hands", "respecting decisions", "congratulating opponents"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "7. Physical Activity & Inclusion",
+  "quiz": [
+    {
+      "text": "Which strategy ensures all students can participate in PE classes?",
+      "type": "choice",
+      "choices": ["Differentiation", "Standardisation", "Exclusion", "Competition only"],
+      "answer": 0
+    },
+    {
+      "text": "Which group may require adapted equipment to participate in sport?",
+      "type": "choice",
+      "choices": ["People with disabilities", "Elite athletes", "Coaches", "Referees"],
+      "answer": 0
+    },
+    {
+      "text": "Which policy encourages equal opportunity for girls and boys in sport?",
+      "type": "choice",
+      "choices": ["Gender equality policy", "Doping policy", "Anti-corruption policy", "Fair play policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which approach supports participants of different skill levels?",
+      "type": "choice",
+      "choices": ["Inclusive coaching", "Exclusionary training", "Fixed teams", "Elite only programs"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes removing barriers to participation in sport?",
+      "type": "choice",
+      "choices": ["Inclusion", "Exclusion", "Segregation", "Discrimination"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Inclusion only applies to people with disabilities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Adapted PE activities help all students succeed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Inclusion is not relevant in competitive sport.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to make PE classes more inclusive.",
+      "type": "input",
+      "answer": ["differentiation", "adapted equipment", "team rotation", "modified rules"]
+    },
+    {
+      "text": "What is one benefit of promoting inclusion in sport?",
+      "type": "input",
+      "answer": ["improved participation", "equal opportunity", "social integration"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "8. Technology, Media & Sport",
+  "quiz": [
+    {
+      "text": "Which device can be used to measure heart rate during training?",
+      "type": "choice",
+      "choices": ["Heart rate monitor", "Stopwatch", "Whistle", "Cones"],
+      "answer": 0
+    },
+    {
+      "text": "Which technology is used to review referee decisions in sport?",
+      "type": "choice",
+      "choices": ["VAR", "Fitbit", "Treadmill", "Datalogger"],
+      "answer": 0
+    },
+    {
+      "text": "Which media platform is commonly used to promote sporting events?",
+      "type": "choice",
+      "choices": ["Television", "Radio", "Social media", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which technology helps athletes analyse performance patterns?",
+      "type": "choice",
+      "choices": ["Video analysis", "Stopwatch", "Heart rate monitor", "Water bottle"],
+      "answer": 0
+    },
+    {
+      "text": "Which device can track distance covered in a match or training session?",
+      "type": "choice",
+      "choices": ["GPS tracker", "Cones", "Whistle", "Stopwatch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Technology can help prevent injury in sport.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Media coverage has no influence on sports participation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Wearable technology can monitor training intensity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one benefit of using video analysis in sport.",
+      "type": "input",
+      "answer": ["performance improvement", "technique correction", "tactical analysis"]
+    },
+    {
+      "text": "What is one way social media can promote physical activity?",
+      "type": "input",
+      "answer": ["sharing challenges", "highlighting events", "motivating participants"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "9. Gender & Physical Activity",
+  "quiz": [
+    {
+      "text": "Which term describes the differences in sports participation between males and females?",
+      "type": "choice",
+      "choices": ["Gender gap", "Age gap", "Skill gap", "Economic gap"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can influence female participation in sport?",
+      "type": "choice",
+      "choices": ["Cultural expectations", "Access to facilities", "Role models", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which strategy can increase girls’ involvement in PE classes?",
+      "type": "choice",
+      "choices": ["Providing inclusive activities", "Focusing only on competitive sports", "Reducing PE hours", "Excluding mixed-gender teams"],
+      "answer": 0
+    },
+    {
+      "text": "Which policy supports equal opportunities for males and females in sport?",
+      "type": "choice",
+      "choices": ["Gender equality policy", "Anti-doping policy", "Fair play policy", "Inclusion policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which barrier might reduce female participation in sport?",
+      "type": "choice",
+      "choices": ["Stereotypes", "Lack of facilities", "Limited role models", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Gender inequality only exists in professional sport.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Providing female role models can encourage participation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Boys and girls should never participate in the same PE activities.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one way to increase female participation in physical activity.",
+      "type": "input",
+      "answer": ["inclusive activities", "female role models", "equal access to facilities", "after-school clubs"]
+    },
+    {
+      "text": "What is one benefit of promoting gender equality in sport?",
+      "type": "input",
+      "answer": ["increased participation", "fairness", "social inclusion"]
+    }
+  ]
+},
+{
+  "subject": "Physical Education",
+  "topic": "Business & Enterprise in Physical Activity & Sport",
+  "quiz": [
+    {
+      "text": "Which term describes a person who starts a sport-related business?",
+      "type": "choice",
+      "choices": ["Entrepreneur", "Coach", "Athlete", "Manager"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of enterprise sells sports equipment to the public?",
+      "type": "choice",
+      "choices": ["Retail business", "Service provider", "Non-profit", "Governing body"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is important when marketing a sports service?",
+      "type": "choice",
+      "choices": ["Target audience", "Competition", "Price", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which source of income comes from individuals paying to participate in activities?",
+      "type": "choice",
+      "choices": ["Revenue", "Sponsorship", "Donation", "Grant"],
+      "answer": 0
+    },
+    {
+      "text": "Which method can increase business visibility in sport?",
+      "type": "choice",
+      "choices": ["Social media promotion", "Ignoring customers", "Reducing quality", "Avoiding events"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sponsorship is a way for businesses to support sport financially.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All sports businesses are non-profit organizations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Understanding customer needs is essential for a successful sports business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way a sports business can attract customers.",
+      "type": "input",
+      "answer": ["advertising", "social media", "discounts", "special events"]
+    },
+    {
+      "text": "What is one challenge faced by sports entrepreneurs?",
+      "type": "input",
+      "answer": ["competition", "funding", "marketing", "regulations"]
+    }
+  ]
+}
+]

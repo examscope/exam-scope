@@ -1,0 +1,1100 @@
+[
+{
+  "subject": "Economics",
+  "topic": "1.1 Economic Concepts",
+  "quiz": [
+    {
+      "text": "What is the basic economic problem?",
+      "type": "choice",
+      "choices": ["Scarcity of resources vs unlimited wants", "Abundance of resources", "Excess supply", "Full employment"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor of production is considered renewable?",
+      "type": "choice",
+      "choices": ["Labour", "Land", "Capital", "Enterprise"],
+      "answer": 1
+    },
+    {
+      "text": "Opportunity cost refers to:",
+      "type": "choice",
+      "choices": ["The next best alternative foregone", "Money spent on production", "Profit earned", "Taxes paid"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a scarce resource?",
+      "type": "choice",
+      "choices": ["Oil", "Air", "Sunlight", "Wind (free)"],
+      "answer": 0
+    },
+    {
+      "text": "Economic goods differ from free goods because they:",
+      "type": "choice",
+      "choices": ["Have a price and are scarce", "Are unlimited", "Do not satisfy wants", "Exist in nature only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Scarcity exists because resources are limited.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Capital refers only to money in economics.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Enterprise is the ability to take risks and organize resources.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor of production.",
+      "type": "input",
+      "answer": ["land", "labour", "capital", "enterprise"]
+    },
+    {
+      "text": "Give one reason why scarcity is central to economics.",
+      "type": "input",
+      "answer": ["limited resources vs unlimited wants", "decisions must be made", "choice is necessary", "trade-offs exist"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "1.2 Sustainability",
+  "quiz": [
+    {
+      "text": "What does sustainability mean in economics?",
+      "type": "choice",
+      "choices": ["Meeting current needs without compromising future generations", "Maximising profit only", "Using resources as fast as possible", "Ignoring environmental concerns"],
+      "answer": 0
+    },
+    {
+      "text": "Which resource is most at risk from unsustainable use?",
+      "type": "choice",
+      "choices": ["Fossil fuels", "Air", "Sunlight", "Rainfall"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a sustainable practice?",
+      "type": "choice",
+      "choices": ["Using renewable energy", "Deforestation for agriculture", "Overfishing", "Polluting rivers"],
+      "answer": 0
+    },
+    {
+      "text": "Why is sustainability important for businesses?",
+      "type": "choice",
+      "choices": ["To protect resources for the future", "To increase short-term profits only", "To reduce taxes", "To ignore regulations"],
+      "answer": 0
+    },
+    {
+      "text": "Which term is associated with sustainable development?",
+      "type": "choice",
+      "choices": ["Renewable resources", "Non-renewable profit", "Overproduction", "Inflation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sustainability only concerns environmental issues.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Using renewable energy sources promotes sustainability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Overexploitation of resources is sustainable.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one renewable resource.",
+      "type": "input",
+      "answer": ["wind", "solar", "water", "forests"]
+    },
+    {
+      "text": "Give one reason why sustainability is important in economics.",
+      "type": "input",
+      "answer": ["protect resources for future generations", "ensure long-term growth", "reduce environmental damage", "maintain balance between consumption and resources"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "2.1 The Market Economy",
+  "quiz": [
+    {
+      "text": "What is a market economy?",
+      "type": "choice",
+      "choices": ["An economy where supply and demand determine prices", "An economy fully controlled by government", "An economy with no trade", "An economy based on barter only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following determines the price of goods in a market economy?",
+      "type": "choice",
+      "choices": ["Supply and demand", "Government decree only", "Random choice", "Advertising alone"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the situation where demand exceeds supply?",
+      "type": "choice",
+      "choices": ["Shortage", "Surplus", "Equilibrium", "Inflation"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the situation where supply exceeds demand?",
+      "type": "choice",
+      "choices": ["Surplus", "Shortage", "Equilibrium", "Deflation"],
+      "answer": 0
+    },
+    {
+      "text": "What motivates producers in a market economy?",
+      "type": "choice",
+      "choices": ["Profit", "Charity only", "Government order", "Random production"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In a market economy, prices are fixed by the government.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Competition encourages efficiency in a market economy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Consumers have no influence on production in a market economy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one characteristic of a market economy.",
+      "type": "input",
+      "answer": ["supply and demand", "competition", "profit motive", "consumer choice"]
+    },
+    {
+      "text": "Give one reason why market economies encourage efficiency.",
+      "type": "input",
+      "answer": ["competition forces firms to reduce costs", "producers seek profit", "resources are allocated efficiently", "encourages innovation"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "2.2 Elasticity",
+  "quiz": [
+    {
+      "text": "What does price elasticity of demand measure?",
+      "type": "choice",
+      "choices": ["How demand changes when price changes", "The supply of goods", "Government influence on price", "Production cost changes"],
+      "answer": 0
+    },
+    {
+      "text": "If demand is elastic, a small change in price will:",
+      "type": "choice",
+      "choices": ["Cause a large change in quantity demanded", "Have no effect on quantity demanded", "Decrease supply only", "Increase profit always"],
+      "answer": 0
+    },
+    {
+      "text": "If demand is inelastic, a price increase will:",
+      "type": "choice",
+      "choices": ["Cause a small change in quantity demanded", "Cause a large change in quantity demanded", "Reduce costs", "Increase elasticity"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following goods usually has inelastic demand?",
+      "type": "choice",
+      "choices": ["Essential medicines", "Luxury cars", "Designer handbags", "Holiday trips"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects elasticity of demand?",
+      "type": "choice",
+      "choices": ["Availability of substitutes", "Government regulations only", "Marketing only", "Branding only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Elasticity only applies to demand.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Necessities usually have inelastic demand.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Luxury goods tend to have more elastic demand.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that affects elasticity of demand.",
+      "type": "input",
+      "answer": ["availability of substitutes", "necessity vs luxury", "proportion of income", "time period"]
+    },
+    {
+      "text": "Give one example of an inelastic good.",
+      "type": "input",
+      "answer": ["medicine", "electricity", "water", "basic food"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "2.3 Costs of Production, Revenue + Profit",
+  "quiz": [
+    {
+      "text": "What is total cost in production?",
+      "type": "choice",
+      "choices": ["The sum of fixed and variable costs", "The revenue earned", "Profit only", "Taxes paid"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a fixed cost?",
+      "type": "choice",
+      "choices": ["Rent of factory", "Raw materials", "Wages of hourly workers", "Electricity for production"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a variable cost?",
+      "type": "choice",
+      "choices": ["Raw materials", "Rent", "Insurance", "Loan repayment"],
+      "answer": 0
+    },
+    {
+      "text": "How is profit calculated?",
+      "type": "choice",
+      "choices": ["Revenue minus total cost", "Total cost minus revenue", "Revenue plus fixed cost", "Variable cost minus revenue"],
+      "answer": 0
+    },
+    {
+      "text": "What is revenue?",
+      "type": "choice",
+      "choices": ["Income from sales of goods or services", "Total cost of production", "Profit only", "Fixed cost"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fixed costs change with the level of output.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Variable costs increase as output increases.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Profit is always equal to revenue.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a fixed cost.",
+      "type": "input",
+      "answer": ["rent", "insurance", "salaries", "loan repayment"]
+    },
+    {
+      "text": "Give one example of a variable cost.",
+      "type": "input",
+      "answer": ["raw materials", "electricity for production", "hourly wages", "packaging"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "2.4 Government Intervention",
+  "quiz": [
+    {
+      "text": "What is government intervention in the market?",
+      "type": "choice",
+      "choices": ["Actions by the government to influence markets", "Complete absence of government", "Market forces only", "Random consumer choices"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a common tool of government intervention?",
+      "type": "choice",
+      "choices": ["Taxes", "Advertising", "Competition", "Trade unions"],
+      "answer": 0
+    },
+    {
+      "text": "What is a subsidy?",
+      "type": "choice",
+      "choices": ["Payment to producers to lower costs", "Tax on consumers", "Fine for illegal activity", "Loan to consumers"],
+      "answer": 0
+    },
+    {
+      "text": "Why might the government set a price floor?",
+      "type": "choice",
+      "choices": ["To ensure producers receive a minimum price", "To lower costs for consumers", "To reduce supply", "To encourage monopolies"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of a price ceiling?",
+      "type": "choice",
+      "choices": ["Rent control", "Minimum wage", "Corporate tax", "Sales tax"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Taxes can reduce negative externalities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Subsidies increase production of goods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Price ceilings guarantee higher profits for producers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one reason governments intervene in markets.",
+      "type": "input",
+      "answer": ["reduce market failure", "protect consumers", "control prices", "encourage production"]
+    },
+    {
+      "text": "Name one tool of government intervention.",
+      "type": "input",
+      "answer": ["taxes", "subsidies", "price ceilings", "price floors"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "3.1 Market Structures",
+  "quiz": [
+    {
+      "text": "Which market structure has only one producer?",
+      "type": "choice",
+      "choices": ["Monopoly", "Perfect competition", "Oligopoly", "Monopolistic competition"],
+      "answer": 0
+    },
+    {
+      "text": "Which market structure has many firms selling identical products?",
+      "type": "choice",
+      "choices": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": 0
+    },
+    {
+      "text": "Which market structure has a few large firms dominating the market?",
+      "type": "choice",
+      "choices": ["Oligopoly", "Monopoly", "Perfect competition", "Monopolistic competition"],
+      "answer": 0
+    },
+    {
+      "text": "In which market structure do firms sell similar but not identical products?",
+      "type": "choice",
+      "choices": ["Monopolistic competition", "Perfect competition", "Monopoly", "Oligopoly"],
+      "answer": 0
+    },
+    {
+      "text": "Which market structure allows the most control over price?",
+      "type": "choice",
+      "choices": ["Monopoly", "Perfect competition", "Oligopoly", "Monopolistic competition"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In perfect competition, firms are price takers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Monopolies face no competition.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Oligopoly firms always collude to set prices.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one example of a monopoly.",
+      "type": "input",
+      "answer": ["utility company", "railway", "local electricity supplier", "water company"]
+    },
+    {
+      "text": "Name one characteristic of perfect competition.",
+      "type": "input",
+      "answer": ["many firms", "identical products", "free entry and exit", "price takers"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "3.2 The Labour Market",
+  "quiz": [
+    {
+      "text": "What is the labour market?",
+      "type": "choice",
+      "choices": ["Where labour is bought and sold", "Where goods are sold", "Where capital is traded", "Where taxes are collected"],
+      "answer": 0
+    },
+    {
+      "text": "What determines wages in a free labour market?",
+      "type": "choice",
+      "choices": ["Supply and demand for labour", "Government only", "Monopolies", "Consumer preferences only"],
+      "answer": 0
+    },
+    {
+      "text": "What is a trade union?",
+      "type": "choice",
+      "choices": ["Organisation representing workers", "Organisation representing employers", "Government agency", "Charity organisation"],
+      "answer": 0
+    },
+    {
+      "text": "What is minimum wage?",
+      "type": "choice",
+      "choices": ["The lowest legal wage", "The average wage", "The maximum wage", "Profit per worker"],
+      "answer": 0
+    },
+    {
+      "text": "What is labour mobility?",
+      "type": "choice",
+      "choices": ["Ability of workers to move jobs or locations", "Ability of firms to hire", "Government control of wages", "Fixed employment contracts"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Wages always increase with experience.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Minimum wage sets a wage floor.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Trade unions negotiate on behalf of workers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one factor that can affect wages.",
+      "type": "input",
+      "answer": ["supply and demand", "skills", "experience", "education"]
+    },
+    {
+      "text": "Name one role of trade unions.",
+      "type": "input",
+      "answer": ["negotiate wages", "protect workers' rights", "ensure safe working conditions", "provide legal advice"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "3.3 Market Failure",
+  "quiz": [
+    {
+      "text": "What is market failure?",
+      "type": "choice",
+      "choices": ["When markets fail to allocate resources efficiently", "When prices increase", "When supply exceeds demand", "When government intervenes"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of a positive externality?",
+      "type": "choice",
+      "choices": ["Vaccinations", "Pollution", "Traffic congestion", "Overfishing"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of a negative externality?",
+      "type": "choice",
+      "choices": ["Air pollution", "Education", "Public parks", "Vaccinations"],
+      "answer": 0
+    },
+    {
+      "text": "Which good is typically under-provided in a free market?",
+      "type": "choice",
+      "choices": ["Public goods", "Luxury goods", "Private goods", "Imported goods"],
+      "answer": 0
+    },
+    {
+      "text": "What causes market failure in the case of monopoly?",
+      "type": "choice",
+      "choices": ["Lack of competition", "Excess supply", "Low demand", "Government intervention"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Externalities are always negative.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Market failure can justify government intervention.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Public goods are non-excludable and non-rivalrous.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a negative externality.",
+      "type": "input",
+      "answer": ["pollution", "littering", "traffic congestion", "smoking"]
+    },
+    {
+      "text": "Give one example of a public good.",
+      "type": "input",
+      "answer": ["street lighting", "national defence", "public park", "clean air"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "4.1 National income",
+  "quiz": [
+    {
+      "text": "What is national income?",
+      "type": "choice",
+      "choices": ["Total value of goods and services produced in a country", "Government revenue only", "Total exports only", "Private savings only"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is included in national income?",
+      "type": "choice",
+      "choices": ["Wages, rent, interest, and profits", "Government taxes only", "Imports only", "Exports only"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure of national income adjusts for inflation?",
+      "type": "choice",
+      "choices": ["Real national income", "Nominal national income", "Gross income", "Net income"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure of national income does not account for depreciation?",
+      "type": "choice",
+      "choices": ["Gross National Product (GNP)", "Net National Product (NNP)", "Net Domestic Product (NDP)", "Disposable income"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a limitation of using national income to measure welfare?",
+      "type": "choice",
+      "choices": ["It ignores income distribution", "It includes taxes", "It measures imports", "It counts savings"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: National income includes income from abroad.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: National income is always a perfect measure of living standards.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Depreciation reduces net national income.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one component of national income.",
+      "type": "input",
+      "answer": ["wages", "rent", "interest", "profits"]
+    },
+    {
+      "text": "Name one limitation of national income statistics.",
+      "type": "input",
+      "answer": ["ignores income distribution", "does not count informal economy", "ignores environmental costs", "does not measure welfare directly"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "4.2 Fiscal Policy and the Budget Framework",
+  "quiz": [
+    {
+      "text": "What is fiscal policy?",
+      "type": "choice",
+      "choices": ["Government decisions on taxation and spending", "Central bank setting interest rates", "Private firms' investment decisions", "Trade union negotiations"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of government revenue?",
+      "type": "choice",
+      "choices": ["Taxes", "Subsidies", "Public spending", "Loans"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of government expenditure?",
+      "type": "choice",
+      "choices": ["Healthcare spending", "Taxes", "Loan repayments by firms", "Exports"],
+      "answer": 0
+    },
+    {
+      "text": "What is a budget deficit?",
+      "type": "choice",
+      "choices": ["Government spending exceeds revenue", "Revenue exceeds spending", "Balanced budget", "Public investment only"],
+      "answer": 0
+    },
+    {
+      "text": "What is a budget surplus?",
+      "type": "choice",
+      "choices": ["Government revenue exceeds spending", "Spending exceeds revenue", "Balanced budget", "Loan repayment"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fiscal policy can be used to reduce unemployment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Taxes are an example of government expenditure.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A budget deficit may increase government borrowing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one tool of fiscal policy.",
+      "type": "input",
+      "answer": ["taxation", "government spending", "subsidies", "public investment"]
+    },
+    {
+      "text": "Name one effect of a budget surplus.",
+      "type": "input",
+      "answer": ["reduces debt", "allows more investment", "lowers borrowing needs", "can reduce interest rates"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "4.3 Employment",
+  "quiz": [
+    {
+      "text": "What is employment?",
+      "type": "choice",
+      "choices": ["People engaged in work for pay or profit", "People who are retired", "Students in school", "Unpaid volunteers only"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a type of unemployment caused by a mismatch of skills?",
+      "type": "choice",
+      "choices": ["Structural unemployment", "Frictional unemployment", "Seasonal unemployment", "Cyclical unemployment"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a type of unemployment caused by temporary job changes?",
+      "type": "choice",
+      "choices": ["Frictional unemployment", "Structural unemployment", "Seasonal unemployment", "Cyclical unemployment"],
+      "answer": 0
+    },
+    {
+      "text": "Which unemployment occurs during economic downturns?",
+      "type": "choice",
+      "choices": ["Cyclical unemployment", "Frictional unemployment", "Structural unemployment", "Seasonal unemployment"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a government policy to reduce unemployment?",
+      "type": "choice",
+      "choices": ["Job creation schemes", "Tax cuts for consumers", "Price ceilings", "Trade barriers"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Frictional unemployment is usually short-term.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Seasonal unemployment is the same as structural unemployment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: High unemployment can reduce national income.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of unemployment.",
+      "type": "input",
+      "answer": ["frictional", "structural", "seasonal", "cyclical"]
+    },
+    {
+      "text": "Name one government measure to reduce unemployment.",
+      "type": "input",
+      "answer": ["job creation schemes", "training programs", "subsidies for firms", "public works projects"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "4.4 Monetary Policy and Price Level",
+  "quiz": [
+    {
+      "text": "What is monetary policy?",
+      "type": "choice",
+      "choices": ["Central bank control of money supply and interest rates", "Government taxation and spending", "Private investment decisions", "International trade agreements"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a tool of monetary policy?",
+      "type": "choice",
+      "choices": ["Interest rates", "Taxes", "Government spending", "Subsidies"],
+      "answer": 0
+    },
+    {
+      "text": "What is inflation?",
+      "type": "choice",
+      "choices": ["General rise in prices", "General fall in prices", "Increase in wages only", "Increase in exports only"],
+      "answer": 0
+    },
+    {
+      "text": "What is deflation?",
+      "type": "choice",
+      "choices": ["General fall in prices", "General rise in prices", "Wage freeze", "Decrease in government spending"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main central bank in Ireland?",
+      "type": "choice",
+      "choices": ["Central Bank of Ireland", "European Central Bank", "Bank of England", "Federal Reserve"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Raising interest rates can reduce inflation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Lowering interest rates discourages borrowing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Monetary policy can affect employment levels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one tool of monetary policy.",
+      "type": "input",
+      "answer": ["interest rates", "open market operations", "reserve requirements", "quantitative easing"]
+    },
+    {
+      "text": "Name one effect of inflation on the economy.",
+      "type": "input",
+      "answer": ["reduces purchasing power", "increases cost of living", "can affect savings", "can erode fixed incomes"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "4.5 The Financial Sector",
+  "quiz": [
+    {
+      "text": "What is the financial sector?",
+      "type": "choice",
+      "choices": ["Institutions that manage money and credit", "The agricultural sector", "Government ministries", "Retail businesses"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a financial institution?",
+      "type": "choice",
+      "choices": ["Bank", "Supermarket", "Hospital", "University"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main role of banks?",
+      "type": "choice",
+      "choices": ["Accept deposits and provide loans", "Manufacture goods", "Collect taxes", "Produce energy"],
+      "answer": 0
+    },
+    {
+      "text": "What is a share?",
+      "type": "choice",
+      "choices": ["A unit of ownership in a company", "A type of bank loan", "Government debt", "A type of bond"],
+      "answer": 0
+    },
+    {
+      "text": "What is a bond?",
+      "type": "choice",
+      "choices": ["A loan to a government or company", "A unit of ownership in a company", "A type of currency", "A financial penalty"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The financial sector only affects wealthy individuals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Banks can create money through lending.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Shares and bonds are both financial assets.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one type of financial institution.",
+      "type": "input",
+      "answer": ["bank", "credit union", "investment firm", "insurance company"]
+    },
+    {
+      "text": "Name one function of the financial sector.",
+      "type": "input",
+      "answer": ["accept deposits", "provide loans", "facilitate investments", "manage risk"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "5.1 Economic Growth and Development",
+  "quiz": [
+    {
+      "text": "What is economic growth?",
+      "type": "choice",
+      "choices": ["Increase in a country's output of goods and services", "Decrease in prices", "Government budget surplus", "Increase in population only"],
+      "answer": 0
+    },
+    {
+      "text": "What is economic development?",
+      "type": "choice",
+      "choices": ["Improvement in living standards and quality of life", "Only increase in GDP", "Higher exports only", "Higher savings rate only"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can stimulate economic growth?",
+      "type": "choice",
+      "choices": ["Investment in infrastructure", "High unemployment", "Declining population", "High taxation only"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can limit economic development?",
+      "type": "choice",
+      "choices": ["Poor education and healthcare", "Technological progress", "Investment in capital goods", "Stable government"],
+      "answer": 0
+    },
+    {
+      "text": "Which measure reflects economic growth?",
+      "type": "choice",
+      "choices": ["Increase in GDP", "Unemployment rate", "Inflation rate", "Government debt"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Economic growth always guarantees higher living standards.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Foreign direct investment can promote economic development.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Infrastructure investment can increase productivity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one indicator of economic development.",
+      "type": "input",
+      "answer": ["literacy rate", "life expectancy", "healthcare access", "poverty reduction"]
+    },
+    {
+      "text": "Name one factor that promotes economic growth.",
+      "type": "input",
+      "answer": ["capital investment", "technological progress", "skilled workforce", "infrastructure development"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "5.2 Globalisation",
+  "quiz": [
+    {
+      "text": "What is globalisation?",
+      "type": "choice",
+      "choices": ["Integration of economies, cultures, and trade worldwide", "Increase in domestic taxes only", "Local business expansion only", "Government control of markets only"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of globalisation?",
+      "type": "choice",
+      "choices": ["Access to larger markets", "Higher unemployment", "Decreased foreign investment", "Reduced competition"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a drawback of globalisation?",
+      "type": "choice",
+      "choices": ["Income inequality", "Better technology transfer", "Lower prices", "Increased exports"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation promotes global trade?",
+      "type": "choice",
+      "choices": ["World Trade Organization (WTO)", "IMF", "OECD", "UNESCO"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of globalisation in business?",
+      "type": "choice",
+      "choices": ["Multinational companies operating in many countries", "Local farmers selling locally only", "Government subsidies", "Domestic taxation changes"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Globalisation always reduces unemployment in all countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Technology transfer is a positive effect of globalisation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Globalisation can increase competition between firms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one positive effect of globalisation.",
+      "type": "input",
+      "answer": ["access to larger markets", "technology transfer", "lower prices", "foreign investment"]
+    },
+    {
+      "text": "Name one negative effect of globalisation.",
+      "type": "input",
+      "answer": ["income inequality", "job losses in some sectors", "exploitation of workers", "environmental degradation"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "5.3 International Trade and Competitiveness",
+  "quiz": [
+    {
+      "text": "What is international trade?",
+      "type": "choice",
+      "choices": ["Exchange of goods and services between countries", "Domestic buying and selling", "Government taxation", "Foreign aid only"],
+      "answer": 0
+    },
+    {
+      "text": "What is a country's comparative advantage?",
+      "type": "choice",
+      "choices": ["Ability to produce a good at lower opportunity cost", "Ability to export only", "Ability to import cheap goods", "Ability to set high taxes"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of international trade?",
+      "type": "choice",
+      "choices": ["Wider choice of goods", "Higher domestic unemployment always", "Trade deficits only", "Inflation only"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a barrier to international trade?",
+      "type": "choice",
+      "choices": ["Tariffs", "Investment", "Foreign direct investment", "Technology transfer"],
+      "answer": 0
+    },
+    {
+      "text": "What is competitiveness?",
+      "type": "choice",
+      "choices": ["Ability of firms or countries to compete effectively in markets", "Ability to tax imports", "Government spending on domestic firms", "Export subsidies only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Free trade always guarantees growth for all countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Tariffs increase the cost of imported goods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A country can specialize in products where it has a comparative advantage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a barrier to trade.",
+      "type": "input",
+      "answer": ["tariff", "quota", "import restriction", "trade embargo"]
+    },
+    {
+      "text": "Name one factor that improves competitiveness.",
+      "type": "input",
+      "answer": ["innovation", "skilled workforce", "low production costs", "efficient infrastructure"]
+    }
+  ]
+},
+{
+  "subject": "Economics",
+  "topic": "6.1 Topical Questions and Statistics",
+  "quiz": [
+    {
+      "text": "What is GDP?",
+      "type": "choice",
+      "choices": ["Total value of goods and services produced in a country", "Government debt", "Income of households only", "Exports only"],
+      "answer": 0
+    },
+    {
+      "text": "What does CPI measure?",
+      "type": "choice",
+      "choices": ["Changes in the price level of a basket of goods and services", "Gross domestic product", "National income only", "Unemployment rate only"],
+      "answer": 0
+    },
+    {
+      "text": "Which statistic measures unemployment?",
+      "type": "choice",
+      "choices": ["Labour Force Survey", "GDP", "CPI", "Balance of Payments"],
+      "answer": 0
+    },
+    {
+      "text": "What is the balance of payments?",
+      "type": "choice",
+      "choices": ["Record of all transactions between residents and foreigners", "Government budget", "National income", "Stock market index"],
+      "answer": 0
+    },
+    {
+      "text": "Which indicator shows economic growth?",
+      "type": "choice",
+      "choices": ["Increase in GDP", "Increase in CPI only", "Decrease in unemployment only", "Balance of payments deficit"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Statistics can help governments make economic decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CPI measures changes in population size.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: National income includes total wages, profits, and rent.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a key economic statistic.",
+      "type": "input",
+      "answer": ["GDP", "CPI", "unemployment rate", "balance of payments"]
+    },
+    {
+      "text": "Name one use of economic statistics.",
+      "type": "input",
+      "answer": ["policy making", "measuring economic growth", "monitoring inflation", "planning government spending"]
+    }
+  ]
+}
+]

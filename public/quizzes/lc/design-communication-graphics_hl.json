@@ -1,0 +1,978 @@
+[
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Assemblies",
+  "quiz": [
+    {
+      "text": "Which of these is a purpose of an assembly drawing?",
+      "type": "choice",
+      "choices": ["Show how parts fit together", "Decorate a product", "Measure stress", "Calculate weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of drawing shows individual parts separately before assembly?",
+      "type": "choice",
+      "choices": ["Exploded view", "Orthographic", "Section", "Isometric"],
+      "answer": 0
+    },
+    {
+      "text": "Which view is commonly used to label parts in an assembly?",
+      "type": "choice",
+      "choices": ["Isometric", "Front elevation", "Section", "Plan"],
+      "answer": 0
+    },
+    {
+      "text": "What is a fastener used for in assemblies?",
+      "type": "choice",
+      "choices": ["Join parts together", "Decorate parts", "Measure distance", "Reduce friction"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a standard fastener in mechanical assemblies?",
+      "type": "choice",
+      "choices": ["Screw", "Glue", "Paint", "Clamp"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: An exploded view shows parts in their assembled position.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Assembly drawings help in manufacturing and maintenance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only engineers use assembly drawings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of view used in assembly drawings.",
+      "type": "input",
+      "answer": ["exploded view", "isometric", "orthographic", "section"]
+    },
+    {
+      "text": "Give one purpose of using assembly drawings in design.",
+      "type": "input",
+      "answer": ["show how parts fit together", "aid manufacturing", "assist maintenance", "clarify component layout"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Axo/Di/Tri-metric Projection",
+  "quiz": [
+    {
+      "text": "Which type of projection shows three faces of an object in one view?",
+      "type": "choice",
+      "choices": ["Isometric", "Orthographic", "Perspective", "Plan"],
+      "answer": 0
+    },
+    {
+      "text": "In dimetric projection, how many angles of the axes are equal?",
+      "type": "choice",
+      "choices": ["1", "2", "3", "0"],
+      "answer": 1
+    },
+    {
+      "text": "Which projection gives the most realistic 3D appearance?",
+      "type": "choice",
+      "choices": ["Trimetric", "Isometric", "Perspective", "Orthographic"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main purpose of axonometric projection?",
+      "type": "choice",
+      "choices": ["Represent 3D objects in 2D accurately", "Decorate drawings", "Show internal details", "Measure weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which projection has all three axes unequal?",
+      "type": "choice",
+      "choices": ["Isometric", "Dimetric", "Trimetric", "Perspective"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Isometric projection has equal angles between all axes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Axonometric projections are used for technical illustrations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Dimetric projection has equal lengths on all three axes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of axonometric projection.",
+      "type": "input",
+      "answer": ["isometric", "dimetric", "trimetric"]
+    },
+    {
+      "text": "Give one advantage of axonometric projections over perspective drawings.",
+      "type": "input",
+      "answer": ["accurate measurements", "scale maintained", "easier to draw", "clear representation"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Conic Sections",
+  "quiz": [
+    {
+      "text": "Which of these is not a type of conic section?",
+      "type": "choice",
+      "choices": ["Circle", "Ellipse", "Parabola", "Cube"],
+      "answer": 3
+    },
+    {
+      "text": "What shape is formed when a plane cuts parallel to the base of a cone?",
+      "type": "choice",
+      "choices": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section is used to represent satellite dish shapes?",
+      "type": "choice",
+      "choices": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main difference between an ellipse and a circle?",
+      "type": "choice",
+      "choices": ["An ellipse has two focal points, a circle has one", "An ellipse is 3D, circle is 2D", "A circle is bigger", "No difference"],
+      "answer": 0
+    },
+    {
+      "text": "Which conic section forms the path of a thrown object under gravity?",
+      "type": "choice",
+      "choices": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A hyperbola is formed when the plane cuts through both nappes of a cone.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All conic sections are obtained by cutting a cylinder.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A circle is a special case of an ellipse.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of conic section.",
+      "type": "input",
+      "answer": ["circle", "ellipse", "parabola", "hyperbola"]
+    },
+    {
+      "text": "Give one application of a parabola in real life.",
+      "type": "input",
+      "answer": ["satellite dishes", "projectile motion", "reflectors", "car headlights"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Developments & Envelopments",
+  "quiz": [
+    {
+      "text": "What is the purpose of a development drawing?",
+      "type": "choice",
+      "choices": ["Show flat pattern of a 3D object", "Decorate a model", "Measure weight", "Calculate forces"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these shapes can be developed?",
+      "type": "choice",
+      "choices": ["Cube", "Cylinder", "Cone", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is an enveloping in D.C.G.?",
+      "type": "choice",
+      "choices": ["A drawing that surrounds an object", "A surface that touches all points of an object", "A 3D model", "A plan view"],
+      "answer": 1
+    },
+    {
+      "text": "Which method is used to develop a cylinder?",
+      "type": "choice",
+      "choices": ["Radial lines", "Parallel lines", "Triangulation", "Circle unfolding"],
+      "answer": 1
+    },
+    {
+      "text": "Why are development drawings important in manufacturing?",
+      "type": "choice",
+      "choices": ["To cut materials accurately", "To add decoration", "To measure weight", "To paint objects"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Only simple solids can be developed in D.C.G.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Developments help in sheet metal fabrication.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Envelopments are unrelated to development drawings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of 3D shape that can be developed.",
+      "type": "input",
+      "answer": ["cylinder", "cone", "cube", "prism"]
+    },
+    {
+      "text": "Give one reason why developments are used in construction or manufacturing.",
+      "type": "input",
+      "answer": ["cut materials accurately", "reduce waste", "guide folding", "aid fabrication"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Dynamic Mechanisms",
+  "quiz": [
+    {
+      "text": "Which of these is an example of a simple mechanism?",
+      "type": "choice",
+      "choices": ["Lever", "Crankshaft", "Gearbox", "Engine"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of a cam and follower?",
+      "type": "choice",
+      "choices": ["Convert rotary motion to reciprocating motion", "Reduce friction", "Increase speed", "Support structure"],
+      "answer": 0
+    },
+    {
+      "text": "Which mechanism changes the direction of motion?",
+      "type": "choice",
+      "choices": ["Pulley system", "Wheel and axle", "Crank and slider", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is a gear used for in mechanisms?",
+      "type": "choice",
+      "choices": ["Transmit motion and force", "Support structures", "Reduce weight", "Decorate"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of motion does a crank and slider produce?",
+      "type": "choice",
+      "choices": ["Rotary to reciprocating", "Linear only", "Rotary only", "Oscillating only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All mechanisms involve moving parts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A lever can change the magnitude and direction of a force.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cams are only used in electrical circuits.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one simple mechanism used in machines.",
+      "type": "input",
+      "answer": ["lever", "pulley", "gear", "cam and follower"]
+    },
+    {
+      "text": "Give one purpose of dynamic mechanisms in engineering.",
+      "type": "input",
+      "answer": ["transmit motion", "change force", "convert motion types", "control speed"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Geological Geometry",
+  "quiz": [
+    {
+      "text": "Which of these is a common geological structure?",
+      "type": "choice",
+      "choices": ["Fold", "Lever", "Gear", "Pulley"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main feature of an anticline?",
+      "type": "choice",
+      "choices": ["Upward arching fold", "Downward fold", "Fracture line", "Fault line"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of fold has layers dipping away from the centre?",
+      "type": "choice",
+      "choices": ["Anticline", "Syncline", "Monocline", "Fault"],
+      "answer": 0
+    },
+    {
+      "text": "Which geological feature results from compressive forces?",
+      "type": "choice",
+      "choices": ["Fold", "Joint", "Erosion", "Weathering"],
+      "answer": 0
+    },
+    {
+      "text": "What is the term for a downward arching fold?",
+      "type": "choice",
+      "choices": ["Anticline", "Syncline", "Monocline", "Fault"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Geological folds can be represented in 2D drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Synclines always form mountain peaks.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Faults are a type of geological fracture.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of geological fold.",
+      "type": "input",
+      "answer": ["anticline", "syncline", "monocline"]
+    },
+    {
+      "text": "Give one reason why geological geometry is studied in D.C.G.",
+      "type": "input",
+      "answer": ["to represent folds in drawings", "understand rock formations", "plan engineering works"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Interpenetration",
+  "quiz": [
+    {
+      "text": "What is interpenetration in D.C.G.?",
+      "type": "choice",
+      "choices": ["Where two solids pass through each other", "Where lines are parallel", "Where a circle meets a square", "Where axes intersect"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing technique is used to show interpenetration clearly?",
+      "type": "choice",
+      "choices": ["Sectioning", "Isometric projection", "Perspective", "Auxiliary view"],
+      "answer": 0
+    },
+    {
+      "text": "Which shape combination commonly demonstrates interpenetration?",
+      "type": "choice",
+      "choices": ["Cylinder and cube", "Circle and line", "Triangle and square", "Hexagon and pentagon"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of showing interpenetration?",
+      "type": "choice",
+      "choices": ["To understand internal contact between solids", "To add decoration", "To measure weight", "To calculate speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is often used in D.C.G. to find intersection points?",
+      "type": "choice",
+      "choices": ["Compass", "Protractor", "Ruler and triangles", "Divider"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Interpenetration can only occur with cylindrical shapes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sectional views are often used to simplify interpenetration drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Interpenetration has no practical application in engineering.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one pair of shapes that can interpenetrate.",
+      "type": "input",
+      "answer": ["cylinder and cube", "cube and prism", "cone and cylinder"]
+    },
+    {
+      "text": "Give one reason why interpenetration is drawn in D.C.G.",
+      "type": "input",
+      "answer": ["show internal contact", "understand assembly", "plan construction", "clarify design"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Intersecting Planes (Laminar Planes)",
+  "quiz": [
+    {
+      "text": "What are laminar planes in D.C.G.?",
+      "type": "choice",
+      "choices": ["Flat surfaces that intersect", "Curved surfaces only", "Points in space", "Lines of symmetry"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is commonly used to find the line of intersection between two planes?",
+      "type": "choice",
+      "choices": ["Projecting points from each plane", "Using a compass", "Measuring angles", "Drawing circles"],
+      "answer": 0
+    },
+    {
+      "text": "Which shape combination is often used to demonstrate intersecting planes?",
+      "type": "choice",
+      "choices": ["Prism and prism", "Circle and line", "Sphere and cone", "Cube and cylinder"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of drawing intersecting planes?",
+      "type": "choice",
+      "choices": ["To show intersection lines clearly", "To measure volume", "To decorate drawings", "To calculate stress"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps in transferring points from one plane to another?",
+      "type": "choice",
+      "choices": ["Ruler and set squares", "Compass", "Protractor", "Divider"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Only perpendicular planes can intersect.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Intersecting planes are used in design to create complex forms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Lines of intersection are always curved.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of plane used in intersecting plane drawings.",
+      "type": "input",
+      "answer": ["horizontal plane", "vertical plane", "inclined plane", "oblique plane"]
+    },
+    {
+      "text": "Give one reason why intersecting planes are drawn in D.C.G.",
+      "type": "input",
+      "answer": ["show intersection clearly", "plan complex shapes", "visualize design", "prepare for fabrication"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Orthographic & Auxiliary Projection",
+  "quiz": [
+    {
+      "text": "Which view shows an object as if looking directly at one face?",
+      "type": "choice",
+      "choices": ["Front elevation", "Isometric", "Plan view", "Auxiliary view"],
+      "answer": 0
+    },
+    {
+      "text": "Which projection is used to show inclined surfaces in true size?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "Front elevation", "Isometric", "Perspective"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of orthographic projection?",
+      "type": "choice",
+      "choices": ["Show accurate dimensions and shape", "Decorate drawings", "Simulate motion", "Calculate stress"],
+      "answer": 0
+    },
+    {
+      "text": "Which view is drawn perpendicular to the inclined surface in auxiliary projection?",
+      "type": "choice",
+      "choices": ["True shape view", "Isometric", "Plan view", "Perspective"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is essential for projecting points in auxiliary views?",
+      "type": "choice",
+      "choices": ["Ruler and set squares", "Compass", "Protractor", "Divider"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Orthographic projection preserves scale and true shape of surfaces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Auxiliary projection is used for inclined or oblique surfaces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Orthographic projections are only used for perspective views.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of orthographic view.",
+      "type": "input",
+      "answer": ["front elevation", "plan", "side elevation", "auxiliary view"]
+    },
+    {
+      "text": "Give one reason why auxiliary projection is used in D.C.G.",
+      "type": "input",
+      "answer": ["show true shape of inclined surfaces", "clarify design", "plan construction", "accurate measurements"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Perspective",
+  "quiz": [
+    {
+      "text": "Which type of drawing gives a realistic 3D view of an object?",
+      "type": "choice",
+      "choices": ["Perspective", "Orthographic", "Isometric", "Auxiliary"],
+      "answer": 0
+    },
+    {
+      "text": "In one-point perspective, how many vanishing points are used?",
+      "type": "choice",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of perspective uses two vanishing points?",
+      "type": "choice",
+      "choices": ["Two-point perspective", "One-point perspective", "Isometric", "Auxiliary"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of vanishing points in perspective drawing?",
+      "type": "choice",
+      "choices": ["To show objects receding into distance", "To measure weight", "To decorate drawings", "To calculate angles"],
+      "answer": 0
+    },
+    {
+      "text": "Which perspective type is often used in architectural drawings?",
+      "type": "choice",
+      "choices": ["Two-point perspective", "One-point perspective", "Isometric", "Auxiliary"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Perspective drawings preserve true dimensions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Vanishing points lie on the horizon line.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Perspective is mainly used to show 3D objects realistically.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of perspective drawing.",
+      "type": "input",
+      "answer": ["one-point perspective", "two-point perspective", "three-point perspective"]
+    },
+    {
+      "text": "Give one advantage of using perspective drawings in D.C.G.",
+      "type": "input",
+      "answer": ["realistic 3D view", "visualize design", "present to clients", "improve understanding"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Skew Lines",
+  "quiz": [
+    {
+      "text": "What are skew lines in 3D geometry?",
+      "type": "choice",
+      "choices": ["Non-parallel lines that do not intersect", "Parallel lines", "Intersecting lines", "Perpendicular lines"],
+      "answer": 0
+    },
+    {
+      "text": "Which plane concept is used to find the shortest distance between skew lines?",
+      "type": "choice",
+      "choices": ["Auxiliary plane", "Perspective plane", "Horizon plane", "Frontal plane"],
+      "answer": 0
+    },
+    {
+      "text": "Skew lines can only exist in which type of space?",
+      "type": "choice",
+      "choices": ["3D space", "2D space", "1D space", "All of the above"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method is commonly used to represent skew lines?",
+      "type": "choice",
+      "choices": ["Projection method", "Perspective", "Sectioning", "Freehand sketch"],
+      "answer": 0
+    },
+    {
+      "text": "Skew lines are neither parallel nor what?",
+      "type": "choice",
+      "choices": ["Intersecting", "Curved", "Perpendicular", "Coinciding"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Skew lines intersect at a point.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Skew lines exist only in three-dimensional drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Skew lines are always perpendicular.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one characteristic of skew lines.",
+      "type": "input",
+      "answer": ["non-parallel", "do not intersect", "exist in 3D", "unequal"]
+    },
+    {
+      "text": "Give one reason why skew lines are studied in D.C.G.",
+      "type": "input",
+      "answer": ["represent complex 3D forms", "find shortest distance", "understand spatial relationships"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Solids in Contact",
+  "quiz": [
+    {
+      "text": "What does 'solids in contact' refer to in D.C.G.?",
+      "type": "choice",
+      "choices": ["Where two 3D solids touch or intersect", "Solids floating in space", "Two parallel lines", "Curved surfaces only"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is used to show the intersection of solids in contact?",
+      "type": "choice",
+      "choices": ["Sectioning", "Isometric drawing", "Perspective", "Freehand sketch"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these pairs commonly demonstrates solids in contact?",
+      "type": "choice",
+      "choices": ["Cylinder and cube", "Line and plane", "Circle and line", "Triangle and square"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of showing solids in contact?",
+      "type": "choice",
+      "choices": ["Understand internal contact and interaction", "Decorate drawings", "Calculate volume", "Measure weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is commonly used to transfer points between solids?",
+      "type": "choice",
+      "choices": ["Divider", "Compass", "Protractor", "Ruler only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Solids in contact are only studied in 2D drawings.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Sectional views simplify solids in contact drawings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Solids in contact have no real-world applications.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of solid commonly used in solids in contact exercises.",
+      "type": "input",
+      "answer": ["cube", "cylinder", "cone", "prism"]
+    },
+    {
+      "text": "Give one reason why solids in contact are drawn in D.C.G.",
+      "type": "input",
+      "answer": ["show internal contact", "understand assembly", "plan construction", "clarify design"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Structural Forms",
+  "quiz": [
+    {
+      "text": "Which of these is a common structural form in engineering?",
+      "type": "choice",
+      "choices": ["Beam", "Lever", "Gear", "Pulley"],
+      "answer": 0
+    },
+    {
+      "text": "Which shape is strongest in resisting compressive forces?",
+      "type": "choice",
+      "choices": ["Triangle", "Square", "Circle", "Rectangle"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of a truss?",
+      "type": "choice",
+      "choices": ["Distribute load and resist bending", "Decorate a building", "Reduce weight", "Increase friction"],
+      "answer": 0
+    },
+    {
+      "text": "Which form is often used in roof structures?",
+      "type": "choice",
+      "choices": ["Triangular truss", "Circular beam", "Rectangular slab", "Cylindrical rod"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a structural element subjected mainly to tension?",
+      "type": "choice",
+      "choices": ["Tie", "Strut", "Column", "Arch"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Structural forms are designed to resist loads safely.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Triangles are weak forms in structures.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Columns primarily resist compressive forces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common structural form.",
+      "type": "input",
+      "answer": ["beam", "truss", "arch", "column"]
+    },
+    {
+      "text": "Give one reason why structural forms are studied in D.C.G.",
+      "type": "input",
+      "answer": ["understand load distribution", "plan safe structures", "visualize forces", "design efficiently"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Surface Geometry",
+  "quiz": [
+    {
+      "text": "What is surface geometry in D.C.G.?",
+      "type": "choice",
+      "choices": ["Study of curved and flat surfaces", "Study of lines only", "Study of solids in contact", "Study of perspective only"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is often used to draw complex surfaces?",
+      "type": "choice",
+      "choices": ["Compass", "Protractor", "Set square", "Divider"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these surfaces is considered curved?",
+      "type": "choice",
+      "choices": ["Cone", "Cube", "Prism", "Cylinder base plane"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of surface geometry drawings?",
+      "type": "choice",
+      "choices": ["Understand 3D surfaces and intersections", "Decorate drawings", "Calculate weight", "Measure speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is used to develop surfaces from solids?",
+      "type": "choice",
+      "choices": ["Development method", "Perspective", "Auxiliary view", "Sectioning"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Surface geometry only deals with flat surfaces.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cones and cylinders are examples of curved surfaces.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Surface geometry is not used in real-world design.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of surface commonly studied in D.C.G.",
+      "type": "input",
+      "answer": ["cone", "cylinder", "sphere", "prism"]
+    },
+    {
+      "text": "Give one reason why surface geometry is important in D.C.G.",
+      "type": "input",
+      "answer": ["plan developments", "understand curved surfaces", "visualize intersections", "design complex shapes"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "Tetrahedron",
+  "quiz": [
+    {
+      "text": "How many faces does a tetrahedron have?",
+      "type": "choice",
+      "choices": ["4", "3", "5", "6"],
+      "answer": 0
+    },
+    {
+      "text": "What shape are all the faces of a regular tetrahedron?",
+      "type": "choice",
+      "choices": ["Equilateral triangles", "Squares", "Rectangles", "Circles"],
+      "answer": 0
+    },
+    {
+      "text": "How many edges does a tetrahedron have?",
+      "type": "choice",
+      "choices": ["6", "4", "8", "12"],
+      "answer": 0
+    },
+    {
+      "text": "How many vertices does a tetrahedron have?",
+      "type": "choice",
+      "choices": ["4", "3", "5", "6"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method is used to show a tetrahedron in 3D?",
+      "type": "choice",
+      "choices": ["Isometric projection", "Orthographic front view", "Auxiliary view", "Perspective only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All faces of a regular tetrahedron are congruent.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A tetrahedron has exactly 5 edges.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A tetrahedron is a type of pyramid.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one property of a regular tetrahedron.",
+      "type": "input",
+      "answer": ["4 faces", "6 edges", "4 vertices", "triangular faces"]
+    },
+    {
+      "text": "Give one reason why tetrahedrons are studied in D.C.G.",
+      "type": "input",
+      "answer": ["practice 3D drawing", "understand solids", "visualize pyramidal shapes", "learn surface geometry"]
+    }
+  ]
+},
+{
+  "subject": "Design & Communication Graphics",
+  "topic": "The Oblique Plane",
+  "quiz": [
+    {
+      "text": "What is an oblique plane in D.C.G.?",
+      "type": "choice",
+      "choices": ["A plane not perpendicular to principal planes", "A horizontal plane", "A vertical plane", "A plane parallel to all axes"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is commonly used to show true shape on an oblique plane?",
+      "type": "choice",
+      "choices": ["Auxiliary projection", "Perspective", "Isometric projection", "Sectioning"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of an oblique plane?",
+      "type": "choice",
+      "choices": ["Inclined roof surface", "Floor slab", "Front elevation", "Side elevation"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of drawing oblique planes?",
+      "type": "choice",
+      "choices": ["Show true shape of inclined surfaces", "Decorate drawings", "Measure volume", "Calculate load"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is essential for projecting points to the oblique plane?",
+      "type": "choice",
+      "choices": ["Ruler and set squares", "Compass", "Protractor", "Divider"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Oblique planes are always perpendicular to the horizontal plane.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Auxiliary projection is used to show the true shape of oblique planes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Oblique planes are not used in real-world design.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one example of an oblique plane in buildings.",
+      "type": "input",
+      "answer": ["roof surface", "inclined slab", "ramp", "staircase plane"]
+    },
+    {
+      "text": "Give one reason why oblique planes are studied in D.C.G.",
+      "type": "input",
+      "answer": ["show true shape", "plan construction", "visualize inclined surfaces", "understand projections"]
+    }
+  ]
+}
+]

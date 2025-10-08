@@ -1,0 +1,30 @@
+{
+  "certificate": "lc",
+  "subject": "chemsitry",
+  "level": "hl",
+  "topics": [
+    "Acids, Bases & pH calculations",
+    "Atomic Structure",
+    "Chemical Equilibrium",
+    "Electron Arrangement",
+    "Experiment Q1 (Titration)",
+    "Experiment Q2 (Organic)",
+    "Experiment Q3 (Other)",
+    "Fuels & Thermochemistry",
+    "Gas Laws, moles & Gas Properties",
+    "Instrumentation & Chromatography",
+    "Ionic & Covalent Bonding",
+    "Option: Atmospheric Chemistry",
+    "Option: Industrial Chemistry",
+    "Option: Materials & Polymers",
+    "Option: Metals",
+    "Organic Chemistry",
+    "Oxidation & Reduction",
+    "Periodic Table",
+    "Q4",
+    "Radioactivity",
+    "Rates of Reaction",
+    "Stoichiometry, Formulae & Equations",
+    "Water & Water Analysis"
+  ]
+}

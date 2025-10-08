@@ -1,0 +1,2015 @@
+[
+{
+  "subject": "Physics",
+  "topic": "Acceleration",
+  "quiz": [
+    {
+      "text": "Acceleration is defined as the rate of change of what quantity?",
+      "type": "choice",
+      "choices": ["Velocity", "Displacement", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit is used to measure acceleration in the SI system?",
+      "type": "choice",
+      "choices": ["m/s²", "m/s", "N", "J"],
+      "answer": 0
+    },
+    {
+      "text": "If a car increases its velocity from 0 to 20 m/s in 4 s, what is its acceleration?",
+      "type": "choice",
+      "choices": ["5 m/s²", "80 m/s²", "0.2 m/s²", "4 m/s²"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph shows acceleration as a straight horizontal line?",
+      "type": "choice",
+      "choices": ["Velocity-time graph", "Displacement-time graph", "Acceleration-time graph", "Force-time graph"],
+      "answer": 2
+    },
+    {
+      "text": "Which factor affects acceleration according to Newton’s Second Law?",
+      "type": "choice",
+      "choices": ["Force applied", "Mass", "Both force and mass", "Velocity"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Acceleration can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A body moving at constant speed has zero acceleration.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Acceleration is a scalar quantity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for acceleration.",
+      "type": "input",
+      "answer": ["a = (v-u)/t", "acceleration = (final velocity - initial velocity)/time"]
+    },
+    {
+      "text": "Name one example of acceleration in everyday life.",
+      "type": "input",
+      "answer": ["car speeding up", "falling object", "rollercoaster starting"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Applied Electricity",
+  "quiz": [
+    {
+      "text": "Which particle carries electric charge in a conductor?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "What is the SI unit of current?",
+      "type": "choice",
+      "choices": ["Ampere", "Volt", "Ohm", "Coulomb"],
+      "answer": 0
+    },
+    {
+      "text": "Which component is used to resist current in a circuit?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Inductor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "What is the relationship between voltage, current, and resistance called?",
+      "type": "choice",
+      "choices": ["Ohm’s Law", "Faraday’s Law", "Kirchhoff’s Law", "Coulomb’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which device is used to measure current in a circuit?",
+      "type": "choice",
+      "choices": ["Ammeter", "Voltmeter", "Multimeter", "Oscilloscope"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Electric current is the flow of electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Conductors have high resistance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Voltage is the energy per unit charge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula for Ohm’s Law.",
+      "type": "input",
+      "answer": ["V = IR", "voltage = current × resistance"]
+    },
+    {
+      "text": "Name one common use of resistors in circuits.",
+      "type": "input",
+      "answer": ["current limiting", "voltage division", "LED protection"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Circular Motion",
+  "quiz": [
+    {
+      "text": "Which force keeps an object moving in a circular path?",
+      "type": "choice",
+      "choices": ["Centripetal force", "Centrifugal force", "Gravitational force", "Friction"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures the rate of rotation in circular motion?",
+      "type": "choice",
+      "choices": ["Angular velocity", "Linear velocity", "Acceleration", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula represents centripetal acceleration?",
+      "type": "choice",
+      "choices": ["a = v²/r", "a = F/m", "a = Δv/Δt", "a = rω²"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit is used to measure angular velocity?",
+      "type": "choice",
+      "choices": ["rad/s", "m/s", "N", "J"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases the centripetal force on an object?",
+      "type": "choice",
+      "choices": ["Mass", "Speed", "Radius decrease", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Centripetal force acts towards the center of the circle.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Centripetal acceleration is always directed tangent to the circle.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Circular motion can occur without any force acting on the object.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for centripetal force.",
+      "type": "input",
+      "answer": ["F = mv²/r", "force = mass × velocity² / radius"]
+    },
+    {
+      "text": "Name one example of circular motion in everyday life.",
+      "type": "input",
+      "answer": ["car turning a corner", "planet orbiting sun", "rollercoaster loop"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Current & Charge",
+  "quiz": [
+    {
+      "text": "Which quantity represents the flow of electric charge?",
+      "type": "choice",
+      "choices": ["Current", "Voltage", "Resistance", "Power"],
+      "answer": 0
+    },
+    {
+      "text": "Which SI unit measures electric charge?",
+      "type": "choice",
+      "choices": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "answer": 0
+    },
+    {
+      "text": "What is the relationship between current, charge, and time?",
+      "type": "choice",
+      "choices": ["I = Q/t", "V = IR", "F = qE", "P = IV"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle carries negative charge in a circuit?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the flow of charge in a conductor?",
+      "type": "choice",
+      "choices": ["Voltage", "Resistance", "Both voltage and resistance", "Mass"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Electric current is measured in amperes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Charge can flow in a vacuum without a conductor.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electrons move from negative to positive in a conductor.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula linking current, charge, and time.",
+      "type": "input",
+      "answer": ["I = Q/t", "current = charge / time"]
+    },
+    {
+      "text": "Give one example of electric charge in everyday life.",
+      "type": "input",
+      "answer": ["static electricity", "battery powering device", "electron flow in wire"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Electric Circuits",
+  "quiz": [
+    {
+      "text": "Which component stores electrical energy in a circuit?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Inductor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates voltage, current, and resistance in a circuit?",
+      "type": "choice",
+      "choices": ["Ohm’s Law", "Faraday’s Law", "Kirchhoff’s Law", "Newton’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which component allows current to flow in only one direction?",
+      "type": "choice",
+      "choices": ["Diode", "Resistor", "Capacitor", "Battery"],
+      "answer": 0
+    },
+    {
+      "text": "Which device measures voltage across a component?",
+      "type": "choice",
+      "choices": ["Voltmeter", "Ammeter", "Wattmeter", "Galvanometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which connection type has the same current through all components?",
+      "type": "choice",
+      "choices": ["Series", "Parallel", "Mixed", "Open"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In a parallel circuit, the voltage across each branch is the same.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A resistor increases current in a circuit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Kirchhoff’s laws help analyse complex circuits.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula for total resistance in a series circuit.",
+      "type": "input",
+      "answer": ["R_total = R1 + R2 + R3", "total resistance = sum of resistances"]
+    },
+    {
+      "text": "Name one practical use of a resistor in a circuit.",
+      "type": "input",
+      "answer": ["current limiting", "LED protection", "voltage division"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Electromagnetic Induction",
+  "quiz": [
+    {
+      "text": "Which phenomenon produces an EMF when a conductor moves in a magnetic field?",
+      "type": "choice",
+      "choices": ["Electromagnetic induction", "Conduction", "Polarization", "Electrolysis"],
+      "answer": 0
+    },
+    {
+      "text": "Who discovered the principle of electromagnetic induction?",
+      "type": "choice",
+      "choices": ["Faraday", "Ohm", "Maxwell", "Tesla"],
+      "answer": 0
+    },
+    {
+      "text": "Which device works based on electromagnetic induction?",
+      "type": "choice",
+      "choices": ["Transformer", "Resistor", "Capacitor", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that induced EMF opposes the change causing it?",
+      "type": "choice",
+      "choices": ["Lenz’s Law", "Ohm’s Law", "Coulomb’s Law", "Kirchhoff’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the magnitude of induced EMF?",
+      "type": "choice",
+      "choices": ["Rate of change of flux", "Number of turns in coil", "Strength of magnetic field", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Electromagnetic induction can occur in a stationary conductor in a changing magnetic field.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Lenz’s Law ensures energy conservation in induction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Induced current always flows in the direction of the applied magnetic field.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for induced EMF using magnetic flux.",
+      "type": "input",
+      "answer": ["EMF = -dΦ/dt", "emf = negative rate of change of flux"]
+    },
+    {
+      "text": "Name one practical application of electromagnetic induction.",
+      "type": "input",
+      "answer": ["electric generator", "transformer", "induction cooktop"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Exp. Qs. - Electricity",
+  "quiz": [
+    {
+      "text": "Which instrument is used to measure current in a circuit?",
+      "type": "choice",
+      "choices": ["Ammeter", "Voltmeter", "Resistor", "Oscilloscope"],
+      "answer": 0
+    },
+    {
+      "text": "Which component is used to change the current in a circuit?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Inductor", "Battery"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates current, voltage, and resistance?",
+      "type": "choice",
+      "choices": ["Ohm’s Law", "Kirchhoff’s Law", "Faraday’s Law", "Coulomb’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of circuit allows current to flow through multiple paths?",
+      "type": "choice",
+      "choices": ["Parallel", "Series", "Open", "Short"],
+      "answer": 0
+    },
+    {
+      "text": "Which device stores electrical energy temporarily in a circuit?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Battery", "Diode"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Voltage is measured in volts.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Resistance increases current in a circuit.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electric current is the flow of electrons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula for Ohm’s Law.",
+      "type": "input",
+      "answer": ["V = IR", "voltage = current × resistance"]
+    },
+    {
+      "text": "Name one safety precaution when performing electricity experiments.",
+      "type": "input",
+      "answer": ["turn off power", "use insulated wires", "avoid wet hands"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Exp. Qs. - Heat",
+  "quiz": [
+    {
+      "text": "Which instrument measures temperature?",
+      "type": "choice",
+      "choices": ["Thermometer", "Barometer", "Hygrometer", "Voltmeter"],
+      "answer": 0
+    },
+    {
+      "text": "Which method transfers heat through direct contact?",
+      "type": "choice",
+      "choices": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "answer": 0
+    },
+    {
+      "text": "Which process transfers heat through moving fluids?",
+      "type": "choice",
+      "choices": ["Convection", "Conduction", "Radiation", "Evaporation"],
+      "answer": 0
+    },
+    {
+      "text": "Which process transfers heat via electromagnetic waves?",
+      "type": "choice",
+      "choices": ["Radiation", "Conduction", "Convection", "Reflection"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is a good thermal conductor?",
+      "type": "choice",
+      "choices": ["Copper", "Wood", "Plastic", "Rubber"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Heat always flows from cold to hot.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Metals are generally good conductors of heat.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Evaporation is a method of heat transfer.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula linking heat, mass, specific heat capacity, and temperature change.",
+      "type": "input",
+      "answer": ["Q = mcΔT", "heat = mass × specific heat × temperature change"]
+    },
+    {
+      "text": "Name one example of convection in everyday life.",
+      "type": "input",
+      "answer": ["boiling water", "hot air rising", "central heating"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Exp. Qs. - Light",
+  "quiz": [
+    {
+      "text": "Which instrument is used to measure the angle of incidence and reflection?",
+      "type": "choice",
+      "choices": ["Protractor", "Thermometer", "Barometer", "Voltmeter"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when light bends as it passes from one medium to another?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that the angle of incidence equals the angle of reflection?",
+      "type": "choice",
+      "choices": ["Law of Reflection", "Snell’s Law", "Newton’s Law", "Faraday’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which colour of light bends most when passing through a prism?",
+      "type": "choice",
+      "choices": ["Violet", "Red", "Green", "Blue"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lens converges light rays to a point?",
+      "type": "choice",
+      "choices": ["Convex lens", "Concave lens", "Plano lens", "Diverging lens"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Light travels fastest in air compared to glass.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A concave lens converges light rays.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: White light can be dispersed into a spectrum of colours.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write Snell’s Law formula for refraction.",
+      "type": "input",
+      "answer": ["n1 sinθ1 = n2 sinθ2", "refractive index formula"]
+    },
+    {
+      "text": "Name one practical application of lenses.",
+      "type": "input",
+      "answer": ["eyeglasses", "camera lens", "magnifying glass"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Exp. Qs. - Mechanics",
+  "quiz": [
+    {
+      "text": "Which quantity measures the amount of matter in an object?",
+      "type": "choice",
+      "choices": ["Mass", "Weight", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures force directly?",
+      "type": "choice",
+      "choices": ["Spring balance", "Voltmeter", "Ammeter", "Thermometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity is calculated as mass × velocity?",
+      "type": "choice",
+      "choices": ["Momentum", "Acceleration", "Force", "Energy"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that force equals mass × acceleration?",
+      "type": "choice",
+      "choices": ["Newton’s Second Law", "Newton’s First Law", "Newton’s Third Law", "Hooke’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures pressure in fluids?",
+      "type": "choice",
+      "choices": ["Manometer", "Voltmeter", "Barometer", "Ammeter"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Mass and weight are the same quantity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Momentum is a vector quantity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Acceleration is the rate of change of displacement.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for momentum.",
+      "type": "input",
+      "answer": ["p = mv", "momentum = mass × velocity"]
+    },
+    {
+      "text": "Give one example of Newton’s Second Law in everyday life.",
+      "type": "input",
+      "answer": ["pushing a car", "kicking a ball", "throwing a stone"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Exp. Qs. - Sound",
+  "quiz": [
+    {
+      "text": "Which instrument measures the frequency of a sound wave?",
+      "type": "choice",
+      "choices": ["Oscilloscope", "Voltmeter", "Thermometer", "Barometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of sound determines its pitch?",
+      "type": "choice",
+      "choices": ["Frequency", "Amplitude", "Wavelength", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of sound determines its loudness?",
+      "type": "choice",
+      "choices": ["Amplitude", "Frequency", "Wavelength", "Phase"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when sound waves bend around obstacles?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which medium transmits sound fastest?",
+      "type": "choice",
+      "choices": ["Solid", "Liquid", "Gas", "Vacuum"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sound can travel through a vacuum.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Higher frequency sounds have higher pitch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Amplitude affects the pitch of a sound.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula linking wave speed, frequency, and wavelength.",
+      "type": "input",
+      "answer": ["v = fλ", "wave speed = frequency × wavelength"]
+    },
+    {
+      "text": "Give one example of diffraction of sound.",
+      "type": "input",
+      "answer": ["hearing sound around a corner", "sound bending through a doorway"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Force, Mass & Momentum",
+  "quiz": [
+    {
+      "text": "Which quantity measures inertia of an object?",
+      "type": "choice",
+      "choices": ["Mass", "Weight", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that every action has an equal and opposite reaction?",
+      "type": "choice",
+      "choices": ["Newton’s Third Law", "Newton’s First Law", "Newton’s Second Law", "Hooke’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates momentum?",
+      "type": "choice",
+      "choices": ["p = mv", "F = ma", "v = u + at", "W = Fd"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the force needed to accelerate an object?",
+      "type": "choice",
+      "choices": ["Mass", "Acceleration", "Both mass and acceleration", "Velocity"],
+      "answer": 2
+    },
+    {
+      "text": "Which quantity is the product of force and time?",
+      "type": "choice",
+      "choices": ["Impulse", "Momentum", "Work", "Energy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Momentum is conserved in all collisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Weight and mass are measured in the same units.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Impulse can change an object’s momentum.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula linking impulse and change in momentum.",
+      "type": "input",
+      "answer": ["Impulse = Δp", "FΔt = Δp"]
+    },
+    {
+      "text": "Give one example of Newton’s Third Law in daily life.",
+      "type": "input",
+      "answer": ["rocket launch", "pushing off a wall", "jumping from a boat"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Heat & Heat Transfer",
+  "quiz": [
+    {
+      "text": "Which method transfers heat through direct contact?",
+      "type": "choice",
+      "choices": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "answer": 0
+    },
+    {
+      "text": "Which method transfers heat through moving fluids?",
+      "type": "choice",
+      "choices": ["Convection", "Conduction", "Radiation", "Reflection"],
+      "answer": 0
+    },
+    {
+      "text": "Which method transfers heat via electromagnetic waves?",
+      "type": "choice",
+      "choices": ["Radiation", "Conduction", "Convection", "Insulation"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is a good thermal conductor?",
+      "type": "choice",
+      "choices": ["Copper", "Wood", "Plastic", "Rubber"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is a good thermal insulator?",
+      "type": "choice",
+      "choices": ["Wood", "Copper", "Aluminium", "Steel"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Heat always flows from a colder body to a hotter body.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Metals are generally good conductors of heat.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Convection occurs in solids only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula linking heat, mass, specific heat capacity, and temperature change.",
+      "type": "input",
+      "answer": ["Q = mcΔT", "heat = mass × specific heat × temperature change"]
+    },
+    {
+      "text": "Give one example of convection in everyday life.",
+      "type": "input",
+      "answer": ["boiling water", "hot air rising", "central heating"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Light",
+  "quiz": [
+    {
+      "text": "Which phenomenon occurs when light bounces off a surface?",
+      "type": "choice",
+      "choices": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when light bends passing from one medium to another?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that the angle of incidence equals the angle of reflection?",
+      "type": "choice",
+      "choices": ["Law of Reflection", "Snell’s Law", "Newton’s Law", "Faraday’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which colour of light bends most when passing through a prism?",
+      "type": "choice",
+      "choices": ["Violet", "Red", "Green", "Blue"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lens converges light rays to a point?",
+      "type": "choice",
+      "choices": ["Convex lens", "Concave lens", "Plano lens", "Diverging lens"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Light travels fastest in vacuum compared to air.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A concave lens converges light rays.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: White light can be dispersed into a spectrum of colours.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write Snell’s Law formula for refraction.",
+      "type": "input",
+      "answer": ["n1 sinθ1 = n2 sinθ2", "refractive index formula"]
+    },
+    {
+      "text": "Name one practical application of lenses.",
+      "type": "input",
+      "answer": ["eyeglasses", "camera lens", "magnifying glass"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Magnets & Magnetic Fields",
+  "quiz": [
+    {
+      "text": "Which pole of a magnet attracts the north pole of another magnet?",
+      "type": "choice",
+      "choices": ["South pole", "North pole", "Both poles", "Neither pole"],
+      "answer": 0
+    },
+    {
+      "text": "Which region around a magnet exerts magnetic force?",
+      "type": "choice",
+      "choices": ["Magnetic field", "Electric field", "Gravitational field", "Radiation field"],
+      "answer": 0
+    },
+    {
+      "text": "Which device detects magnetic fields?",
+      "type": "choice",
+      "choices": ["Compass", "Voltmeter", "Ammeter", "Thermometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is easily magnetised?",
+      "type": "choice",
+      "choices": ["Iron", "Copper", "Plastic", "Glass"],
+      "answer": 0
+    },
+    {
+      "text": "Which current produces a magnetic field?",
+      "type": "choice",
+      "choices": ["Electric current", "Static charge", "Voltage", "Resistance"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Like poles of a magnet repel each other.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Magnetic fields exist only near the poles.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A current-carrying wire produces a magnetic field.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one practical application of magnets.",
+      "type": "input",
+      "answer": ["compass", "electric motor", "magnetic storage"]
+    },
+    {
+      "text": "What is the shape of the magnetic field around a bar magnet?",
+      "type": "input",
+      "answer": ["field lines", "closed loops", "lines from north to south"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Nuclear Energy",
+  "quiz": [
+    {
+      "text": "Which particle is emitted in alpha decay?",
+      "type": "choice",
+      "choices": ["Helium nucleus", "Electron", "Neutron", "Proton"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle is emitted in beta decay?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Helium nucleus"],
+      "answer": 0
+    },
+    {
+      "text": "Which nuclear reaction splits a heavy nucleus into smaller nuclei?",
+      "type": "choice",
+      "choices": ["Fission", "Fusion", "Radioactive decay", "Alpha decay"],
+      "answer": 0
+    },
+    {
+      "text": "Which nuclear reaction combines light nuclei to form a heavier nucleus?",
+      "type": "choice",
+      "choices": ["Fusion", "Fission", "Beta decay", "Gamma decay"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures radioactivity?",
+      "type": "choice",
+      "choices": ["Becquerel", "Volt", "Ampere", "Newton"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alpha particles can be stopped by paper.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Nuclear fusion occurs naturally in the sun.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fission produces more energy than fusion per reaction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Give one use of nuclear radiation.",
+      "type": "input",
+      "answer": ["medical imaging", "cancer treatment", "power generation"]
+    },
+    {
+      "text": "Name one safety measure when working with radioactive materials.",
+      "type": "input",
+      "answer": ["lead shielding", "distance", "limit exposure time"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Particle Physics",
+  "quiz": [
+    {
+      "text": "Which particle has a positive charge?",
+      "type": "choice",
+      "choices": ["Proton", "Neutron", "Electron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle has no charge?",
+      "type": "choice",
+      "choices": ["Neutron", "Proton", "Electron", "Positron"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle has a negative charge?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle is found outside the nucleus?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Positron"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle determines the element's atomic number?",
+      "type": "choice",
+      "choices": ["Proton", "Neutron", "Electron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Neutrons have no mass.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electrons orbit the nucleus in energy levels.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A proton and an electron have equal charge magnitude but opposite sign.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one particle that is not part of an atom.",
+      "type": "input",
+      "answer": ["photon", "neutrino", "meson"]
+    },
+    {
+      "text": "Write the symbol for a neutron.",
+      "type": "input",
+      "answer": ["n", "n0", "neutron"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Potential Difference & Capacitance",
+  "quiz": [
+    {
+      "text": "Which unit measures potential difference?",
+      "type": "choice",
+      "choices": ["Volt", "Ampere", "Ohm", "Coulomb"],
+      "answer": 0
+    },
+    {
+      "text": "Which instrument measures potential difference?",
+      "type": "choice",
+      "choices": ["Voltmeter", "Ammeter", "Galvanometer", "Wattmeter"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures capacitance?",
+      "type": "choice",
+      "choices": ["Farad", "Volt", "Ohm", "Ampere"],
+      "answer": 0
+    },
+    {
+      "text": "Which device stores electric charge?",
+      "type": "choice",
+      "choices": ["Capacitor", "Resistor", "Inductor", "Transformer"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects capacitance?",
+      "type": "choice",
+      "choices": ["Plate area and separation", "Voltage only", "Current only", "Resistance"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A capacitor can release stored energy instantly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Capacitance is measured in ohms.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Increasing plate separation increases capacitance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula linking charge, capacitance, and voltage.",
+      "type": "input",
+      "answer": ["Q = CV", "charge = capacitance × voltage"]
+    },
+    {
+      "text": "Give one practical application of a capacitor.",
+      "type": "input",
+      "answer": ["camera flash", "smoothing voltage in circuits", "energy storage"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Pressure, Gravity & Moments",
+  "quiz": [
+    {
+      "text": "Which formula calculates pressure?",
+      "type": "choice",
+      "choices": ["Pressure = Force ÷ Area", "Pressure = Mass × Gravity", "Pressure = Work ÷ Distance", "Pressure = Density × Volume"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures pressure?",
+      "type": "choice",
+      "choices": ["Pascal", "Newton", "Joule", "Volt"],
+      "answer": 0
+    },
+    {
+      "text": "Which force pulls objects toward Earth?",
+      "type": "choice",
+      "choices": ["Gravity", "Friction", "Electrostatic", "Magnetic"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the moment of a force?",
+      "type": "choice",
+      "choices": ["Force and perpendicular distance from pivot", "Mass only", "Distance only", "Time only"],
+      "answer": 0
+    },
+    {
+      "text": "Which condition indicates equilibrium of moments?",
+      "type": "choice",
+      "choices": ["Clockwise moments = Anticlockwise moments", "Force = Mass", "Weight = Pressure", "Velocity = Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Pressure increases with decreasing area.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Weight is a type of mass.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A lever is balanced when clockwise moments equal anticlockwise moments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula for calculating a moment.",
+      "type": "input",
+      "answer": ["Moment = Force × Distance", "M = F × d"]
+    },
+    {
+      "text": "Give one practical example of pressure in daily life.",
+      "type": "input",
+      "answer": ["knife cutting", "hydraulic press", "car tyre"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Reflection & Mirrors",
+  "quiz": [
+    {
+      "text": "Which type of mirror converges parallel rays to a focus?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plane", "Diverging"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of mirror diverges light rays?",
+      "type": "choice",
+      "choices": ["Convex", "Concave", "Plane", "Parabolic"],
+      "answer": 0
+    },
+    {
+      "text": "Which mirror forms a virtual, upright image?",
+      "type": "choice",
+      "choices": ["Plane", "Concave", "Convex", "Concave parabolic"],
+      "answer": 0
+    },
+    {
+      "text": "Which law governs the reflection of light?",
+      "type": "choice",
+      "choices": ["Angle of incidence = Angle of reflection", "Snell’s Law", "Newton’s First Law", "Faraday’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which mirror is commonly used as a rear-view mirror?",
+      "type": "choice",
+      "choices": ["Convex", "Concave", "Plane", "Concave parabolic"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Concave mirrors can produce real images.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Plane mirrors form magnified images.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Angle of reflection is measured from the normal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one use of concave mirrors in daily life.",
+      "type": "input",
+      "answer": ["shaving mirror", "dentist’s mirror", "torch reflector"]
+    },
+    {
+      "text": "Write the formula linking object distance, image distance, and focal length for mirrors.",
+      "type": "input",
+      "answer": ["1/f = 1/u + 1/v", "mirror formula"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Refraction & Lenses",
+  "quiz": [
+    {
+      "text": "Which phenomenon occurs when light bends passing from one medium to another?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lens converges parallel rays to a focus?",
+      "type": "choice",
+      "choices": ["Convex", "Concave", "Plano", "Diverging"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lens diverges parallel rays?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Parabolic"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates the angle of incidence and refraction?",
+      "type": "choice",
+      "choices": ["Snell’s Law", "Law of Reflection", "Newton’s Law", "Faraday’s Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of lens is used to correct short-sightedness?",
+      "type": "choice",
+      "choices": ["Concave", "Convex", "Plano", "Bifocal"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Light slows down when entering a denser medium.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Convex lenses always produce virtual images.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The angle of refraction is measured from the normal.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the lens formula linking focal length, object distance, and image distance.",
+      "type": "input",
+      "answer": ["1/f = 1/u + 1/v", "lens formula"]
+    },
+    {
+      "text": "Give one practical use of lenses in daily life.",
+      "type": "input",
+      "answer": ["eyeglasses", "magnifying glass", "camera lens"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Resistance",
+  "quiz": [
+    {
+      "text": "Which unit measures resistance?",
+      "type": "choice",
+      "choices": ["Ohm", "Volt", "Ampere", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which device measures resistance?",
+      "type": "choice",
+      "choices": ["Ohmmeter", "Voltmeter", "Ammeter", "Galvanometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the resistance of a wire?",
+      "type": "choice",
+      "choices": ["Length, area, material", "Voltage only", "Current only", "Temperature only"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula links resistance, voltage, and current?",
+      "type": "choice",
+      "choices": ["R = V/I", "V = IR", "P = VI", "Q = It"],
+      "answer": 0
+    },
+    {
+      "text": "Which material has low resistance?",
+      "type": "choice",
+      "choices": ["Copper", "Rubber", "Plastic", "Glass"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Increasing the length of a wire increases its resistance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thicker wires have higher resistance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Resistance is independent of temperature.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula to calculate resistivity.",
+      "type": "input",
+      "answer": ["R = ρL/A", "resistance = resistivity × length / area"]
+    },
+    {
+      "text": "Give one practical application of resistance in circuits.",
+      "type": "input",
+      "answer": ["heating element", "LED resistor", "voltage divider"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Semiconductors",
+  "quiz": [
+    {
+      "text": "Which type of semiconductor is pure, without impurities?",
+      "type": "choice",
+      "choices": ["Intrinsic", "Extrinsic", "N-type", "P-type"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of semiconductor has added impurities to control conductivity?",
+      "type": "choice",
+      "choices": ["Extrinsic", "Intrinsic", "N-type", "P-type"],
+      "answer": 0
+    },
+    {
+      "text": "Which semiconductor has extra electrons as majority carriers?",
+      "type": "choice",
+      "choices": ["N-type", "P-type", "Intrinsic", "Extrinsic"],
+      "answer": 0
+    },
+    {
+      "text": "Which semiconductor has holes as majority carriers?",
+      "type": "choice",
+      "choices": ["P-type", "N-type", "Intrinsic", "Extrinsic"],
+      "answer": 0
+    },
+    {
+      "text": "Which device uses a semiconductor to control current flow?",
+      "type": "choice",
+      "choices": ["Diode", "Resistor", "Capacitor", "Inductor"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Semiconductors conduct better at higher temperatures.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: N-type semiconductors have more holes than electrons.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A diode allows current to flow in one direction only.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one application of semiconductors in electronics.",
+      "type": "input",
+      "answer": ["diode", "transistor", "LED", "solar cell"]
+    },
+    {
+      "text": "Name the semiconductor material commonly used in electronics.",
+      "type": "input",
+      "answer": ["silicon", "germanium"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Simple Harmonic Motion",
+  "quiz": [
+    {
+      "text": "Which type of motion repeats regularly over time?",
+      "type": "choice",
+      "choices": ["Simple Harmonic Motion", "Uniform motion", "Random motion", "Projectile motion"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity is maximum at the equilibrium position in SHM?",
+      "type": "choice",
+      "choices": ["Velocity", "Displacement", "Acceleration", "Force"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity is maximum at the extreme positions in SHM?",
+      "type": "choice",
+      "choices": ["Acceleration", "Velocity", "Displacement", "Time period"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula gives the period of a mass-spring system?",
+      "type": "choice",
+      "choices": ["T = 2π√(m/k)", "T = m/k", "T = k/m", "T = √(k/m)"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the period of a simple pendulum?",
+      "type": "choice",
+      "choices": ["Length of pendulum", "Mass of bob", "Amplitude", "Width of string"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Acceleration is always directed towards equilibrium in SHM.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Velocity is zero at the equilibrium position in SHM.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Time period depends on amplitude in SHM for small oscillations.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for the maximum velocity in SHM.",
+      "type": "input",
+      "answer": ["v_max = ωA", "v = angular frequency × amplitude"]
+    },
+    {
+      "text": "Give one example of simple harmonic motion in daily life.",
+      "type": "input",
+      "answer": ["pendulum", "mass-spring system", "vibrating string"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Speed, Displacement, Velocity",
+  "quiz": [
+    {
+      "text": "Which quantity is the distance traveled per unit time?",
+      "type": "choice",
+      "choices": ["Speed", "Velocity", "Displacement", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity includes both magnitude and direction?",
+      "type": "choice",
+      "choices": ["Velocity", "Speed", "Distance", "Time"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures the straight-line distance between start and end points?",
+      "type": "choice",
+      "choices": ["Displacement", "Distance", "Velocity", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates average speed?",
+      "type": "choice",
+      "choices": ["Speed = Distance ÷ Time", "Velocity = Displacement ÷ Time", "a = Δv ÷ t", "v = u + at"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates average velocity?",
+      "type": "choice",
+      "choices": ["Velocity = Displacement ÷ Time", "Speed = Distance ÷ Time", "a = Δv ÷ t", "v = u + at"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Speed is a scalar quantity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Displacement can be greater than distance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Velocity can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula linking speed, distance, and time.",
+      "type": "input",
+      "answer": ["Speed = Distance ÷ Time", "s = d/t"]
+    },
+    {
+      "text": "Give one example of displacement in real life.",
+      "type": "input",
+      "answer": ["walking from home to school", "throwing a ball", "driving straight from A to B"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Static Electricity",
+  "quiz": [
+    {
+      "text": "Which charge is transferred by friction?",
+      "type": "choice",
+      "choices": ["Electrons", "Protons", "Neutrons", "Positrons"],
+      "answer": 0
+    },
+    {
+      "text": "Which law describes the force between two charges?",
+      "type": "choice",
+      "choices": ["Coulomb's Law", "Ohm's Law", "Faraday's Law", "Newton's Law"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of charge repels similar charges?",
+      "type": "choice",
+      "choices": ["Like charges", "Opposite charges", "Neutral charges", "Protons"],
+      "answer": 0
+    },
+    {
+      "text": "Which device detects static electricity?",
+      "type": "choice",
+      "choices": ["Electroscope", "Voltmeter", "Ammeter", "Galvanometer"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is a good insulator?",
+      "type": "choice",
+      "choices": ["Plastic", "Copper", "Aluminium", "Iron"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Only electrons move in static electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Static electricity requires current flow.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Opposite charges attract.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the formula for electrostatic force between two charges.",
+      "type": "input",
+      "answer": ["F = kq1q2/r²", "Coulomb's Law"]
+    },
+    {
+      "text": "Give one practical example of static electricity in daily life.",
+      "type": "input",
+      "answer": ["rubbing a balloon on hair", "clothes sticking after drying", "lightning"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Temperature & Thermometers",
+  "quiz": [
+    {
+      "text": "Which scale is commonly used in scientific temperature measurements?",
+      "type": "choice",
+      "choices": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+      "answer": 2
+    },
+    {
+      "text": "Which thermometer uses mercury to measure temperature?",
+      "type": "choice",
+      "choices": ["Liquid-in-glass", "Alcohol", "Digital", "Infrared"],
+      "answer": 0
+    },
+    {
+      "text": "Which thermometer type is used for body temperature?",
+      "type": "choice",
+      "choices": ["Clinical", "Mercury", "Alcohol", "Bimetallic strip"],
+      "answer": 0
+    },
+    {
+      "text": "Which temperature scale sets absolute zero at 0 units?",
+      "type": "choice",
+      "choices": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+      "answer": 0
+    },
+    {
+      "text": "Which thermometer uses a sensor to convert temperature into an electrical signal?",
+      "type": "choice",
+      "choices": ["Digital", "Mercury", "Alcohol", "Bimetallic strip"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alcohol thermometers can measure lower temperatures than mercury thermometers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thermometers measure heat directly.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Temperature and heat are the same physical quantity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula to convert Celsius to Kelvin.",
+      "type": "input",
+      "answer": ["K = °C + 273", "Kelvin = Celsius + 273"]
+    },
+    {
+      "text": "Give one practical application of thermometers in daily life.",
+      "type": "input",
+      "answer": ["measuring body temperature", "weather forecasting", "cooking"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "The Atom, Nucleus & Radioactivity",
+  "quiz": [
+    {
+      "text": "Which particles are found in the nucleus of an atom?",
+      "type": "choice",
+      "choices": ["Protons and neutrons", "Electrons", "Neutrons and electrons", "Protons and electrons"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle has a negative charge?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of radiation consists of two protons and two neutrons?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "X-ray"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of radiation is high-energy electromagnetic radiation?",
+      "type": "choice",
+      "choices": ["Gamma", "Alpha", "Beta", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of radiation consists of fast-moving electrons?",
+      "type": "choice",
+      "choices": ["Beta", "Alpha", "Gamma", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Neutrons carry no electric charge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alpha radiation is more penetrating than gamma radiation.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Radioactive decay is a random process.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give the symbol for an alpha particle.",
+      "type": "input",
+      "answer": ["α", "He²⁺", "alpha particle"]
+    },
+    {
+      "text": "Name one application of radioactivity in medicine or industry.",
+      "type": "input",
+      "answer": ["medical imaging", "cancer treatment", "tracing leaks", "radiometric dating"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "The Electron",
+  "quiz": [
+    {
+      "text": "Which particle carries a negative charge in an atom?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of an electron is very small compared to a proton?",
+      "type": "choice",
+      "choices": ["Mass", "Charge", "Spin", "Energy"],
+      "answer": 0
+    },
+    {
+      "text": "Which model describes electrons moving in fixed orbits around the nucleus?",
+      "type": "choice",
+      "choices": ["Bohr model", "Thomson model", "Rutherford model", "Schrodinger model"],
+      "answer": 0
+    },
+    {
+      "text": "Which property allows electrons to create current in a conductor?",
+      "type": "choice",
+      "choices": ["Charge", "Mass", "Spin", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which experiment first provided evidence for the electron?",
+      "type": "choice",
+      "choices": ["Cathode ray tube", "Oil drop", "Gold foil", "Double slit"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Electrons are heavier than protons.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electrons exist outside the nucleus.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All electrons in an atom have the same energy.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the symbol for an electron.",
+      "type": "input",
+      "answer": ["e⁻", "electron"]
+    },
+    {
+      "text": "Give one application of electrons in technology.",
+      "type": "input",
+      "answer": ["cathode ray tube", "electron microscope", "semiconductors"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Vectors & Scalars",
+  "quiz": [
+    {
+      "text": "Which quantity has both magnitude and direction?",
+      "type": "choice",
+      "choices": ["Vector", "Scalar", "Distance", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity has only magnitude?",
+      "type": "choice",
+      "choices": ["Scalar", "Vector", "Displacement", "Velocity"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a vector?",
+      "type": "choice",
+      "choices": ["Displacement", "Speed", "Temperature", "Mass"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a scalar?",
+      "type": "choice",
+      "choices": ["Distance", "Velocity", "Force", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "The resultant of two vectors can be found using which method?",
+      "type": "choice",
+      "choices": ["Parallelogram method", "Averaging method", "Subtraction only", "Scalar addition"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Speed is a vector quantity.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Displacement can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Vectors can be added using head-to-tail method.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write one example of a vector quantity in daily life.",
+      "type": "input",
+      "answer": ["velocity", "force", "displacement"]
+    },
+    {
+      "text": "Write one example of a scalar quantity in daily life.",
+      "type": "input",
+      "answer": ["speed", "mass", "temperature"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Vibration & Sound",
+  "quiz": [
+    {
+      "text": "What is the frequency of a sound wave measured in?",
+      "type": "choice",
+      "choices": ["Hertz", "Meters", "Seconds", "Watts"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of a sound wave determines its pitch?",
+      "type": "choice",
+      "choices": ["Frequency", "Amplitude", "Speed", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of a sound wave determines its loudness?",
+      "type": "choice",
+      "choices": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Sound waves in air are examples of which type of wave?",
+      "type": "choice",
+      "choices": ["Longitudinal", "Transverse", "Electromagnetic", "Stationary"],
+      "answer": 0
+    },
+    {
+      "text": "The time for one complete vibration is called?",
+      "type": "choice",
+      "choices": ["Period", "Amplitude", "Frequency", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sound can travel in a vacuum.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Higher frequency sounds are heard as higher pitch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Amplitude affects the speed of sound.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula linking wave speed, frequency, and wavelength.",
+      "type": "input",
+      "answer": ["v = f × λ", "wave speed = frequency × wavelength"]
+    },
+    {
+      "text": "Give one example of vibration producing sound in daily life.",
+      "type": "input",
+      "answer": ["guitar string", "drum", "tuning fork"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Waves & Wave Motion",
+  "quiz": [
+    {
+      "text": "Which type of wave has oscillations perpendicular to wave direction?",
+      "type": "choice",
+      "choices": ["Transverse", "Longitudinal", "Stationary", "Surface"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of wave has oscillations parallel to wave direction?",
+      "type": "choice",
+      "choices": ["Longitudinal", "Transverse", "Stationary", "Surface"],
+      "answer": 0
+    },
+    {
+      "text": "The distance between two consecutive crests is called?",
+      "type": "choice",
+      "choices": ["Wavelength", "Frequency", "Amplitude", "Period"],
+      "answer": 0
+    },
+    {
+      "text": "The number of waves passing a point per second is called?",
+      "type": "choice",
+      "choices": ["Frequency", "Period", "Wavelength", "Amplitude"],
+      "answer": 0
+    },
+    {
+      "text": "A wave that appears not to move is called?",
+      "type": "choice",
+      "choices": ["Stationary wave", "Traveling wave", "Transverse wave", "Longitudinal wave"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All waves transfer energy without transferring matter.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Longitudinal waves include sound waves in air.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Wavelength is inversely proportional to frequency.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write one formula linking wave speed, frequency, and wavelength.",
+      "type": "input",
+      "answer": ["v = f × λ", "wave speed = frequency × wavelength"]
+    },
+    {
+      "text": "Give one real-life example of a transverse wave.",
+      "type": "input",
+      "answer": ["water surface wave", "light wave", "rope wave"]
+    }
+  ]
+},
+{
+  "subject": "Physics",
+  "topic": "Work, Energy & Power",
+  "quiz": [
+    {
+      "text": "Work is defined as which of the following?",
+      "type": "choice",
+      "choices": ["Force × distance in direction of force", "Force × speed", "Mass × acceleration", "Energy × time"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures the rate at which work is done?",
+      "type": "choice",
+      "choices": ["Power", "Energy", "Force", "Velocity"],
+      "answer": 0
+    },
+    {
+      "text": "The energy of a moving object is called?",
+      "type": "choice",
+      "choices": ["Kinetic energy", "Potential energy", "Thermal energy", "Mechanical energy"],
+      "answer": 0
+    },
+    {
+      "text": "The energy stored due to position or configuration is called?",
+      "type": "choice",
+      "choices": ["Potential energy", "Kinetic energy", "Power", "Force"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit is used to measure energy?",
+      "type": "choice",
+      "choices": ["Joule", "Watt", "Newton", "Meter"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Work is done when a force is applied perpendicular to displacement.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Power = Work / Time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Energy can be created or destroyed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Write the formula for kinetic energy.",
+      "type": "input",
+      "answer": ["KE = 1/2 × m × v²", "Kinetic energy = 1/2 mass × velocity²"]
+    },
+    {
+      "text": "Write the formula linking work, force, and displacement.",
+      "type": "input",
+      "answer": ["Work = Force × Distance × cosθ", "W = F × d × cosθ"]
+    }
+  ]
+}
+]

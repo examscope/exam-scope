@@ -1,0 +1,978 @@
+[
+{
+  "subject": "Construction Studies",
+  "topic": "Air Tightness & Condensation",
+  "quiz": [
+    {
+      "text": "Which of the following helps improve air tightness in a house?",
+      "type": "choice",
+      "choices": ["Open chimneys", "Draft seals around windows", "Gaps in floorboards", "Unsealed attic hatches"],
+      "answer": 1
+    },
+    {
+      "text": "Condensation occurs when warm air meets a surface that is:",
+      "type": "choice",
+      "choices": ["Warmer", "Cooler", "Same temperature", "Insulated"],
+      "answer": 1
+    },
+    {
+      "text": "Which building material is often used as a vapour barrier?",
+      "type": "choice",
+      "choices": ["Timber", "Plaster", "Polythene sheet", "Concrete"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is a common result of poor ventilation and high condensation?",
+      "type": "choice",
+      "choices": ["Dry walls", "Mould growth", "Higher insulation", "Reduced humidity"],
+      "answer": 1
+    },
+    {
+      "text": "Where is air leakage most likely to occur in a house?",
+      "type": "choice",
+      "choices": ["Solid wall", "Sealed door", "Around service pipes", "Concrete floor"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Good air tightness reduces heat loss in a house.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Condensation is more likely in well-ventilated rooms.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Air tightness testing is measured using a blower door test.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the term for the temperature at which air becomes saturated and condensation begins?",
+      "type": "input",
+      "answer": ["dew point", "the dew point"]
+    },
+    {
+      "text": "Name one method used to reduce condensation inside a home.",
+      "type": "input",
+      "answer": ["ventilation", "improved ventilation", "air circulation", "extractor fan", "dehumidifier"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Concrete",
+  "quiz": [
+    {
+      "text": "Which of the following is NOT an ingredient of concrete?",
+      "type": "choice",
+      "choices": ["Cement", "Sand", "Gravel", "Timber"],
+      "answer": 3
+    },
+    {
+      "text": "What is the main function of cement in a concrete mix?",
+      "type": "choice",
+      "choices": ["To provide strength", "To act as a binder", "To allow drainage", "To reduce weight"],
+      "answer": 1
+    },
+    {
+      "text": "Which mix ratio is commonly used for general concrete work?",
+      "type": "choice",
+      "choices": ["1:2:3", "1:2:4", "1:3:6", "1:5:10"],
+      "answer": 1
+    },
+    {
+      "text": "What is added to concrete to make it reinforced?",
+      "type": "choice",
+      "choices": ["Plastic", "Steel", "Wood", "Glass"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor has the greatest effect on the strength of concrete?",
+      "type": "choice",
+      "choices": ["Water-cement ratio", "Colour of cement", "Shape of aggregate", "Mixing time"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Concrete continues to harden over time as it cures.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Air bubbles trapped in concrete can reduce its strength.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Concrete is weaker in tension than in compression.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the process of keeping concrete moist after placing called?",
+      "type": "input",
+      "answer": ["curing", "the curing process"]
+    },
+    {
+      "text": "Name one material commonly used as aggregate in concrete.",
+      "type": "input",
+      "answer": ["sand", "gravel", "crushed stone"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Drainage",
+  "quiz": [
+    {
+      "text": "What is the main function of a drainage system in a building?",
+      "type": "choice",
+      "choices": ["To supply clean water", "To remove waste water", "To collect rainwater for drinking", "To store sewage on site"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of drain carries waste from toilets?",
+      "type": "choice",
+      "choices": ["Surface water drain", "Foul water drain", "Storm drain", "Land drain"],
+      "answer": 1
+    },
+    {
+      "text": "Which material is commonly used for modern underground drainage pipes?",
+      "type": "choice",
+      "choices": ["Timber", "PVC", "Glass", "Copper"],
+      "answer": 1
+    },
+    {
+      "text": "What is the purpose of a trap under a sink?",
+      "type": "choice",
+      "choices": ["To catch food waste", "To prevent smells from drains", "To reduce water pressure", "To stop leaks"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of a drainage system provides access for cleaning and inspection?",
+      "type": "choice",
+      "choices": ["Inspection chamber", "Gully trap", "Manhole cover", "Downpipe"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Surface water and foul water should use the same drainage pipe.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Drainage pipes should be laid at a slight gradient.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A septic tank is used in rural areas without mains sewerage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is placed at the bottom of a gully to trap debris?",
+      "type": "input",
+      "answer": ["grating", "grid", "metal grating"]
+    },
+    {
+      "text": "Name one location in a house where a gully would be used.",
+      "type": "input",
+      "answer": ["kitchen", "bathroom", "utility room", "outside yard", "garden"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Fire Places & Fire Prevention",
+  "quiz": [
+    {
+      "text": "What is the main purpose of a chimney in a fireplace?",
+      "type": "choice",
+      "choices": ["To store heat", "To remove smoke and gases", "To decorate the room", "To hold the fire grate"],
+      "answer": 1
+    },
+    {
+      "text": "Which material is most commonly used to line chimneys for safety?",
+      "type": "choice",
+      "choices": ["Timber", "Plastic", "Clay", "Glass"],
+      "answer": 2
+    },
+    {
+      "text": "What is fitted at the top of a chimney to prevent downdrafts and rain?",
+      "type": "choice",
+      "choices": ["Flue", "Cap", "Hearth", "Lintel"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main function of a hearth in a fireplace?",
+      "type": "choice",
+      "choices": ["To increase air supply", "To protect the floor from fire", "To hold the chimney", "To reduce smoke"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a common fire prevention measure in buildings?",
+      "type": "choice",
+      "choices": ["Open timber staircases", "Smoke alarms", "Combustible insulation", "Unprotected steel beams"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Fire doors are designed to slow down the spread of fire.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All rooms with open fireplaces must have adequate ventilation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fireplaces should always be built with non-combustible materials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the fire-resistant board used around fireplaces often called?",
+      "type": "input",
+      "answer": ["fire board", "fire-resistant board", "fireproof board"]
+    },
+    {
+      "text": "Name one device fitted in homes to give early warning of fire.",
+      "type": "input",
+      "answer": ["smoke alarm", "fire alarm", "heat detector"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Foundations, Floors & Walls",
+  "quiz": [
+    {
+      "text": "What is the main purpose of a building foundation?",
+      "type": "choice",
+      "choices": ["To provide decoration", "To support and distribute load", "To prevent condensation", "To hold windows in place"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of foundation is commonly used for small residential buildings?",
+      "type": "choice",
+      "choices": ["Pile foundation", "Strip foundation", "Raft foundation", "Caisson foundation"],
+      "answer": 1
+    },
+    {
+      "text": "Which floor type is usually poured on site and reinforced with steel?",
+      "type": "choice",
+      "choices": ["Concrete slab", "Timber floor", "Suspended floor", "Raised floor"],
+      "answer": 0
+    },
+    {
+      "text": "Which wall type carries the load of the building above it?",
+      "type": "choice",
+      "choices": ["Partition wall", "Load-bearing wall", "Curtain wall", "Cladding wall"],
+      "answer": 1
+    },
+    {
+      "text": "Which material is commonly used for cavity wall insulation?",
+      "type": "choice",
+      "choices": ["Glass wool", "Plywood", "Concrete blocks", "Brick tiles"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Foundations must be built below the frost line to prevent movement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Timber floors are always stronger than concrete floors.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Cavity walls help reduce heat loss in buildings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common material used for building external walls.",
+      "type": "input",
+      "answer": ["brick", "concrete block", "stone", "timber"]
+    },
+    {
+      "text": "What is the term for a floor that is raised above ground level with ventilation below?",
+      "type": "input",
+      "answer": ["suspended floor", "timber suspended floor"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Heat & U Value Calculations",
+  "quiz": [
+    {
+      "text": "What does the 'U-value' of a building element measure?",
+      "type": "choice",
+      "choices": ["Air permeability", "Thermal transmittance", "Moisture content", "Fire resistance"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following materials has a low U-value?",
+      "type": "choice",
+      "choices": ["Glass", "Brick", "Insulation board", "Concrete"],
+      "answer": 2
+    },
+    {
+      "text": "A lower U-value indicates:",
+      "type": "choice",
+      "choices": ["Better insulation", "Higher heat loss", "Stronger walls", "More ventilation"],
+      "answer": 0
+    },
+    {
+      "text": "U-values are measured in which units?",
+      "type": "choice",
+      "choices": ["W/m²K", "J/kg", "Pa", "°C"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the U-value of a wall?",
+      "type": "choice",
+      "choices": ["Wall thickness", "Colour of paint", "Height of ceiling", "Room size"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Double-glazed windows have a lower U-value than single-glazed windows.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A wall with insulation has a higher U-value than a bare wall.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: U-values are important for calculating heat loss in buildings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one building element whose U-value is commonly calculated.",
+      "type": "input",
+      "answer": ["wall", "roof", "floor", "window", "door"]
+    },
+    {
+      "text": "What is the main purpose of calculating U-values in construction?",
+      "type": "input",
+      "answer": ["to assess heat loss", "to measure insulation efficiency", "to calculate energy efficiency"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Heat Loss & Insulation",
+  "quiz": [
+    {
+      "text": "Which of the following is the main purpose of insulation in a building?",
+      "type": "choice",
+      "choices": ["To reduce heat loss", "To strengthen walls", "To prevent condensation", "To allow airflow"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of insulation is commonly used in walls?",
+      "type": "choice",
+      "choices": ["Glass wool", "Concrete blocks", "Timber panels", "PVC sheets"],
+      "answer": 0
+    },
+    {
+      "text": "Where is loft insulation usually installed?",
+      "type": "choice",
+      "choices": ["On walls", "Between rafters", "On the floor", "Around windows"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of heat transfer does insulation mainly reduce?",
+      "type": "choice",
+      "choices": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "answer": 0
+    },
+    {
+      "text": "What is the effect of draughts on heat loss?",
+      "type": "choice",
+      "choices": ["Increase heat loss", "Reduce heat loss", "No effect", "Only affects walls"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Adding insulation to walls and roofs reduces energy bills.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Double-glazing windows help reduce heat loss.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Heat loss through floors is insignificant and can be ignored.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one material commonly used to insulate a roof or attic.",
+      "type": "input",
+      "answer": ["glass wool", "rock wool", "fibreglass", "polystyrene"]
+    },
+    {
+      "text": "Give one method to reduce heat loss through windows.",
+      "type": "input",
+      "answer": ["double glazing", "thermal curtains", "draught-proofing", "secondary glazing"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Hot Water & Space Heating",
+  "quiz": [
+    {
+      "text": "Which type of system is commonly used to heat water in homes?",
+      "type": "choice",
+      "choices": ["Solar panel only", "Electric immersion heater", "Gas boiler", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which heating system uses radiators to distribute heat?",
+      "type": "choice",
+      "choices": ["Central heating", "Underfloor heating", "Wood stove", "Fan heater"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these fuels can be used in a domestic boiler?",
+      "type": "choice",
+      "choices": ["Oil", "Gas", "Solid fuel", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is the main purpose of a hot water cylinder?",
+      "type": "choice",
+      "choices": ["Store hot water", "Distribute cold water", "Measure heat loss", "Support radiators"],
+      "answer": 0
+    },
+    {
+      "text": "Which device controls the temperature of a heating system?",
+      "type": "choice",
+      "choices": ["Thermostat", "Pump", "Radiator valve", "Expansion tank"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A combination boiler provides both space heating and hot water on demand.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electric radiators are always more energy efficient than gas boilers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Regular maintenance of a boiler improves safety and efficiency.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method of heating water without using electricity or gas.",
+      "type": "input",
+      "answer": ["solar water heater", "solar panel", "wood-fired boiler"]
+    },
+    {
+      "text": "Give one method to distribute heat evenly in a house.",
+      "type": "input",
+      "answer": ["radiators", "underfloor heating", "warm air system", "heat pump"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Planning, Sustainability & Environment",
+  "quiz": [
+    {
+      "text": "What is the purpose of a planning permission in construction?",
+      "type": "choice",
+      "choices": ["To decorate buildings", "To ensure legal compliance and safety", "To reduce construction cost", "To choose materials"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a sustainable building material?",
+      "type": "choice",
+      "choices": ["Plastic cladding", "Bamboo", "Concrete", "PVC pipes"],
+      "answer": 1
+    },
+    {
+      "text": "What does the term 'environmental impact assessment' mean?",
+      "type": "choice",
+      "choices": ["Checking building aesthetics", "Studying the effects on nature and communities", "Measuring heat loss", "Calculating U-values"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a renewable energy source used in buildings?",
+      "type": "choice",
+      "choices": ["Oil", "Coal", "Solar", "Natural gas"],
+      "answer": 2
+    },
+    {
+      "text": "What is one aim of sustainable construction?",
+      "type": "choice",
+      "choices": ["Increase energy use", "Reduce environmental impact", "Use more materials", "Increase water consumption"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Sustainable design includes reducing energy consumption.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Planning regulations do not consider safety or environmental concerns.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Reusing building materials is part of sustainable construction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one renewable energy source commonly used in homes.",
+      "type": "input",
+      "answer": ["solar", "wind", "biomass", "geothermal"]
+    },
+    {
+      "text": "Give one reason why planning permission is important.",
+      "type": "input",
+      "answer": ["ensure safety", "legal compliance", "protect environment", "avoid disputes"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Question One Drawing Questions",
+  "quiz": [
+    {
+      "text": "Which of these tools is used to draw straight lines accurately?",
+      "type": "choice",
+      "choices": ["Compass", "T-square", "Protractor", "Set square"],
+      "answer": 1
+    },
+    {
+      "text": "Which drawing shows the shape and size of an object as viewed from above?",
+      "type": "choice",
+      "choices": ["Elevation", "Plan", "Section", "Perspective"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of drawing shows the inside of a building by cutting through it?",
+      "type": "choice",
+      "choices": ["Elevation", "Section", "Perspective", "Isometric"],
+      "answer": 1
+    },
+    {
+      "text": "What is the purpose of dimension lines on a drawing?",
+      "type": "choice",
+      "choices": ["Show measurements", "Indicate materials", "Add colour", "Provide shading"],
+      "answer": 0
+    },
+    {
+      "text": "Which drawing method represents 3D objects in two dimensions?",
+      "type": "choice",
+      "choices": ["Orthographic projection", "Section", "Elevation", "Plan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A plan view is always drawn from above the object.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Elevation drawings show the internal structure of walls.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A scale ruler is used to measure accurately on a drawing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one tool used for drawing circles and arcs.",
+      "type": "input",
+      "answer": ["compass", "divider"]
+    },
+    {
+      "text": "Give one reason why drawing to scale is important in construction.",
+      "type": "input",
+      "answer": ["accurate measurements", "correct proportions", "planning construction", "fit components correctly"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Roofs",
+  "quiz": [
+    {
+      "text": "Which of these is a common type of pitched roof?",
+      "type": "choice",
+      "choices": ["Flat roof", "Gable roof", "Domed roof", "Green roof"],
+      "answer": 1
+    },
+    {
+      "text": "Which material is commonly used to cover pitched roofs?",
+      "type": "choice",
+      "choices": ["Concrete tiles", "Thatch", "Slates", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is the main purpose of roof insulation?",
+      "type": "choice",
+      "choices": ["Reduce heat loss", "Support tiles", "Increase roof slope", "Decorative finish"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of a roof supports the rafters?",
+      "type": "choice",
+      "choices": ["Purlin", "Truss", "Eaves", "Fascia board"],
+      "answer": 0
+    },
+    {
+      "text": "What is the function of guttering on a roof?",
+      "type": "choice",
+      "choices": ["Collect rainwater", "Support tiles", "Ventilate loft", "Add decoration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A flat roof has no slope and requires waterproofing.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Roof trusses are always made of steel.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Proper ventilation of a roof prevents condensation and rot.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one material used for roofing tiles.",
+      "type": "input",
+      "answer": ["slates", "concrete tiles", "clay tiles", "thatch"]
+    },
+    {
+      "text": "Give one purpose of roof insulation.",
+      "type": "input",
+      "answer": ["reduce heat loss", "improve energy efficiency", "maintain temperature", "prevent condensation"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Services, Water, Gas, Electrical",
+  "quiz": [
+    {
+      "text": "Which of these is a primary domestic service in a building?",
+      "type": "choice",
+      "choices": ["Water supply", "Internet", "Painting", "Landscaping"],
+      "answer": 0
+    },
+    {
+      "text": "Which pipe material is commonly used for potable water supply?",
+      "type": "choice",
+      "choices": ["PVC", "Copper", "Steel", "Lead"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of a gas meter?",
+      "type": "choice",
+      "choices": ["Measure water flow", "Measure gas consumption", "Regulate electricity", "Control heating"],
+      "answer": 1
+    },
+    {
+      "text": "Which device protects electrical circuits from overload?",
+      "type": "choice",
+      "choices": ["Fuse", "Switch", "Socket", "Conduit"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a renewable energy source for domestic services?",
+      "type": "choice",
+      "choices": ["Natural gas", "Coal", "Solar panels", "Oil"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: All electrical installations in homes must comply with national wiring regulations.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gas pipes can be installed anywhere without safety precautions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Hot water cylinders store and supply domestic hot water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one device used to prevent electrical shock in bathrooms.",
+      "type": "input",
+      "answer": ["RCD", "residual current device", "circuit breaker"]
+    },
+    {
+      "text": "Give one reason for installing a gas meter in a home.",
+      "type": "input",
+      "answer": ["measure consumption", "bill accurately", "monitor usage", "ensure safety"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Site Safety",
+  "quiz": [
+    {
+      "text": "Which of these is mandatory personal protective equipment (PPE) on a construction site?",
+      "type": "choice",
+      "choices": ["Hard hat", "Watch", "Sunglasses", "Necklace"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following helps prevent falls from height?",
+      "type": "choice",
+      "choices": ["Safety harness", "Steel boots", "Gloves", "Helmet"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of warning signs on a construction site?",
+      "type": "choice",
+      "choices": ["To decorate site", "To inform workers of hazards", "To measure progress", "To mark boundaries"],
+      "answer": 1
+    },
+    {
+      "text": "Which device is used to provide first aid in case of injury?",
+      "type": "choice",
+      "choices": ["Fire extinguisher", "First aid kit", "Hard hat", "Hi-vis jacket"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a common cause of accidents on site?",
+      "type": "choice",
+      "choices": ["Poor housekeeping", "Good ventilation", "Use of PPE", "Clear signage"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Workers must be trained in using machinery before operating it.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: It is safe to remove scaffolding without checking stability.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: High-visibility clothing helps prevent accidents on site.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of PPE used to protect the eyes.",
+      "type": "input",
+      "answer": ["safety goggles", "protective glasses", "eye protection"]
+    },
+    {
+      "text": "Give one method to prevent slips and trips on a construction site.",
+      "type": "input",
+      "answer": ["good housekeeping", "clear walkways", "remove obstacles", "dry floors"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Sound",
+  "quiz": [
+    {
+      "text": "Which of the following is a primary cause of noise in buildings?",
+      "type": "choice",
+      "choices": ["Traffic", "Vibration", "Poor insulation", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which material is commonly used to absorb sound in walls and ceilings?",
+      "type": "choice",
+      "choices": ["Concrete", "Glass wool", "Brick", "Timber"],
+      "answer": 1
+    },
+    {
+      "text": "What is the term for the measure of a material’s ability to block sound?",
+      "type": "choice",
+      "choices": ["U-value", "R-value", "Sound Reduction Index", "Thermal transmittance"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following reduces airborne noise between rooms?",
+      "type": "choice",
+      "choices": ["Double walls", "Cavity walls", "Insulated walls", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is flanking noise?",
+      "type": "choice",
+      "choices": ["Noise from outside the building", "Noise passing through indirect paths", "Noise from footsteps", "Noise in open spaces"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Sound insulation can improve comfort in residential buildings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Concrete blocks are always excellent at absorbing sound.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Double glazing can reduce noise from outside.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one material used to absorb sound in a room.",
+      "type": "input",
+      "answer": ["glass wool", "foam panels", "carpet", "fibreglass"]
+    },
+    {
+      "text": "Give one method to reduce sound transmission between floors.",
+      "type": "input",
+      "answer": ["floating floor", "insulation", "resilient floor layers", "carpet"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Windows & Doors",
+  "quiz": [
+    {
+      "text": "Which type of window opens by tilting or swinging?",
+      "type": "choice",
+      "choices": ["Casement window", "Fixed window", "Sliding window", "Awning window"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is commonly used for modern window frames?",
+      "type": "choice",
+      "choices": ["Timber", "PVC", "Aluminium", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "What is the main purpose of double glazing in windows?",
+      "type": "choice",
+      "choices": ["Improve strength", "Reduce heat loss and noise", "Increase window size", "Support roof structure"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of a door holds the hinges?",
+      "type": "choice",
+      "choices": ["Jamb", "Frame", "Lintel", "Threshold"],
+      "answer": 0
+    },
+    {
+      "text": "What is the function of a window sill?",
+      "type": "choice",
+      "choices": ["Support the window", "Channel water away", "Provide decoration", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Sliding windows are ideal for ventilation control.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A door threshold is part of the structural support of a building.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Modern windows can be designed to improve energy efficiency.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one material used for door construction.",
+      "type": "input",
+      "answer": ["timber", "steel", "PVC", "aluminium"]
+    },
+    {
+      "text": "Give one reason for installing double-glazed windows.",
+      "type": "input",
+      "answer": ["reduce heat loss", "energy efficiency", "sound insulation", "improve comfort"]
+    }
+  ]
+},
+{
+  "subject": "Construction Studies",
+  "topic": "Wood, Rot & Ventilation",
+  "quiz": [
+    {
+      "text": "Which type of wood decay is caused by fungi in wet conditions?",
+      "type": "choice",
+      "choices": ["Dry rot", "Wet rot", "Termite damage", "Splitting"],
+      "answer": 1
+    },
+    {
+      "text": "Which condition accelerates wood rot?",
+      "type": "choice",
+      "choices": ["High moisture", "Low temperature", "Dry air", "Sunlight exposure"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main purpose of ventilating a loft or roof space?",
+      "type": "choice",
+      "choices": ["Prevent condensation", "Support beams", "Reduce heat loss", "Decorate the roof"],
+      "answer": 0
+    },
+    {
+      "text": "Which treatment can prevent timber decay?",
+      "type": "choice",
+      "choices": ["Pressure-treated wood", "Painting", "Sealing", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which part of a building is most prone to dry rot?",
+      "type": "choice",
+      "choices": ["Floor joists", "Walls", "Ceiling plaster", "Window frames"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Dry rot can occur even in relatively dry conditions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ventilation reduces the risk of condensation and rot.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Wood never needs treatment if used indoors.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to prevent timber rot.",
+      "type": "input",
+      "answer": ["pressure treatment", "painting", "sealing", "good ventilation"]
+    },
+    {
+      "text": "Give one reason why roof or loft ventilation is important.",
+      "type": "input",
+      "answer": ["prevent condensation", "reduce rot", "improve air circulation", "protect timber"]
+    }
+  ]
+}
+]
