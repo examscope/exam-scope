@@ -5057,122 +5057,7 @@ i.bld-exit {
         margin-right: 0;
     }
 
-    .pap-top, .pap-row {
-        gap: 40px;
-    }
-    .pap-table {
-        background-color: white;
-        box-shadow: 0 0px 15px rgba(0, 0, 0, 0.2);
-        width: 100%;
-        padding: 20px 18px 12px;
-        border-radius: 12px;
-    }
-    .pap-filter {
-        border-bottom: 2px solid hsl(0, 0%, 90%);
-        padding-bottom: 12px;
-        margin-bottom: 24px;
-        width: 100%;
-        display: flex;
-        align-items: center;
-    }
-    .pap-box-container {
-        display: flex;
-        gap: 8px;
-    }
-    .pap-box {
-        cursor: pointer;
-        font-size: 14px;
-        font-weight: 500;
-        border-radius: 10px;
-        color: hsl(0, 0%, 20%);
-        transition: 0.2s ease;
-    }
-    .pap-box:hover {
-        background-color: hsl(0, 0%, 95%);
-    }
-    .pap-box-active {
-        background-color: hsl(145, 65%, 45%);
-        color: white;
-    }
-    .pap-box-active:hover {
-        background-color: hsl(145, 65%, 45%);
-    }
-    .pap-heading {
-        white-space: nowrap;
-        width: 110px;
-        font-size: 13px;
-        font-weight: 500;
-        color: hsl(0, 0%, 34%);
-    }
-    .pap-year {
-        width: 110px;
-        font-size: 24px;
-        font-weight: 500;
-        color: hsl(0, 0%, 25%);
-    }
-    .pap-type {
-        border-radius: 5px;
-        color: white;
-        height: 32px;
-        width: 90px;
-        margin-right: 20px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 13px;
-        font-weight: 500;
-        display: none;
-    }
-    .type-heading {
-        display: none;
-    }
-    .pap-m-type {
-        display: block;
-        color: hsl(0, 0%, 34%);
-        font-size: 13px;
-        margin-bottom: 6px;
-    }
-    .pap-type-state {
-        background-color: hsl(145, 65%, 45%);
-    }
-    .pap-type-mock {
-        background-color: hsl(145, 65%, 25%);
-    }
-    .pap-img-container {
-        position: relative;
-        width: 110px;
-        height: 70px;
-    }
-    .pap-img {
-        cursor: pointer;
-        border: 1px solid hsl(0, 0%, 60%);
-        height: 100%;
-        width: auto;
-    }
-    .pap-mark {
-        cursor: pointer;
-        border: 1px solid hsl(0, 0%, 60%);
-        width: 28px;
-        height: 28px;
-        border-radius: 4px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transition: 0.1s ease;
-    }
-    .pap-mark-active {
-        background-color: hsl(145, 65%, 45%);
-        border: 1px solid hsl(145, 65%, 45%);
-    }
-    .pap-check {
-        display: none;
-        font-size: 14px;
-        transition: 0.1s ease;
-    }
-    .pap-check-active {
-        display: block;
-        color: white;
-    }
+
 
     .res-heading {
         white-space: nowrap;
@@ -5277,6 +5162,124 @@ i.bld-exit {
     }
     .topc-empty-title {
         font-size: 22px;
+    }
+
+    .pap-top, .pap-row {
+        gap: 40px;
+    }
+    .pap-table {
+        background-color: white;
+        box-shadow: 0 0px 15px rgba(0, 0, 0, 0.2);
+        width: 100%;
+        padding: 20px 18px 12px;
+        border-radius: 12px;
+    }
+    .pap-filter {
+        border-bottom: 2px solid hsl(0, 0%, 90%);
+        padding-bottom: 12px;
+        margin-bottom: 24px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .pap-box-container {
+        display: flex;
+        gap: 8px;
+    }
+    .pap-box {
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        border-radius: 10px;
+        color: hsl(0, 0%, 20%);
+        transition: 0.2s ease;
+    }
+    .pap-box:hover {
+        background-color: hsl(0, 0%, 95%);
+    }
+    .pap-box-active {
+        background-color: hsl(145, 65%, 45%);
+        color: white;
+    }
+    .pap-box-active:hover {
+        background-color: hsl(145, 65%, 45%);
+    }
+    .pap-heading {
+        white-space: nowrap;
+        width: 110px;
+        font-size: 13px;
+        font-weight: 500;
+        color: hsl(0, 0%, 34%);
+    }
+    .pap-year {
+        width: 110px;
+        font-size: 24px;
+        font-weight: 500;
+        color: hsl(0, 0%, 25%);
+    }
+    .pap-type {
+        border-radius: 5px;
+        color: white;
+        height: 32px;
+        width: 90px;
+        margin-right: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 13px;
+        font-weight: 500;
+        display: none;
+    }
+    .type-heading {
+        display: none;
+    }
+    .pap-m-type {
+        width: 110px;
+        display: block;
+        color: hsl(0, 0%, 34%);
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+    .pap-type-state {
+        background-color: hsl(145, 65%, 45%);
+    }
+    .pap-type-mock {
+        background-color: hsl(145, 65%, 25%);
+    }
+    .pap-img-container {
+        position: relative;
+        width: 110px;
+        height: 70px;
+    }
+    .pap-img {
+        cursor: pointer;
+        border: 1px solid hsl(0, 0%, 60%);
+        height: 100%;
+        width: auto;
+    }
+    .pap-mark {
+        cursor: pointer;
+        border: 1px solid hsl(0, 0%, 60%);
+        width: 28px;
+        height: 28px;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: 0.1s ease;
+    }
+    .pap-mark-active {
+        background-color: hsl(145, 65%, 45%);
+        border: 1px solid hsl(145, 65%, 45%);
+    }
+    .pap-check {
+        display: none;
+        font-size: 14px;
+        transition: 0.1s ease;
+    }
+    .pap-check-active {
+        display: block;
+        color: white;
     }
 
     .bld-container {

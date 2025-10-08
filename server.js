@@ -203,12 +203,15 @@ app.get("/papers", (req, res) => {
     return res.sendFile(path.join(__dirname, 'private', 'past-papers.html'));
 });
 
+app.get("/welcome", (req, res) => {
+    return res.sendFile(path.join(__dirname, 'private', 'welcome.html'));
+});
+
 app.get("/papers/:certificate/:subject/:level", (req, res) => {
     return res.sendFile(path.join(__dirname, 'private', 'past-papers.html'));
 });
 
 app.get("/worksheets", (req, res) => {
-    console.log("hit");
     const filePath = path.join(__dirname, 'private', 'worksheet-builder.html');
     console.log("Trying to serve:", filePath);
     res.sendFile(filePath, (err) => {

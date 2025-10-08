@@ -264,10 +264,10 @@ function createHtml(){
                 <div class="foot-nav">
                     <div class="foot-ul">
                         <div class="foot-label">Company</div>
-                        <a href="about-us.html" class="foot-link">About us</a>
-                        <a href="about-us.html#features" class="foot-link">Features</a>
-                        <a href="about-us.html#pricing" class="foot-link">Privacy Policy</a>
-                        <a href="about-us.html#contact-us" class="foot-link">Terms of service</a>
+                        <a href="/welcome" class="foot-link">About us</a>
+                        <a href="/welcome#features" class="foot-link">Features</a>
+                        <a href="/welcome#faqs" class="foot-link">FAQs</a>
+                        <a href="/welcome#contact" class="foot-link">Contact us</a>
                     </div>
                     <div class="foot-ul">
                         <div class="foot-label">My Resources</div>
@@ -315,14 +315,14 @@ function createHtml(){
 
              <div class="header-nav">
                 <a href="/" class="header-link">Home</a>
-                <a href="about-us.html" class="header-link">About us</a>
-                <a href="about-us.html#features" class="header-link">Features</a>
-                <a href="about-us.html#pricing" class="header-link">Pricing</a>
-                <a href="about-us.html#contact-us" class="header-link">Contact us</a>
+                <a href="/welcome" class="header-link">About us</a>
+                <a href="/welcome#features" class="header-link">Features</a>
+                <a href="/welcome#faqs" class="header-link">FAQs</a>
+                <a href="/welcome#contact" class="header-link">Contact us</a>
              </div>
 
             <div class="header-group header-logged-nav logged-element">
-                <a href="about-us.html#contact-us" class="btn-upgrade">
+                <a href="/welcome#contact" class="btn-upgrade">
                     <div class="upgrade-txt">Feedback</div>
                     <i class="fa-solid fa-envelope upgrade-icon"></i>
                 </a>
@@ -339,11 +339,11 @@ function createHtml(){
                         <i class="fa-solid fa-gear pfp-drop-icon"></i>
                         <div class="pfp-drop-txt">Settings</div>
                     </a>
-                    <a href="about-us.html" class="pfp-drop-section">
+                    <a href="/welcome" class="pfp-drop-section">
                         <i class="fa-solid fa-graduation-cap pfp-drop-icon"></i>
                         <div class="pfp-drop-txt">About us</div>
                     </a>
-                    <a href="about-us.html#contact-us" class="pfp-drop-section">
+                    <a href="/welcome#contact" class="pfp-drop-section">
                         <i class="fa-solid fa-circle-question pfp-drop-icon"></i>
                         <div class="pfp-drop-txt">Help Centre</div>
                     </a>
@@ -402,14 +402,14 @@ function createHtml(){
                 </a>
             </div>
         </div>
-        <a href="about-us.html" class="side-section noti-section">
+        <a href="/welcome" class="side-section noti-section">
             <i class="fa-solid fa-book side-icon"></i>
             <div class="side-txt">Learn more</div>
         </a>
 
         <div class="side-split"></div>
 
-        <a href="about-us.html#contact-us" class="side-section">
+        <a href="/welcome#contact" class="side-section">
             <i class="fa-solid fa-circle-question side-icon"></i>
             <div class="side-txt">Help Centre</div>
         </a>
@@ -1467,8 +1467,8 @@ if(examContainer){
                             if(mtObj.layer == (idx + 1)){
                                 let newQuestionImg = document.createElement("img");
                                 newQuestionImg.classList.add("exam-question-img");
-                                newQuestionImg.src = mtObj.url;
-                                newQuestionImg.loading = "lazy";
+                                newQuestionImg.dataset.src = mtObj.url;
+                                lazyObserver.observe(newQuestionImg);
                                 examQuestionCont.appendChild(newQuestionImg);
                             }
                         });
@@ -1478,8 +1478,8 @@ if(examContainer){
                             if(mtObj.layer == (idx + 1)){
                                 let newSchemeImg = document.createElement("img");
                                 newSchemeImg.classList.add("exam-scheme-img");
-                                newSchemeImg.src = mtObj.url;
-                                newSchemeImg.loading = "lazy";
+                                newSchemeImg.dataset.src = mtObj.url;
+                                lazyObserver.observe(newSchemeImg);
                                 examSchemeCont.appendChild(newSchemeImg);
                             }
                         });
@@ -2758,8 +2758,8 @@ if(document.querySelector(".bld-container")){
                                     if(mtObj.layer == (idx + 1)){
                                         let newQuestionImg = document.createElement("img");
                                         newQuestionImg.classList.add("bld-ques-img");
-                                        newQuestionImg.src = mtObj.url;
-                                        newQuestionImg.loading = "lazy";
+                                        newQuestionImg.dataset.src = mtObj.url;
+                                        lazyObserver.observe(newQuestionImg);
                                         newBox.querySelector(".bld-ques-img-container").appendChild(newQuestionImg);
                                     }
                                 });
@@ -2769,8 +2769,8 @@ if(document.querySelector(".bld-container")){
                                     if(mtObj.layer == (idx + 1)){
                                         let newSchemeImg = document.createElement("img");
                                         newSchemeImg.classList.add("exam-scheme-img");
-                                        newSchemeImg.src = mtObj.url;
-                                        newSchemeImg.loading = "lazy";
+                                        newSchemeImg.dataset.src = mtObj.url;
+                                        lazyObserver.observe(newSchemeImg);
                                         newBox.querySelector(".bld-scheme-img-container").appendChild(newSchemeImg);
                                     }
                                 });
@@ -4912,6 +4912,17 @@ function SubjectShort(long){
     }
     return subjectSlug;
 }
+const lazyObserver = new IntersectionObserver((entries, observer) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const img = entry.target;
+      img.src = img.dataset.src; // load the real image
+      observer.unobserve(img);
+    }
+  });
+}, {
+  threshold: 0.01
+});
 
 
 
