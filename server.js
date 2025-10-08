@@ -55,17 +55,6 @@ app.use(session({
     }
 }));
 
-app.use(express.static(path.join(__dirname, "public")));
-app.use((req, res, next) => {
-  if (req.path.indexOf('.') === -1) {
-    res.sendFile(path.join(__dirname, "public", req.path + ".html"), err => {
-      if (err) next();
-    });
-  } else {
-    next();
-  }
-});
-
 ////////////////////////// REUSABLE FUNCTIONS //////////////////////////
 function requireUser(req, res, next){
 	if(!req.session.user){
@@ -219,10 +208,13 @@ app.get("/papers/:certificate/:subject/:level", (req, res) => {
 });
 
 app.get("/worksheets", (req, res) => {
-    res.sendFile(path.join(__dirname, 'private', 'worksheet-builder.html'), (err) => {
+    console.log("hit");
+    const filePath = path.join(__dirname, 'private', 'worksheet-builder.html');
+    console.log("Trying to serve:", filePath);
+    res.sendFile(filePath, (err) => {
         if (err) {
-            console.error(err);
-            res.status(500).send("Server error: file not found");
+            console.error("Error sending file:", err);
+            res.status(404).send("File not found");
         }
     });
 });
@@ -269,7 +261,16 @@ app.get('/quiz/:certificate/:subject/:level/:topic', (req, res) => {
 });
 
 
-
+app.use(express.static(path.join(__dirname, "public")));
+app.use((req, res, next) => {
+  if (req.path.indexOf('.') === -1) {
+    res.sendFile(path.join(__dirname, "public", req.path + ".html"), err => {
+      if (err) next();
+    });
+  } else {
+    next();
+  }
+});
 
 ////////////////////////// APIS ROUTES //////////////////////////
 app.post("/api/signup", (req, res) => {
