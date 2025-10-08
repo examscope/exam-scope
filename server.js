@@ -38,7 +38,7 @@ const store = new MySQLStore({
 });
 
 app.use(cors({
-    origin: url,
+    origin: process.env.FRONTEND,
     credentials: true
 }));
 
