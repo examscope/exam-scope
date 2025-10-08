@@ -219,7 +219,12 @@ app.get("/papers/:certificate/:subject/:level", (req, res) => {
 });
 
 app.get("/worksheets", (req, res) => {
-    return res.sendFile(path.join(__dirname, 'private', 'worksheet-builder.html'));
+    res.sendFile(path.join(__dirname, 'private', 'worksheet-builder.html'), (err) => {
+        if (err) {
+            console.error(err);
+            res.status(500).send("Server error: file not found");
+        }
+    });
 });
 
 app.get("/worksheets/:certificate/:subject/:level", (req, res) => {
