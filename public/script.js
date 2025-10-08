@@ -46,7 +46,15 @@ let params = new URLSearchParams(window.location.search);
 const path = window.location.pathname;
 const parts = path.slice(1).split("/");
 
-const frontendLink = "http://localhost:3000";
+let url = ""; // https://api.poojasbeautysalon.com   backend routes
+let frontendLink = "";
+if(window.location.href.includes("localhost")) {
+    url = ""; // https://api.poojasbeautysalon.com   backend routes
+    frontendLink = "http://localhost:3000"; // https://poojasbeautysalon.com   http://localhost:3000
+} else {
+    url = "https://api.nextdesignwebsite.com"; // https://api.poojasbeautysalon.com   backend routes
+    frontendLink = "https://temporary.nextdesignwebsite.com"; // https://poojasbeautysalon.com   http://localhost:3000
+}
 
 
 if(!document.querySelector(".log-container") && !document.querySelector(".sign-container")){
@@ -55,7 +63,7 @@ if(!document.querySelector(".log-container") && !document.querySelector(".sign-c
 
 async function getDisplay(){
     try {
-        const response = await fetch(`${backendUrl}/api/is-guest`, {
+        const response = await fetch(`${url}/api/is-guest`, {
             method: 'GET',
             credentials: 'include'
         });
@@ -162,7 +170,7 @@ async function getDisplay(){
                             async function updateLevel() {
                                 const dataToSend = { id: subject.id, levelIdx: idx };
                                 try {
-                                    const response = await fetch('/api/update-level', {
+                                    const response = await fetch( url + '/api/update-level', {
                                         method: 'POST',
                                         credentials: 'include',
                                         headers: {
@@ -599,7 +607,7 @@ if(subContainer || papContainer || document.querySelector(".bld-container")){
 if(document.querySelector(".sav-container")){
     async function getSavedQuestions() {
         try {
-            const response = await fetch(`/api/get-saved`, {
+            const response = await fetch(url + `/api/get-saved`, {
                 method: 'GET',
                 credentials: 'include'
             });
@@ -661,7 +669,7 @@ if(document.querySelector(".sav-container")){
                             const dataToSend = { imageId: question.id };
                             console.log(question.id);
                             try {
-                                const response = await fetch('/api/delete-question', {
+                                const response = await fetch(url + '/api/delete-question', {
                                     method: 'POST',
                                     credentials: 'include',
                                     headers: {
@@ -788,7 +796,7 @@ if(papContainer){
     if(pathParts.length > 2){
         async function getPapers(){
             try {
-                const response = await fetch(`/api/papers/${certificate}/${subject}/${level}`, {
+                const response = await fetch(url + `/api/papers/${certificate}/${subject}/${level}`, {
                     method: 'GET',
                     credentials: 'include'
                 });
@@ -864,7 +872,7 @@ if(papContainer){
                                 async function toggleComplete() {
                                     const dataToSend = { id: paper.id, change: changeTo };
                                     try {
-                                        const response = await fetch('/api/paper-complete', {
+                                        const response = await fetch(url + '/api/paper-complete', {
                                             method: 'POST',
                                             credentials: 'include',
                                             headers: {
@@ -958,7 +966,7 @@ if(resContainer){
 
     async function getQuizResults(){
         try {
-            const response = await fetch(`/api/get-results`, {
+            const response = await fetch(url + `/api/get-results`, {
                 method: 'GET',
                 credentials: 'include'
             });
@@ -1232,7 +1240,7 @@ if(topcContainer){
 
     async function getSidePapers(){
         try {
-            const response = await fetch(`/api/papers/${certificate}/${subject}/${level}`, {
+            const response = await fetch(url + `/api/papers/${certificate}/${subject}/${level}`, {
                 method: 'GET',
                 credentials: 'include'
             });
@@ -1272,7 +1280,7 @@ if(topcContainer){
 
                 async function getSideResults(){
                     try {
-                        const response = await fetch(`/api/get-results`, {
+                        const response = await fetch(url + `/api/get-results`, {
                             method: 'GET',
                             credentials: 'include'
                         });
@@ -1349,7 +1357,7 @@ if(examContainer){
 
     async function getData(){
         try {
-            const response = await fetch(`/api/images/${certificate}/${subject}/${level}/${topic}`);
+            const response = await fetch(url + `/api/images/${certificate}/${subject}/${level}/${topic}`);
             const data = await response.json(); 
             data.sort((a, b) => Number(a.year) - Number(b.year));
 
@@ -1507,7 +1515,7 @@ if(examContainer){
                             async function getQuestionData() {
                                 const dataToSend = { id: obj.id };
                                 try {
-                                    const response = await fetch('/api/question-data', {
+                                    const response = await fetch(url + '/api/question-data', {
                                         method: 'POST',
                                         credentials: 'include',
                                         headers: {
@@ -1553,7 +1561,7 @@ if(examContainer){
                                             async function toggleComplete() {
                                                 const dataToSend = { id: obj.id, change: changeTo };
                                                 try {
-                                                    const response = await fetch('/api/toggle-complete', {
+                                                    const response = await fetch(url + '/api/toggle-complete', {
                                                         method: 'POST',
                                                         credentials: 'include',
                                                         headers: {
@@ -1596,7 +1604,7 @@ if(examContainer){
                                             async function toggleSave() {
                                                 const dataToSend = { id: obj.id, change: changeTo };
                                                 try {
-                                                    const response = await fetch('/api/toggle-save', {
+                                                    const response = await fetch(url + '/api/toggle-save', {
                                                         method: 'POST',
                                                         credentials: 'include',
                                                         headers: {
@@ -1652,7 +1660,7 @@ if(examContainer){
                                 let schemeImgs = matchedSchemes.map(obj => obj.url);
                                 const dataToSend = { questionImgs, schemeImgs: schemeImgs };
                                 try {
-                                    const response = await fetch('/api/print-question', {
+                                    const response = await fetch(url + '/api/print-question', {
                                         method: 'POST',
                                         credentials: 'include',
                                         headers: {
@@ -1682,7 +1690,7 @@ if(examContainer){
                             async function redirectPaper() {
                                 const dataToSend = { questionData: obj };
                                 try {
-                                    const response = await fetch('/api/single-paper', {
+                                    const response = await fetch(url + '/api/single-paper', {
                                         method: 'POST',
                                         credentials: 'include',
                                         headers: {
@@ -2206,7 +2214,7 @@ if(document.querySelector(".quiz-container")){
             }
             const dataToSend = { html: document.querySelector(".ana-modal").innerHTML, subject: thisTopic.subject, topic: baseTopic, date: currentDate, score: `${(results.filter(res => res == true).length / results.length) * 100}%` };
             try {
-                const response = await fetch('/api/save-quiz', {
+                const response = await fetch(url + '/api/save-quiz', {
                     method: 'POST',
                     credentials: 'include',
                     headers: {
@@ -2265,7 +2273,7 @@ if(document.querySelector(".bld-container")){
             async function displaySheet() {
                 const dataToSend = { sheetId: Number(params.get("sheet")) };
                 try {
-                    const response = await fetch('/api/display-sheet', {
+                    const response = await fetch(url + '/api/display-sheet', {
                         method: 'POST',
                         credentials: 'include',
                         headers: {
@@ -2552,7 +2560,7 @@ if(document.querySelector(".bld-container")){
             console.log(sheetQuestionImgs);
             const dataToSend = { html: sheetQuestionHtml, title: document.getElementById("bldInput").value, subject: subjectStr, level: parts[3], cert: parts[1], date: fullDate, questionData: sheetQuestionImgs, schemeData: sheetSchemeImgs, sheetId: sheetId, isNew: isNew };
             try {
-                const response = await fetch('/api/save-sheet', {
+                const response = await fetch(url + '/api/save-sheet', {
                     method: 'POST',
                     credentials: 'include',
                     headers: {
@@ -2667,7 +2675,7 @@ if(document.querySelector(".bld-container")){
             }
             const dataToSend = { cert: certText, subject: parts[2], level: parts[3], topic: document.querySelector(".bld-topic-pill-active").textContent.replace(/ /g, "-").replace(/&/g, "and").replace(/---/g, "-").replace(/--/g, "-").replace().replace(/,/g, "").replace(/\//g, "-").replace(/:/g, "").replace(/\?/g, "").replace(/\|/g, "").replace(/[#.+/'()]/g, "").toLowerCase() };
             try {
-                const response = await fetch('/api/worksheet-questions', {
+                const response = await fetch(url + '/api/worksheet-questions', {
                     method: 'POST',
                     credentials: 'include',
                     headers: {
@@ -3172,7 +3180,7 @@ if(document.querySelector(".bld-container")){
 if(document.querySelector(".sash-table")){
     async function getUserSheets() {
         try {
-            const response = await fetch(`/api/get-sheets`, {
+            const response = await fetch(url + `/api/get-sheets`, {
                 method: 'GET',
                 credentials: 'include'
             });
@@ -3213,7 +3221,7 @@ if(document.querySelector(".sash-table")){
                         async function deleteSheet() {
                             const dataToSend = { sheetId: sheet.id };
                             try {
-                                const response = await fetch('/api/delete-sheet', {
+                                const response = await fetch(url + '/api/delete-sheet', {
                                     method: 'POST',
                                     credentials: 'include',
                                     headers: {
@@ -3314,7 +3322,7 @@ if(document.querySelector(".set-container")){
     let userData;
     async function getUserData() {
         try {
-            const response = await fetch(`/api/settings-data`, {
+            const response = await fetch(url + `/api/settings-data`, {
                 method: 'GET',
                 credentials: 'include'
             });
@@ -3443,7 +3451,7 @@ if(document.querySelector(".set-container")){
                             async function updateLevel() {
                                 const dataToSend = { id: subject.id, levelIdx: idx };
                                 try {
-                                    const response = await fetch('/api/update-level', {
+                                    const response = await fetch(url + '/api/update-level', {
                                         method: 'POST',
                                         credentials: 'include',
                                         headers: {
@@ -3470,7 +3478,7 @@ if(document.querySelector(".set-container")){
                         async function deleteSubject() {
                             const dataToSend = { id: subject.id };
                             try {
-                                const response = await fetch('/api/remove-subject', {
+                                const response = await fetch(url + '/api/remove-subject', {
                                     method: 'POST',
                                     credentials: 'include',
                                     headers: {
@@ -3587,7 +3595,7 @@ if(document.querySelector(".set-container")){
         if(document.querySelector(".set-act-input").value.length > 0){
             const dataToSend = { data: settingsData[settingsIdx], value: document.querySelector(".set-act-input").value };
             try {
-                const response = await fetch('/api/settings-change', {
+                const response = await fetch(url + '/api/settings-change', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json', 
@@ -3639,7 +3647,7 @@ if(document.querySelector(".set-container")){
         if(real){
             async function requestDelete() {
                 try {
-                    const response = await fetch(`${backendUrl}/api/delete-account`, {
+                    const response = await fetch(`${url}/api/delete-account`, {
                         method: 'GET',
                         credentials: 'include'
                     });
@@ -4135,7 +4143,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
             } else {
                 const dataToSend = { subjects: pickedSubjects };
                 try {
-                    const response = await fetch('/api/edit-subjects', {
+                    const response = await fetch(url + '/api/edit-subjects', {
                         method: 'POST',
                         credentials: 'include',
                         headers: {
@@ -4182,7 +4190,7 @@ if(document.querySelector(".sign-container")){
             const formData = new FormData(e.target);
             const data = Object.fromEntries(formData.entries());
 
-            const res = await fetch("/api/profile", {
+            const res = await fetch(url + "/api/profile", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
@@ -4226,7 +4234,7 @@ if(document.querySelector(".sign-container")){
 
             const dataToSend = { subjects: pickedSubjects };
             try {
-                const response = await fetch('/api/post-subjects', {
+                const response = await fetch(url + '/api/post-subjects', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json', 
@@ -4256,7 +4264,7 @@ if(document.querySelector(".sign-container")){
 
     async function updateStatus() {
         try {
-            const response = await fetch('/api/status2');
+            const response = await fetch(url + '/api/status2');
             const data = await response.json(); 
             if(data.message == "success") window.location.href = "/";
         } catch (error) {
@@ -4310,7 +4318,7 @@ if(document.querySelector(".sign-container")){
             const formData = new FormData(e.target);
             const data = Object.fromEntries(formData.entries());
 
-            const res = await fetch("/api/signup", {
+            const res = await fetch(url + "/api/signup", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
@@ -4353,7 +4361,7 @@ if(document.getElementById("logForm")){
         const formData = new FormData(e.target);
         const data = Object.fromEntries(formData.entries());
 
-        const res = await fetch("/api/login", {
+        const res = await fetch(url + "/api/login", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(data)
@@ -4413,7 +4421,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
     async function sendCode(code){
         const dataToSend = { code: code };
         try {
-            const response = await fetch('/api/verify', {
+            const response = await fetch(url + '/api/verify', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json', 
@@ -4444,7 +4452,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
     async function verifySettings(code) {
         const dataToSend = { code: code };
         try {
-            const response = await fetch('/api/settings-verify', {
+            const response = await fetch(url + '/api/settings-verify', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json', 
@@ -4771,7 +4779,7 @@ function closeSideNav(){
 function logoutClick(){
     async function logout(){
         try {
-            const response = await fetch('/api/logout');
+            const response = await fetch(url + '/api/logout');
             const data = await response.json(); 
             if(data.message == "success"){
                 window.location.href = "/login";

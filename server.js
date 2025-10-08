@@ -10,6 +10,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 const nodemailer = require('nodemailer');
 require('dotenv').config();
+const cors = require('cors');
 
 let frontendLink = process.env.FRONTEND;
 
