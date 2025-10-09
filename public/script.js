@@ -620,7 +620,7 @@ if(document.querySelector(".sav-container")){
                 questions.forEach((question, idx) => {
                     let newBox = document.createElement("div");
                     newBox.classList.add("sav-box");
-                    let questionStr = ""
+                    let questionStr = "";
                     if(question.question){
                         questionStr = " - Question " + question.question.slice(1);
                     }
@@ -3597,6 +3597,7 @@ if(document.querySelector(".set-container")){
             try {
                 const response = await fetch(url + '/api/settings-change', {
                     method: 'POST',
+                    credentials: 'include',
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -4192,6 +4193,7 @@ if(document.querySelector(".sign-container")){
 
             const res = await fetch(url + "/api/profile", {
                 method: "POST",
+                credentials: 'include',
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
             });
@@ -4236,6 +4238,7 @@ if(document.querySelector(".sign-container")){
             try {
                 const response = await fetch(url + '/api/post-subjects', {
                     method: 'POST',
+                    credentials: 'include',
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -4320,6 +4323,7 @@ if(document.querySelector(".sign-container")){
 
             const res = await fetch(url + "/api/signup", {
                 method: "POST",
+                credentials: 'include',
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
             });
@@ -4363,6 +4367,7 @@ if(document.getElementById("logForm")){
 
         const res = await fetch(url + "/api/login", {
             method: "POST",
+            credentials: 'include',
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(data)
         });
@@ -4423,6 +4428,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
         try {
             const response = await fetch(url + '/api/verify', {
                 method: 'POST',
+                credentials: 'include',
                 headers: {
                     'Content-Type': 'application/json', 
                 },
@@ -4454,6 +4460,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
         try {
             const response = await fetch(url + '/api/settings-verify', {
                 method: 'POST',
+                credentials: 'include',
                 headers: {
                     'Content-Type': 'application/json', 
                 },

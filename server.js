@@ -14,6 +14,13 @@ const cors = require('cors');
 
 let frontendLink = process.env.FRONTEND;
 
+let secure = "true";
+let sameSite = "none";
+if(frontendLink == "http://localhost:3000"){
+    secure = "false";
+    sameSite = "lax";
+}
+
 const db = mysql.createConnection({
     host: process.env.DB_HOST,
     user: process.env.DB_USER,
@@ -42,6 +49,8 @@ app.use(cors({
     credentials: true
 }));
 
+app.set('trust proxy', 1);
+
 app.use(session({
     store,
     secret: process.env.SESSION_SECRET,
@@ -50,8 +59,8 @@ app.use(session({
     cookie: {
         httpOnly: true,
         maxAge: 24 * 60 * 60 * 1000, 
-    secure: true,       // HTTPS only
-    sameSite: 'none'    // allow cross-site cookies
+    secure: secure,       // HTTPS only
+    sameSite: sameSite    // allow cross-site cookies
     }
 }));
 
@@ -196,7 +205,7 @@ app.get("/verify", (req, res, next) => {
 
     next();
 }, (req, res) => {
-    res.sendFile(__dirname + '/private/verify.html');
+    return res.sendFile(path.join(__dirname, 'private', 'verify.html'));
 });
 
 app.get("/papers", (req, res) => {
@@ -324,6 +333,7 @@ app.post("/api/signup", (req, res) => {
 
                     req.session.userId = result[0].id;
                     req.session.creating = true;
+                    console.log(req.session.creating);
                     req.session.creatingSetAt = Date.now();
                     
                     // Redirect to index page after a short delay
