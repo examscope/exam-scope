@@ -375,7 +375,7 @@ function createHtml(){
     let sideNav = document.createElement("div");
     sideNav.classList.add("side-nav");
     sideNav.innerHTML = `
-        <a href="/" class="side-section active-section">
+        <a href="/" class="side-section">
             <i class="fa-solid fa-house side-icon"></i>
             <div class="side-txt">Home</div>
         </a>
@@ -507,6 +507,10 @@ if(subContainer || papContainer || document.querySelector(".bld-container")){
     clickOption(".pap-option-type", "pap-active");
     clickOption(".pap-option-level", "pap-active");
     let fullSubject;
+
+    if(subContainer){
+        document.querySelectorAll(".side-section")[0].classList.add("active-section");
+    }
 
     // PAST PAPER FORM FUNCTIONALITY //
     papSelector.addEventListener("click", () => {
@@ -971,6 +975,7 @@ if(resContainer){
             });
             const data = await response.json(); 
             const results = data.results;
+            document.querySelector(".res-all-box").textContent = "All (" + results.length + ")";
             results.forEach(result => {
                 let newRow = document.createElement("div");
                 newRow.classList.add("pap-row");
@@ -3562,7 +3567,7 @@ if(document.querySelector(".set-container")){
                     document.querySelector(".set-act-modal").style.opacity = "0";
                     document.querySelector(".set-act-modal").style.pointerEvents = "none";
                 }); 
-                document.querySelectorAll(".set-sub-add").forEach(rem => {
+                document.querySelectorAll(".set-sub-add, .btn-set-all").forEach(rem => {
                     rem.addEventListener("click", () => {
                         document.querySelector(".set-change-modal").style.opacity = "1";
                         document.querySelector(".set-change-modal").style.pointerEvents = "auto";
@@ -4915,6 +4920,10 @@ function SubjectShort(long){
         subjectSlug = "Religion";
     } else if(long == "Politics And Society"){
         subjectSlug = "Pol Soc";
+    } else if(long == "Applied Technology"){
+        subjectSlug = "Technology";
+    } else if(long == "Business Studies"){
+        subjectSlug = "Business";
     }
     return subjectSlug;
 }

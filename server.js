@@ -13,10 +13,8 @@ require('dotenv').config();
 let frontendLink = process.env.FRONTEND;
 
 let secure = true;
-let sameSite = "none";
 if(frontendLink == "http://localhost:3000"){
     secure = false;
-    sameSite = "lax";
 }
 
 const db = mysql.createPool({
@@ -61,7 +59,7 @@ app.use(session({
     cookie: {
         httpOnly: true,
         maxAge: 24 * 60 * 60 * 1000, 
-        secure: true,       // HTTPS only
+        secure: secure,       // HTTPS only
         sameSite: "lax"    // allow cross-site cookies
     }
 }));

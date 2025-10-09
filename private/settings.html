@@ -684,14 +684,14 @@
                     <div class="set-li">
                         <div class="set-col">
                             <div class="set-bold">Account Name</div>
-                            <div class="set-txt">The personal name associated with your account.</div>
+                            <div class="set-txt">The name associated with your account.</div>
                         </div>
-                        <div class="set-txt" id="setName">Jack</div>
+                        <div class="set-txt nowrap" id="setName">Jack</div>
                     </div>
                     <div class="set-li">
                         <div class="set-col">
                             <div class="set-bold">Username</div>
-                            <div class="set-txt" id="setUsername">jack_woods20</div>
+                            <div class="set-txt nowrap" id="setUsername">jack_woods20</div>
                         </div>
                         <div class="btn-set data-action-button" onclick="changeSettings(0)">Edit <i class="fa-solid fa-pen-to-square set-icon"></i></div>
                     </div>
@@ -700,7 +700,7 @@
                             <div class="set-bold">Account type</div>
                             <div class="set-txt">The type associated with your account.</div>
                         </div>
-                        <div class="set-txt" id="setAccountType">Student</div>
+                        <div class="set-txt nowrap" id="setAccountType">Student</div>
                     </div>
                     <div class="set-li">
                         <div class="set-col">
@@ -717,7 +717,7 @@
                     <div class="set-li">
                         <div class="set-col">
                             <div class="set-bold">Email address</div>
-                            <div class="set-txt set-txt" id="setEmail">jackwoods20@gmail.com</div>
+                            <div class="set-txt set-txt" id="setEmail" style="text-decoration: none;">jackwoods20@gmail.com</div>
                             <div class="btn-set data-action-button btn-pass-col" onclick="changeSettings(1)">Change Email</div>
                         </div>
                         <div class="btn-set data-action-button btn-pass-right" onclick="changeSettings(1)">Change Email</div>
@@ -740,7 +740,10 @@
                 </div>
 
                 <div class="set-content set-subjects">
-                    <div class="set-label">My Subjects</div>
+                    <div class="set-sub-flex">
+                        <div class="set-label">My Subjects</div>
+                        <div class="btn-set-all">Edit all</div>
+                    </div>
                 </div>
             </div>
         </div>

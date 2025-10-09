@@ -3948,7 +3948,7 @@ span.ana-perc-txt {
 .set-txt {
     line-height: 1;
     font-size: 13px;
-    color: hsl(0, 0%, 40%);
+    color: hsl(0, 0%, 40%) !important;
 }
 .nowrap {
     white-space: nowrap;
@@ -4015,7 +4015,6 @@ span.ana-perc-txt {
 .set-change-wrapper {
     position: relative;
     max-height: calc(100% - 100px);
-    overflow: auto;
     width: 798px;
     max-width: calc(100% - 100px);
     display: flex;
@@ -4382,6 +4381,29 @@ i.book-delete-icon {
 }
 .btn-book-delete-booking:hover {
     background-color: hsl(0, 68%, 58%);
+}
+
+.set-sub-flex {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn-set-all {
+    white-space: nowrap;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 200px;
+    padding: 8px 16px;
+    color: white;
+    background-color: hsl(145, 65%, 45%);
+    transition: 0.2s ease;
 }
 /*///////////////////////////////////////////////////////////////////////////////////*/
 
@@ -5131,8 +5153,9 @@ i.bld-exit {
     .topc-col-scroll {
         scrollbar-width: thin;
         height: auto;
-        max-height: 368px;
         min-height: auto;
+        max-height: 368px;
+        padding-bottom: 60px;
         transition: 1s ease;
     }
     .topc-col-scroll::-webkit-scrollbar {
