@@ -6,34 +6,32 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const session = require('express-session');
 const MySQLStore = require('express-mysql-session')(session);
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
 const nodemailer = require('nodemailer');
 require('dotenv').config();
 const cors = require('cors');
 
 let frontendLink = process.env.FRONTEND;
 
-let secure = "true";
+let secure = true;
 let sameSite = "none";
 if(frontendLink == "http://localhost:3000"){
-    secure = "false";
+    secure = false;
     sameSite = "lax";
 }
 
-const db = mysql.createConnection({
+const db = mysql.createPool({
     host: process.env.DB_HOST,
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
-    port: process.env.PORT
+    port: process.env.PORT,
+    waitForConnections: true,
+    connectionLimit: 10,
+    queueLimit: 0
 });
-db.connect((err) => {
-    if (err) {
-        console.error('Database connection failed:', err.stack);
-        return;
-    }
-    console.log('Connected to MySQL database.');
+db.query('SELECT 1', (err, results) => {
+    if (err) console.error('Error running query:', err);
+    else console.log('Database is working');
 });
 
 const store = new MySQLStore({
@@ -49,6 +47,8 @@ app.use(cors({
     credentials: true
 }));
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.set('trust proxy', 1);
 
 app.use(session({
@@ -194,13 +194,15 @@ app.get("/login", (req, res) => {
 });
 
 app.get("/verify", (req, res, next) => {
+    console.log("1");
     const tenMinutes = 10 * 60 * 1000;
     if(!req.session.creating){
+    console.log("2");
         return res.sendFile(path.join(__dirname, 'public', 'index.html'));
     } else if(req.session.creating && (Date.now() - req.session.creatingSetAt) > tenMinutes){
         req.session.creating = false;
         delete req.session.creatingSetAt;
-        return res.redirect("/expired.html");
+        return res.redirect("/");
     }
 
     next();
