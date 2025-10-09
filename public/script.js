@@ -65,7 +65,7 @@ async function getDisplay(){
     try {
         const response = await fetch(`${url}/api/is-guest`, {
             method: 'GET',
-            credentials: 'include'
+            
         });
         const data = await response.json(); 
         const userData = data.userData;
@@ -172,7 +172,7 @@ async function getDisplay(){
                                 try {
                                     const response = await fetch( url + '/api/update-level', {
                                         method: 'POST',
-                                        credentials: 'include',
+                                        
                                         headers: {
                                             'Content-Type': 'application/json', 
                                         },
@@ -609,7 +609,6 @@ if(document.querySelector(".sav-container")){
         try {
             const response = await fetch(url + `/api/get-saved`, {
                 method: 'GET',
-                credentials: 'include'
             });
             const data = await response.json(); 
             const questions = data.questions;
@@ -671,7 +670,7 @@ if(document.querySelector(".sav-container")){
                             try {
                                 const response = await fetch(url + '/api/delete-question', {
                                     method: 'POST',
-                                    credentials: 'include',
+                                    
                                     headers: {
                                         'Content-Type': 'application/json', 
                                     },
@@ -798,7 +797,7 @@ if(papContainer){
             try {
                 const response = await fetch(url + `/api/papers/${certificate}/${subject}/${level}`, {
                     method: 'GET',
-                    credentials: 'include'
+                    
                 });
                 let subjectTitle = subject.replace(/-/g, " ").split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ");
                 subjectTitle = SubjectShort(subjectTitle);
@@ -874,7 +873,7 @@ if(papContainer){
                                     try {
                                         const response = await fetch(url + '/api/paper-complete', {
                                             method: 'POST',
-                                            credentials: 'include',
+                                            
                                             headers: {
                                                 'Content-Type': 'application/json', 
                                             },
@@ -968,7 +967,7 @@ if(resContainer){
         try {
             const response = await fetch(url + `/api/get-results`, {
                 method: 'GET',
-                credentials: 'include'
+                
             });
             const data = await response.json(); 
             const results = data.results;
@@ -1242,7 +1241,7 @@ if(topcContainer){
         try {
             const response = await fetch(url + `/api/papers/${certificate}/${subject}/${level}`, {
                 method: 'GET',
-                credentials: 'include'
+                
             });
             const data = await response.json(); 
             const papers = data.papers;
@@ -1282,7 +1281,7 @@ if(topcContainer){
                     try {
                         const response = await fetch(url + `/api/get-results`, {
                             method: 'GET',
-                            credentials: 'include'
+                            
                         });
                         const data = await response.json(); 
                         const results = data.results;
@@ -1517,7 +1516,7 @@ if(examContainer){
                                 try {
                                     const response = await fetch(url + '/api/question-data', {
                                         method: 'POST',
-                                        credentials: 'include',
+                                        
                                         headers: {
                                             'Content-Type': 'application/json', 
                                         },
@@ -1563,7 +1562,7 @@ if(examContainer){
                                                 try {
                                                     const response = await fetch(url + '/api/toggle-complete', {
                                                         method: 'POST',
-                                                        credentials: 'include',
+                                                        
                                                         headers: {
                                                             'Content-Type': 'application/json', 
                                                         },
@@ -1606,7 +1605,7 @@ if(examContainer){
                                                 try {
                                                     const response = await fetch(url + '/api/toggle-save', {
                                                         method: 'POST',
-                                                        credentials: 'include',
+                                                        
                                                         headers: {
                                                             'Content-Type': 'application/json', 
                                                         },
@@ -1663,7 +1662,7 @@ if(examContainer){
                                 try {
                                     const response = await fetch(url + '/api/print-question', {
                                         method: 'POST',
-                                        credentials: 'include',
+                                        
                                         headers: {
                                             'Content-Type': 'application/json', 
                                         },
@@ -1693,7 +1692,7 @@ if(examContainer){
                                 try {
                                     const response = await fetch(url + '/api/single-paper', {
                                         method: 'POST',
-                                        credentials: 'include',
+                                        
                                         headers: {
                                             'Content-Type': 'application/json', 
                                         },
@@ -2217,7 +2216,7 @@ if(document.querySelector(".quiz-container")){
             try {
                 const response = await fetch(url + '/api/save-quiz', {
                     method: 'POST',
-                    credentials: 'include',
+                    
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -2276,7 +2275,7 @@ if(document.querySelector(".bld-container")){
                 try {
                     const response = await fetch(url + '/api/display-sheet', {
                         method: 'POST',
-                        credentials: 'include',
+                        
                         headers: {
                             'Content-Type': 'application/json', 
                         },
@@ -2563,7 +2562,7 @@ if(document.querySelector(".bld-container")){
             try {
                 const response = await fetch(url + '/api/save-sheet', {
                     method: 'POST',
-                    credentials: 'include',
+                    
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -2678,7 +2677,7 @@ if(document.querySelector(".bld-container")){
             try {
                 const response = await fetch(url + '/api/worksheet-questions', {
                     method: 'POST',
-                    credentials: 'include',
+                    
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -3182,7 +3181,7 @@ if(document.querySelector(".sash-table")){
         try {
             const response = await fetch(url + `/api/get-sheets`, {
                 method: 'GET',
-                credentials: 'include'
+                
             });
             const data = await response.json();
             const sheets = data.sheets;
@@ -3223,7 +3222,7 @@ if(document.querySelector(".sash-table")){
                             try {
                                 const response = await fetch(url + '/api/delete-sheet', {
                                     method: 'POST',
-                                    credentials: 'include',
+                                    
                                     headers: {
                                         'Content-Type': 'application/json', 
                                     },
@@ -3324,7 +3323,7 @@ if(document.querySelector(".set-container")){
         try {
             const response = await fetch(url + `/api/settings-data`, {
                 method: 'GET',
-                credentials: 'include'
+                
             });
             const data = await response.json(); 
 
@@ -3453,7 +3452,7 @@ if(document.querySelector(".set-container")){
                                 try {
                                     const response = await fetch(url + '/api/update-level', {
                                         method: 'POST',
-                                        credentials: 'include',
+                                        
                                         headers: {
                                             'Content-Type': 'application/json', 
                                         },
@@ -3480,7 +3479,7 @@ if(document.querySelector(".set-container")){
                             try {
                                 const response = await fetch(url + '/api/remove-subject', {
                                     method: 'POST',
-                                    credentials: 'include',
+                                    
                                     headers: {
                                         'Content-Type': 'application/json', 
                                     },
@@ -3597,7 +3596,7 @@ if(document.querySelector(".set-container")){
             try {
                 const response = await fetch(url + '/api/settings-change', {
                     method: 'POST',
-                    credentials: 'include',
+                    
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -3650,7 +3649,7 @@ if(document.querySelector(".set-container")){
                 try {
                     const response = await fetch(`${url}/api/delete-account`, {
                         method: 'GET',
-                        credentials: 'include'
+                        
                     });
                     const data = await response.json(); 
                     if(data.message == "success"){
@@ -4146,7 +4145,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                 try {
                     const response = await fetch(url + '/api/edit-subjects', {
                         method: 'POST',
-                        credentials: 'include',
+                        
                         headers: {
                             'Content-Type': 'application/json', 
                         },
@@ -4193,7 +4192,7 @@ if(document.querySelector(".sign-container")){
 
             const res = await fetch(url + "/api/profile", {
                 method: "POST",
-                credentials: 'include',
+                
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
             });
@@ -4238,7 +4237,7 @@ if(document.querySelector(".sign-container")){
             try {
                 const response = await fetch(url + '/api/post-subjects', {
                     method: 'POST',
-                    credentials: 'include',
+                    
                     headers: {
                         'Content-Type': 'application/json', 
                     },
@@ -4323,7 +4322,7 @@ if(document.querySelector(".sign-container")){
 
             const res = await fetch(url + "/api/signup", {
                 method: "POST",
-                credentials: 'include',
+                
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(data)
             });
@@ -4367,7 +4366,7 @@ if(document.getElementById("logForm")){
 
         const res = await fetch(url + "/api/login", {
             method: "POST",
-            credentials: 'include',
+            
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(data)
         });
@@ -4428,7 +4427,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
         try {
             const response = await fetch(url + '/api/verify', {
                 method: 'POST',
-                credentials: 'include',
+                
                 headers: {
                     'Content-Type': 'application/json', 
                 },
@@ -4460,7 +4459,7 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
         try {
             const response = await fetch(url + '/api/settings-verify', {
                 method: 'POST',
-                credentials: 'include',
+                
                 headers: {
                     'Content-Type': 'application/json', 
                 },
