@@ -8,7 +8,7 @@ const session = require('express-session');
 const MySQLStore = require('express-mysql-session')(session);
 const nodemailer = require('nodemailer');
 require('dotenv').config();
-const cors = require('cors');
+//const cors = require('cors');
 
 let frontendLink = process.env.FRONTEND;
 
@@ -42,10 +42,12 @@ const store = new MySQLStore({
     port: process.env.PORT
 });
 
+/*
 app.use(cors({
     origin: process.env.FRONTEND,
     credentials: true
 }));
+*/
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -59,9 +61,8 @@ app.use(session({
     cookie: {
         httpOnly: true,
         maxAge: 24 * 60 * 60 * 1000, 
-        domain: '.nextdesignwebsite.com',
         secure: true,       // HTTPS only
-        sameSite: "none"    // allow cross-site cookies
+        sameSite: "lax"    // allow cross-site cookies
     }
 }));
 
