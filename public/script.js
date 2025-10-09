@@ -1468,7 +1468,6 @@ if(examContainer){
                                 let newQuestionImg = document.createElement("img");
                                 newQuestionImg.classList.add("exam-question-img");
                                 newQuestionImg.dataset.src = mtObj.url;
-                                lazyObserver.observe(newQuestionImg);
                                 examQuestionCont.appendChild(newQuestionImg);
                             }
                         });
@@ -1479,11 +1478,12 @@ if(examContainer){
                                 let newSchemeImg = document.createElement("img");
                                 newSchemeImg.classList.add("exam-scheme-img");
                                 newSchemeImg.dataset.src = mtObj.url;
-                                lazyObserver.observe(newSchemeImg);
                                 examSchemeCont.appendChild(newSchemeImg);
                             }
                         });
                     });
+                    lazyObserver.observe(examQuestion);
+
                     document.querySelectorAll(".exam-filter-txt").forEach(txt => {
                         if(txt.textContent.includes("All Exams")){
                             document.querySelector(".exam-title").textContent = "Exam Question (" + String(questionCount) + ")";
@@ -1637,6 +1637,7 @@ if(examContainer){
                         examQuestion.querySelector(".btn-view").addEventListener("click", () => {
                             let autoHeight = 0;
                             examQuestion.querySelector(".scheme-img-container").querySelectorAll(".exam-scheme-img").forEach(img => {
+                                img.style.src = img.dataset.src;
                                 autoHeight = autoHeight + img.clientHeight;
                             });
                             if(examQuestion.querySelector(".scheme-img-container").style.maxHeight.includes("calc")){
@@ -2759,7 +2760,6 @@ if(document.querySelector(".bld-container")){
                                         let newQuestionImg = document.createElement("img");
                                         newQuestionImg.classList.add("bld-ques-img");
                                         newQuestionImg.dataset.src = mtObj.url;
-                                        lazyObserver.observe(newQuestionImg);
                                         newBox.querySelector(".bld-ques-img-container").appendChild(newQuestionImg);
                                     }
                                 });
@@ -2770,11 +2770,11 @@ if(document.querySelector(".bld-container")){
                                         let newSchemeImg = document.createElement("img");
                                         newSchemeImg.classList.add("exam-scheme-img");
                                         newSchemeImg.dataset.src = mtObj.url;
-                                        lazyObserver.observe(newSchemeImg);
                                         newBox.querySelector(".bld-scheme-img-container").appendChild(newSchemeImg);
                                     }
                                 });
                             });
+                            lazyObserver.observe(newBox);
 
                             newBox.querySelector(".btn-remove").onclick = () => { // view question
                                 document.querySelector(".bld-ques-modal").style.opacity = "0";
@@ -4736,7 +4736,7 @@ function dropProfile(){
     document.querySelector(".pfp-drop").style.opacity = "1";
     document.querySelector(".pfp-drop").style.pointerEvents = "auto";
 }
-function s(){
+function showTopics(){
     if(document.querySelector(".btn-topc-more").querySelector(".topc-show-icon").style.transform != "rotate(-180deg)"){
         document.querySelector(".topc-col-scroll").style.maxHeight = "1900px";
         document.querySelector(".btn-topc-more").querySelector("span").textContent = "Show Less";
@@ -4915,9 +4915,11 @@ function SubjectShort(long){
 const lazyObserver = new IntersectionObserver((entries, observer) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      const img = entry.target;
-      img.src = img.dataset.src; // load the real image
-      observer.unobserve(img);
+      const question = entry.target;
+      question.querySelectorAll(".exam-question-img, .exam-scheme-img, .bld-ques-img").forEach(img => {
+        img.src = img.dataset.src;
+      });
+      observer.unobserve(question);
     }
   });
 }, {
