@@ -60,8 +60,8 @@ app.use(session({
         httpOnly: true,
         maxAge: 24 * 60 * 60 * 1000, 
         domain: '.nextdesignwebsite.com',
-        secure: secure,       // HTTPS only
-        sameSite: sameSite    // allow cross-site cookies
+        secure: true,       // HTTPS only
+        sameSite: "none"    // allow cross-site cookies
     }
 }));
 
