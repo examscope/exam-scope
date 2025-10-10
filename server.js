@@ -9,8 +9,8 @@ const MySQLStore = require('express-mysql-session')(session);
 const nodemailer = require('nodemailer');
 require('dotenv').config();
 //const cors = require('cors');
-const { Resend } = require('resend');
-const resend = new Resend(process.env.RESEND_API_KEY);
+const sgMail = require('@sendgrid/mail');
+sgMail.setApiKey(process.env.EMAIL_KEY);
 
 let frontendLink = process.env.FRONTEND;
 
@@ -73,6 +73,19 @@ function requireUser(req, res, next){
 	}
 	next();
 }
+function sendVerificationEmail(userEmail, code) {
+  const msg = {
+    to: userEmail,
+    from: 'examscope.team@gmail.com',
+    subject: 'Email Verification',
+    html: `<p>Your verification code is <strong>${code}</strong></p>`
+  };
+
+  sgMail.send(msg)
+    .then(() => console.log('Email sent'))
+    .catch(err => console.error('Error sending email:', err));
+}
+sendVerificationEmail("woodsbaileyjack@gmail.com", "123456");
 /*
 const transporter = nodemailer.createTransport({
     service: 'gmail',
@@ -100,20 +113,6 @@ function sendVerificationEmail(userEmail, code) {
     });
 }
 */
-export async function sendVerificationEmail(userEmail, code) {
-  try {
-    const data = await resend.emails.send({
-      from: 'ExamScope <onboarding@resend.dev>',
-      to: userEmail,
-      subject: 'Email Verification',
-      html: `<p>Here is your verification code: <strong>${code}</strong></p>`
-    });
-
-    console.log('Verification email sent:', data.id);
-  } catch (error) {
-    console.error('Error sending email:', error);
-  }
-}
 function isValidEmail(email) {
 	const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 	return emailRegex.test(email);
