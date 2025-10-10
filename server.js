@@ -135,7 +135,7 @@ app.get("/sign-up", (req, res) => {
 
     let onboarding = req.query.onboarding;
 	if(onboarding != "true" && onboarding != "false"){
-		return res.status(404).send("Page not found, param not set.");
+		return res.sendFile(path.join(__dirname, 'private', 'not-found.html'));
 	}
 
     if (!req.session.userId) {

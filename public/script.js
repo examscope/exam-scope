@@ -421,7 +421,7 @@ function createHtml(){
             <i class="fa-solid fa-right-from-bracket side-icon"></i>
             <div class="side-txt">Log Out</div>
         </div>    
-        <a href="/sign-up" class="guest-element btn-sidebar-sign">Join Now <i class="fa-solid fa-plus side-plus"></i></a>  
+        <a href="/sign-up?onboarding=false" class="guest-element btn-sidebar-sign">Join Now <i class="fa-solid fa-plus side-plus"></i></a>  
         <a href="/login" class="guest-element btn-sidebar-log">Log in</a>  
     `
 
