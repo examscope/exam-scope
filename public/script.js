@@ -1353,8 +1353,6 @@ if(examContainer){
     const level = pathParts[4];
     const topic = pathParts[5];
 
-    document.querySelector(".home-title").textContent = decodeURIComponent(topic).charAt(0).toUpperCase() + decodeURIComponent(topic).slice(1).replace(/-/g, " ");
-
     let questionCount = 0;
     let stateCount = 0;
     let mockCount = 0;
@@ -1380,6 +1378,10 @@ if(examContainer){
             }
 
             data.forEach((obj, idx) => {
+                if(idx == 0){
+                    document.querySelector(".home-title").textContent = obj.topic.replace(/-/g, " ").split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ");
+                }
+
                 let isUsed = false;
                 usedIds.forEach(usedId => {
                     if(usedId == obj.id){
@@ -2142,6 +2144,7 @@ if(document.querySelector(".quiz-container")){
         }
     }
     function viewResults(){
+        guesses[currentQuestionIdx] = currentAnswer;
         document.querySelector(".ana-modal").style.opacity = "1";
         document.querySelector(".ana-modal").style.pointerEvents = "auto";
         document.querySelector("i.ana-close").addEventListener("click", () => {
@@ -2158,6 +2161,7 @@ if(document.querySelector(".quiz-container")){
             day: "numeric",
             year: "numeric"
         });
+        console.log(guesses);
         document.querySelector(".ana-info-txt").innerHTML = `Finished ${formatted}<div class="ana-dot"></div><span class="ana-info-txt"><i class="fa-regular fa-circle-question ana-info-icon"></i>${results.length} Questions</span>`;
         results.forEach((result, idx) => {
             if(result == true){

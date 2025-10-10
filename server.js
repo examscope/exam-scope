@@ -194,15 +194,13 @@ app.get("/login", (req, res) => {
 });
 
 app.get("/verify", (req, res, next) => {
-    console.log("1");
     const tenMinutes = 10 * 60 * 1000;
     if(!req.session.creating){
-    console.log("2");
-        return res.sendFile(path.join(__dirname, 'public', 'index.html'));
+        return res.redirect("/sign-up");
     } else if(req.session.creating && (Date.now() - req.session.creatingSetAt) > tenMinutes){
         req.session.creating = false;
         delete req.session.creatingSetAt;
-        return res.redirect("/");
+        return res.sendFile(path.join(__dirname, 'private', 'not-found.html'));
     }
 
     next();
@@ -1087,6 +1085,13 @@ app.post("/api/single-paper", (req, res) => {
 
         return res.json({ message: 'success', url: result[0].url });
     });
+});
+
+
+
+
+app.use((req, res) => {
+  res.status(404).sendFile(path.join(__dirname, 'private', 'not-found.html'));
 });
 
 
