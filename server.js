@@ -9,6 +9,8 @@ const MySQLStore = require('express-mysql-session')(session);
 const nodemailer = require('nodemailer');
 require('dotenv').config();
 //const cors = require('cors');
+import { Resend } from 'resend';
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 let frontendLink = process.env.FRONTEND;
 
@@ -71,6 +73,7 @@ function requireUser(req, res, next){
 	}
 	next();
 }
+/*
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
@@ -95,6 +98,21 @@ function sendVerificationEmail(userEmail, code) {
             console.log('Verification email sent:', info.response);
         }
     });
+}
+*/
+export async function sendVerificationEmail(userEmail, code) {
+  try {
+    const data = await resend.emails.send({
+      from: 'ExamScope <onboarding@resend.dev>',
+      to: userEmail,
+      subject: 'Email Verification',
+      html: `<p>Here is your verification code: <strong>${code}</strong></p>`
+    });
+
+    console.log('Verification email sent:', data.id);
+  } catch (error) {
+    console.error('Error sending email:', error);
+  }
 }
 function isValidEmail(email) {
 	const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
