@@ -9,7 +9,7 @@ const MySQLStore = require('express-mysql-session')(session);
 const nodemailer = require('nodemailer');
 require('dotenv').config();
 //const cors = require('cors');
-import { Resend } from 'resend';
+const { Resend } = require('resend');
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 let frontendLink = process.env.FRONTEND;
