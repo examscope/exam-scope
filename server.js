@@ -259,8 +259,8 @@ app.get("/api/images/:certificate/:subject/:level/:topic", (req, res) => {
         certificate = "jc";
     }
 
-    imageQuery = "select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? order by id asc"
-    db.query(imageQuery, [certificate, subject, level, topic], (err, result) => {
+    imageQuery = "select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and type = ? order by id asc"
+    db.query(imageQuery, [certificate, subject, level, topic, "state"], (err, result) => {
         if(err){
             console.error("Error fetching images: " + err)
         }
@@ -889,7 +889,7 @@ app.post("/api/delete-question", (req, res) => {
 app.post("/api/worksheet-questions", (req, res) => {
     const { cert, subject, level, topic } = req.body;
 
-    db.query("select * from new_images where certificate = ? and subject = ? and level = ? and slug = ?", [cert, subject, level, topic], (err, result) => {
+    db.query("select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and type = ?", [cert, subject, level, topic, "state"], (err, result) => {
         if(err){
             console.error(err);
         }
