@@ -481,10 +481,10 @@ async function createHtml(){
     document.body.prepend(pageShadow);
     document.body.prepend(headerContainer);
 
-    if(localStorage.getItem("theme") == "light"){
-        currentMode = "dark";
-    } else {
+    if(localStorage.getItem("theme") == "dark"){
         currentMode = "light";
+    } else {
+        currentMode = "dark";
     }
     toggleMode();
 }

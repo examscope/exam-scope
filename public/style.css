@@ -5601,7 +5601,7 @@ i.bld-exit {
         transition: 0.2s ease;
     }
     .btn-sidebar-sign {
-        margin: 6px 0 8px;
+        margin: 8px 0 8px;
         display: block;
         text-align: center;
         background-color: transparent;
@@ -6465,6 +6465,11 @@ body.dark-mode-element {
 }
 .side-split.dark-mode-element {
   background-color: hsl(145, 65%, 15%);
+}
+.btn-sidebar-sign.dark-mode-element {
+    background-color: white;
+    border: 1px solid transparent;
+    color: hsl(0, 0%, 25%);
 }
 .home-title.dark-mode-element {
   color: hsl(0, 0%, 100%);
