@@ -11,7 +11,7 @@
 <body>
     <div class="preview-modal">
         <div class="preview-wrapper">
-            <div class="preview-back"><i class="fa-solid fa-chevron-left preview-back" onclick="closePreviewModal()"></i> Back</div>
+            <div class="preview-back" onclick="closePreviewModal()"><i class="fa-solid fa-chevron-left preview-back"></i> Back</div>
             
             <div class="exam-question" style="border: 0;">
                 <div class="preview-title">2025 - Question 5 - Bacteria</div>
@@ -66,7 +66,7 @@
                             <div class="bld-li bld-li-save" onclick="saveSheet()"><i class="fa-solid fa-share bld-icon"></i> Save Worksheet</div>
                             <div class="bld-li bld-li-temp" style="display: none;"><i class="fa-solid fa-check bld-icon"></i> Saved</div>
                             <div class="bld-li bld-li-error" style="display: none;"><i class="fa-solid fa-xmark bld-icon"></i> Please Log in</div>
-                            <a href="/saved-sheets.html" class="bld-li"><i class="fa-solid fa-bookmark bld-icon"></i> View Saved Worksheets</a>
+                            <a href="/saved-sheets" class="bld-li"><i class="fa-solid fa-bookmark bld-icon"></i> View Saved Worksheets</a>
                         </div>
                         <div class="btn-bld-print" onclick="printSheet()">Print Worksheet <i class="fa-solid fa-print bld-print-icon"></i></div>
                     </div>
@@ -154,6 +154,7 @@
                 </div>
 
                 <div class="btn-bld-edit" onclick="openBldModal()">Edit <i class="fa-solid fa-pen-to-square bld-edit-icon"></i></div>
+                <div class="btn-bld-mobile" onclick="printSheet()">Print Worksheet</div>
                 <div class="she-container">
                     <div class="she-wrapper">
                         <div class="she-wrapper-inside">

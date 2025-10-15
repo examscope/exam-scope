@@ -12,6 +12,7 @@ let isSubjectPicked;
 let postFormProgress = [false, false, false];
 let papType;
 let papLevel;
+let currentMode = "light";
 
 let examChoose = "leaving-certificate";
 let subjectChoose = "";
@@ -70,6 +71,16 @@ async function getDisplay(){
         const data = await response.json(); 
         const userData = data.userData;
         const subjectData = data.subjects;
+        const theme = data.theme;
+
+        /*
+        if(theme == "dark"){
+            currentMode = "light";
+        } else if(theme == "light"){
+            currentMode = "dark";
+        }
+        toggleMode();
+        */
 
         if(data.message == "guest"){
             document.querySelectorAll(".logged-element").forEach(element => element.style.display = "none");
@@ -132,6 +143,7 @@ async function getDisplay(){
                                 <div class="sub-stat">${level}</div>
                             </div>
                     `;
+                    dynamicLightMode(newWrapper);
                     if(subject.level == "hl"){
                         newWrapper.querySelectorAll(".sub-drop-box")[0].classList.add("sub-drop-box-active");
                         newWrapper.querySelectorAll(".sub-drop-check")[0].classList.add("sub-drop-check-active");
@@ -235,14 +247,14 @@ async function getDisplay(){
             }
         } else if(data.message == "not onboarded"){
             window.location.href = "/sign-up?onboarding=true&section=profile";
-        }
+        } 
 
     } catch (error) {
         console.error('Error fetching data:', error);
     }
 }
 
-function createHtml(){
+async function createHtml(){
     let footer = document.createElement("div");
     footer.classList.add("foot-container");
     footer.innerHTML = `
@@ -288,8 +300,8 @@ function createHtml(){
             <div class="foot-bottom">
                 <div class="foot-copy">©2025 ExamScope. All rights reserved.</div>
                 <div class="foot-legal">
-                    <a href="/" class="foot-legal-link">Privacy Policy</a>
-                    <a href="/" class="foot-legal-link">Terms of Service</a>
+                    <a href="/privacy-policy" class="foot-legal-link">Privacy Policy</a>
+                    <a href="/terms-of-use" class="foot-legal-link">Terms of Service</a>
                 </div>
             </div>
         </div>
@@ -396,16 +408,17 @@ function createHtml(){
                     <i class="fa-solid fa-bookmark side-drop-icon"></i>
                     <div class="side-drop-txt">Saved Questions</div>
                 </a>
-                <a href="/worksheets" class="side-drop-section">
+                <a href="/saved-sheets" class="side-drop-section">
                     <i class="fa-solid fa-file-pen side-drop-icon"></i>
                     <div class="side-drop-txt">My Worksheets</div>
                 </a>
             </div>
         </div>
-        <a href="/welcome" class="side-section noti-section">
-            <i class="fa-solid fa-book side-icon"></i>
-            <div class="side-txt">Learn more</div>
-        </a>
+        <div class="side-section mode-section" onclick="toggleMode()">
+            <i class="fa-solid fa-moon side-icon side-moon"></i>
+            <i class="fa-solid fa-lightbulb side-icon side-sun" style="display: none;"></i>
+            <div class="side-txt">Dark Mode</div>
+        </div>
 
         <div class="side-split"></div>
 
@@ -467,6 +480,13 @@ function createHtml(){
     document.body.prepend(sideNav);
     document.body.prepend(pageShadow);
     document.body.prepend(headerContainer);
+
+    if(localStorage.getItem("theme") == "light"){
+        currentMode = "dark";
+    } else {
+        currentMode = "light";
+    }
+    toggleMode();
 }
 
 let subContainer = document.querySelector(".sub-container");
@@ -515,13 +535,13 @@ if(subContainer || papContainer || document.querySelector(".bld-container")){
     // PAST PAPER FORM FUNCTIONALITY //
     papSelector.addEventListener("click", () => {
         if(!isPapDropped){
-            papSelector.style.border = "1px solid hsl(145, 65%, 45%)";
+            if(currentMode == "light") papSelector.style.border = "1px solid hsl(145, 65%, 45%)";
             papArrow.style.transform = "rotate(-180deg)";
             papDropdown.classList.add("pap-drop-open");
             papDropdown.classList.remove("pap-drop-closed");
             isPapDropped = true;
         } else {
-            papSelector.style.border = "1px solid hsl(0, 0%, 60%)";
+            if(currentMode == "light") papSelector.style.border = "1px solid hsl(0, 0%, 60%)";
             papArrow.style.transform = "rotate(0deg)";
             papDropdown.classList.remove("pap-drop-open");
             papDropdown.classList.add("pap-drop-closed");
@@ -618,6 +638,8 @@ if(document.querySelector(".sav-container")){
             const questions = data.questions;
             const srcs = data.srcs;
             const schemeSrcs = data.schemeSrcs;
+            let stateCount = 0;
+            let mockCount = 0;
 
             if(data.message == "success"){
                 questions.forEach((question, idx) => {
@@ -634,7 +656,10 @@ if(document.querySelector(".sav-container")){
                         levelTxt = "Common level";
                     }
                     let questionType = "";
+                    stateCount++;
                     if(question.type == "mock"){
+                        stateCount--;
+                        mockCount++;
                         questionType = " sav-type-mock";
                     }
                     let imgHtml = "";
@@ -667,6 +692,7 @@ if(document.querySelector(".sav-container")){
                                 <div class="btn-sav btn-show">Show Question</div>
                             </div>
                     `;
+                    dynamicLightMode(newBox);
                     newBox.querySelector(".btn-remove").onclick = () => {
                         async function deleteQuestion() {
                             const dataToSend = { imageId: question.id };
@@ -715,6 +741,11 @@ if(document.querySelector(".sav-container")){
                     }
 
                     document.querySelector(".sav-col").appendChild(newBox);
+                });
+                document.querySelectorAll(".filter-amount").forEach((el, idx) => {
+                    if(idx == 0) el.textContent = "(" + String(stateCount + mockCount) + ")";
+                    if(idx == 1) el.textContent = "(" + String(stateCount) + ")";
+                    if(idx == 2) el.textContent = "(" + String(mockCount) + ")";
                 });
             } else {
                 document.querySelector(".sav-filter-container").style.display = "none";
@@ -860,6 +891,7 @@ if(papContainer){
                             </a>
                             <div class="pap-mark"><i class="fa-solid fa-check pap-check"></i></div>
                         `;
+                        dynamicLightMode(newRow);
                         allRows.push([newRow, paper.group_id, Number(paper.layer.slice(1)), paper.part]);
                         //document.getElementById("papCol").appendChild(newRow);
 
@@ -987,6 +1019,8 @@ if(resContainer){
                     <div class="res-txt">Finished</div>
                     <div class="res-score">${result.score}</div>
                 `;
+                dynamicLightMode(newRow);
+                
                 document.querySelector(".res-inside").appendChild(newRow);
 
                 newRow.querySelector(".res-name").onclick = () => {
@@ -1027,6 +1061,7 @@ if(resContainer){
                             }
                         });
                     });
+                    dynamicLightMode(newOption);
                     document.querySelector(".res-box-container").appendChild(newOption);
                 }
             });
@@ -1200,6 +1235,7 @@ if(topcContainer){
             newLi.addEventListener("click", () => {
                 window.location.href = `/questions/${certificate}/` + subject + `/${level}/` + newLi.textContent.replace(/ /g, "-").replace(/&/g, "and").replace().replace(/,/g, "").replace(/\//g, "-").replace(/:/g, "").replace(/\?/g, "").replace(/\|/g, "").replace(/[#.+/'()]/g, "").replace(/---/g, "-").replace(/--/g, "-").toLowerCase();
             }); 
+            dynamicLightMode(newLi);
 
             topcUl.appendChild(newLi);
         });
@@ -1226,6 +1262,7 @@ if(topcContainer){
                     <img src="/images/icons/search3.png" class="topc-result-icon">
                     <div class="topc-result-txt">${topic}</div>
                 `
+                dynamicLightMode(newSection);
                 newSection.addEventListener("click", () => {
                     window.location.href = `/questions/${certificate}/` + subject + `/${level}/` + topic.replace(/ /g, "-").replace(/&/g, "and").replace(/---/g, "-").replace(/--/g, "-").replace().replace(/,/g, "").replace(/\//g, "-").replace(/:/g, "").replace(/\?/g, "").replace(/\|/g, "").replace(/[#.+/'()]/g, "").toLowerCase();
                 }); 
@@ -1279,6 +1316,7 @@ if(topcContainer){
                             <img src="/images/eg_scheme.png" alt="Exam Paper" class="pap-img">
                         </a>
                     `;
+                    dynamicLightMode(newRow);
                     document.getElementById("papCol").appendChild(newRow);
                 }});
 
@@ -1302,6 +1340,7 @@ if(topcContainer){
                                     <div class="topc-res-txt res-date">${result.date_taken}</div>
                                     <div class="topc-res-score">${result.score}</div>
                                 `;
+                                dynamicLightMode(newRow);
                                 document.querySelector(".topc-res-col").appendChild(newRow);
                 
                                 newRow.querySelector(".topc-res-name").onclick = () => {
@@ -1434,6 +1473,7 @@ if(examContainer){
                             </div>
                         </div>
                     `
+                    dynamicLightMode(examQuestion);
                     examContent.prepend(examQuestion);
                     const examQuestionCont = examQuestion.querySelector(".exam-ques-container");
                     const examSchemeCont = examQuestion.querySelector(".scheme-img-container");
@@ -1939,7 +1979,6 @@ if(document.querySelector(".quiz-container")){
                             quizQuestions.push(question);
                         }
                     });
-                    console.log(quizQuestions);
                 }
 
                 quizQuestions.forEach((question, idx) => {
@@ -1980,6 +2019,7 @@ if(document.querySelector(".quiz-container")){
                             -->
                         </div>
                     `
+                    dynamicLightMode(newQuestion);
 
                     let guideTxt;
                     if(question.type == "choice"){
@@ -2161,7 +2201,6 @@ if(document.querySelector(".quiz-container")){
             day: "numeric",
             year: "numeric"
         });
-        console.log(guesses);
         document.querySelector(".ana-info-txt").innerHTML = `Finished ${formatted}<div class="ana-dot"></div><span class="ana-info-txt"><i class="fa-regular fa-circle-question ana-info-icon"></i>${results.length} Questions</span>`;
         results.forEach((result, idx) => {
             if(result == true){
@@ -2210,6 +2249,7 @@ if(document.querySelector(".quiz-container")){
                     </div>
                 </div>
             `;
+            dynamicLightMode(newBox);
             document.querySelector(".ana-ques-col").appendChild(newBox);
         });
         document.querySelectorAll("div.ana-perc-txt")[0].innerHTML = `Correct <span class="ana-perc-txt">${results.filter(res => res == true).length}</span> <div class="ana-dot"></div> ${(results.filter(res => res == true).length / results.length) * 100}%`;
@@ -2324,6 +2364,7 @@ if(document.querySelector(".bld-container")){
                                     deleteIcon.classList.add("she-img-delete");
                                     deleteIcon.style.cursor = "pointer";
                                     deleteIcon.innerHTML = `<i class="fa-solid fa-xmark she-delete she-img-delete" id="${img.src}"></i>`;
+                                    dynamicLightMode(deleteIcon);
                                     document.querySelector(".she-wrapper").appendChild(deleteIcon);
                                     img.classList.add("she-first-img");
                                     document.querySelector(".she-container").addEventListener("click", (e) => {if(e.target.id == img.src){
@@ -2346,6 +2387,7 @@ if(document.querySelector(".bld-container")){
                                                 let topHtml = document.createElement("div");
                                                 topHtml.classList.add("she-top");
                                                 topHtml.innerHTML = previousTop;
+                                                dynamicLightMode(topHtml);
                                                 secondWrapper.prepend(topHtml);
                                                 orderPages(secondWrapper);
                                             } else {
@@ -2362,6 +2404,7 @@ if(document.querySelector(".bld-container")){
                                                     </div>
                                                     <div class="she-idx">1</div>
                                                 `
+                                                dynamicLightMode(newFirstWrapper);
                                                 document.querySelector(".she-container").prepend(newFirstWrapper);
                                                 isFirstImg = true;
                                             }
@@ -2394,6 +2437,7 @@ if(document.querySelector(".bld-container")){
                                             </div>
                                             <div class="she-idx">${nextIdx}</div>
                                         `
+                                        dynamicLightMode(currentPage);
                                         if(document.querySelector(".she-extra-page")){
                                             document.querySelector(".she-container").insertBefore(currentPage, document.querySelector(".she-extra-page"));
                                         } else {
@@ -2435,6 +2479,7 @@ if(document.querySelector(".bld-container")){
                                             let topHtml = document.createElement("div");
                                             topHtml.classList.add("she-top");
                                             topHtml.innerHTML = previousTop;
+                                            dynamicLightMode(topHtml);
                                             secondWrapper.prepend(topHtml);
                                         } else {
                                             let newFirstWrapper = document.createElement("div");
@@ -2450,6 +2495,7 @@ if(document.querySelector(".bld-container")){
                                                 </div>
                                                 <div class="she-idx">1</div>
                                             `
+                                            dynamicLightMode(newFirstWrapper);
                                             document.querySelector(".she-container").prepend(newFirstWrapper);
                                             isFirstImg = true;
                                         }
@@ -2566,7 +2612,6 @@ if(document.querySelector(".bld-container")){
             if(document.querySelector(".btn-bld-active").textContent == "Worksheet"){
                 sheetQuestionHtml = document.querySelector(".she-container").innerHTML;   
             }
-            console.log(sheetQuestionImgs);
             const dataToSend = { html: sheetQuestionHtml, title: document.getElementById("bldInput").value, subject: subjectStr, level: parts[3], cert: parts[1], date: fullDate, questionData: sheetQuestionImgs, schemeData: sheetSchemeImgs, sheetId: sheetId, isNew: isNew };
             try {
                 const response = await fetch(url + '/api/save-sheet', {
@@ -2653,6 +2698,7 @@ if(document.querySelector(".bld-container")){
             document.querySelector(".bld-topic-flex").innerHTML = "";
             data.topics.forEach(str => {
                 let newPill = document.createElement("div");
+                dynamicLightMode(newPill);
                 newPill.classList.add("bld-topic-pill");
                 newPill.textContent = str;
                 newPill.addEventListener("click", () => document.querySelector(".btn-bld-topic.btn-reply").classList.remove("btn-inactive"));
@@ -2741,23 +2787,24 @@ if(document.querySelector(".bld-container")){
                                         <div class="bld-ques-info">${question.year}${questionStr} - ${question.topic.replace(/-/g, " ").split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ")}</div>
                                         <div class="sav-type${questionType}">${question.type.slice(0, 1).toUpperCase() + question.type.slice(1)} exam</div>
                                     </div>
-                                    <div class="sav-hr"></div>
+                                    <div class="bld-ques-hr"></div>
                                     <div class="sav-btn-flex">
                                         <div class="btn-sav btn-remove">View</div>
                                         <div class="btn-sav btn-show">Add Question</div>
                                     </div>
                             `;
+                            dynamicLightMode(newBox);
                             let newQuestionImgs = [question];
                             let newSchemeImgs = [];
                             let matchedObjs = [question];
                             let matchedSchemes = [];
                             questions.forEach((obj2, idx2) => {
-                                if(idx2 != idx && obj2.year == question.year && obj2.option == question.option && obj2.part == question.part && obj2.question.slice(1) == question.question.slice(1) && obj2.type == question.type && obj2.version == question.version && obj2.question_id == question.question_id){
+                                if(idx2 != idx && obj2.year == question.year && obj2.option == question.option && obj2.part == question.part && obj2.question.slice(1) == question.question.slice(1) && obj2.type == question.type && obj2.version == question.version){
                                     usedIds.push(obj2.id);
                                     matchedObjs.push(obj2);
                                     newQuestionImgs.push(obj2);
                                 }
-                                if(idx2 != idx && obj2.year == question.year && obj2.option == question.option && obj2.part == question.part && obj2.question.slice(1) == question.question.slice(1) && obj2.type == question.type && obj2.version == "marking scheme" && obj2.question_id == question.question_id){
+                                if(idx2 != idx && obj2.year == question.year && obj2.option == question.option && obj2.part == question.part && obj2.question.slice(1) == question.question.slice(1) && obj2.type == question.type && obj2.version == "marking scheme"){
                                     matchedSchemes.push(obj2);
                                     newSchemeImgs.push(obj2);
                                 }
@@ -2785,22 +2832,23 @@ if(document.querySelector(".bld-container")){
                             lazyObserver.observe(newBox);
 
                             newBox.querySelector(".btn-remove").onclick = () => { // view question
-                                document.querySelector(".bld-ques-modal").style.opacity = "0";
-                                document.querySelector(".bld-ques-modal").style.pointerEvents = "none";
-
-                                document.querySelector(".preview-title").textContent = newBox.querySelector(".bld-ques-info").textContent;
-                                if(newBox.querySelector(".sav-type").classList.contains("sav-type-mock")){
-                                    document.querySelector(".exam-type").classList.add("pap-type-mock");
-                                    document.querySelector(".exam-type").textContent = "Mock Exam";
-                                } else {
-                                    document.querySelector(".exam-type").classList.remove("pap-type-mock");
-                                    document.querySelector(".exam-type").textContent = "State Exam";
-                                }
-                                document.querySelector(".exam-ques-container").innerHTML = newBox.querySelector(".bld-ques-img-container").innerHTML;
-                                document.querySelector(".scheme-img-container").innerHTML = newBox.querySelector(".bld-scheme-img-container").innerHTML;
-                                document.querySelector(".preview-modal").style.opacity = "1";
-                                document.querySelector(".preview-modal").style.pointerEvents = "auto";
-                                scrollToTop(document.querySelector(".preview-wrapper"));
+                                    console.log(newBox.querySelector(".exam-scheme-img").innerHTML);
+                                    document.querySelector(".bld-ques-modal").style.opacity = "0";
+                                    document.querySelector(".bld-ques-modal").style.pointerEvents = "none";
+    
+                                    document.querySelector(".preview-title").textContent = newBox.querySelector(".bld-ques-info").textContent;
+                                    if(newBox.querySelector(".sav-type").classList.contains("sav-type-mock")){
+                                        document.querySelector(".exam-type").classList.add("pap-type-mock");
+                                        document.querySelector(".exam-type").textContent = "Mock Exam";
+                                    } else {
+                                        document.querySelector(".exam-type").classList.remove("pap-type-mock");
+                                        document.querySelector(".exam-type").textContent = "State Exam";
+                                    }
+                                    document.querySelector(".exam-ques-container").innerHTML = newBox.querySelector(".bld-ques-img-container").innerHTML;
+                                    document.querySelector(".scheme-img-container").innerHTML = newBox.querySelector(".bld-scheme-img-container").innerHTML;
+                                    document.querySelector(".preview-modal").style.opacity = "1";
+                                    document.querySelector(".preview-modal").style.pointerEvents = "auto";
+                                    scrollToTop(document.querySelector(".preview-wrapper"));
                             }
                             newBox.querySelector(".btn-show").onclick = () => { // add question
                                 newSchemeImgs = sortImgLayers(newSchemeImgs);
@@ -2826,6 +2874,7 @@ if(document.querySelector(".bld-container")){
                                             deleteIcon.classList.add("she-img-delete");
                                             deleteIcon.style.cursor = "pointer";
                                             deleteIcon.innerHTML = `<i class="fa-solid fa-xmark she-delete she-img-delete" id="${img.src}"></i>`;
+                                            dynamicLightMode(deleteIcon);
                                             document.querySelector(".she-wrapper").appendChild(deleteIcon);
                                             img.classList.add("she-first-img");
                                             document.querySelector(".she-container").addEventListener("click", (e) => {if(e.target.id == img.src){
@@ -2848,6 +2897,7 @@ if(document.querySelector(".bld-container")){
                                                         let topHtml = document.createElement("div");
                                                         topHtml.classList.add("she-top");
                                                         topHtml.innerHTML = previousTop;
+                                                        dynamicLightMode(topHtml);
                                                         secondWrapper.prepend(topHtml);
                                                         orderPages(secondWrapper);
                                                     } else {
@@ -2864,6 +2914,7 @@ if(document.querySelector(".bld-container")){
                                                             </div>
                                                             <div class="she-idx">1</div>
                                                         `
+                                                        dynamicLightMode(newFirstWrapper);
                                                         document.querySelector(".she-container").prepend(newFirstWrapper);
                                                         isFirstImg = true;
                                                     }
@@ -2895,6 +2946,7 @@ if(document.querySelector(".bld-container")){
                                                 </div>
                                                 <div class="she-idx">${nextIdx}</div>
                                             `
+                                            dynamicLightMode(currentPage);
                                             if(document.querySelector(".she-extra-page")){
                                                 document.querySelector(".she-container").insertBefore(currentPage, document.querySelector(".she-extra-page"));
                                             } else {
@@ -2915,6 +2967,7 @@ if(document.querySelector(".bld-container")){
                                     </div>
                                     <div class="she-idx">${newIdx}</div>
                                     `
+                                    dynamicLightMode(newPage);
                                     let currentPage = "";
                                     document.querySelector(".she-container").appendChild(newPage);
                                     newPage.querySelectorAll(".bld-ques-img").forEach((img, idx) => {
@@ -2929,6 +2982,7 @@ if(document.querySelector(".bld-container")){
                                             deleteIcon.classList.add("she-delete");
                                             deleteIcon.style.cursor = "pointer";
                                             deleteIcon.innerHTML = `<i class="fa-solid fa-xmark she-delete" id="${img.src}"></i>`;
+                                            dynamicLightMode(deleteIcon);
                                             newPage.appendChild(deleteIcon);
                                             img.classList.add("she-first-img");
                                             document.querySelector(".she-container").addEventListener("click", (e) => {if(e.target.id == img.src){
@@ -2951,6 +3005,7 @@ if(document.querySelector(".bld-container")){
                                                         let topHtml = document.createElement("div");
                                                         topHtml.classList.add("she-top");
                                                         topHtml.innerHTML = previousTop;
+                                                        dynamicLightMode(topHtml);
                                                         secondWrapper.prepend(topHtml);
                                                         orderPages(secondWrapper);
                                                     } else {
@@ -2967,6 +3022,7 @@ if(document.querySelector(".bld-container")){
                                                             </div>
                                                             <div class="she-idx">1</div>
                                                         `
+                                                        dynamicLightMode(newFirstWrapper);
                                                         document.querySelector(".she-container").prepend(newFirstWrapper);
                                                         isFirstImg = true;
                                                     }
@@ -2998,7 +3054,7 @@ if(document.querySelector(".bld-container")){
                                                 </div>
                                                 <div class="she-idx">${nextIdx}</div>
                                             `
-                                            console.log(currentPage);
+                                            dynamicLightMode(currentPage);
                                             document.querySelector(".she-container").appendChild(currentPage);
                                             newPage.querySelector(".she-img-container").removeChild(img);
                                         }
@@ -3049,6 +3105,7 @@ if(document.querySelector(".bld-container")){
             </div>
             <div class="she-idx">1</div>
         `
+        dynamicLightMode(firstWrapper);
         document.querySelector(".she-container").appendChild(firstWrapper);
         sheetSchemeImgs.forEach((question, idx) => {
             if(idx == 0){
@@ -3078,6 +3135,7 @@ if(document.querySelector(".bld-container")){
                                 </div>
                                 <div class="she-idx">${nextIdx}</div>
                             `
+                            dynamicLightMode(currentPage);
                             document.querySelector(".she-container").appendChild(currentPage);
                             firstWrapper.querySelector(".she-img-container").removeChild(urlImg);
                         }
@@ -3094,6 +3152,7 @@ if(document.querySelector(".bld-container")){
                     </div>
                     <div class="she-idx">${newIdx}</div>
                 `
+                dynamicLightMode(newPage);
                 let currentPage = "";
                 document.querySelector(".she-container").appendChild(newPage);
                 let availableHeight = newPage.querySelector(".she-img-container").clientHeight;
@@ -3122,6 +3181,7 @@ if(document.querySelector(".bld-container")){
                                 </div>
                                 <div class="she-idx">${nextIdx}</div>
                             `
+                            dynamicLightMode(currentPage);
                             document.querySelector(".she-container").appendChild(currentPage);
                             newPage.querySelector(".she-img-container").removeChild(urlImg);
                         }
@@ -3165,6 +3225,12 @@ if(document.querySelector(".bld-container")){
     function closePreviewModal(){
         document.querySelector(".preview-modal").style.opacity = "0";
         document.querySelector(".preview-modal").style.pointerEvents = "none";
+        document.querySelector(".bld-ques-modal").style.opacity = "1";
+        document.querySelector(".bld-ques-modal").style.pointerEvents = "auto";
+        document.querySelector(".exam-eye-open").style.display = "block";
+        document.querySelector(".exam-eye-slash").style.display = "none";
+        document.querySelector(".scheme-img-container").style.maxHeight = "0px";
+        document.querySelector(".scheme-img-container").style.margin = "0";
     }
     document.querySelector(".btn-view").onclick = () => {
         let autoHeight = 0;
@@ -3223,6 +3289,7 @@ if(document.querySelector(".sash-table")){
                             <div class="btn-sash-del">Delete</div>
                         </div>
                     `
+                    dynamicLightMode(newRow);
                     document.querySelector(".sash-inside").appendChild(newRow);
 
                     newRow.querySelector(".btn-sash-del").onclick = () => {
@@ -3367,6 +3434,7 @@ if(document.querySelector(".set-container")){
                     }
                     let subName = subject.subject_name.replace(/-/g, " ").split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ");
                     newSubject.innerHTML = `${levelTxt}${subName}<i class="fa-solid fa-xmark edit-view-xmark"></i>`;
+                    dynamicLightMode(newSubject);
                     if(subject.level == "cl"){
                         levelTxt = "Common";
                     }
@@ -3443,6 +3511,7 @@ if(document.querySelector(".set-container")){
                                     </div>
                         `
                     }
+                    dynamicLightMode(newLi);
 
                     newLi.querySelectorAll(".set-level-box").forEach((box, idx) => {
                         box.addEventListener("click", () => {if(!box.classList.contains("sub-drop-box-active")){
@@ -3766,6 +3835,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                 let newSubject = document.createElement("div");
                 newSubject.classList.add("edit-view-txt");
                 newSubject.innerHTML = `${cont.querySelector(".edit-auto-txt").textContent}<i class="fa-solid fa-xmark edit-view-xmark"></i>`;
+                dynamicLightMode(newSubject);
                 newSubject.querySelector("i.edit-view-xmark").onclick = (e) => {
                     e.stopPropagation();
                     document.querySelector(".edit-view-col").removeChild(newSubject);
@@ -3824,6 +3894,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                     let newSubject = document.createElement("div");
                     newSubject.classList.add("edit-view-txt");
                     newSubject.innerHTML = `${level.querySelector(".edit-level-txt").textContent} ${cont.querySelector(".edit-selector-txt").textContent}<i class="fa-solid fa-xmark edit-view-xmark"></i>`;
+                    dynamicLightMode(newSubject);
                     newSubject.querySelector("i.edit-view-xmark").onclick = (e) => {
                         e.stopPropagation();
                         document.querySelector(".edit-view-col").removeChild(newSubject);
@@ -3966,6 +4037,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                     `
                     searchSelector.querySelector(".edit-ul").appendChild(newSelector);  
                 }
+                dynamicLightMode(newSelector);
             });
             checkAllSubjects();
         } else {
@@ -4038,6 +4110,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                     let newSubject = document.createElement("div");
                     newSubject.classList.add("edit-view-txt");
                     newSubject.innerHTML = `${cont.querySelector(".edit-auto-txt").textContent}<i class="fa-solid fa-xmark edit-view-xmark"></i>`;
+                    dynamicLightMode(newSubject);
                     newSubject.querySelector("i.edit-view-xmark").onclick = (e) => {
                         e.stopPropagation();
                         document.querySelector(".edit-view-col").removeChild(newSubject);
@@ -4096,6 +4169,7 @@ if(document.querySelector(".edit-container") || document.querySelector(".set-con
                         let newSubject = document.createElement("div");
                         newSubject.classList.add("edit-view-txt");
                         newSubject.innerHTML = `${level.querySelector(".edit-level-txt").textContent} ${cont.querySelector(".edit-selector-txt").textContent}<i class="fa-solid fa-xmark edit-view-xmark"></i>`;
+                        dynamicLightMode(newSubject);
                         newSubject.querySelector("i.edit-view-xmark").onclick = (e) => {
                             e.stopPropagation();
                             document.querySelector(".edit-view-col").removeChild(newSubject);
@@ -4499,23 +4573,25 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
         }
     }
 
-    document.querySelector(".btn-ver").addEventListener("click", () => {
-        let enteredCode = "";
-        document.querySelectorAll(".ver-inp").forEach(inp => {
-            enteredCode += inp.value;
-        });
-        if(enteredCode.length == 6){
-            if(document.querySelector(".ver-container")){
-                sendCode(enteredCode);
-            } else if(document.querySelector(".set-container")){
-                verifySettings(enteredCode);
+    document.querySelectorAll(".btn-ver, span.ver-txt").forEach(resender => {
+        resender.addEventListener("click", () => {
+            let enteredCode = "";
+            document.querySelectorAll(".ver-inp").forEach(inp => {
+                enteredCode += inp.value;
+            });
+            if(enteredCode.length == 6){
+                if(document.querySelector(".ver-container")){
+                    sendCode(enteredCode);
+                } else if(document.querySelector(".set-container")){
+                    verifySettings(enteredCode);
+                }
+            } else {
+                document.getElementById("verError").style.display = "block";
+                setTimeout(() => {
+                    document.getElementById("verError").style.display = "none";
+                }, 2000);
             }
-        } else {
-            document.getElementById("verError").style.display = "block";
-            setTimeout(() => {
-                document.getElementById("verError").style.display = "none";
-            }, 2000);
-        }
+        });
     });
 }
 
@@ -4931,11 +5007,57 @@ function SubjectShort(long){
     }
     return subjectSlug;
 }
+function toggleMode() {
+    if(currentMode == "light"){
+        document.querySelector("i.side-moon").style.display = "none";
+        document.querySelector("i.side-sun").style.display = "block";
+        document.querySelector(".mode-section").querySelector(".side-txt").textContent = "Light Mode";
+        localStorage.setItem("theme", "dark");
+        currentMode = "dark";
+        
+        document.querySelectorAll("*").forEach(el => {
+            el.classList.add("dark-mode-element");
+        });
+        addStyle(".pap-selector", "border", "1px solid hsl(145, 15%, 22%)");
+    } else {
+        document.querySelector("i.side-sun").style.display = "none";
+        document.querySelector("i.side-moon").style.display = "block";
+        document.querySelector(".mode-section").querySelector(".side-txt").textContent = "Dark Mode";
+        localStorage.setItem("theme", "light");
+        currentMode = "light";
+        
+        document.querySelectorAll("*").forEach(el => {
+            el.classList.remove("dark-mode-element");
+        });
+        addStyle(".pap-selector", "border", "1px solid hsl(0, 0%, 60%)");
+    }
+}
+function addStyle(elementClass, styleType, styleValue){
+    const element = document.querySelector(elementClass);
+    if(element){
+        document.querySelectorAll(elementClass).forEach(el => {
+            el.style[styleType] = styleValue;
+        });
+    }
+}
+function addHover(elementClass, styleType, styleValue, originalValue){
+    const element = document.querySelector(elementClass);
+    if(element){
+        document.querySelectorAll(elementClass).forEach(el => {
+            el.onmouseenter = () => {
+                el.style[styleType] = styleValue;
+            }
+            el.onmouseleave = () => {
+                el.style[styleType] = originalValue;
+            }
+        });
+    }
+}
 const lazyObserver = new IntersectionObserver((entries, observer) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
       const question = entry.target;
-      question.querySelectorAll(".exam-question-img, .exam-scheme-img, .bld-ques-img").forEach(img => {
+      question.querySelectorAll(".exam-question-img, .exam-scheme-img, .exam-scheme-img, .bld-ques-img").forEach(img => {
         img.src = img.dataset.src;
       });
       observer.unobserve(question);
@@ -4944,6 +5066,19 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
 }, {
   threshold: 0.01
 });
+function dynamicLightMode(element){
+    if(currentMode == "light"){
+        element.classList.remove("dark-mode-element");
+        element.querySelectorAll("*").forEach(child => {
+            child.classList.remove("dark-mode-element");
+        });
+    } else {
+        element.classList.add("dark-mode-element");
+        element.querySelectorAll("*").forEach(child => {
+            child.classList.add("dark-mode-element");
+        });
+    }
+}
 
 
 
@@ -4973,7 +5108,7 @@ document.addEventListener("mousedown", (e) => {
     }
 
     if(papSelector && !papSelector.contains(e.target) && isPapDropped){
-        papSelector.style.border = "1px solid hsl(0, 0%, 60%)";
+        if(currentMode == "light") papSelector.style.border = "1px solid hsl(0, 0%, 60%)";
         papArrow.style.transform = "rotate(0deg)";
         papDropdown.classList.remove("pap-drop-open");
         papDropdown.classList.add("pap-drop-closed");

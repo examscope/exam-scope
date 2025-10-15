@@ -68,3 +68,22 @@ const observer = new IntersectionObserver((entries, observer) => {
 document.querySelectorAll(".scroll-target").forEach(target => {
     observer.observe(target);
 });
+
+document.querySelector(".con-form").addEventListener("submit", function(e) {
+    e.preventDefault();
+    const form = e.target;
+    const data = new FormData(form);
+    fetch(form.action, {
+    method: form.method,
+    body: data,
+    headers: { 'Accept': 'application/json' }
+    }).then(response => {
+    if (response.ok) {
+        document.querySelector(".set-thank-modal").style.opacity = "1";
+        document.querySelector(".set-thank-modal").style.pointerEvents = "auto";
+        form.reset();
+    } else {
+        console.error("NOT OKAY");
+    }
+    });
+});

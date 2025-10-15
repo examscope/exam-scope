@@ -27,6 +27,7 @@ span {
     color: #000080;
 }
 
+
 /*/////////////////////// HOME HEADER ///////////////////////*/
 .header-container {
     height: 75px;
@@ -54,7 +55,7 @@ span {
 }
 .header-link {
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     color: hsl(0, 0%, 30%);
 }
 .header-link:hover {
@@ -297,8 +298,8 @@ span {
 .side-section:hover {
     background-color: hsl(0, 0%, 96%);
 }
-.active-section {
-    background-color: hsl(145, 65%, 90%) !important;
+.active-section, .active-section:hover {
+    background-color: hsl(145, 65%, 90%);
 }
 .side-icon {
     width: 24px;
@@ -392,8 +393,8 @@ span {
     font-weight: 600;
 }
 .home-para {
-    font-size: 15px;
     color: hsl(0, 0%, 20%);
+    font-size: 15px;
     margin: 16px 0 50px;
 }
 .home-nav {
@@ -421,7 +422,7 @@ span {
 }
 .hr-fill-active {
     width: 100%;
-    background-color: hsl(145, 65%, 55%);
+    background-color: hsl(145, 65%, 45%);
 }
 .nav-link {
     position: relative;
@@ -1015,6 +1016,7 @@ span {
     border-radius: 12px;
     padding: 60px 30px;
     max-width: calc(100% - 24px);
+    height: calc(100% - 100px);
     max-height: calc(100% - 100px);
     width: 750px;
     overflow: auto;
@@ -1193,6 +1195,7 @@ i.preview-back {
     font-size: 17px;
     background-color: white;
     border-bottom: 1px solid hsl(0, 0%, 90%);
+    color: hsl(0, 0%, 30%);
 }
 .pap-drop-other {
     background-color: hsl(0, 0%, 98%);
@@ -1305,7 +1308,7 @@ i.preview-back {
     border-bottom: 1px solid hsl(0, 0%, 80%);
 }
 .pap-row:last-child {
-    border-bottom: 0;
+    border-bottom: 0 !important;
 }
 .pap-year {
     width: 128px;
@@ -2623,7 +2626,7 @@ i.preview-back {
     align-items: center;
     height: 28px;
     width: 22px;
-    color: hsl(145, 65%, 45%);
+    color: hsl(0, 0%, 34%);
     font-size: 20px;
 }
 .manage-hr {
@@ -3036,9 +3039,29 @@ i.she-delete {
     color: hsl(0, 0%, 20%);
     transition: 0.2s ease;
 }
-.bld-edit-icon {
+i.bld-edit-icon {
     font-size: 15px;
     color: hsl(0, 0%, 25%);
+}
+.btn-bld-mobile {
+    white-space: nowrap;
+    position: relative;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 200px;
+    padding: 8px 16px;
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+    transition: 0.2s ease;
+}
+.btn-bld-mobile i {
+    font-size: 15px;
+    color: white;
 }
 
 .bld-topic-modal {
@@ -3225,6 +3248,12 @@ i.she-delete {
     width: 100%;
     height: auto;
 }
+.bld-ques-hr {
+    margin-top: 25px;
+    width: 100%;
+    height: 2px;
+    background-color: hsl(0, 0%, 90%);
+}
 /*////////////////////////////////////////////////////////////////////////////////////*/
 
 /*///////////////////////////////// SAVED WORKSHEETS ////////////////////////////////*/
@@ -3305,7 +3334,7 @@ i.she-delete {
     gap: 65px;
 }
 .sash-row:last-child {
-    border: 0;
+    border: 0 !important;
 }
 .sash-inside {
     min-width: 946px;
@@ -4349,7 +4378,7 @@ i.book-modal-check {
     left: 0;
     width: 100%;
     height: 100vh;
-    background-color: hsla(0, 0%, 0%, 0.8);
+    background-color: hsla(0, 0%, 0%, 0.3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -5098,6 +5127,29 @@ span.ver-txt {
 }
 /*///////////////////////////////////////////////////////////////////////////////////////*/
 
+/*terms*/
+.terms-wrapper {
+    width: 800px;
+    margin: 60px auto 0;
+    background-color: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0px 0px 15px hsla(0, 0%, 0%, 0.1);
+}
+.terms-head {
+    font-size: 20px;
+    font-weight: 500;
+    color: hsl(0, 0%, 20%);
+}
+.terms-para {
+    margin: 6px 0 24px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: hsl(0, 0%, 20%);
+}
+/*terms*/
+
+
 .header-burger {
     display: none;
 }
@@ -5213,7 +5265,7 @@ i.bld-exit {
         scrollbar-width: thin;
         height: auto;
         min-height: auto;
-        max-height: 368px;
+        max-height: 420px;
         padding-bottom: 60px;
         transition: 1s ease;
     }
@@ -5366,7 +5418,7 @@ i.bld-exit {
 
     .bld-container {
         flex-direction: column;
-        gap: 20px;
+        gap: 10px;
     }
     .bld-nav-modal {
         opacity: 0;
@@ -5389,6 +5441,10 @@ i.bld-exit {
     .btn-bld-edit {
         display: flex;
         background-color: white;
+    }
+    .btn-bld-mobile {
+        display: flex;
+        margin-bottom: 10px;
     }
     .bld-nav {
         max-width: calc(100% - 20px);
@@ -6020,7 +6076,7 @@ i.bld-exit {
         transition: 0.2s ease;
     }
 
-    .log-l-desc, .log-l-alr {
+    .log-l-desc {
         display: none;
     }
     .log-s-alr {
@@ -6275,7 +6331,6 @@ i.bld-exit {
     }
     .log-input {
         font-size: 15px;
-        margin-bottom: 22px;
     }
     .profile-pill {
         font-size: 14px;
@@ -6370,3 +6425,1242 @@ i.bld-exit {
         font-size: 9px;
     }
 }
+
+
+
+/*/////////////////////// LIGHT/DARK MODE ///////////////////////*/
+body.dark-mode-element {
+  background-color: hsl(145, 65%, 7%);
+}
+.home-back.dark-mode-element, .home-back.dark-mode-element i {
+    color: hsl(0, 0%, 75%);
+}
+.burger-line.dark-mode-element {
+    background-color: hsl(0, 0%, 85%);
+}
+
+.header.dark-mode-element {
+  background-color: hsl(145, 65%, 9%);
+}
+.header-link.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.header-name.dark-mode-element {
+  color: hsl(0, 0%, 100%);
+}
+.side-nav.dark-mode-element {
+  background-color: hsl(145, 65%, 9%);
+}
+.side-section.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 14%);
+}
+.active-section.dark-mode-element, .active-section.dark-mode-element:hover {
+  background-color: hsl(145, 65%, 14%);
+}
+.side-icon.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.side-txt.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.side-split.dark-mode-element {
+  background-color: hsl(145, 65%, 15%);
+}
+.home-title.dark-mode-element {
+  color: hsl(0, 0%, 100%);
+}
+.home-para.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.home-hr.dark-mode-element {
+  background-color: hsl(145, 65%, 12%);
+}
+.hr-fill-active.dark-mode-element {
+  background-color: hsl(145, 65%, 35%);
+}
+.nav-link.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.nav-link-active.dark-mode-element {
+  color: hsl(0, 0%, 100%);
+}
+.pap-form.dark-mode-element {
+  background-color: hsl(145, 45%, 11%);
+  box-shadow: 0 0 0 3px hsl(145, 25%, 16%);
+}
+.pap-toggle.dark-mode-element {
+  background-color: hsl(145, 15%, 22%);
+}
+.pap-label.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.pap-toggle-section.dark-mode-element {
+  color: hsl(0, 0%, 100%);
+}
+.pap-toggle-white.dark-mode-element {
+  background-color: hsl(145, 15%, 40%);
+}
+.pap-selector.dark-mode-element {
+  background-color: hsl(145, 15%, 22%);
+  border: 1px solid hsl(145, 15%, 22%);
+}
+.pap-txt.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.pap-chevron.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.pap-dropdown.dark-mode-element {
+  background-color: hsl(145, 15%, 22%);
+}
+.pap-drop-txt.dark-mode-element {
+  background-color: hsl(145, 15%, 22%);
+  border-bottom: 1px solid hsl(145, 15%, 26%);
+  color: hsl(0, 0%, 85%);
+}
+.btn-inactive.dark-mode-element {
+  opacity: 0.2;
+}
+.side-drop.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+}
+.side-drop-section.dark-mode-element:hover {
+    background-color: hsl(145, 45%, 15%);
+}
+i.side-drop-icon.dark-mode-element, .side-drop-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.pfp-container.dark-mode-element {
+    overflow: hidden;
+    border-radius: 200px;
+}
+.pfp-drop.dark-mode-element {
+    box-shadow: none;
+    background-color: hsl(145, 45%, 11%);
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.pfp-drop-name.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.pfp-drop-email.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.pfp-drop-hr.dark-mode-element {
+    background-color: hsl(145, 25%, 18%);
+}
+.pfp-drop-section.dark-mode-element:hover {
+    background-color: hsl(145, 25%, 16%);
+}
+.pfp-drop-icon.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.pfp-drop-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    font-weight: 500;
+}
+
+.sub-wrapper.dark-mode-element {
+    box-shadow: 0 0 0 1px hsl(145, 25%, 16%);
+    background-color: hsl(145, 45%, 11%);
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.sub-wrapper.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 11%);
+}
+.sub-dot.dark-mode-element {
+    background-color: hsl(145, 15%, 55%);
+}
+.sub-point.dark-mode-element {
+    background-color: hsl(0, 0%, 40%);
+}
+.sub-stat.dark-mode-element {
+    color: hsl(0, 0%, 50%);
+}
+.sub-name.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.sub-drop.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 1px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.sub-drop-hr.dark-mode-element {
+    background-color: hsl(145, 25%, 18%);
+}
+.sub-drop-box.dark-mode-element {
+    border: 1px solid hsl(145, 20%, 22%);
+}
+.sub-drop-box-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.sub-drop-icon.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.sub-drop-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    font-weight: 500;
+}
+.red.dark-mode-element {
+    color: #D32F2F;
+}
+
+
+.pap-table.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0 0 2px hsl(145, 25%, 16%);
+}
+.pap-filter.dark-mode-element {
+    border-bottom: 2px solid hsl(145, 25%, 16%);
+}
+.pap-box.dark-mode-element, .res-box.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.pap-box.dark-mode-element:hover, .res-box.dark-mode-element:hover {
+    background-color: hsl(145, 25%, 16%);
+}
+.pap-box-active.dark-mode-element, .res-box-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.pap-box-active.dark-mode-element:hover, .res-box-active.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 45%);
+}
+.pap-top.dark-mode-element, .sash-top.dark-mode-element {
+    background-color: hsl(145, 25%, 16%);
+}
+.pap-heading.dark-mode-element, .res-heading.dark-mode-element, .sash-heading.dark-mode-element {
+    font-weight: 500;
+    color: hsl(0, 0%, 75%);
+}
+.pap-row.dark-mode-element, .sash-row.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 25%, 16%);
+}
+.pap-year.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.pap-m-type.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.pap-img.dark-mode-element {
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.pap-mark.dark-mode-element {
+    border: 1px solid hsl(0, 0%, 40%);
+}
+.pap-mark-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.pap-check.dark-mode-element {
+    display: none;
+    transition: 0.1s ease;
+}
+.pap-check-active.dark-mode-element {
+    display: block;
+    color: white;
+}
+.pap-pdf.dark-mode-element {
+    z-index: 99;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height: calc(100% - 100px);
+    border: 0;
+}
+.res-txt.dark-mode-element, .sash-txt.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.res-name.dark-mode-element {
+    color: hsl(145, 65%, 65%);
+}
+
+.sav-empty.dark-mode-element {
+    box-shadow: 0 0 0 2px hsl(145, 25%, 16%);
+    background-color: hsl(145, 45%, 11%);
+}
+.sav-empty-icon.dark-mode-element {
+    box-shadow: none;
+    border: 1px solid hsl(145, 25%, 16%);
+    background-color: hsl(145, 35%, 11%);
+    color: hsl(145, 65%, 45%);
+}
+.sav-empty-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.sav-empty-txt.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+
+/*border/hr on wrapper: hsl(145, 25%, 18%)*/
+.sav-box.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.sav-img-container.dark-mode-element {
+    margin-bottom: 0;
+    background-color: hsl(0, 0%, 97%);
+    background-color: white;
+}
+.sav-content.dark-mode-element {
+    border-top: 1px solid 0;
+}
+.sav-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.sav-point.dark-mode-element {
+    background-color: hsl(0, 0%, 55%);
+}
+.sav-level.dark-mode-element {
+    color: hsl(0, 0%, 55%);
+}
+.sav-info.dark-mode-element {
+    color: hsl(0, 0%, 55%);
+}
+.sav-type.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+}
+.sav-type-mock.dark-mode-element {
+    background-color: hsl(145, 65%, 25%) !important;
+}
+.sav-hr.dark-mode-element {
+    background-color: hsl(145, 25%, 18%);
+}
+.btn-remove.dark-mode-element {
+    background-color: transparent;
+    border: 1px solid hsl(0, 0%, 50%);
+    color: hsl(0, 0%, 85%);
+    font-weight: 500;
+}
+.btn-remove.dark-mode-element:hover {
+    border: 1px solid hsl(0, 0%, 50%);
+    color: hsl(0, 0%, 100%);
+}
+.btn-show.dark-mode-element {
+    background-color: hsl(0, 0%, 28%);
+    border: 1px solid hsl(0, 0%, 28%);
+    color: white;
+}
+.btn-show.dark-mode-element:hover {
+    background-color: hsl(0, 0%, 40%);
+    border: 1px solid hsl(0, 0%, 40%);
+}
+
+.btn-bld-form.dark-mode-element {
+    color: white;
+    background-color: hsl(145, 65%, 45%);
+}
+.bld-nav.dark-mode-element {
+    box-shadow: 0 0 0 2px hsl(145, 25%, 16%);
+    background-color: hsl(145, 45%, 11%);
+}
+.btn-bld-view.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(145, 15%, 22%);
+    border: 1px solid hsl(145, 15%, 22%);
+}
+.btn-bld-active.dark-mode-element,
+.btn-bld-active.dark-mode-element:hover {
+    border: 1px solid transparent;
+    color: white;
+    background-color: hsl(145, 65%, 45%) !important;
+}
+.bld-input.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border: 1px solid hsl(145, 15%, 22%);
+}
+.bld-input.dark-mode-element:focus {
+    border: 1px solid hsl(145, 15%, 32%);
+}
+.bld-label.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+    font-weight: 500;
+}
+.bld-li.dark-mode-element {
+    font-weight: 500;
+    color: hsl(0, 0%, 75%);
+}
+.bld-li.dark-mode-element:hover {
+    background-color: hsl(145, 25%, 16%);
+}
+.bld-li-error.dark-mode-element,
+.bld-li-error.dark-mode-element i {
+    color: rgb(204, 39, 39);
+}
+.bld-icon.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.btn-bld-print.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(145, 15%, 22%);
+    border: 1px solid hsl(145, 15%, 22%);
+}
+.btn-bld-print.dark-mode-element:hover,
+.btn-bld-view.dark-mode-element:hover {
+    background-color: hsl(145, 15%, 32%);
+}
+.bld-print-icon.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.btn-bld-edit.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(145, 15%, 14%);
+    border: 1px solid hsl(145, 5%, 24%);
+}
+i.bld-edit-icon.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.btn-bld-mobile.dark-mode-element {
+    white-space: nowrap;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 200px;
+    padding: 8px 16px;
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+    transition: 0.2s ease;
+}
+.btn-bld-mobile.dark-mode-element i {
+    font-size: 15px;
+    color: white;
+}
+
+
+/*
+C, for each of these classes, add .dark-mode-element, like: .class1 -> .class1.dark-mode-element
+*/
+
+
+.bld-topic-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.bld-topic-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0px 0 2px hsl(145, 25%, 16%);
+}
+.bld-topic-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.bld-topic-inp.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border: 1px solid hsl(145, 15%, 22%);
+}
+.bld-topic-inp.dark-mode-element:focus {
+    border: 1px solid hsl(145, 15%, 32%);
+}
+.bld-topic-pill.dark-mode-element {
+    border: 1px solid hsl(145, 25%, 18%);
+    background-color: hsl(145, 35%, 11%);
+    color: hsl(0, 0%, 75%);
+}
+.bld-topic-pill.dark-mode-element:hover {
+    border: 1px solid hsl(145, 25%, 26%);
+}
+.bld-topic-pill-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    border: 1px solid hsl(145, 65%, 45%);
+    color: white;
+}
+.bld-topic-nav.dark-mode-element {
+    border-top: 1px solid hsl(145, 25%, 18%);
+}
+.btn-bld-topic.dark-mode-element {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 8px 20px;
+    transition: 0.2s ease;
+}
+.bld-topic-cancel.dark-mode-element {
+    background-color: hsl(0, 0%, 92%);
+    color: hsl(0, 0%, 25%);
+}
+.bld-topic-cancel.dark-mode-element:hover {
+    background-color: hsl(0, 0%, 85%);
+}
+.bld-ques-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.bld-ques-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0px 0 2px hsl(145, 25%, 16%);
+}
+.bld-ques-para.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.bld-ques-box.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.bld-ques-img-container.dark-mode-element {
+    padding-top: 16px;
+    margin-bottom: 0;
+    background-color: hsl(0, 0%, 97%);
+    background-color: white;
+}
+.bld-ques-img.dark-mode-element {
+    filter: invert(0.0);
+    width: 100%;
+    height: auto;
+}
+.bld-ques-info.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.bld-ques-hr.dark-mode-element {
+    background-color: hsl(145, 5%, 20%);
+}
+
+.preview-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.preview-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+}
+i.preview-close.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    color: hsl(0, 0%, 85%);
+}
+.preview-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+div.preview-back.dark-mode-element {
+    background-color: transparent;
+    color: hsl(0, 0%, 70%);
+}
+i.preview-back.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+i.set-exit.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    color: hsl(0, 0%, 85%);
+}
+
+
+.topc-col.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0px 2px hsl(145, 25%, 16%);
+}   
+.topc-col-top.dark-mode-element {
+    border-bottom: 2px solid hsl(145, 25%, 16%);
+}
+.topc-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.btn-quiz.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.btn-quiz.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 55%);
+}
+.quiz-icon.dark-mode-element {
+    background-color: white;
+    color: hsl(145, 65%, 45%);
+}
+.topc-col-more.dark-mode-element {
+    border-top: 1px solid hsl(145, 15%, 22%);
+    background-color: hsl(145, 45%, 11%);
+}
+.btn-topc-more.dark-mode-element {
+    background-color: hsl(0, 0%, 20%);
+}
+.btn-topc-more.dark-mode-element span {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.topc-show-icon.dark-mode-element {
+    color: white;
+}
+.topc-inp-container.dark-mode-element {
+    box-shadow: none;
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(145, 15%, 22%);
+    border: 0;
+}
+.topc-inp.dark-mode-element {
+    background-color: transparent;
+    color: hsl(0, 0%, 85%);
+}
+.topc-inp.dark-mode-element::placeholder {
+    color: hsl(0, 0%, 75%);
+}
+.topc-inp-icon.dark-mode-element {
+    filter: invert(0.75);
+}
+.topc-col-inp.dark-mode-element:focus {
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.topc-result-container.dark-mode-element {
+    box-shadow: 0 0px 15px rgba(0, 0, 0, 0.15);
+    background-color: hsl(145, 15%, 22%);
+}
+.topc-result-section.dark-mode-element:hover {
+    padding-left: 20px;
+    background-color: hsl(145, 15%, 12%);
+}
+.topc-result-icon.dark-mode-element {
+    filter: invert(0.75);
+    height: 15px;
+    width: auto;
+}
+.topc-result-txt.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.topc-col-li.dark-mode-element {
+    box-shadow: none;
+    color: hsl(0, 0%, 75%);
+    background-color: hsl(145, 15%, 15%);
+    border: 1px solid hsl(145, 25%, 16%);
+}
+.topc-col-li.dark-mode-element:hover {
+    border: 1px solid hsl(145, 25%, 26%);
+}
+.topc-elipsis-dot.dark-mode-element {
+    background-color: hsl(0, 0%, 40%);
+}
+.topc-chevron.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.topc-pap-table.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0px 0 2px hsl(145, 25%, 16%);
+}
+.topc-pap-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.topc-pap-type.dark-mode-element {
+    color: white;
+}
+
+.topc-res-heading.dark-mode-element {
+    color: hsl(0, 0%, 34%);
+}
+.topc-res-name.dark-mode-element {
+    color: hsl(145, 65%, 20%);
+}
+.topc-res-txt.dark-mode-element {
+    color: hsl(0, 0%, 30%);
+}
+.topc-res-score.dark-mode-element {
+    background-color: hsl(140, 65%, 35%);
+    color: white;
+}
+.topc-empty.dark-mode-element {
+    border: 2px dashed hsl(0, 0%, 30%);
+}
+
+
+.exam-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.exam-top.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 18%);
+}
+.exam-label.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.exam-question.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 18%);
+}
+.exam-filter-label.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border-bottom: 1px solid hsl(145, 15%, 18%);
+}
+.exam-filter-txt.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+.exam-filter-box.dark-mode-element {
+    border: 1px solid hsl(0, 0%, 50%);
+}
+.manage-drop.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0px 0 1px hsl(145, 25%, 16%);
+}
+.manage-action.dark-mode-element:hover {
+    background-color: hsl(145, 45%, 16%);
+}
+.manage-box.dark-mode-element {
+    border: 1px solid hsl(0, 0%, 50%);
+}
+.manage-box-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.manage-check-active.dark-mode-element {
+    color: white;
+}
+.manage-label.dark-mode-element {
+    font-size: 15px;
+    color: hsl(0, 0%, 75%);
+}
+.manage-icon.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.manage-hr.dark-mode-element {
+    background-color: hsl(145, 25%, 18%);
+}
+
+.ana-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.ana-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 1px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.ana-nav.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 18%);
+}
+.ana-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-close.dark-mode-element {
+    color: hsl(0, 0%, 75%);
+}
+.ana-close.dark-mode-element:hover {
+    color: hsl(0, 0%, 100%);
+}
+.ana-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-info-txt.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+span.ana-info-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-info-icon.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-dot.dark-mode-element {
+    background-color: hsl(0, 0%, 60%);
+}
+.ana-stat-label.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.ana-circ-mid.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+}
+.ana-stat-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+span.ana-stat-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-box.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+    color: hsl(0, 0%, 85%);
+}
+.ana-box-icon.dark-mode-element {
+    color: white;
+}
+.perc-green.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+}
+.perc-red.dark-mode-element {
+    background-color: #D32F2F;
+}
+.ana-perc-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+span.ana-perc-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+
+.ana-ques.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+    border: 2px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.ana-ques-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-ques-check.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+}
+.ana-ques-xmark.dark-mode-element {
+    background-color: #D32F2F;
+}
+.ana-type.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    background-color: hsl(145, 25%, 16%);
+}
+.ana-type-icon.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-ques-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-answer-label.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+.ana-answer-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ana-cor.dark-mode-element {
+    color: hsl(145, 65%, 40%);
+}
+.ana-answer-check.dark-mode-element {
+    color: white;
+    background-color: hsl(145, 65%, 45%);
+}
+.ana-answer-xmark.dark-mode-element {
+    color: white;
+    background-color: #D32F2F;
+}
+
+
+.set-container.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    box-shadow: 0 0 0 2px hsl(145, 25%, 16%);
+}
+.set-nav.dark-mode-element {
+    border-right: 2px solid hsl(145, 25%, 15%);
+}
+.set-nav-section.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.set-nav-section.dark-mode-element:hover {
+    background-color: hsl(145, 45%, 16%);
+}
+.set-nav-active.dark-mode-element {
+    background-color: hsl(145, 45%, 16%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: 2px 0 0 0 hsl(145, 65%, 45%);
+}
+.set-nav-active.dark-mode-element:hover {
+    background-color: hsl(145, 45%, 16%);
+}
+.set-nav-delete.dark-mode-element {
+    color: #D32F2F;
+}
+.set-nav-delete.dark-mode-element:hover {
+    background-color: transparent;
+}
+.set-label.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.set-li.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 25%, 15%);
+}
+.set-bold.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.set-txt.dark-mode-element {
+    color: hsl(0, 0%, 60%) !important;
+}
+.btn-set.dark-mode-element {
+    border: 1px solid hsl(145, 15%, 18%);
+    background-color: hsl(145, 15%, 15%);
+    color: hsl(0, 0%, 85%);
+}
+.set-drop.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.set-icon.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.green.dark-mode-element {
+    color: hsl(145, 65%, 45%) !important;
+}
+.red.dark-mode-element {
+    color: #D32F2F !important;
+}
+
+.set-change-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.set-change-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.set-change-logo.dark-mode-element {
+    width: auto;
+    height: 65px;
+}
+.set-change-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.set-change-txt.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+#saveError.dark-mode-element {
+    color: rgb(204, 39, 39);
+}
+.btn-set-change.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.edit-label.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-pill.dark-mode-element {
+    border: 1px solid hsl(145, 5%, 25%);
+    color: hsl(0, 0%, 85%);
+}
+.edit-pill-active.dark-mode-element {
+    border: 1px solid transparent;
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.edit-input-container.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+    border: 1px solid hsl(145, 15%, 18%);
+}
+.edit-input.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-input.dark-mode-element::placeholder {
+    color: hsl(0, 0%, 60%);
+}
+.edit-input-icon.dark-mode-element {
+    filter: invert(0.9);
+}
+.edit-selector-txt.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 25%);
+    color: hsl(0, 0%, 85%);
+}
+.edit-chevron.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-level.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 25%);
+}
+.edit-auto.dark-mode-element {
+    border-bottom: 1px solid hsl(145, 15%, 25%);
+}
+.edit-auto-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-circle.dark-mode-element {
+    border: 1px solid hsl(145, 15%, 35%);
+}
+i.edit-circle-check.dark-mode-element {
+    color: transparent;
+}
+.edit-circle-active.dark-mode-element i.edit-circle-check.dark-mode-element {
+    color: white;
+}
+.edit-circle-active.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.edit-level-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-view.dark-mode-element {
+    border-left: 1px solid hsl(145, 15%, 25%);
+}
+.edit-view-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.edit-view-txt.dark-mode-element {
+    border: 1px solid hsl(145, 15%, 25%);
+    color: hsl(0, 0%, 85%);
+}
+.edit-view-xmark.dark-mode-element {
+    background-color: rgb(204, 39, 39);
+    color: white;
+}
+
+.set-act-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.set-act-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+    box-shadow: none;
+}
+.set-act-label.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+.set-act-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.set-act-hr.dark-mode-element {
+    background-color: hsl(145, 15%, 20%);
+}
+.set-act-guide.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+.set-act-input.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border: 1px solid hsl(145, 15%, 25%);
+    background-color: transparent;
+}
+.set-act-input.dark-mode-element:focus {
+    border: 1px solid hsl(145, 15%, 35%);
+}
+#setError.dark-mode-element {
+    color: #D32F2F;
+}
+.btn-act-cancel.dark-mode-element {
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+}
+.btn-act-continue.dark-mode-element {
+    background-color: hsl(0, 0%, 94%);
+    color: hsl(0, 0%, 20%);
+}
+.btn-act-cancel.dark-mode-element:hover {
+    background-color: hsl(0, 0%, 40%);
+}
+.btn-act-continue.dark-mode-element:hover {
+    background-color: hsl(0, 0%, 88%);
+}
+
+
+.set-ver-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.3);
+}
+.set-ver-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+}
+.ver-container.dark-mode-element {
+    max-width: calc(100% - 20px);
+    width: 460px;
+}
+.ver-folder-box.dark-mode-element {
+    box-shadow: none;
+    background-color: hsl(145, 25%, 15%);
+    border: 1px solid hsl(145, 15%, 25%);
+}
+.ver-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ver-txt.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+span.ver-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ver-inp-container.dark-mode-element {
+    background-color: hsl(145, 25%, 15%);
+    border: 1px solid transparent;
+}
+.ver-inp-active.dark-mode-element {
+    border: 1px solid hsl(145, 25%, 25%);
+}
+.ver-inp.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.ver-dash.dark-mode-element {
+    background-color: hsl(0, 0%, 70%);
+}
+.set-thank-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.book-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+}
+.book-modal-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.book-modal-para.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+
+.book-delete-modal.dark-mode-element {
+    background-color: hsla(0, 0%, 0%, 0.6);
+}
+.book-delete-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+}
+i.book-delete-icon.dark-mode-element {
+    background-color: hsl(0, 0%, 85%);
+    color: rgb(204, 39, 39);
+}
+.book-delete-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.book-delete-para.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+
+.frfr-wrapper.dark-mode-element {
+    box-shadow: 0 0 0 2px hsl(145, 25%, 16%);
+    background-color: hsl(145, 45%, 11%);
+}
+.frfr-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.frfr-txt.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+.btn-frfr-back.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.btn-frfr-report.dark-mode-element {
+    background-color: hsl(0, 0%, 94%);
+    color: hsl(0, 0%, 20%);
+}
+
+.terms-wrapper.dark-mode-element {
+    background-color: hsl(145, 45%, 11%);
+    border: 2px solid hsl(145, 25%, 16%);
+}
+.terms-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.terms-para.dark-mode-element {
+    color: hsl(0, 0%, 70%);
+}
+
+
+.quiz-tag.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border: 1px solid hsl(145, 15%, 16%);
+    background-color: hsl(145, 15%, 11%);
+}
+.quiz-title.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.quiz-top-hr.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+}
+.quiz-head.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.quiz-guide.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.quiz-wrapper.dark-mode-element {
+    border: 1px solid hsl(145, 25%, 16%);
+    background-color: hsl(145, 45%, 11%);
+}
+.quiz-input.dark-mode-element {
+    box-shadow: none;
+    border: 1px solid hsl(145, 15%, 22%);
+    background-color: hsl(145, 15%, 15%);
+    color: hsl(0, 0%, 85%);
+}
+.quiz-input.dark-mode-element:focus {
+    border: 1px solid hsl(145, 15%, 42%);
+}
+.quiz-wrapper.dark-mode-element:hover {
+    background-color: hsl(145, 45%, 16%);
+}
+.quiz-wrapper-correct.dark-mode-element {
+    background-color: hsl(145, 45%, 16%);
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.quiz-wrapper-correct.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 92%);
+}
+.quiz-wrapper-false.dark-mode-element {
+    border: 1px solid rgb(204, 39, 39);
+}
+.quiz-circle.dark-mode-element {
+    border: 1px solid hsl(0, 0%, 60%);
+}
+.quiz-circle-correct.dark-mode-element {
+    border: 1px solid hsl(145, 65%, 45%);
+}
+.quiz-circle-false.dark-mode-element {
+    border: 1px solid rgb(204, 39, 39);
+}
+.quiz-circle-fill.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+}
+.quiz-circle-fill-correct.dark-mode-element {
+    opacity: 1;
+}
+.quiz-circle-fill-false.dark-mode-element {
+    opacity: 1;
+    background-color: rgb(204, 39, 39);
+}
+.quiz-txt.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+}
+.quiz-hr.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+}
+.quiz-close.dark-mode-element {
+    color: hsl(0, 0%, 85%);
+    border: 1px solid hsl(145, 15%, 16%);
+    background-color: hsl(145, 15%, 11%);
+}
+.quiz-m-close.dark-mode-element {
+    display: none;
+}
+.quiz-bar.dark-mode-element {
+    background-color: hsl(145, 15%, 15%);
+}
+.quiz-prog-txt.dark-mode-element {
+    color: hsl(0, 0%, 60%);
+}
+.btn-quiz-skip.dark-mode-element {
+    background-color: transparent;
+    color: hsl(0, 0%, 60%);
+}
+.btn-quiz-skip.dark-mode-element:hover {
+    color: hsl(0, 0%, 85%);
+}
+.btn-quiz-continue.dark-mode-element {
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+}
+.btn-quiz-continue.dark-mode-element:hover {
+    background-color: hsl(145, 65%, 55%);
+}
+.btn-quiz-inactive.dark-mode-element {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+
+.foot-container.dark-mode-element {
+  box-shadow: none;
+  background-color: hsl(145, 65%, 7%);
+}
+.foot-flex.dark-mode-element {
+  border-bottom: 1px solid hsl(145, 15%, 15%);
+}
+.foot-name.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.foot-para.dark-mode-element {
+  color: hsl(0, 0%, 70%);
+}
+.foot-social-icon.dark-mode-element {
+  border: 1px solid hsl(0, 0%, 30%);
+  color: hsl(0, 0%, 70%);
+}
+.foot-social-icon.dark-mode-element:hover {
+  border: 1px solid hsl(145, 65%, 45%);
+}
+.foot-label.dark-mode-element {
+  color: hsl(0, 0%, 85%);
+}
+.foot-link.dark-mode-element {
+  color: hsl(0, 0%, 60%);
+}
+.foot-link.dark-mode-element:hover,
+.foot-legal-link.dark-mode-element:hover {
+  text-decoration: underline;
+  color: hsl(0, 0%, 85%);
+}
+.foot-copy.dark-mode-element {
+  color: hsl(0, 0%, 60%);
+}
+.foot-legal-link.dark-mode-element {
+  color: hsl(0, 0%, 40%);
+}
+/*///////////////////////////////////////////////////////////////*/

@@ -9,8 +9,10 @@ const MySQLStore = require('express-mysql-session')(session);
 const nodemailer = require('nodemailer');
 require('dotenv').config();
 //const cors = require('cors');
-const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey(process.env.EMAIL_KEY);
+//const sgMail = require('@sendgrid/mail');
+//sgMail.setApiKey(process.env.EMAIL_KEY);
+const { Resend } = require('resend');
+const resend = new Resend('re_h2bBYNeV_999F2qBjAWUNG7SXpWuk7HLG');
 
 let frontendLink = process.env.FRONTEND;
 
@@ -73,46 +75,26 @@ function requireUser(req, res, next){
 	}
 	next();
 }
-function sendVerificationEmail(userEmail, code) {
-  const msg = {
-    to: userEmail,
-    from: 'examscope.team@gmail.com',
-    subject: 'Email Verification',
-    html: `<p>Your verification code is <strong>${code}</strong></p>`
-  };
+async function sendEmail(userEmail, code) {
+    const dataToSend = { reciever: userEmail, text: `Your verification code is <strong>${code}</strong>`, service: 'examscope' };
+    try {
+        const response = await fetch('https://email-sender-lkex.vercel.app/api/send-email', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json', 
+            },
+            body: JSON.stringify(dataToSend), 
+        });
 
-  sgMail.send(msg)
-    .then(() => console.log('Email sent'))
-    .catch(err => console.error('Error sending email:', err));
-}
-sendVerificationEmail("woodsbaileyjack@gmail.com", "123456");
-/*
-const transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-        user: process.env.EMAIL_USER, 
-        pass: process.env.EMAIL_PASS
-    }
-});
-function sendVerificationEmail(userEmail, code) {  
-    const mailOptions = {
-        from: process.env.EMAIL_USER,  // Sender address
-        to: userEmail,                 // Receiver's email
-        subject: 'Email Verification', // Subject line
-        text: `Here is your verification code: ${code}`,
-        html: `<p>Here is your verification code: ${code}</p>`
-    };
-  
-    // Send mail
-    transporter.sendMail(mailOptions, (error, info) => {
-        if (error) {
-            console.log('Error sending email:', error);
-        } else {
-            console.log('Verification email sent:', info.response);
+        if (!response.ok) {
+            const errorData = await response.json();
+            console.error('Error:', errorData.error);
+            return;
         }
-    });
+    } catch (error) {
+        console.error('Error posting data:', error);
+    }
 }
-*/
 function isValidEmail(email) {
 	const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 	return emailRegex.test(email);
@@ -238,14 +220,7 @@ app.get("/papers/:certificate/:subject/:level", (req, res) => {
 });
 
 app.get("/worksheets", (req, res) => {
-    const filePath = path.join(__dirname, 'private', 'worksheet-builder.html');
-    console.log("Trying to serve:", filePath);
-    res.sendFile(filePath, (err) => {
-        if (err) {
-            console.error("Error sending file:", err);
-            res.status(404).send("File not found");
-        }
-    });
+    return res.sendFile(path.join(__dirname, 'private', 'worksheet-builder.html'));
 });
 
 app.get("/worksheets/:certificate/:subject/:level", (req, res) => {
@@ -355,7 +330,7 @@ app.post("/api/signup", (req, res) => {
                     
                     // Redirect to index page after a short delay
                     setTimeout(() => {
-                        sendVerificationEmail(email, code);
+                        sendEmail(email, code);
                         return res.json({ message: 'success' });
                     }, 500);
                 });
@@ -526,7 +501,7 @@ app.get("/api/is-guest", (req, res) => {
         db.query("select * from users where id = ?", [req.session.userId], (err, result) => {
             if(err){
                 console.error("Error finding user: " + err);
-                return res.json({ message: 'failure' });
+                return res.json({ message: 'failure', theme: req.session.theme || "light" });
             }
 
             
@@ -534,22 +509,29 @@ app.get("/api/is-guest", (req, res) => {
                 const { id, role, student_name, email, username, status } = result[0];
                 const okayData = { id, role, student_name, email, username, status };
                 if(result[0].status == 1){
-                    return res.json({ message: 'not onboarded', userData: okayData });
+                    return res.json({ message: 'not onboarded', userData: okayData, theme: req.session.theme || "light" });
                 } else if(result[0].status == 2){
                     db.query("select * from subjects where user_id = ?", [okayData.id], (err, result) => {
                         if(err){
                             console.error(err);
                         }
                        
-                        return res.json({ message: 'logged', userData: okayData, subjects: result });
+                        return res.json({ message: 'logged', userData: okayData, subjects: result, theme: req.session.theme || "light" });
                     });
                 } else {
-                    return res.json({ message: 'guest', userData: okayData });
+                    return res.json({ message: 'guest', userData: okayData, theme: req.session.theme || "light" });
                 }
+            } else {
+                req.session.destroy(err => {
+                    if(err){
+                        console.error("Logout error:", err);
+                    }
+                });
+                return res.json({ message: 'guest', theme: req.session.theme || "light" })
             }
         });
     } else {
-        return res.json({ message: 'guest' });
+        return res.json({ message: 'guest', theme: req.session.theme || "light" });
     }
 });
 
@@ -648,7 +630,7 @@ app.post("/api/settings-change", (req, res) => {
                         if(err){console.error(err)}
 
                         
-                        sendVerificationEmail(userEmail, code);
+                        sendEmail(userEmail, code);
                         return res.json({ message: 'verify' });
                     });
                 });
@@ -675,7 +657,7 @@ app.post("/api/settings-verify", (req, res) => {
                     console.error(err);
                 }
 
-                db.query("delete from change_codes where user_id = ?", [userId], (err, result) => {         
+                db.query("delete from change_codes where user_id = ?", [req.session.userId], (err, result) => {
                     if(err){
                         console.error(err);
                     }
@@ -1103,7 +1085,6 @@ app.post("/api/single-paper", (req, res) => {
         return res.json({ message: 'success', url: result[0].url });
     });
 });
-
 
 
 

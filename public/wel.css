@@ -527,6 +527,7 @@ i.hero-lock {
     gap: 16px;
 }
 .faq-wrapper {
+    display: none;
     cursor: pointer;
     overflow: hidden;
     background-color: hsl(0, 0%, 94%);
@@ -534,6 +535,9 @@ i.hero-lock {
     padding: 26px 24px;
     border: 1px solid transparent;
     transition: 0.2s ease;
+}
+.faqw-0 {
+    display: block;
 }
 .faq-wrapper-active {
     background-color: hsl(0, 0%, 98%);
@@ -588,6 +592,10 @@ i.hero-lock {
     font-size: 16px;
     line-height: 1.6;
     color: hsl(0, 0%, 25%);
+}
+a.faq-txt {
+    color: hsl(0, 0%, 10%);
+    text-decoration: underline;
 }
 .faq-banner {
     margin-top: 30px;
@@ -781,6 +789,78 @@ i.hero-lock {
     color: white;
     background-color: var(--primary);
     transition: 0.2s ease;
+}
+
+.set-thank-modal {
+    opacity: 0;
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    background-color: hsla(0, 0%, 0%, 0.3);
+    transition: 0.2s ease;
+}
+.book-wrapper {
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 28px 24px;
+    max-width: calc(100% - 30px);
+    width: 430px;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: relative;
+}
+i.book-modal-check {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -40px;
+    height: 80px;
+    width: 80px;
+    border-radius: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+    font-size: 32px;
+}
+.book-modal-title {
+    line-height: 1;
+    font-size: 32px;
+    color: hsl(0, 0%, 20%);
+    font-weight: 500;
+}
+.book-modal-para {
+    margin-top: 18px;
+    font-size: 16px;
+    color: hsl(0, 0%, 20%);
+    line-height: 1.75;
+}
+.btn-book-modal {
+    margin-top: 42px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: hsl(145, 65%, 45%);
+    color: white;
+    padding: 12px 0;
+    border-radius: 8px;
+    transition: 0.2s ease;
+}
+.btn-book-modal:hover {
+    background-color: hsl(145, 65%, 55%);
 }
 /*///////////////////////////////////////////////////////////////////////////////////*/
 
@@ -1319,5 +1399,12 @@ a.foot-txt:hover {
         font-size: 24px;
         line-height: 1.5;
         width: 350px;
+    }
+
+    .faq-wrapper {
+        padding: 24px 18px;
+    }
+    .faq-question {
+        font-size: 16px;
     }
 }

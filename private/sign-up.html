@@ -16,7 +16,7 @@
     <div class="log-container sign-container">
         <img src="/images/icons/favicon.png" class="log-logo" />
         <div class="log-title">Create an account</div>
-        <div class="log-txt log-l-desc">Hello there! Please enter your details.</div>
+        <div class="log-txt log-l-desc">Already have an account? <a href="/login" style="text-decoration: underline;">Log in</a></div>
         <div class="log-txt log-s-alr">Already have an account? <a href="/login" class="log-txt">Log in</a></div>
 
         <form method="POST" action="/api/signup" class="log-form" id="signForm">
@@ -37,12 +37,12 @@
                     <div class="log-rem-txt" style="display: none;">Remember me</div>
                 </div>
 
-                <div class="log-forgot" style="display: none;">Forgot password</div>
+                <a href="/" class="log-forgot" style="display: none;">Continue as guest</a>
             </div>
 
             <button type="submit" class="btn-log">Sign Up</button>
 
-            <div class="log-txt log-l-alr">Already have an account? <a href="/login.html" class="log-txt">Log in</a></div>
+            <div class="log-txt log-l-alr">Or, you can <a href="/" class="log-txt">continue as guest</a></div>
         </form>
     </div>
 
