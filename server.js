@@ -256,7 +256,15 @@ app.get("/api/images/:certificate/:subject/:level/:topic", (req, res) => {
         if(err){
             console.error("Error fetching images: " + err)
         }
-        res.json(result)
+
+        let images = result;
+        db.query("select * from audios where certificate = ? and subject = ? and level = ? and slug = ? and type = ? order by id asc", [certificate, subject, level, topic, "state"], (err, result) => {
+            if(err){
+                console.error(err);
+            }
+
+            res.json({ images: images, audios: result });
+        });
     });
 });
 
@@ -1019,7 +1027,7 @@ app.get("/api/papers/:certificate/:subject/:level", (req, res) => {
     let certText = "lc";
     if(certificate == "junior-certificate") certText = "jc";
 
-    db.query("select * from papers where certificate = ? and subject = ? order by id asc", [certText, subject], (err, result) => {
+    db.query("select * from papers where certificate = ? and subject = ? and level = ? order by id asc", [certText, subject, level], (err, result) => {
         if(err){
             console.error(err);
         }

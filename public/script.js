@@ -1400,14 +1400,21 @@ if(examContainer){
         try {
             const response = await fetch(url + `/api/images/${certificate}/${subject}/${level}/${topic}`);
             const data = await response.json(); 
-            data.sort((a, b) => Number(a.year) - Number(b.year));
+            data.images.sort((a, b) => Number(a.year) - Number(b.year));
 
             //document.querySelector(".exam-question-img").src = data[4].url;
             
             let examContent = document.querySelector(".exam-content");
             let usedIds = [];
 
-            if(data.length == 0){
+            let isQuestionFound = false;
+            data.images.forEach(obj => {
+                if(obj.type == "state" && obj.version == "question"){
+                    isQuestionFound = true;
+                }
+            });
+
+            if(!isQuestionFound){
                 document.querySelector(".sav-empty").style.display = "flex";
                 document.querySelector(".exam-container").style.display = "none";
             }
@@ -1416,7 +1423,7 @@ if(examContainer){
                 window.location.href = `/quiz/${certificate}/${subject}/${level}/${topic}`;
             }
 
-            data.forEach((obj, idx) => {
+            data.images.forEach((obj, idx) => {
                 if(idx == 0){
                     document.querySelector(".home-title").textContent = obj.topic.replace(/-/g, " ").split(" ").map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(" ");
                 }
@@ -1425,6 +1432,13 @@ if(examContainer){
                 usedIds.forEach(usedId => {
                     if(usedId == obj.id){
                         isUsed = true;
+                    }
+                });
+
+                let matchedAudio;
+                data.audios.forEach(audio => {
+                    if(audio.year == obj.year && audio.option == obj.option && audio.part == obj.part && audio.question.slice(1) == obj.question.slice(1) && audio.type == obj.type){
+                        matchedAudio = audio;
                     }
                 });
 
@@ -1461,6 +1475,9 @@ if(examContainer){
                         </div>
                         <div class="exam-wrapper">
                             <div class="exam-type"></div>
+
+                            <div class="audio-wrapper">
+                            </div>
 
                             <div class="exam-ques-container">
                             </div>
@@ -1499,8 +1516,8 @@ if(examContainer){
 
                     let matchedObjs = [obj];
                     let matchedSchemes = [];
-                    data.forEach((obj2, idx2) => {
-                        if(idx2 != idx && obj2.year == obj.year && obj2.option == obj.option && obj2.part == obj.part && obj2.question.slice(1) == obj.question.slice(1) && obj2.type == obj.type && obj2.version == obj.version){
+                    data.images.forEach((obj2, idx2) => {
+                        if(idx2 != idx && obj2.layer != obj.layer && obj2.year == obj.year && obj2.option == obj.option && obj2.part == obj.part && obj2.question.slice(1) == obj.question.slice(1) && obj2.type == obj.type && obj2.version == obj.version){
                             usedIds.push(obj2.id);
                             matchedObjs.push(obj2);
                         }
@@ -1530,14 +1547,14 @@ if(examContainer){
                     });
                     lazyObserver.observe(examQuestion);
 
-                    document.querySelectorAll(".exam-filter-txt").forEach(txt => {
+                    document.querySelectorAll(".exam-filter-txt, .exam-modal-txt").forEach(txt => {
                         if(txt.textContent.includes("All Exams")){
                             document.querySelector(".exam-title").textContent = "Exam Question (" + String(questionCount) + ")";
-                            txt.querySelector(".filter-amount").textContent = "(" + String(questionCount) + ")";
+                            txt.querySelector(".filter-amount, .exam-modal-amount").textContent = "(" + String(questionCount) + ")";
                         } else if(txt.textContent.includes("State Exams")){
-                            txt.querySelector(".filter-amount").textContent = "(" + String(stateCount) + ")";
+                            txt.querySelector(".filter-amount, .exam-modal-amount").textContent = "(" + String(stateCount) + ")";
                         }else if(txt.textContent.includes("Mock Exams")){
-                            txt.querySelector(".filter-amount").textContent = "(" + String(mockCount) + ")";
+                            txt.querySelector(".filter-amount, .exam-modal-amount").textContent = "(" + String(mockCount) + ")";
                         }
                     });
                     if(document.querySelector(".exam-question")){
@@ -1680,24 +1697,98 @@ if(examContainer){
                             getQuestionData();
                         });
 
-                        examQuestion.querySelector(".btn-view").addEventListener("click", () => {
-                            let autoHeight = 0;
-                            examQuestion.querySelector(".scheme-img-container").querySelectorAll(".exam-scheme-img").forEach(img => {
-                                img.style.src = img.dataset.src;
-                                autoHeight = autoHeight + img.clientHeight;
+                        if(matchedSchemes.length > 0){
+                            examQuestion.querySelector(".btn-view").addEventListener("click", () => {
+                                let autoHeight = 0;
+                                examQuestion.querySelector(".scheme-img-container").querySelectorAll(".exam-scheme-img").forEach(img => {
+                                    img.style.src = img.dataset.src;
+                                    autoHeight = autoHeight + img.clientHeight;
+                                });
+                                if(examQuestion.querySelector(".scheme-img-container").style.maxHeight.includes("calc")){
+                                    examQuestion.querySelector(".exam-eye-open").style.display = "block";
+                                    examQuestion.querySelector(".exam-eye-slash").style.display = "none";
+                                    examQuestion.querySelector(".scheme-img-container").style.maxHeight = "0px";
+                                    examQuestion.querySelector(".scheme-img-container").style.margin = "0";
+                                } else {
+                                    examQuestion.querySelector(".exam-eye-open").style.display = "none";
+                                    examQuestion.querySelector(".exam-eye-slash").style.display = "block";
+                                    examQuestion.querySelector(".scheme-img-container").style.maxHeight = "calc(" + autoHeight + "px + 30px)";
+                                    examQuestion.querySelector(".scheme-img-container").style.margin = "15px 0";
+                                }
                             });
-                            if(examQuestion.querySelector(".scheme-img-container").style.maxHeight.includes("calc")){
-                                examQuestion.querySelector(".exam-eye-open").style.display = "block";
-                                examQuestion.querySelector(".exam-eye-slash").style.display = "none";
-                                examQuestion.querySelector(".scheme-img-container").style.maxHeight = "0px";
-                                examQuestion.querySelector(".scheme-img-container").style.margin = "0";
-                            } else {
-                                examQuestion.querySelector(".exam-eye-open").style.display = "none";
-                                examQuestion.querySelector(".exam-eye-slash").style.display = "block";
-                                examQuestion.querySelector(".scheme-img-container").style.maxHeight = "calc(" + autoHeight + "px + 30px)";
-                                examQuestion.querySelector(".scheme-img-container").style.margin = "15px 0";
+                        } else {
+                            examQuestion.querySelector(".btn-view").innerHTML = "No Marking Scheme";
+                        }
+
+                        if(!matchedAudio){
+                            examQuestion.querySelector(".audio-wrapper").style.display = "none"
+                        } else {
+                            examQuestion.querySelector(".exam-wrapper").style.paddingTop = "90px";
+                            if(window.innerWidth < 701) examQuestion.querySelector(".exam-wrapper").style.paddingTop = "60px";
+                            examQuestion.querySelector(".audio-wrapper").innerHTML = `
+                                <audio id="audio"></audio>
+                                <input type="range" class="audio-seek" id="seekBar" min="0" max="1" value="0.5" step="0.01">
+                                <div class="audio-left">
+                                <i class="fa-solid fa-rotate-left audio-back"></i>
+                                <div class="audio-control">
+                                    <i class="fa-solid fa-play audio-control-icon audio-play"></i>
+                                    <i class="fa-solid fa-pause audio-control-icon audio-pause" style="display: none;"></i>
+                                </div>
+                                <i class="fa-solid fa-rotate-right audio-forward"></i>
+                                </div>
+
+                                <div class="audio-txt"><span class="audio-txt" id="audioTime">0:00</span> <span class="audio-txt audio-slash">/</span> <span class="audio-txt" id="audioTotal">0:00</span></div>
+                                <div class="audio-volume">
+                                    <input class="audio-range" id="volume" type="range" min="0" max="1" step="0.01" value="0.6">
+                                    <i class="fa-solid fa-volume-high audio-volume-icon"></i>
+                                </div>
+                            `;
+                            let audio = examQuestion.querySelector("audio");
+                            audio.dataset.src = matchedAudio.url;
+                            audio.addEventListener('timeupdate', () => {
+                                examQuestion.querySelector("#audioTime").textContent = formatTime(audio.currentTime);
+                                examQuestion.querySelector(".audio-seek").style.background = `linear-gradient(to right, #2ecc71 ${(audio.currentTime / audio.duration) * 100}%, hsl(0, 0%, 90%) ${(audio.currentTime / audio.duration) * 100}%)`;
+                            });
+                            audio.addEventListener('loadedmetadata', () => {
+                                examQuestion.querySelector("#audioTotal").textContent = formatTime(audio.duration);
+                            });
+                            examQuestion.querySelector("i.audio-back").addEventListener("click", () => {
+                                audio.currentTime = Math.max(0, audio.currentTime - 10);
+                            });
+                            examQuestion.querySelector("i.audio-forward").addEventListener("click", () => {
+                                audio.currentTime = Math.min(audio.duration, audio.currentTime + 10);
+                            });
+                            function timeToSeconds(time) {
+                            const [mins, secs] = time.split(':').map(Number);
+                            return mins * 60 + secs;
                             }
-                        });
+                            function getProgress(current, total) {
+                            const currentSec = timeToSeconds(current);
+                            const totalSec = timeToSeconds(total);
+                            return currentSec / totalSec;
+                            }
+                            
+                            examQuestion.querySelector(".audio-control").addEventListener('click', () => {
+                                if (audio.paused) {
+                                    audio.play();
+                                    examQuestion.querySelector("i.audio-pause").style.display = "block";
+                                    examQuestion.querySelector("i.audio-play").style.display = "none";
+                                } else {
+                                    audio.pause();
+                                    examQuestion.querySelector("i.audio-pause").style.display = "none";
+                                    examQuestion.querySelector("i.audio-play").style.display = "block";
+                                }
+                            });
+                            examQuestion.querySelector("#volume").addEventListener("input", () => {
+                                audio.volume = examQuestion.querySelector("#volume").value;
+                            });
+    
+                            function formatTime(sec) {
+                                const m = Math.floor(sec / 60);
+                                const s = Math.floor(sec % 60).toString().padStart(2, '0');
+                                return `${m}:${s}`;
+                            }
+                        }
 
                         examQuestion.querySelector(".manage-print").onclick = () => {
                             async function printQuesion(){
@@ -5060,6 +5151,7 @@ const lazyObserver = new IntersectionObserver((entries, observer) => {
       question.querySelectorAll(".exam-question-img, .exam-scheme-img, .exam-scheme-img, .bld-ques-img").forEach(img => {
         img.src = img.dataset.src;
       });
+      if(question.querySelector("audio")) question.querySelector("audio").src = question.querySelector("audio").dataset.src;
       observer.unobserve(question);
     }
   });
