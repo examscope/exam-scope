@@ -53,8 +53,8 @@ if(window.location.href.includes("localhost")) {
     url = ""; // https://api.poojasbeautysalon.com   backend routes
     frontendLink = "http://localhost:3000"; // https://poojasbeautysalon.com   http://localhost:3000
 } else {
-    url = "https://exam-scope.com"; // https://api.poojasbeautysalon.com   backend routes
-    frontendLink = "https://exam-scope.com"; // https://poojasbeautysalon.com   http://localhost:3000
+    url = "https://www.exam-scope.com"; // https://api.poojasbeautysalon.com   backend routes
+    frontendLink = "https://www.exam-scope.com"; // https://poojasbeautysalon.com   http://localhost:3000
 }
 
 
