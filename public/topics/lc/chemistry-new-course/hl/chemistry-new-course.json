@@ -1,0 +1,35 @@
+{
+  "certificate": "lc",
+  "subject": "chemistry-new-course",
+  "level": "hl",
+  "course": "new",
+  "sections": [
+    ["Strand 1: Nature of Matter", "0-3"],
+    ["Strand 2: Behaviour of Matter", "4-7"],
+    ["Strand 3: Interactions of Matter", "8-12"],
+    ["Strand 4: Matter in our World", "13-15"],
+    ["Unifying Strand: The Nature of Science", "16-19"]
+  ],
+  "topics": [
+    "1.1. Matter",
+    "1.2. Atomic structure",
+    "1.3. The periodic table",
+    "1.4. Quantifying matter",
+    "2.1. Chemical bonding",
+    "2.2. Intermolecular forces and molecular shapes",
+    "2.3. Behaviour of gases",
+    "2.4. Hydrocarbons",
+    "3.1. Thermochemistry",
+    "3.2. Rates of reaction",
+    "3.3. Chemical equilibrium",
+    "3.4. Acid-base systems",
+    "3.5. Electrochemistry",
+    "4.1. Volumetric analysis",
+    "4.2. Reactivity of organic compounds",
+    "4.3. Our chemical environment",
+    "U1. Understanding about chemistry",
+    "U2. Investigating in chemistry",
+    "U3. Chemistry in society",
+    "U4. Abstraction to representation"
+  ]
+}

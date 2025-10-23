@@ -2,6 +2,7 @@
   "certificate": "lc",
   "subject": "chemistry",
   "level": "ol",
+  "course": "old",
   "topics": [
     "Acids, Bases & PH",
     "Atomic Structure",

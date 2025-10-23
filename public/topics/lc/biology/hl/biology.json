@@ -2,6 +2,7 @@
   "certificate": "lc",
   "subject": "biology",
   "level": "hl",
+  "course": "old",
   "topics": [
     "Bacteria",
     "Blood & Circulatory System",

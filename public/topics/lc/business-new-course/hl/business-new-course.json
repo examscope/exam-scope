@@ -1,0 +1,43 @@
+{
+  "certificate": "lc",
+  "subject": "business-new-course",
+  "level": "hl",
+  "course": "new",
+  "sections": [
+    ["Strand 1: Business in Action", "0-5"],
+    ["Strand 2: Understanding Enterprise", "6-13"],
+    ["Strand 3: Leading in Business", "14-18"],
+    ["Strand 4: Being Informed and Making Informed Decisions", "19-21"],
+    ["Unifying Strand: Investigating Business", "22-27"]
+  ],
+  "topics": [
+    "1.1 Key stakeholders in business",
+    "1.2 Forms of business, business regulation and governance",
+    "1.3 Business and the economy",
+    "1.4 The influence of national and EU policy",
+    "1.5 Irish business globally and internationally",
+    "1.6 Applying my learning",
+    "2.1 Enterprise in its broadest sense",
+    "2.2 Idea development",
+    "2.3 Business planning",
+    "2.4 The target market",
+    "2.5 Operations and finance",
+    "2.6 Growth, development, and expansion",
+    "2.7 Managing risk",
+    "2.8 Applying my learning",
+    "3.1 Leading and managing an organisation",
+    "3.2 Leading and managing people",
+    "3.3 The importance of communication",
+    "3.4 The rationale for planning",
+    "3.5 Applying my learning",
+    "4.1 Making informed decisions as a consumer",
+    "4.2 Making informed financial decisions",
+    "4.3 Being an informed employee",
+    "U1. Developing questions to research",
+    "U2. Managing information",
+    "U3. Project planning",
+    "U4. Analysing and evaluating information",
+    "U5. Presenting findings and perspectives",
+    "U6. Acknowleding sources"
+  ]
+}

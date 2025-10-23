@@ -2,6 +2,7 @@
   "certificate": "lc",
   "subject": "chemsitry",
   "level": "hl",
+  "course": "old",
   "topics": [
     "Acids, Bases & pH calculations",
     "Atomic Structure",

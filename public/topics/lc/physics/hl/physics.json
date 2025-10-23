@@ -2,6 +2,7 @@
   "certificate": "lc",
   "subject": "physics",
   "level": "hl",
+  "course": "old",
   "topics": [
     "Acceleration",
     "Applied Electricity",

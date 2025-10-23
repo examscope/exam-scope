@@ -1336,7 +1336,7 @@ i.preview-back {
     font-size: 15px;
     font-weight: 500;
 }
-.pap-type-state {
+.pap-type-state, .pap-type-deferred {
     background-color: hsl(145, 65%, 45%);
 }
 .pap-type-mock {

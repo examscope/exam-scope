@@ -251,14 +251,14 @@ app.get("/api/images/:certificate/:subject/:level/:topic", (req, res) => {
         certificate = "jc";
     }
 
-    imageQuery = "select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and type = ? order by id asc"
-    db.query(imageQuery, [certificate, subject, level, topic, "state"], (err, result) => {
+    imageQuery = "select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and (type = ? or type = ?) order by id asc"
+    db.query(imageQuery, [certificate, subject, level, topic, "state", "deferred"], (err, result) => {
         if(err){
             console.error("Error fetching images: " + err)
         }
 
         let images = result;
-        db.query("select * from audios where certificate = ? and subject = ? and level = ? and slug = ? and type = ? order by id asc", [certificate, subject, level, topic, "state"], (err, result) => {
+        db.query("select * from audios where certificate = ? and subject = ? and level = ? and slug = ? and (type = ? or type = ?) order by id asc", [certificate, subject, level, topic, "state", "deferred"], (err, result) => {
             if(err){
                 console.error(err);
             }
@@ -896,7 +896,7 @@ app.post("/api/delete-question", (req, res) => {
 app.post("/api/worksheet-questions", (req, res) => {
     const { cert, subject, level, topic } = req.body;
 
-    db.query("select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and type = ?", [cert, subject, level, topic, "state"], (err, result) => {
+    db.query("select * from new_images where certificate = ? and subject = ? and level = ? and slug = ? and (type = ? or type = ?)", [cert, subject, level, topic, "state", "deferred"], (err, result) => {
         if(err){
             console.error(err);
         }
@@ -1027,7 +1027,7 @@ app.get("/api/papers/:certificate/:subject/:level", (req, res) => {
     let certText = "lc";
     if(certificate == "junior-certificate") certText = "jc";
 
-    db.query("select * from papers where certificate = ? and subject = ? and level = ? order by id asc", [certText, subject, level], (err, result) => {
+    db.query("select * from papers where certificate = ? and subject = ? and level = ? order by year desc", [certText, subject, level], (err, result) => {
         if(err){
             console.error(err);
         }

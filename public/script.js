@@ -731,6 +731,7 @@ if(document.querySelector(".sav-container")){
                         } else {
                             document.querySelector(".exam-type").classList.remove("pap-type-mock");
                             document.querySelector(".exam-type").textContent = "State Exam";
+                            if(question.type == "deferred") document.querySelector(".exam-type").textContent = "Deferred Exam";
                         }
                         document.querySelector(".exam-ques-container").innerHTML = newBox.querySelector(".sav-img-container").innerHTML;
                         document.querySelector(".scheme-img-container").innerHTML = newBox.querySelector(".sav-scheme-container").innerHTML;
@@ -870,10 +871,12 @@ if(papContainer){
                             levelStr = " (ordinary)";
                         }
 
-                        let schemeUrl = "";
+                        let schemeUrl = "/not-found";
+                        let schemeTarget = "style='opacity: 0; pointer-events: none;'";
                         papers.forEach(scheme => {
                             if(scheme.version == "m" && scheme.year == paper.year && scheme.subject == paper.subject && scheme.level == paper.level && scheme.type == paper.type && scheme.certificate == paper.certificate){
                                 schemeUrl = scheme.url;
+                                schemeTarget = "";
                             }
                         });
 
@@ -886,7 +889,7 @@ if(papContainer){
                             <a href="${paper.url}" target="_blank" class="pap-img-container">
                                 <img src="/images/eg_paper.png" alt="Exam Paper" class="pap-img">
                             </a>
-                            <a href="${schemeUrl}" target="_blank" class="pap-img-container">
+                            <a href="${schemeUrl}" target="_blank" class="pap-img-container" ${schemeTarget}>
                                 <img src="/images/eg_scheme.png" alt="Exam Paper" class="pap-img">
                             </a>
                             <div class="pap-mark"><i class="fa-solid fa-check pap-check"></i></div>
@@ -1222,10 +1225,17 @@ if(topcContainer){
         certText = "jc";
     }
 
+    let newCourse;
     fetch(`/topics/${certText}/${subject}/${level}/${subject}.json`) 
     .then(res => res.json())
     .then(data => {
         topics = data.topics;
+        if(data.course && data.course == "old"){
+            document.querySelector(".home-para").innerHTML = `This is the old ${subject} course (for current 6th years only). Click <a href="/topics/leaving-certificate/${subject}-new-course/hl" style="color: black; text-decoration: underline;">here</a> to find the new course.`;
+        } else if(data.course && data.course == "new"){
+            newCourse = true;
+            document.querySelector(".home-para").innerHTML = `This is the new ${subject.replace("-new-course", "")} course (for everyone except 6th years). Click <a href="/topics/leaving-certificate/${subject.replace("-new-course", "")}/hl" style="color: black; text-decoration: underline;">here</a> to find the old course.`;
+        }
 
         let topcUl = document.querySelector(".topc-col-scroll");
         data.topics.forEach(str => {
@@ -1289,7 +1299,7 @@ if(topcContainer){
             const papers = data.papers;
             let paperCount = 0;
             if(data.message == "success"){
-                papers.forEach((paper) => {if(paper.version == "q"){
+                papers.forEach((paper) => {if(paper.version == "q" && paper.type == "state"){
                     paperCount++;
                     let newRow = document.createElement("div");
                     newRow.classList.add("pap-row");
@@ -1297,10 +1307,12 @@ if(topcContainer){
                     let paperPart = "";
                     if(paper.part != "no-part") paperPart = paper.part;
 
-                    let schemeUrl;
+                    let schemeUrl = "/not-found";
+                    let schemeTarget = "style='opacity: 0; pointer-events: none;'";
                     papers.forEach(scheme => {
                         if(scheme.version == "m" && scheme.year == paper.year && scheme.subject == paper.subject && scheme.level == paper.level && scheme.type == paper.type && scheme.certificate == paper.certificate){
                             schemeUrl = scheme.url;
+                            schemeTarget = "";
                         }
                     });
 
@@ -1312,7 +1324,7 @@ if(topcContainer){
                         <a href="${paper.url}" target="_blank" class="pap-img-container">
                             <img src="/images/eg_paper.png" alt="Exam Paper" class="pap-img">
                         </a>
-                        <a href="${schemeUrl}" target="_blank" class="pap-img-container">
+                        <a href="${schemeUrl}" target="_blank" class="pap-img-container" ${schemeTarget}>
                             <img src="/images/eg_scheme.png" alt="Exam Paper" class="pap-img">
                         </a>
                     `;
@@ -1372,6 +1384,10 @@ if(topcContainer){
                             document.querySelector(".topc-pap-pap").style.height = "100%";
                             //document.querySelector(".topc-col-scroll").style.height = `calc(${height} - 194px)`;
                         }
+                        if(newCourse){
+                            document.querySelector(".topc-feat").style.height = "auto";
+                            document.querySelector(".topc-pap-pap").style.height = "auto";
+                        }
                     } catch (error) {
                         console.error('Error fetching data:', error);
                     }
@@ -1409,7 +1425,7 @@ if(examContainer){
 
             let isQuestionFound = false;
             data.images.forEach(obj => {
-                if(obj.type == "state" && obj.version == "question"){
+                if((obj.type == "state" || obj.type == "deferred") && obj.version == "question"){
                     isQuestionFound = true;
                 }
             });
@@ -1417,6 +1433,7 @@ if(examContainer){
             if(!isQuestionFound){
                 document.querySelector(".sav-empty").style.display = "flex";
                 document.querySelector(".exam-container").style.display = "none";
+                makeTitle();
             }
 
             document.getElementById("btnQuiz").onclick = () => {
@@ -1503,6 +1520,11 @@ if(examContainer){
                         examQuestion.querySelector(".exam-type").classList.add("pap-type-mock");
                         examQuestion.querySelector(".exam-type").textContent = "Mock Exam";
                         document.querySelector(".manage-paper").style.display = "none";
+                    } else if(obj.type == "deferred"){
+                        stateCount++;
+                        typeStr = "Deferred Exam";
+                        examQuestion.querySelector(".exam-type").classList.add("pap-type-state");
+                        examQuestion.querySelector(".exam-type").textContent = "Deferred Exam";
                     } else {
                         stateCount++;
                         examQuestion.querySelector(".exam-type").classList.add("pap-type-state");
@@ -1517,7 +1539,7 @@ if(examContainer){
                     let matchedObjs = [obj];
                     let matchedSchemes = [];
                     data.images.forEach((obj2, idx2) => {
-                        if(idx2 != idx && obj2.layer != obj.layer && obj2.year == obj.year && obj2.option == obj.option && obj2.part == obj.part && obj2.question.slice(1) == obj.question.slice(1) && obj2.type == obj.type && obj2.version == obj.version){
+                        if(idx2 != idx && obj2.layer != obj.layer && obj2.year == obj.year && obj2.option == obj.option && obj2.part == obj.part && obj2.question.slice(1) == obj.question.slice(1) && obj2.type == obj.type && obj2.version == obj.version && obj.url.split("_")[9] == obj2.url.split("_")[9]){
                             usedIds.push(obj2.id);
                             matchedObjs.push(obj2);
                         }
@@ -1535,13 +1557,19 @@ if(examContainer){
                             }
                         });
                     });
+                    let baseSchemeRand;
                     matchedSchemes.forEach((el, idx) => {
                         matchedSchemes.forEach((mtObj) => {
                             if(mtObj.layer == (idx + 1)){
+                                if(idx == 0 && !baseSchemeRand){
+                                    baseSchemeRand = mtObj.url.split("_")[9];
+                                }
                                 let newSchemeImg = document.createElement("img");
                                 newSchemeImg.classList.add("exam-scheme-img");
                                 newSchemeImg.dataset.src = mtObj.url;
-                                examSchemeCont.appendChild(newSchemeImg);
+                                if(mtObj.url.split("_")[9] == baseSchemeRand){
+                                    examSchemeCont.appendChild(newSchemeImg);
+                                }
                             }
                         });
                     });
@@ -1744,7 +1772,7 @@ if(examContainer){
                                 </div>
                             `;
                             let audio = examQuestion.querySelector("audio");
-                            audio.dataset.src = matchedAudio.url;
+                            audio.dataset.src = "https://blob-static.studyclix.ie/cms/media/90f0c743-2a7c-4286-9f14-4704a305de9c.mp3";
                             audio.addEventListener('timeupdate', () => {
                                 examQuestion.querySelector("#audioTime").textContent = formatTime(audio.currentTime);
                                 examQuestion.querySelector(".audio-seek").style.background = `linear-gradient(to right, #2ecc71 ${(audio.currentTime / audio.duration) * 100}%, hsl(0, 0%, 90%) ${(audio.currentTime / audio.duration) * 100}%)`;
@@ -1875,7 +1903,7 @@ if(examContainer){
                                             if(sameText.textContent.includes("All Exams")){
                                                 cont.style.display = "block";
                                             } else if(sameText.textContent.includes("State Exams")){
-                                                if(typeStr == "State Exam"){
+                                                if(typeStr == "State Exam" || typeStr == "Deferred Exam"){
                                                     cont.style.display = "block";
                                                 } else {
                                                     cont.style.display = "none";
@@ -1948,7 +1976,7 @@ if(examContainer){
                                         if(sameText.textContent.includes("All Exams")){
                                             cont.style.display = "block";
                                         } else if(sameText.textContent.includes("State Exams")){
-                                            if(typeStr == "State Exam"){
+                                            if(typeStr == "State Exam" || typeStr == "Deferred Exam"){
                                                 cont.style.display = "block";
                                             } else {
                                                 cont.style.display = "none";
@@ -2934,6 +2962,7 @@ if(document.querySelector(".bld-container")){
                                     } else {
                                         document.querySelector(".exam-type").classList.remove("pap-type-mock");
                                         document.querySelector(".exam-type").textContent = "State Exam";
+                                        if(question.type == "deferred") document.querySelector(".exam-type").textContent = "State Exam";
                                     }
                                     document.querySelector(".exam-ques-container").innerHTML = newBox.querySelector(".bld-ques-img-container").innerHTML;
                                     document.querySelector(".scheme-img-container").innerHTML = newBox.querySelector(".bld-scheme-img-container").innerHTML;
