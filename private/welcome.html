@@ -373,13 +373,13 @@
                 <form class="con-form" action="https://api.web3forms.com/submit" method="POST">
                     <input type="hidden" name="access_key" value="a1cc2f3f-2a3b-4cff-926b-e03334900b38" />
                     <div class="con-label">Full Name</div>
-                    <input type="text" placeholder="Enter your name" class="con-input">
+                    <input type="text" name="name" placeholder="Enter your name" class="con-input" required>
                     <div class="con-label">Email Address</div>
-                    <input type="text" placeholder="Enter your email" class="con-input">
+                    <input type="text" name="email" placeholder="Enter your email" class="con-input" required>
                     <div class="con-label">Subject</div>
-                    <input type="text" placeholder="Subject" class="con-input">
+                    <input type="text" name="subject" placeholder="Subject" class="con-input" required>
                     <div class="con-label">Message</div>
-                    <textarea name="message" placeholder="Enter your message" class="con-area"></textarea>
+                    <textarea name="message" placeholder="Enter your message" class="con-area" required></textarea>
                     <button class="btn-con btn-primary" type="submit">Send Message</button>
                 </form>
             </div>
