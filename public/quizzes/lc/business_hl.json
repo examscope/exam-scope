@@ -1,7 +1,7 @@
 [
 {
   "subject": "Business",
-  "topic": "People in Business & Contract Law",
+  "topic": "1.1 People in Business & Contract Law",
   "quiz": [
     {
       "text": "Which of the following is a key element of a valid contract?",
@@ -62,7 +62,7 @@
 },
 {
   "subject": "Business",
-  "topic": "Conflict Resolution #1: The Consumer",
+  "topic": "1.2 Conflict Resolution #1: The Consumer",
   "quiz": [
     {
       "text": "Which law protects consumers when they buy goods and services?",
@@ -148,7 +148,7 @@
 },
 {
   "subject": "Business",
-  "topic": "Conflict Resolution #2: Industrial Relations",
+  "topic": "1.3 Conflict Resolution #2: Industrial Relations",
   "quiz": [
     {
       "text": "Which of the following is a cause of industrial conflict?",

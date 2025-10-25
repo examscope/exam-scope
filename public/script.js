@@ -2075,9 +2075,11 @@ if(document.querySelector(".quiz-container")){
     })
     .then(data => {
         topics = data;
+        let quizFound = false;
 
         topics.forEach((topic, idx) => {
             if((urlTopic == "general" && idx == 0) || topic.topic.replace(/ /g, "-").replace(/&/g, "and").replace(/---/g, "-").replace(/--/g, "-").replace().replace(/,/g, "").replace(/\//g, "-").replace(/:/g, "").replace(/\?/g, "").replace(/\|/g, "").replace(/[#.+/'()]/g, "").toLowerCase() == urlTopic){
+                quizFound = true;
                 thisTopic = topic;
                 document.querySelector(".quiz-tag").textContent = topic.topic;
                 document.querySelector(".quiz-title").textContent = topic.subject + " Quiz";
@@ -2245,6 +2247,12 @@ if(document.querySelector(".quiz-container")){
                 });
             }
         });
+
+        if(!quizFound){
+            document.querySelector(".home-content").style.height = "90vh";
+            document.querySelector(".quiz-container").style.display = "none";
+            document.querySelector(".sav-empty").style.display = "flex";
+        }
     });
 
     function nextQuizQuestion(){
