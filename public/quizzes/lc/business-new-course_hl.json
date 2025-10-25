@@ -1,0 +1,1906 @@
+[
+{
+  "subject": "Business New Course",
+  "topic": "1.1 Key stakeholders in business",
+  "quiz": [
+    {
+      "text": "Which of the following is an internal stakeholder?",
+      "type": "choice",
+      "choices": ["Supplier", "Customer", "Employee", "Government"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is an external stakeholder?",
+      "type": "choice",
+      "choices": ["Manager", "Employee", "Shareholder", "Supplier"],
+      "answer": 3
+    },
+    {
+      "text": "Which stakeholder is most interested in the profitability of a business?",
+      "type": "choice",
+      "choices": ["Employee", "Customer", "Shareholder", "Supplier"],
+      "answer": 2
+    },
+    {
+      "text": "Which stakeholder is mainly concerned with product quality?",
+      "type": "choice",
+      "choices": ["Customer", "Government", "Shareholder", "Bank"],
+      "answer": 0
+    },
+    {
+      "text": "Which stakeholder provides loans to a business?",
+      "type": "choice",
+      "choices": ["Employee", "Bank", "Supplier", "Customer"],
+      "answer": 1
+    },
+    {
+      "text": "Which stakeholder ensures a business complies with law?",
+      "type": "choice",
+      "choices": ["Government", "Employee", "Customer", "Shareholder"],
+      "answer": 0
+    },
+    {
+      "text": "Which stakeholder benefits from employment and wages?",
+      "type": "choice",
+      "choices": ["Employee", "Supplier", "Customer", "Government"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Customers are internal stakeholders.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Shareholders invest capital in the business.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one external stakeholder.",
+      "type": "input",
+      "answer": ["customer", "supplier", "government", "bank"]
+    },
+    {
+      "text": "Name one internal stakeholder.",
+      "type": "input",
+      "answer": ["employee", "manager", "owner", "director"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "1.2 Forms of business, business regulation and governance",
+  "quiz": [
+    {
+      "text": "Which form of business is owned by one person?",
+      "type": "choice",
+      "choices": ["Partnership", "Private limited company", "Sole trader", "Public limited company"],
+      "answer": 2
+    },
+    {
+      "text": "Which form of business has shareholders and limited liability?",
+      "type": "choice",
+      "choices": ["Sole trader", "Partnership", "Private limited company", "Cooperative"],
+      "answer": 2
+    },
+    {
+      "text": "Which business form involves two or more owners sharing profits?",
+      "type": "choice",
+      "choices": ["Sole trader", "Partnership", "PLC", "Franchise"],
+      "answer": 1
+    },
+    {
+      "text": "Which regulatory body ensures companies comply with company law in Ireland?",
+      "type": "choice",
+      "choices": ["Revenue Commissioners", "Central Bank", "Companies Registration Office", "Competition Authority"],
+      "answer": 2
+    },
+    {
+      "text": "Which principle describes limited liability for shareholders?",
+      "type": "choice",
+      "choices": ["Shareholders are responsible for debts beyond investment", "Shareholders risk only what they invested", "Shareholders manage day-to-day operations", "Shareholders are taxed personally on company profits"],
+      "answer": 1
+    },
+    {
+      "text": "Which governance practice ensures transparency in a company?",
+      "type": "choice",
+      "choices": ["Publishing annual reports", "Hiring more employees", "Opening more branches", "Increasing sales"],
+      "answer": 0
+    },
+    {
+      "text": "Which form of business can sell shares publicly on the stock market?",
+      "type": "choice",
+      "choices": ["Private limited company", "Sole trader", "Public limited company", "Partnership"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A sole trader has limited liability.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Partnerships share profits among owners.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one form of business with limited liability.",
+      "type": "input",
+      "answer": ["private limited company", "PLC", "public limited company"]
+    },
+    {
+      "text": "Name one regulatory body for Irish businesses.",
+      "type": "input",
+      "answer": ["companies registration office", "central bank", "competition authority"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "1.3 Business and the economy",
+  "quiz": [
+    {
+      "text": "Which term describes all goods and services produced in a country?",
+      "type": "choice",
+      "choices": ["GDP", "GNP", "Inflation", "Unemployment rate"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector includes farming, mining and fishing?",
+      "type": "choice",
+      "choices": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector includes manufacturing and construction?",
+      "type": "choice",
+      "choices": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 1
+    },
+    {
+      "text": "Which sector provides services like banking and education?",
+      "type": "choice",
+      "choices": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+      "answer": 2
+    },
+    {
+      "text": "Which economic indicator measures the increase in general price levels?",
+      "type": "choice",
+      "choices": ["Inflation", "GDP", "Deflation", "Balance of payments"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes people actively seeking work but unable to find it?",
+      "type": "choice",
+      "choices": ["Inflation", "Unemployment", "Recession", "GDP growth"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes a general slowdown in economic activity?",
+      "type": "choice",
+      "choices": ["Boom", "Recession", "Recovery", "Inflation"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: GDP measures the total value of goods and services produced abroad by a country's citizens.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The primary sector is most associated with natural resources.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one economic indicator of national performance.",
+      "type": "input",
+      "answer": ["GDP", "inflation", "unemployment rate", "balance of payments"]
+    },
+    {
+      "text": "Name one sector of the economy.",
+      "type": "input",
+      "answer": ["primary sector", "secondary sector", "tertiary sector", "quaternary sector"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "1.4 The influence of national and EU policy",
+  "quiz": [
+    {
+      "text": "Which national policy affects taxes, spending, and borrowing?",
+      "type": "choice",
+      "choices": ["Monetary policy", "Fiscal policy", "Trade policy", "Competition policy"],
+      "answer": 1
+    },
+    {
+      "text": "Which policy is controlled by the Central Bank?",
+      "type": "choice",
+      "choices": ["Fiscal policy", "Monetary policy", "EU policy", "Competition policy"],
+      "answer": 1
+    },
+    {
+      "text": "Which EU policy affects the free movement of goods, services, capital, and people?",
+      "type": "choice",
+      "choices": ["Single Market policy", "Fiscal policy", "Monetary policy", "Trade protection policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes rules to prevent monopolies and protect consumers?",
+      "type": "choice",
+      "choices": ["Competition policy", "Trade policy", "Monetary policy", "Fiscal policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which national policy involves interest rates and money supply?",
+      "type": "choice",
+      "choices": ["Fiscal policy", "Monetary policy", "EU Single Market policy", "Trade policy"],
+      "answer": 1
+    },
+    {
+      "text": "Which EU institution sets rules for business and competition?",
+      "type": "choice",
+      "choices": ["European Commission", "European Parliament", "Council of Europe", "ECB"],
+      "answer": 0
+    },
+    {
+      "text": "Which policy encourages exports and restricts imports?",
+      "type": "choice",
+      "choices": ["Trade policy", "Monetary policy", "Fiscal policy", "EU Single Market policy"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fiscal policy is set by the European Central Bank.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: EU competition policy aims to protect consumers and ensure fair business practices.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of a national economic policy.",
+      "type": "input",
+      "answer": ["fiscal policy", "monetary policy", "trade policy", "competition policy"]
+    },
+    {
+      "text": "Name one EU policy that affects businesses.",
+      "type": "input",
+      "answer": ["single market policy", "competition policy", "trade policy", "regulatory policy"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "1.5 Irish business globally and internationally",
+  "quiz": [
+    {
+      "text": "Which term describes Irish businesses selling goods abroad?",
+      "type": "choice",
+      "choices": ["Importing", "Exporting", "Franchising", "Licensing"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes Irish businesses buying goods from abroad?",
+      "type": "choice",
+      "choices": ["Exporting", "Importing", "Franchising", "Licensing"],
+      "answer": 1
+    },
+    {
+      "text": "Which global strategy allows a business to use the same brand in multiple countries?",
+      "type": "choice",
+      "choices": ["Exporting", "Franchising", "Joint venture", "Licensing"],
+      "answer": 1
+    },
+    {
+      "text": "Which international agreement reduces trade barriers between countries?",
+      "type": "choice",
+      "choices": ["Trade protectionism", "Free trade agreement", "Monopoly regulation", "EU competition policy"],
+      "answer": 1
+    },
+    {
+      "text": "Which method involves a foreign business and Irish business sharing investment and management?",
+      "type": "choice",
+      "choices": ["Joint venture", "Franchising", "Exporting", "Licensing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can make Irish goods more competitive abroad?",
+      "type": "choice",
+      "choices": ["Higher costs", "Currency devaluation", "Higher taxes", "Stricter regulations"],
+      "answer": 1
+    },
+    {
+      "text": "Which international body regulates global trade rules?",
+      "type": "choice",
+      "choices": ["EU Commission", "IMF", "World Trade Organization", "OECD"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Exporting increases Ireland’s national income.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Franchising involves buying goods from abroad.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method an Irish business can expand internationally.",
+      "type": "input",
+      "answer": ["exporting", "franchising", "joint venture", "licensing"]
+    },
+    {
+      "text": "Name one benefit of Irish businesses trading internationally.",
+      "type": "input",
+      "answer": ["increased revenue", "market growth", "brand recognition", "diversification"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "1.6 Applying my learning",
+  "quiz": [
+    {
+      "text": "Which is an example of applying business knowledge in real life?",
+      "type": "choice",
+      "choices": ["Investing in shares", "Ignoring customer feedback", "Skipping accounting", "Avoiding taxes"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is most important for running a small business successfully?",
+      "type": "choice",
+      "choices": ["Time management", "Ignoring competitors", "Copying others blindly", "Avoiding planning"],
+      "answer": 0
+    },
+    {
+      "text": "Which action shows ethical business practice?",
+      "type": "choice",
+      "choices": ["Paying taxes", "Underpaying staff", "Ignoring laws", "Falsifying accounts"],
+      "answer": 0
+    },
+    {
+      "text": "Which learning helps in decision making for business?",
+      "type": "choice",
+      "choices": ["Market research", "Guesswork", "Rumours", "Ignoring data"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor improves customer satisfaction?",
+      "type": "choice",
+      "choices": ["Listening to feedback", "Ignoring complaints", "Raising prices randomly", "Skipping quality checks"],
+      "answer": 0
+    },
+    {
+      "text": "Which action shows financial responsibility?",
+      "type": "choice",
+      "choices": ["Budgeting expenses", "Spending without plan", "Borrowing excessively", "Ignoring bills"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of problem-solving in business?",
+      "type": "choice",
+      "choices": ["Finding a solution to low sales", "Blaming staff", "Ignoring customer complaints", "Stopping operations"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Applying business knowledge is only needed in theory.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ethical decisions in business benefit both the business and society.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one way to apply your learning in business.",
+      "type": "input",
+      "answer": ["budgeting", "market research", "ethical decision making", "problem solving"]
+    },
+    {
+      "text": "Give one example of practical business experience.",
+      "type": "input",
+      "answer": ["running a small business", "internship", "selling a product", "managing a project"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.1 Enterprise in its broadest sense",
+  "quiz": [
+    {
+      "text": "Which is an example of enterprise?",
+      "type": "choice",
+      "choices": ["Starting a new business", "Watching TV", "Sleeping", "Ignoring ideas"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is key for enterprise?",
+      "type": "choice",
+      "choices": ["Creativity", "Avoiding risks", "Copying others", "Inaction"],
+      "answer": 0
+    },
+    {
+      "text": "Which action shows initiative in enterprise?",
+      "type": "choice",
+      "choices": ["Developing a new product", "Waiting for instructions", "Avoiding responsibility", "Ignoring opportunities"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a risk associated with enterprise?",
+      "type": "choice",
+      "choices": ["Financial loss", "Paying attention", "Being proactive", "Seeking advice"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of social enterprise?",
+      "type": "choice",
+      "choices": ["A business helping disadvantaged communities", "A company avoiding taxes", "A monopoly", "Illegal trade"],
+      "answer": 0
+    },
+    {
+      "text": "Which personal quality supports enterprise?",
+      "type": "choice",
+      "choices": ["Resilience", "Laziness", "Procrastination", "Fear of change"],
+      "answer": 0
+    },
+    {
+      "text": "Which enterprise activity creates jobs?",
+      "type": "choice",
+      "choices": ["Starting a business", "Watching a movie", "Ignoring ideas", "Avoiding innovation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Enterprise only involves starting a business.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Creativity and innovation are key parts of enterprise.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one personal quality important for enterprise.",
+      "type": "input",
+      "answer": ["creativity", "initiative", "resilience", "problem solving"]
+    },
+    {
+      "text": "Name one example of enterprise activity.",
+      "type": "input",
+      "answer": ["starting a business", "developing a product", "social enterprise", "innovation"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.2 Idea development",
+  "quiz": [
+    {
+      "text": "Which is the first stage of idea development?",
+      "type": "choice",
+      "choices": ["Brainstorming", "Market research", "Implementation", "Evaluation"],
+      "answer": 0
+    },
+    {
+      "text": "Which method helps generate new business ideas?",
+      "type": "choice",
+      "choices": ["Brainstorming", "Copying competitors", "Ignoring trends", "Waiting for luck"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is important when evaluating ideas?",
+      "type": "choice",
+      "choices": ["Feasibility", "Ignoring costs", "Popularity only", "Random choice"],
+      "answer": 0
+    },
+    {
+      "text": "Which research identifies potential customers for an idea?",
+      "type": "choice",
+      "choices": ["Market research", "Brainstorming", "Profit analysis", "Legal checks"],
+      "answer": 0
+    },
+    {
+      "text": "Which method checks if a product idea will succeed?",
+      "type": "choice",
+      "choices": ["Prototype testing", "Ignoring feedback", "Avoiding analysis", "Skipping research"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of idea development encourages creativity?",
+      "type": "choice",
+      "choices": ["Innovation", "Copying", "Neglecting trends", "Inaction"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor considers resources needed for an idea?",
+      "type": "choice",
+      "choices": ["Feasibility", "Popularity", "Appearance only", "Ignoring cost"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Idea development includes testing and refining ideas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Idea development is unnecessary if the idea seems good initially.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method of generating business ideas.",
+      "type": "input",
+      "answer": ["brainstorming", "innovation", "market observation", "research"]
+    },
+    {
+      "text": "Name one factor to evaluate a business idea.",
+      "type": "input",
+      "answer": ["feasibility", "cost", "resources", "market demand"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.3 Business planning",
+  "quiz": [
+    {
+      "text": "Which document outlines objectives and strategies of a business?",
+      "type": "choice",
+      "choices": ["Business plan", "Invoice", "Balance sheet", "Marketing leaflet"],
+      "answer": 0
+    },
+    {
+      "text": "Which section of a business plan describes the product or service?",
+      "type": "choice",
+      "choices": ["Operations plan", "Marketing plan", "Product description", "Financial plan"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of a business plan estimates costs and income?",
+      "type": "choice",
+      "choices": ["Marketing plan", "Operations plan", "Financial plan", "HR plan"],
+      "answer": 2
+    },
+    {
+      "text": "Which is a key benefit of having a business plan?",
+      "type": "choice",
+      "choices": ["Secures funding", "Avoids taxes", "Reduces customer demand", "Increases risk"],
+      "answer": 0
+    },
+    {
+      "text": "Which section identifies the target market?",
+      "type": "choice",
+      "choices": ["Marketing plan", "Operations plan", "Financial plan", "Product plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which part explains day-to-day operations?",
+      "type": "choice",
+      "choices": ["Operations plan", "Marketing plan", "Financial plan", "Vision statement"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps measure business success?",
+      "type": "choice",
+      "choices": ["Key performance indicators", "Ignoring feedback", "Hiding data", "Avoiding costs"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A business plan is only useful for large companies.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Financial planning is part of a business plan.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one reason to create a business plan.",
+      "type": "input",
+      "answer": ["secure funding", "plan strategy", "guide operations", "set objectives"]
+    },
+    {
+      "text": "Name one section of a business plan.",
+      "type": "input",
+      "answer": ["financial plan", "marketing plan", "operations plan", "product description"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.4 The target market",
+  "quiz": [
+    {
+      "text": "Which term describes the group of customers a business aims to sell to?",
+      "type": "choice",
+      "choices": ["Target market", "Market share", "Competition", "Supplier base"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps identify a target market?",
+      "type": "choice",
+      "choices": ["Demographics", "Random guessing", "Ignoring trends", "Supplier locations"],
+      "answer": 0
+    },
+    {
+      "text": "Which research tool helps a business understand customer needs?",
+      "type": "choice",
+      "choices": ["Surveys", "Ignoring complaints", "Copying competitors", "Skipping marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which strategy focuses on a specific group of customers?",
+      "type": "choice",
+      "choices": ["Niche marketing", "Mass marketing", "Franchising", "Licensing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can affect a target market’s buying behaviour?",
+      "type": "choice",
+      "choices": ["Income", "Supplier location", "Factory size", "Business logo"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of knowing your target market?",
+      "type": "choice",
+      "choices": ["Effective marketing", "Ignoring trends", "Overproduction", "Random pricing"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool segments customers by characteristics like age or gender?",
+      "type": "choice",
+      "choices": ["Market segmentation", "Budgeting", "Financial planning", "Operations management"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The target market can change over time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Identifying a target market is unnecessary for small businesses.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one factor used to define a target market.",
+      "type": "input",
+      "answer": ["age", "gender", "income", "location"]
+    },
+    {
+      "text": "Name one method to research a target market.",
+      "type": "input",
+      "answer": ["survey", "focus group", "market research", "observation"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.5 Operations and finance",
+  "quiz": [
+    {
+      "text": "Which term describes day-to-day activities of producing goods?",
+      "type": "choice",
+      "choices": ["Operations", "Finance", "Marketing", "Franchising"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a financial document showing income and expenses?",
+      "type": "choice",
+      "choices": ["Profit and loss account", "Invoice", "Marketing plan", "Operations plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which action improves operational efficiency?",
+      "type": "choice",
+      "choices": ["Streamlining processes", "Ignoring quality", "Increasing waste", "Overstaffing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps a business manage cash flow?",
+      "type": "choice",
+      "choices": ["Budgeting", "Random spending", "Ignoring bills", "Delaying invoices"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of fixed cost?",
+      "type": "choice",
+      "choices": ["Rent", "Raw materials", "Electricity (variable)", "Commissions"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of variable cost?",
+      "type": "choice",
+      "choices": ["Raw materials", "Rent", "Salaries (fixed)", "Loan repayment"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps track day-to-day business expenses?",
+      "type": "choice",
+      "choices": ["Financial records", "Marketing strategy", "Customer survey", "Franchising plan"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Operations focus only on financial matters.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Monitoring cash flow is part of finance management.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one fixed cost in a business.",
+      "type": "input",
+      "answer": ["rent", "salaries", "insurance", "loan repayment"]
+    },
+    {
+      "text": "Name one variable cost in a business.",
+      "type": "input",
+      "answer": ["raw materials", "utilities", "commissions", "packaging"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.6 Growth, development, and expansion",
+  "quiz": [
+    {
+      "text": "Which term describes a business increasing its size or output?",
+      "type": "choice",
+      "choices": ["Growth", "Decline", "Stagnation", "Closure"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of internal growth?",
+      "type": "choice",
+      "choices": ["Opening a new branch", "Merging with another company", "Being acquired", "Closing a factory"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of external growth?",
+      "type": "choice",
+      "choices": ["Merging with another company", "Increasing production in one factory", "Hiring more staff internally", "Improving marketing internally"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of business growth?",
+      "type": "choice",
+      "choices": ["Higher profits", "Increased competition", "Higher risk only", "Lower efficiency"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a risk of rapid expansion?",
+      "type": "choice",
+      "choices": ["Financial strain", "Lower profits", "Fewer customers", "Less staff needed"],
+      "answer": 0
+    },
+    {
+      "text": "Which strategy involves opening new markets abroad?",
+      "type": "choice",
+      "choices": ["International expansion", "Internal growth", "Diversification locally", "Cost-cutting"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is important for managing growth?",
+      "type": "choice",
+      "choices": ["Planning", "Ignoring trends", "Random investment", "Avoiding finance monitoring"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Expansion always guarantees success.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Growth can be internal or external.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method of business growth.",
+      "type": "input",
+      "answer": ["opening new branches", "merger", "acquisition", "international expansion"]
+    },
+    {
+      "text": "Name one risk of business expansion.",
+      "type": "input",
+      "answer": ["financial strain", "overextension", "management problems", "higher costs"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.7 Managing risk",
+  "quiz": [
+    {
+      "text": "Which term describes the possibility of loss in business?",
+      "type": "choice",
+      "choices": ["Risk", "Profit", "Revenue", "Market share"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of financial risk?",
+      "type": "choice",
+      "choices": ["Loan default", "Employee absence", "Customer satisfaction", "Marketing success"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of operational risk?",
+      "type": "choice",
+      "choices": ["Machine breakdown", "Price changes", "Competition", "Currency fluctuations"],
+      "answer": 0
+    },
+    {
+      "text": "Which method reduces risk in business?",
+      "type": "choice",
+      "choices": ["Insurance", "Ignoring risk", "Speculation only", "Random investment"],
+      "answer": 0
+    },
+    {
+      "text": "Which method spreads risk by investing in different areas?",
+      "type": "choice",
+      "choices": ["Diversification", "Concentration", "Ignoring markets", "Overexpansion"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of risk management?",
+      "type": "choice",
+      "choices": ["Fewer losses", "Higher uncertainty", "Lower planning", "Higher stress"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of risk can be caused by external events like natural disasters?",
+      "type": "choice",
+      "choices": ["External risk", "Internal risk", "Financial risk only", "Operational risk only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Risk can be completely eliminated.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Diversification helps manage risk.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one method of managing business risk.",
+      "type": "input",
+      "answer": ["insurance", "diversification", "planning", "monitoring finances"]
+    },
+    {
+      "text": "Name one type of business risk.",
+      "type": "input",
+      "answer": ["financial", "operational", "external", "internal"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "2.8 Applying my learning",
+  "quiz": [
+    {
+      "text": "Which term describes using business knowledge in real situations?",
+      "type": "choice",
+      "choices": ["Application", "Theory only", "Observation", "Neglect"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is important for applying learning in business?",
+      "type": "choice",
+      "choices": ["Decision making", "Ignoring rules", "Random guessing", "Copying without understanding"],
+      "answer": 0
+    },
+    {
+      "text": "Which method helps test business ideas in practice?",
+      "type": "choice",
+      "choices": ["Simulations", "Ignoring planning", "Skipping research", "Avoiding feedback"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of learning is hands-on experience?",
+      "type": "choice",
+      "choices": ["Practical learning", "Theoretical learning", "Observational learning", "Passive learning"],
+      "answer": 0
+    },
+    {
+      "text": "Which action improves business knowledge through practice?",
+      "type": "choice",
+      "choices": ["Reflection", "Ignoring mistakes", "Avoiding tasks", "Copying blindly"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help evaluate what has been learned in business?",
+      "type": "choice",
+      "choices": ["Self-assessment", "Guesswork", "Random activity", "Ignoring results"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps apply learning to solve business problems?",
+      "type": "choice",
+      "choices": ["Critical thinking", "Avoiding analysis", "Overconfidence", "Guessing outcomes"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Applying learning helps improve decision-making.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Practical experience is not needed if theory is learned.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one way to apply business learning.",
+      "type": "input",
+      "answer": ["practical tasks", "simulations", "projects", "real-life scenarios"]
+    },
+    {
+      "text": "Name one skill important when applying learning.",
+      "type": "input",
+      "answer": ["decision making", "critical thinking", "problem solving", "analysis"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "3.1 Leading and managing an organisation",
+  "quiz": [
+    {
+      "text": "Which term describes guiding a business towards its goals?",
+      "type": "choice",
+      "choices": ["Leadership", "Marketing", "Operations", "Finance"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a key responsibility of a manager?",
+      "type": "choice",
+      "choices": ["Planning and organising", "Ignoring staff", "Avoiding decisions", "Skipping budgets"],
+      "answer": 0
+    },
+    {
+      "text": "Which style of leadership involves decision-making by one person?",
+      "type": "choice",
+      "choices": ["Autocratic", "Democratic", "Laissez-faire", "Collaborative"],
+      "answer": 0
+    },
+    {
+      "text": "Which style of leadership encourages team participation?",
+      "type": "choice",
+      "choices": ["Democratic", "Autocratic", "Transactional", "Laissez-faire"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of effective leadership?",
+      "type": "choice",
+      "choices": ["Motivated staff", "Low efficiency", "Poor communication", "High stress"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can improve organisational management?",
+      "type": "choice",
+      "choices": ["Clear objectives", "Ignoring feedback", "Random targets", "Neglecting planning"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps monitor organisational performance?",
+      "type": "choice",
+      "choices": ["Key performance indicators", "Budgeting only", "Marketing posters", "Random surveys"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Leadership and management are the same thing.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Managers must plan to achieve business goals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one key role of a business manager.",
+      "type": "input",
+      "answer": ["planning", "organising", "leading", "decision making"]
+    },
+    {
+      "text": "Name one style of leadership.",
+      "type": "input",
+      "answer": ["autocratic", "democratic", "laissez-faire", "collaborative"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "3.2 Leading and managing people",
+  "quiz": [
+    {
+      "text": "Which term describes encouraging staff to work effectively?",
+      "type": "choice",
+      "choices": ["Motivation", "Delegation", "Finance", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of motivating employees?",
+      "type": "choice",
+      "choices": ["Bonuses", "Ignoring staff", "Strict rules only", "Reducing communication"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a key skill for managing people?",
+      "type": "choice",
+      "choices": ["Communication", "Accounting only", "Ignoring performance", "Skipping feedback"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes giving staff responsibilities to complete tasks?",
+      "type": "choice",
+      "choices": ["Delegation", "Autonomy", "Supervision", "Feedback"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor can improve staff performance?",
+      "type": "choice",
+      "choices": ["Training", "Ignoring mistakes", "Random scheduling", "Overworking"],
+      "answer": 0
+    },
+    {
+      "text": "Which method allows staff to contribute ideas?",
+      "type": "choice",
+      "choices": ["Team meetings", "Avoiding communication", "Top-down orders only", "Ignoring suggestions"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of feedback is constructive?",
+      "type": "choice",
+      "choices": ["Helps improve work", "Critical without solution", "Public humiliation", "Ignoring achievements"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Motivation is not important for staff performance.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Delegation helps managers focus on key tasks.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to motivate employees.",
+      "type": "input",
+      "answer": ["bonus", "praise", "training", "recognition"]
+    },
+    {
+      "text": "Name one skill needed to manage people effectively.",
+      "type": "input",
+      "answer": ["communication", "leadership", "teamwork", "delegation"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "3.3 The importance of communication",
+  "quiz": [
+    {
+      "text": "Which term describes the sharing of information between people?",
+      "type": "choice",
+      "choices": ["Communication", "Marketing", "Leadership", "Finance"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of verbal communication?",
+      "type": "choice",
+      "choices": ["Speaking in a meeting", "Writing an email", "Reading a report", "Observing a task"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of non-verbal communication?",
+      "type": "choice",
+      "choices": ["Gestures", "Phone call", "Presentation speech", "Report writing"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of effective communication in business?",
+      "type": "choice",
+      "choices": ["Fewer mistakes", "Lower productivity", "Confusion", "Conflict"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor improves communication between employees?",
+      "type": "choice",
+      "choices": ["Clear instructions", "Ignoring questions", "Vague messages", "Long emails only"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help improve communication in an organisation?",
+      "type": "choice",
+      "choices": ["Meetings", "Ignoring staff", "Random notes", "Overloading information"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill helps in effective business communication?",
+      "type": "choice",
+      "choices": ["Listening", "Ignoring feedback", "Talking only", "Reading alone"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Poor communication can lead to mistakes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Communication is only needed between managers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one benefit of effective communication.",
+      "type": "input",
+      "answer": ["fewer mistakes", "better teamwork", "higher productivity", "clear understanding"]
+    },
+    {
+      "text": "Name one skill important for communication.",
+      "type": "input",
+      "answer": ["listening", "clarity", "presentation", "feedback"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "3.4 The rationale for planning",
+  "quiz": [
+    {
+      "text": "Which term describes setting goals and deciding how to achieve them?",
+      "type": "choice",
+      "choices": ["Planning", "Organising", "Marketing", "Leadership"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of planning in business?",
+      "type": "choice",
+      "choices": ["Better resource use", "Increased chaos", "Lower efficiency", "Higher risk"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of plan focuses on daily operations?",
+      "type": "choice",
+      "choices": ["Operational plan", "Strategic plan", "Tactical plan", "Vision plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of plan sets long-term goals for a business?",
+      "type": "choice",
+      "choices": ["Strategic plan", "Operational plan", "Day-to-day plan", "Team plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor is needed for successful planning?",
+      "type": "choice",
+      "choices": ["Accurate information", "Ignoring facts", "Random guesses", "Overconfidence"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps track if plans are working?",
+      "type": "choice",
+      "choices": ["Monitoring and evaluation", "Ignoring progress", "Random decisions", "Avoiding reports"],
+      "answer": 0
+    },
+    {
+      "text": "Which action reduces risks when planning?",
+      "type": "choice",
+      "choices": ["Careful forecasting", "Ignoring data", "Random spending", "Skipping analysis"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Planning helps businesses use resources efficiently.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Planning is only necessary for large companies.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one benefit of planning in business.",
+      "type": "input",
+      "answer": ["better resource use", "risk reduction", "goal clarity", "higher efficiency"]
+    },
+    {
+      "text": "Name one type of business plan.",
+      "type": "input",
+      "answer": ["strategic plan", "operational plan", "tactical plan", "financial plan"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "3.5 Applying my learning",
+  "quiz": [
+    {
+      "text": "Which term describes using knowledge and skills in real business situations?",
+      "type": "choice",
+      "choices": ["Application", "Theory only", "Observation", "Neglect"],
+      "answer": 0
+    },
+    {
+      "text": "Which action shows applying business learning?",
+      "type": "choice",
+      "choices": ["Completing a project", "Ignoring tasks", "Reading theory only", "Copying without understanding"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill is important when applying learning?",
+      "type": "choice",
+      "choices": ["Problem-solving", "Ignoring data", "Guessing outcomes", "Skipping tasks"],
+      "answer": 0
+    },
+    {
+      "text": "Which method can help test business ideas?",
+      "type": "choice",
+      "choices": ["Simulations", "Random guesses", "Avoiding feedback", "Skipping research"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of learning involves hands-on experience?",
+      "type": "choice",
+      "choices": ["Practical learning", "Theoretical learning", "Observational learning", "Passive learning"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps improve business skills through practice?",
+      "type": "choice",
+      "choices": ["Reflection", "Ignoring mistakes", "Avoiding tasks", "Copying blindly"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps evaluate what has been learned?",
+      "type": "choice",
+      "choices": ["Self-assessment", "Guesswork", "Random activity", "Ignoring results"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Applying learning helps improve decision-making.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Practical experience is unnecessary if theory is learned.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one way to apply business learning.",
+      "type": "input",
+      "answer": ["practical tasks", "projects", "simulations", "real-life scenarios"]
+    },
+    {
+      "text": "Name one skill important when applying learning.",
+      "type": "input",
+      "answer": ["problem-solving", "decision-making", "critical thinking", "analysis"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "4.1 Making informed decisions as a consumer",
+  "quiz": [
+    {
+      "text": "Which term describes comparing products before buying?",
+      "type": "choice",
+      "choices": ["Comparison shopping", "Impulse buying", "Advertising", "Budgeting"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a benefit of being an informed consumer?",
+      "type": "choice",
+      "choices": ["Better value for money", "Overpaying", "Buying low-quality items", "Ignoring information"],
+      "answer": 0
+    },
+    {
+      "text": "Which source is reliable for consumer information?",
+      "type": "choice",
+      "choices": ["Official reviews", "Social media rumors", "Word of mouth only", "Advertising alone"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects consumer decisions?",
+      "type": "choice",
+      "choices": ["Price", "Weather", "Time of day", "Random guess"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of responsible consumer behaviour?",
+      "type": "choice",
+      "choices": ["Checking quality before purchase", "Buying impulsively", "Ignoring labels", "Skipping reviews"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation protects consumer rights in Ireland?",
+      "type": "choice",
+      "choices": ["Competition and Consumer Protection Commission", "Revenue", "IDA Ireland", "Fáilte Ireland"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps consumers make informed choices?",
+      "type": "choice",
+      "choices": ["Price comparison websites", "Advertisements only", "Ignoring details", "Random buying"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Consumers should ignore product reviews.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Being informed helps avoid poor purchases.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to be an informed consumer.",
+      "type": "input",
+      "answer": ["comparison shopping", "checking reviews", "reading labels", "researching products"]
+    },
+    {
+      "text": "Name one factor affecting consumer decisions.",
+      "type": "input",
+      "answer": ["price", "quality", "brand", "service"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "4.2 Making informed financial decisions",
+  "quiz": [
+    {
+      "text": "Which term describes planning how to use money wisely?",
+      "type": "choice",
+      "choices": ["Financial planning", "Impulse spending", "Advertising", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of saving money?",
+      "type": "choice",
+      "choices": ["Putting money into a bank account", "Spending on luxury items", "Impulse buying", "Borrowing without purpose"],
+      "answer": 0
+    },
+    {
+      "text": "Which financial product pays interest on savings?",
+      "type": "choice",
+      "choices": ["Deposit account", "Credit card", "Loan", "Insurance policy"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of responsible borrowing?",
+      "type": "choice",
+      "choices": ["Borrowing within your means", "Borrowing without planning", "Ignoring repayments", "High-interest gambling loans"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor should be considered before investing?",
+      "type": "choice",
+      "choices": ["Risk level", "Weather", "Brand popularity", "Color of product"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps track personal income and expenses?",
+      "type": "choice",
+      "choices": ["Budget", "Marketing plan", "Business strategy", "Training plan"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation in Ireland oversees financial institutions?",
+      "type": "choice",
+      "choices": ["Central Bank of Ireland", "IDA Ireland", "Revenue", "Competition Commission"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Financial planning is unnecessary if you earn enough money.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Responsible financial decisions reduce future stress.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way to make informed financial decisions.",
+      "type": "input",
+      "answer": ["budgeting", "saving", "researching options", "investing wisely"]
+    },
+    {
+      "text": "Name one factor to consider before borrowing money.",
+      "type": "input",
+      "answer": ["repayment ability", "interest rate", "loan term", "risk"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "4.3 Being an informed employee",
+  "quiz": [
+    {
+      "text": "Which term describes understanding your rights and responsibilities at work?",
+      "type": "choice",
+      "choices": ["Employee awareness", "Marketing", "Financial planning", "Leadership"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of an informed employee?",
+      "type": "choice",
+      "choices": ["Knows company policies and procedures", "Ignores instructions", "Asks no questions", "Copies others' work without learning"],
+      "answer": 0
+    },
+    {
+      "text": "Which document outlines employee rights?",
+      "type": "choice",
+      "choices": ["Contract of employment", "Invoice", "Budget plan", "Marketing brochure"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor contributes to job security?",
+      "type": "choice",
+      "choices": ["Understanding tasks and responsibilities", "Ignoring training", "Arriving late", "Neglecting duties"],
+      "answer": 0
+    },
+    {
+      "text": "Which organisation protects workers' rights in Ireland?",
+      "type": "choice",
+      "choices": ["Workplace Relations Commission", "IDA Ireland", "Revenue", "Fáilte Ireland"],
+      "answer": 0
+    },
+    {
+      "text": "Which skill helps employees work effectively in teams?",
+      "type": "choice",
+      "choices": ["Communication", "Ignoring colleagues", "Skipping meetings", "Random work"],
+      "answer": 0
+    },
+    {
+      "text": "Which action shows ethical behaviour at work?",
+      "type": "choice",
+      "choices": ["Following company rules", "Taking shortcuts dishonestly", "Ignoring safety rules", "Copying work without credit"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Employees should know their rights and responsibilities.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ignoring training helps employees become more informed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one way an employee can stay informed.",
+      "type": "input",
+      "answer": ["reading policies", "attending training", "asking questions", "reviewing contracts"]
+    },
+    {
+      "text": "Name one organisation protecting employee rights in Ireland.",
+      "type": "input",
+      "answer": ["Workplace Relations Commission", "WRC", "Labour Court"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U1. Developing questions to research",
+  "quiz": [
+    {
+      "text": "Which term describes creating questions to guide research?",
+      "type": "choice",
+      "choices": ["Research questioning", "Marketing plan", "Financial planning", "Project execution"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of a research question?",
+      "type": "choice",
+      "choices": ["How does social media affect sales?", "Buy more products", "Hire more staff", "Save money for investment"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of question is specific and measurable?",
+      "type": "choice",
+      "choices": ["Focused question", "Vague question", "Random question", "Open-ended guess"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor improves the quality of research questions?",
+      "type": "choice",
+      "choices": ["Clarity", "Complexity only", "Length only", "Avoiding keywords"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help refine research questions?",
+      "type": "choice",
+      "choices": ["Brainstorming", "Ignoring ideas", "Skipping planning", "Guesswork"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of question cannot be answered effectively with research?",
+      "type": "choice",
+      "choices": ["Too vague or broad questions", "Focused questions", "Specific questions", "Clear questions"],
+      "answer": 0
+    },
+    {
+      "text": "Which step comes first when developing research questions?",
+      "type": "choice",
+      "choices": ["Identifying a topic", "Writing the report", "Collecting data", "Making conclusions"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Good research questions are clear and measurable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Random questions are usually effective for research.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one quality of a good research question.",
+      "type": "input",
+      "answer": ["clear", "focused", "measurable", "specific"]
+    },
+    {
+      "text": "Name one step in developing research questions.",
+      "type": "input",
+      "answer": ["identifying a topic", "brainstorming", "refining ideas", "planning"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U2. Managing information",
+  "quiz": [
+    {
+      "text": "Which term describes collecting, organising, and storing information?",
+      "type": "choice",
+      "choices": ["Information management", "Marketing", "Financial planning", "Teamwork"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help organise information efficiently?",
+      "type": "choice",
+      "choices": ["Database", "Calendar only", "Whiteboard only", "Random notes"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a method of presenting information clearly?",
+      "type": "choice",
+      "choices": ["Charts and graphs", "Unreadable notes", "Random doodles", "Ignoring data"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor improves information accuracy?",
+      "type": "choice",
+      "choices": ["Verifying sources", "Ignoring sources", "Guessing", "Copying randomly"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of information is suitable for decision-making?",
+      "type": "choice",
+      "choices": ["Relevant and reliable", "Outdated", "Unverified", "Random facts"],
+      "answer": 0
+    },
+    {
+      "text": "Which action ensures data security?",
+      "type": "choice",
+      "choices": ["Using passwords and backups", "Sharing passwords freely", "Ignoring security", "Writing on sticky notes"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of managing information effectively?",
+      "type": "choice",
+      "choices": ["Organising files digitally and physically", "Leaving data scattered", "Ignoring records", "Using no system"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Organised information helps make better decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Accuracy of information is not important.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to manage information effectively.",
+      "type": "input",
+      "answer": ["databases", "filing systems", "digital folders", "charts and graphs"]
+    },
+    {
+      "text": "Name one step to ensure data security.",
+      "type": "input",
+      "answer": ["passwords", "backups", "restricted access", "encryption"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U3. Project planning",
+  "quiz": [
+    {
+      "text": "Which term describes organising tasks and resources to achieve a goal?",
+      "type": "choice",
+      "choices": ["Project planning", "Marketing", "Financial planning", "Teamwork"],
+      "answer": 0
+    },
+    {
+      "text": "Which document outlines tasks, timeline, and responsibilities?",
+      "type": "choice",
+      "choices": ["Project plan", "Invoice", "Budget report", "Marketing brochure"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor helps projects run smoothly?",
+      "type": "choice",
+      "choices": ["Clear objectives", "Random work", "Ignoring deadlines", "Unclear instructions"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps visualise project stages?",
+      "type": "choice",
+      "choices": ["Gantt chart", "Pie chart", "Bar chart", "Line graph"],
+      "answer": 0
+    },
+    {
+      "text": "Which action reduces project risks?",
+      "type": "choice",
+      "choices": ["Planning ahead", "Ignoring tasks", "Skipping reviews", "Random decisions"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes dividing a project into smaller tasks?",
+      "type": "choice",
+      "choices": ["Task breakdown", "Brainstorming", "Budgeting", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor ensures team members know what to do?",
+      "type": "choice",
+      "choices": ["Clear roles", "No instructions", "Random assignments", "Guesswork"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A project plan helps prevent confusion.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Deadlines are not important in project planning.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one tool used in project planning.",
+      "type": "input",
+      "answer": ["Gantt chart", "timeline", "schedule", "task list"]
+    },
+    {
+      "text": "Name one benefit of project planning.",
+      "type": "input",
+      "answer": ["clear tasks", "risk reduction", "time management", "team coordination"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U4. Analysing and evaluating information",
+  "quiz": [
+    {
+      "text": "Which term describes examining information carefully?",
+      "type": "choice",
+      "choices": ["Analysis", "Marketing", "Financial planning", "Project planning"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor ensures information is useful?",
+      "type": "choice",
+      "choices": ["Relevance", "Random data", "Outdated facts", "Guesswork"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help compare data visually?",
+      "type": "choice",
+      "choices": ["Charts and graphs", "Notes only", "Emails", "Social media"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes forming a conclusion from information?",
+      "type": "choice",
+      "choices": ["Evaluation", "Guessing", "Ignoring data", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor improves evaluation quality?",
+      "type": "choice",
+      "choices": ["Accurate and reliable data", "Random notes", "Unverified sources", "Old newspapers"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of analysis helps identify trends?",
+      "type": "choice",
+      "choices": ["Statistical analysis", "Random guessing", "Copying", "Ignoring data"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes judging the value or importance of information?",
+      "type": "choice",
+      "choices": ["Critical evaluation", "Random analysis", "Guesswork", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Analysing information helps make better decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You do not need reliable data to evaluate information.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one tool used to analyse information.",
+      "type": "input",
+      "answer": ["charts", "graphs", "tables", "spreadsheets"]
+    },
+    {
+      "text": "Name one factor that makes evaluation effective.",
+      "type": "input",
+      "answer": ["accuracy", "relevance", "reliability", "clarity"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U5. Presenting findings and perspectives",
+  "quiz": [
+    {
+      "text": "Which term describes showing results clearly to others?",
+      "type": "choice",
+      "choices": ["Presentation", "Analysis", "Planning", "Marketing"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool helps present data visually?",
+      "type": "choice",
+      "choices": ["Charts and graphs", "Random notes", "Emails", "Calendars"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor makes a presentation clear?",
+      "type": "choice",
+      "choices": ["Organised structure", "Random order", "Skipping headings", "Confusing slides"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is useful for sharing perspectives?",
+      "type": "choice",
+      "choices": ["Discussion", "Ignoring feedback", "Random talking", "Skipping questions"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of effective visual presentation?",
+      "type": "choice",
+      "choices": ["Using clear charts", "Unreadable tables", "Random doodles", "No labels"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor engages the audience?",
+      "type": "choice",
+      "choices": ["Clear explanations", "Talking too fast", "Skipping content", "Confusing data"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes summarising key points at the end?",
+      "type": "choice",
+      "choices": ["Conclusion", "Introduction", "Random notes", "Side comments"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Presenting findings clearly helps others understand your work.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Visual aids make presentations harder to follow.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to present information effectively.",
+      "type": "input",
+      "answer": ["charts", "graphs", "slides", "tables"]
+    },
+    {
+      "text": "Name one way to present perspectives clearly.",
+      "type": "input",
+      "answer": ["discussion", "examples", "summaries", "visuals"]
+    }
+  ]
+},
+{
+  "subject": "Business New Course",
+  "topic": "U6. Acknowledging sources",
+  "quiz": [
+    {
+      "text": "Which term describes giving credit to the original author?",
+      "type": "choice",
+      "choices": ["Acknowledging sources", "Plagiarism", "Random writing", "Editing"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is commonly used to reference sources?",
+      "type": "choice",
+      "choices": ["Citations", "Guesswork", "Skipping references", "Random notes"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor avoids plagiarism?",
+      "type": "choice",
+      "choices": ["Proper referencing", "Copying without credit", "Random copying", "Ignoring authors"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool can help organise references?",
+      "type": "choice",
+      "choices": ["Reference manager", "Notebook only", "Whiteboard", "Memory alone"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of source is important to reference?",
+      "type": "choice",
+      "choices": ["Books, articles, websites", "Random thoughts", "Unknown facts", "Old notes"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor ensures credibility of work?",
+      "type": "choice",
+      "choices": ["Acknowledging sources", "Ignoring references", "Random copying", "Guessing facts"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a list of sources at the end of work?",
+      "type": "choice",
+      "choices": ["Bibliography", "Summary", "Introduction", "Random notes"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Referencing sources shows honesty in your work.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Plagiarism is acceptable if you copy small sections.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one way to acknowledge a source.",
+      "type": "input",
+      "answer": ["citation", "reference", "footnote", "bibliography"]
+    },
+    {
+      "text": "Name one type of source that should be acknowledged.",
+      "type": "input",
+      "answer": ["books", "websites", "articles", "journals"]
+    }
+  ]
+}
+]

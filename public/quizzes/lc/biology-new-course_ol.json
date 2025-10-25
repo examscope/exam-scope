@@ -1,0 +1,2432 @@
+[
+{
+  "subject": "Biology New Course",
+  "topic": "1.1 Characteristics of life",
+  "quiz": [
+    {
+      "text": "Which of the following is NOT a characteristic of life?",
+      "type": "choice",
+      "choices": ["Organisation", "Reproduction", "Feeding", "Sleeping"],
+      "answer": 3
+    },
+    {
+      "text": "Which term describes the ability of an organism to respond to stimuli?",
+      "type": "choice",
+      "choices": ["Metabolism", "Response", "Homeostasis", "Nutrition"],
+      "answer": 1
+    },
+    {
+      "text": "What is metabolism?",
+      "type": "choice",
+      "choices": ["The breaking down of food only", "All chemical reactions in the body", "The growth of cells", "The movement of muscles"],
+      "answer": 1
+    },
+    {
+      "text": "Which process is involved in maintaining a stable internal environment?",
+      "type": "choice",
+      "choices": ["Excretion", "Homeostasis", "Response", "Nutrition"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following characteristics is shown when a plant bends toward light?",
+      "type": "choice",
+      "choices": ["Reproduction", "Metabolism", "Response", "Organisation"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these describes the ability to make new individuals?",
+      "type": "choice",
+      "choices": ["Homeostasis", "Reproduction", "Nutrition", "Metabolism"],
+      "answer": 1
+    },
+    {
+      "text": "Which characteristic of life involves removing waste products?",
+      "type": "choice",
+      "choices": ["Excretion", "Response", "Organisation", "Reproduction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Growth is considered a result of metabolism.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All living things must reproduce to stay alive.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Homeostasis means keeping conditions inside the body constant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the two main stages of metabolism.",
+      "type": "input",
+      "answer": ["anabolism and catabolism", "catabolism and anabolism"]
+    },
+    {
+      "text": "What is the ability of an organism to detect and respond to changes called?",
+      "type": "input",
+      "answer": ["response", "responsiveness", "reacting to stimuli"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.1 Viruses, Classification and the Domains of Life",
+  "quiz": [
+    {
+      "text": "Viruses are made of what two main components?",
+      "type": "choice",
+      "choices": ["Protein and DNA/RNA", "Lipids and sugars", "Cell wall and nucleus", "Protein and cell membrane"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is NOT a domain of life?",
+      "type": "choice",
+      "choices": ["Bacteria", "Archaea", "Eukarya", "Protozoa"],
+      "answer": 3
+    },
+    {
+      "text": "Which of these can viruses NOT do on their own?",
+      "type": "choice",
+      "choices": ["Reproduce", "Mutate", "Infect cells", "Evolve"],
+      "answer": 0
+    },
+    {
+      "text": "Viruses are classified as:",
+      "type": "choice",
+      "choices": ["Living organisms", "Non-living particles", "Cells", "Bacteria"],
+      "answer": 1
+    },
+    {
+      "text": "Which domain includes organisms with a true nucleus?",
+      "type": "choice",
+      "choices": ["Bacteria", "Eukarya", "Archaea", "Viruses"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following can be found in both Bacteria and Archaea?",
+      "type": "choice",
+      "choices": ["Nucleus", "Cell membrane", "Mitochondria", "Chloroplasts"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following scientists developed the system of classification still used today?",
+      "type": "choice",
+      "choices": ["Darwin", "Linnaeus", "Pasteur", "Watson"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Viruses can reproduce without a host cell.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Archaea live in extreme environments.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All living things are made of at least one cell.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the three domains of life.",
+      "type": "input",
+      "answer": ["bacteria, archaea and eukarya", "eukarya, bacteria and archaea"]
+    },
+    {
+      "text": "What is the protein coat surrounding a virus called?",
+      "type": "input",
+      "answer": ["capsid", "protein coat"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.2 Chemicals of life: biomolecules",
+  "quiz": [
+    {
+      "text": "Which of the following is NOT a biomolecule?",
+      "type": "choice",
+      "choices": ["Carbohydrate", "Protein", "Vitamin", "Water"],
+      "answer": 3
+    },
+    {
+      "text": "Which biomolecule provides most of the body’s energy?",
+      "type": "choice",
+      "choices": ["Carbohydrates", "Proteins", "Vitamins", "Nucleic acids"],
+      "answer": 0
+    },
+    {
+      "text": "What is the basic unit (monomer) of proteins?",
+      "type": "choice",
+      "choices": ["Monosaccharide", "Fatty acid", "Amino acid", "Nucleotide"],
+      "answer": 2
+    },
+    {
+      "text": "Lipids are made from which two types of molecules?",
+      "type": "choice",
+      "choices": ["Glucose and nitrogen", "Glycerol and fatty acids", "Amino acids and glucose", "Water and carbon dioxide"],
+      "answer": 1
+    },
+    {
+      "text": "Which biomolecule contains the elements C, H, O, and N?",
+      "type": "choice",
+      "choices": ["Carbohydrates", "Lipids", "Proteins", "Water"],
+      "answer": 2
+    },
+    {
+      "text": "Which test is used to detect starch in food?",
+      "type": "choice",
+      "choices": ["Benedict’s test", "Iodine test", "Biuret test", "Ethanol test"],
+      "answer": 1
+    },
+    {
+      "text": "Which biomolecule is tested using Biuret solution?",
+      "type": "choice",
+      "choices": ["Protein", "Starch", "Sugar", "Fat"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Lipids are made only of carbon and hydrogen.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Enzymes are made of protein.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Glucose is a monosaccharide.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the elements found in carbohydrates.",
+      "type": "input",
+      "answer": ["carbon, hydrogen and oxygen", "c, h and o"]
+    },
+    {
+      "text": "What colour change indicates a positive test for starch?",
+      "type": "input",
+      "answer": ["blue-black", "black", "dark blue"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.2 DNA, RNA and the Genetic Code",
+  "quiz": [
+    {
+      "text": "What does DNA stand for?",
+      "type": "choice",
+      "choices": ["Deoxyribose Nucleic Acid", "Deoxyribonucleic Acid", "Double Nucleic Acid", "Deoxy Nitrogen Acid"],
+      "answer": 1
+    },
+    {
+      "text": "Where in the cell is DNA mainly found?",
+      "type": "choice",
+      "choices": ["Cytoplasm", "Nucleus", "Ribosome", "Mitochondrion"],
+      "answer": 1
+    },
+    {
+      "text": "Which base in DNA pairs with thymine (T)?",
+      "type": "choice",
+      "choices": ["Cytosine", "Guanine", "Adenine", "Uracil"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following bases is found in RNA but not in DNA?",
+      "type": "choice",
+      "choices": ["Thymine", "Uracil", "Guanine", "Cytosine"],
+      "answer": 1
+    },
+    {
+      "text": "The shape of a DNA molecule is called a:",
+      "type": "choice",
+      "choices": ["Single helix", "Double helix", "Triple strand", "Loop"],
+      "answer": 1
+    },
+    {
+      "text": "RNA is usually:",
+      "type": "choice",
+      "choices": ["Double-stranded", "Single-stranded", "Circular", "Branched"],
+      "answer": 1
+    },
+    {
+      "text": "What part of DNA carries the genetic code?",
+      "type": "choice",
+      "choices": ["Sugar", "Base sequence", "Phosphate group", "Double helix shape"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: DNA contains uracil.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: RNA helps in making proteins.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Adenine always pairs with cytosine.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the four bases found in DNA.",
+      "type": "input",
+      "answer": ["adenine, thymine, cytosine and guanine", "a, t, c and g"]
+    },
+    {
+      "text": "What is the full name of RNA?",
+      "type": "input",
+      "answer": ["ribonucleic acid"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.2 Transfer molecules",
+  "quiz": [
+    {
+      "text": "Which molecule carries energy in the cell?",
+      "type": "choice",
+      "choices": ["DNA", "ATP", "RNA", "NAD"],
+      "answer": 1
+    },
+    {
+      "text": "What does ATP stand for?",
+      "type": "choice",
+      "choices": ["Adenosine Triphosphate", "Amino Trisugar Phosphate", "Adenine Tricarb Phosphate", "Adenosine Trisulphate"],
+      "answer": 0
+    },
+    {
+      "text": "Which molecule carries hydrogen (H) during respiration?",
+      "type": "choice",
+      "choices": ["ATP", "NAD", "DNA", "RNA"],
+      "answer": 1
+    },
+    {
+      "text": "When ATP is broken down, it releases:",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Water", "Energy", "Oxygen"],
+      "answer": 2
+    },
+    {
+      "text": "What molecule forms when ATP loses one phosphate group?",
+      "type": "choice",
+      "choices": ["ADP", "AMP", "NADH", "RNA"],
+      "answer": 0
+    },
+    {
+      "text": "In what cell process is ATP mainly produced?",
+      "type": "choice",
+      "choices": ["Photosynthesis", "Respiration", "Transpiration", "Diffusion"],
+      "answer": 1
+    },
+    {
+      "text": "NADP carries hydrogen during which process?",
+      "type": "choice",
+      "choices": ["Photosynthesis", "Respiration", "Fermentation", "Digestion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: ATP stores energy in its phosphate bonds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: NAD and NADP are transfer molecules.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ATP is made in the nucleus.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "What does NAD stand for?",
+      "type": "input",
+      "answer": ["nicotinamide adenine dinucleotide"]
+    },
+    {
+      "text": "What does ATP do for the cell?",
+      "type": "input",
+      "answer": ["provides energy", "supplies energy", "releases energy for cell activities"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.3 Unit of life: cells",
+  "quiz": [
+    {
+      "text": "What is the basic unit of life?",
+      "type": "choice",
+      "choices": ["Atom", "Tissue", "Cell", "Organ"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the cell controls what enters and leaves?",
+      "type": "choice",
+      "choices": ["Nucleus", "Cell membrane", "Cytoplasm", "Vacuole"],
+      "answer": 1
+    },
+    {
+      "text": "Where in the cell does respiration mainly occur?",
+      "type": "choice",
+      "choices": ["Chloroplast", "Nucleus", "Mitochondrion", "Ribosome"],
+      "answer": 2
+    },
+    {
+      "text": "Which structure in plant cells contains chlorophyll?",
+      "type": "choice",
+      "choices": ["Cell wall", "Chloroplast", "Vacuole", "Nucleus"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is found in plant cells but not in animal cells?",
+      "type": "choice",
+      "choices": ["Cell wall", "Nucleus", "Mitochondrion", "Cell membrane"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the cell makes proteins?",
+      "type": "choice",
+      "choices": ["Ribosomes", "Vacuole", "Mitochondrion", "Chloroplast"],
+      "answer": 0
+    },
+    {
+      "text": "Which organelle controls cell activities?",
+      "type": "choice",
+      "choices": ["Cell wall", "Cytoplasm", "Nucleus", "Membrane"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Plant cells have both a cell wall and a cell membrane.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The cytoplasm is where most cell reactions happen.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Animal cells contain chloroplasts.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the liquid part of the cell that holds organelles.",
+      "type": "input",
+      "answer": ["cytoplasm", "cell fluid"]
+    },
+    {
+      "text": "What part of the plant cell gives it shape and support?",
+      "type": "input",
+      "answer": ["cell wall", "plant cell wall"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.4 Information of life: genetic inheritance",
+  "quiz": [
+    {
+      "text": "Genes are made of which molecule?",
+      "type": "choice",
+      "choices": ["Protein", "Lipid", "DNA", "Glucose"],
+      "answer": 2
+    },
+    {
+      "text": "Where are genes located?",
+      "type": "choice",
+      "choices": ["Cytoplasm", "Chromosomes", "Cell membrane", "Ribosomes"],
+      "answer": 1
+    },
+    {
+      "text": "What term describes different versions of a gene?",
+      "type": "choice",
+      "choices": ["Traits", "Alleles", "Bases", "Mutations"],
+      "answer": 1
+    },
+    {
+      "text": "What do we call an organism with two identical alleles for a trait?",
+      "type": "choice",
+      "choices": ["Heterozygous", "Homozygous", "Dominant", "Recessive"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these describes the visible expression of a gene?",
+      "type": "choice",
+      "choices": ["Genotype", "Phenotype", "Chromosome", "Base pair"],
+      "answer": 1
+    },
+    {
+      "text": "Who is known as the father of genetics?",
+      "type": "choice",
+      "choices": ["Darwin", "Mendel", "Watson", "Crick"],
+      "answer": 1
+    },
+    {
+      "text": "If ‘T’ represents tall and ‘t’ represents short, which is dominant?",
+      "type": "choice",
+      "choices": ["t", "T", "Neither", "Both"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Recessive traits are always expressed in offspring.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Genes are passed from parents to offspring.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A heterozygous genotype contains two different alleles.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What are the units of inheritance called?",
+      "type": "input",
+      "answer": ["genes"]
+    },
+    {
+      "text": "What is the genetic makeup of an organism called?",
+      "type": "input",
+      "answer": ["genotype"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "1.5 Origins of life: evolution",
+  "quiz": [
+    {
+      "text": "What is evolution?",
+      "type": "choice",
+      "choices": ["The sudden creation of new species", "Change in species over time", "Extinction of animals", "Movement of species"],
+      "answer": 1
+    },
+    {
+      "text": "Who proposed the theory of natural selection?",
+      "type": "choice",
+      "choices": ["Linnaeus", "Mendel", "Darwin", "Pasteur"],
+      "answer": 2
+    },
+    {
+      "text": "Natural selection means:",
+      "type": "choice",
+      "choices": ["Humans choose the best traits", "Environment favours certain traits", "Random survival", "No change over time"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following provides evidence for evolution?",
+      "type": "choice",
+      "choices": ["Fossils", "Dreams", "Climate", "Nutrition"],
+      "answer": 0
+    },
+    {
+      "text": "What do we call the remains of ancient life?",
+      "type": "choice",
+      "choices": ["Minerals", "Fossils", "Sediments", "Cells"],
+      "answer": 1
+    },
+    {
+      "text": "Which process can introduce new traits into a population?",
+      "type": "choice",
+      "choices": ["Mutation", "Migration", "Photosynthesis", "Digestion"],
+      "answer": 0
+    },
+    {
+      "text": "What term describes the variety of living things on Earth?",
+      "type": "choice",
+      "choices": ["Extinction", "Evolution", "Biodiversity", "Reproduction"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Evolution happens within one lifetime.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Fossils are evidence that species have changed.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Natural selection leads to adaptation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the scientist who developed the theory of evolution by natural selection.",
+      "type": "input",
+      "answer": ["charles darwin", "darwin"]
+    },
+    {
+      "text": "What word means the ability of an organism to survive and reproduce?",
+      "type": "input",
+      "answer": ["fitness", "survival ability"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.1 Enzymes",
+  "quiz": [
+    {
+      "text": "What are enzymes made of?",
+      "type": "choice",
+      "choices": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+      "answer": 2
+    },
+    {
+      "text": "What is the function of an enzyme?",
+      "type": "choice",
+      "choices": ["To speed up reactions", "To slow reactions", "To store energy", "To absorb light"],
+      "answer": 0
+    },
+    {
+      "text": "What is the place on an enzyme where the substrate fits called?",
+      "type": "choice",
+      "choices": ["Active site", "Binding zone", "Reaction centre", "Catalytic hole"],
+      "answer": 0
+    },
+    {
+      "text": "Enzymes are described as:",
+      "type": "choice",
+      "choices": ["Non-specific catalysts", "Specific catalysts", "Universal chemicals", "Acids"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor does NOT affect enzyme activity?",
+      "type": "choice",
+      "choices": ["Temperature", "pH", "Light intensity", "Substrate concentration"],
+      "answer": 2
+    },
+    {
+      "text": "At what temperature do most enzymes work best in the human body?",
+      "type": "choice",
+      "choices": ["25°C", "37°C", "45°C", "60°C"],
+      "answer": 1
+    },
+    {
+      "text": "Which enzyme breaks down starch?",
+      "type": "choice",
+      "choices": ["Lipase", "Amylase", "Protease", "Catalase"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Enzymes are reused after a reaction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Each enzyme can work on any substrate.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Enzymes speed up reactions without being used up.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the term for a molecule acted on by an enzyme?",
+      "type": "input",
+      "answer": ["substrate"]
+    },
+    {
+      "text": "What happens to enzymes at very high temperatures?",
+      "type": "input",
+      "answer": ["they denature", "denature", "lose shape", "stop working"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.2 Photosynthesis",
+  "quiz": [
+    {
+      "text": "What is the main pigment needed for photosynthesis?",
+      "type": "choice",
+      "choices": ["Carotene", "Chlorophyll", "Haemoglobin", "Melanin"],
+      "answer": 1
+    },
+    {
+      "text": "Where in the plant cell does photosynthesis take place?",
+      "type": "choice",
+      "choices": ["Mitochondria", "Chloroplasts", "Nucleus", "Cell membrane"],
+      "answer": 1
+    },
+    {
+      "text": "Which gas is taken in during photosynthesis?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "text": "Which gas is released during photosynthesis?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Water vapour", "Nitrogen"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main source of energy for photosynthesis?",
+      "type": "choice",
+      "choices": ["The sun", "The soil", "Water", "Oxygen"],
+      "answer": 0
+    },
+    {
+      "text": "What is produced as the food in photosynthesis?",
+      "type": "choice",
+      "choices": ["Protein", "Glucose", "Fat", "Starch"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these factors affects the rate of photosynthesis?",
+      "type": "choice",
+      "choices": ["Light intensity", "Sound", "Wind direction", "Soil type"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Photosynthesis only happens in green parts of plants.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Oxygen is needed for photosynthesis to occur.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Photosynthesis converts light energy into chemical energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Write the word equation for photosynthesis.",
+      "type": "input",
+      "answer": ["carbon dioxide + water -> glucose + oxygen", "co2 + h2o -> glucose + o2"]
+    },
+    {
+      "text": "Name one factor that can limit the rate of photosynthesis.",
+      "type": "input",
+      "answer": ["light", "temperature", "carbon dioxide", "co2"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.2 Respiration",
+  "quiz": [
+    {
+      "text": "What is the main purpose of respiration in cells?",
+      "type": "choice",
+      "choices": ["To store oxygen", "To produce energy", "To make glucose", "To absorb sunlight"],
+      "answer": 1
+    },
+    {
+      "text": "Where in the cell does aerobic respiration take place?",
+      "type": "choice",
+      "choices": ["Cytoplasm", "Nucleus", "Mitochondria", "Ribosome"],
+      "answer": 2
+    },
+    {
+      "text": "Which gas is produced during aerobic respiration?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is NOT needed for aerobic respiration?",
+      "type": "choice",
+      "choices": ["Oxygen", "Glucose", "Carbon dioxide", "Enzymes"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following best describes anaerobic respiration?",
+      "type": "choice",
+      "choices": ["Uses oxygen", "Produces lactic acid", "Produces more energy", "Occurs in mitochondria"],
+      "answer": 1
+    },
+    {
+      "text": "What is the energy molecule produced by respiration?",
+      "type": "choice",
+      "choices": ["DNA", "ATP", "RNA", "ADP"],
+      "answer": 1
+    },
+    {
+      "text": "In plants, what are the products of aerobic respiration?",
+      "type": "choice",
+      "choices": ["Carbon dioxide, water, ATP", "Oxygen, water, ATP", "Glucose, oxygen, water", "ATP only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Respiration only happens in animals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Energy is released when ATP is broken down.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What are the two main types of respiration?",
+      "type": "input",
+      "answer": ["aerobic and anaerobic", "aerobic, anaerobic", "anaerobic and aerobic"]
+    },
+    {
+      "text": "Name one product of anaerobic respiration in humans.",
+      "type": "input",
+      "answer": ["lactic acid", "lactate"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.3 Cell division and cancer",
+  "quiz": [
+    {
+      "text": "What is the main purpose of mitosis?",
+      "type": "choice",
+      "choices": ["To make gametes", "To repair and grow tissues", "To produce energy", "To form proteins"],
+      "answer": 1
+    },
+    {
+      "text": "How many daughter cells are produced in mitosis?",
+      "type": "choice",
+      "choices": ["1", "2", "3", "4"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these best describes cancer?",
+      "type": "choice",
+      "choices": ["Controlled cell division", "Uncontrolled cell division", "Cell death", "Mutation repair"],
+      "answer": 1
+    },
+    {
+      "text": "In which part of the cell cycle does DNA replicate?",
+      "type": "choice",
+      "choices": ["Prophase", "Metaphase", "S phase", "Cytokinesis"],
+      "answer": 2
+    },
+    {
+      "text": "What structure pulls chromosomes apart during mitosis?",
+      "type": "choice",
+      "choices": ["Centrioles", "Spindle fibres", "Nucleolus", "Cell membrane"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is a stage of mitosis?",
+      "type": "choice",
+      "choices": ["Replication", "Anaphase", "Cytokinesis", "Mutation"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of cell division produces gametes?",
+      "type": "choice",
+      "choices": ["Mitosis", "Meiosis", "Binary fission", "Fertilisation"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Mitosis produces identical cells.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cancer is caused by mutations in genes controlling cell division.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one phase of mitosis.",
+      "type": "input",
+      "answer": ["prophase", "metaphase", "anaphase", "telophase"]
+    },
+    {
+      "text": "What is the name for the division of the cytoplasm after mitosis?",
+      "type": "input",
+      "answer": ["cytokinesis"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.3 DNA replication, protein synthesis & mutations",
+  "quiz": [
+    {
+      "text": "What does DNA stand for?",
+      "type": "choice",
+      "choices": ["Deoxyribose Nucleic Acid", "Deoxyribonucleic Acid", "Deoxyribose Nitric Acid", "Deoxynucleotide Acid"],
+      "answer": 1
+    },
+    {
+      "text": "Where in the cell is DNA found?",
+      "type": "choice",
+      "choices": ["Cytoplasm", "Mitochondria", "Nucleus", "Cell membrane"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is NOT a base in DNA?",
+      "type": "choice",
+      "choices": ["Adenine", "Thymine", "Cytosine", "Uracil"],
+      "answer": 3
+    },
+    {
+      "text": "Which base pairs with adenine in DNA?",
+      "type": "choice",
+      "choices": ["Guanine", "Thymine", "Cytosine", "Uracil"],
+      "answer": 1
+    },
+    {
+      "text": "What carries the code from DNA to the ribosome?",
+      "type": "choice",
+      "choices": ["rRNA", "tRNA", "mRNA", "DNA polymerase"],
+      "answer": 2
+    },
+    {
+      "text": "What are the building blocks of proteins?",
+      "type": "choice",
+      "choices": ["Sugars", "Amino acids", "Nucleotides", "Fatty acids"],
+      "answer": 1
+    },
+    {
+      "text": "What is a mutation?",
+      "type": "choice",
+      "choices": ["A change in DNA sequence", "A new type of protein", "A cell that divides", "A damaged enzyme"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: RNA contains thymine instead of uracil.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Mutations can sometimes be beneficial.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "What is the process of copying DNA called?",
+      "type": "input",
+      "answer": ["dna replication", "replication"]
+    },
+    {
+      "text": "What cell structure makes proteins?",
+      "type": "input",
+      "answer": ["ribosome", "ribosomes"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 Homeostasis",
+  "quiz": [
+    {
+      "text": "What does homeostasis mean?",
+      "type": "choice",
+      "choices": ["Change in environment", "Maintaining a stable internal environment", "Growth of organisms", "Energy production"],
+      "answer": 1
+    },
+    {
+      "text": "Which organ helps control blood sugar levels?",
+      "type": "choice",
+      "choices": ["Heart", "Pancreas", "Kidney", "Liver"],
+      "answer": 1
+    },
+    {
+      "text": "What hormone lowers blood sugar levels?",
+      "type": "choice",
+      "choices": ["Insulin", "Adrenaline", "Glucagon", "Testosterone"],
+      "answer": 0
+    },
+    {
+      "text": "What happens to body temperature when we sweat?",
+      "type": "choice",
+      "choices": ["It increases", "It stays the same", "It decreases", "It fluctuates"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the brain controls body temperature?",
+      "type": "choice",
+      "choices": ["Cerebrum", "Medulla", "Hypothalamus", "Cerebellum"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is an example of homeostasis?",
+      "type": "choice",
+      "choices": ["Breathing faster after running", "Growing taller", "Eating food", "Drinking water"],
+      "answer": 0
+    },
+    {
+      "text": "Which system is mainly responsible for temperature regulation?",
+      "type": "choice",
+      "choices": ["Circulatory", "Endocrine", "Respiratory", "Nervous"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Homeostasis only occurs in animals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The body uses both nerves and hormones to maintain homeostasis.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one way the body cools itself down.",
+      "type": "input",
+      "answer": ["sweating", "vasodilation"]
+    },
+    {
+      "text": "Name one way the body warms itself up.",
+      "type": "input",
+      "answer": ["shivering", "vasoconstriction"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 Immunity",
+  "quiz": [
+    {
+      "text": "What is immunity?",
+      "type": "choice",
+      "choices": ["The ability to fight disease", "The ability to digest food", "The ability to move muscles", "The ability to grow cells"],
+      "answer": 0
+    },
+    {
+      "text": "Which cells in the blood help fight infections?",
+      "type": "choice",
+      "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"],
+      "answer": 1
+    },
+    {
+      "text": "What do antibodies do?",
+      "type": "choice",
+      "choices": ["Digest bacteria", "Bind to and destroy antigens", "Carry oxygen", "Produce hormones"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these provides long-term protection against disease?",
+      "type": "choice",
+      "choices": ["Vaccination", "Antibiotics", "Sweating", "Fever"],
+      "answer": 0
+    },
+    {
+      "text": "What type of immunity do babies get from their mothers?",
+      "type": "choice",
+      "choices": ["Active immunity", "Passive immunity", "Artificial immunity", "Natural immunity"],
+      "answer": 1
+    },
+    {
+      "text": "What are substances that cause an immune response called?",
+      "type": "choice",
+      "choices": ["Hormones", "Enzymes", "Antigens", "Antibodies"],
+      "answer": 2
+    },
+    {
+      "text": "Which type of immunity develops after infection or vaccination?",
+      "type": "choice",
+      "choices": ["Passive immunity", "Active immunity", "Natural immunity", "Inherited immunity"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Vaccines contain weakened or dead pathogens.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Antibiotics are used to kill viruses.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one disease the body can develop immunity to after vaccination.",
+      "type": "input",
+      "answer": ["measles", "mumps", "rubella", "covid", "covid-19"]
+    },
+    {
+      "text": "What is the main function of white blood cells?",
+      "type": "input",
+      "answer": ["fight infection", "defend the body", "destroy pathogens", "kill bacteria"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 Plant Responses",
+  "quiz": [
+    {
+      "text": "What is a plant response to light called?",
+      "type": "choice",
+      "choices": ["Phototropism", "Geotropism", "Hydrotropism", "Thigmotropism"],
+      "answer": 0
+    },
+    {
+      "text": "Which hormone controls plant growth towards light?",
+      "type": "choice",
+      "choices": ["Auxin", "Adrenaline", "Insulin", "Cytokinin"],
+      "answer": 0
+    },
+    {
+      "text": "What part of the plant shows positive phototropism?",
+      "type": "choice",
+      "choices": ["Roots", "Stem", "Leaves", "Flower"],
+      "answer": 1
+    },
+    {
+      "text": "What is a plant's response to gravity called?",
+      "type": "choice",
+      "choices": ["Geotropism", "Phototropism", "Chemotropism", "Thigmotropism"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the plant shows positive geotropism?",
+      "type": "choice",
+      "choices": ["Stem", "Leaves", "Roots", "Flower"],
+      "answer": 2
+    },
+    {
+      "text": "Where is auxin mainly produced in plants?",
+      "type": "choice",
+      "choices": ["Roots", "Shoot tips", "Leaves", "Stem base"],
+      "answer": 1
+    },
+    {
+      "text": "What happens to the shaded side of a plant when exposed to light?",
+      "type": "choice",
+      "choices": ["It stops growing", "It grows slower", "It grows faster", "It dies"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Auxin moves away from light in the plant stem.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Phototropism only happens in roots.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one environmental factor plants respond to.",
+      "type": "input",
+      "answer": ["light", "gravity", "water", "touch"]
+    },
+    {
+      "text": "What is the name of the plant growth hormone that controls tropisms?",
+      "type": "input",
+      "answer": ["auxin", "auxins"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 The Endocrine System",
+  "quiz": [
+    {
+      "text": "What does the endocrine system produce?",
+      "type": "choice",
+      "choices": ["Hormones", "Enzymes", "Proteins", "Vitamins"],
+      "answer": 0
+    },
+    {
+      "text": "What gland controls other glands in the body?",
+      "type": "choice",
+      "choices": ["Thyroid", "Pituitary", "Adrenal", "Pancreas"],
+      "answer": 1
+    },
+    {
+      "text": "What hormone controls blood sugar levels?",
+      "type": "choice",
+      "choices": ["Insulin", "Adrenaline", "Thyroxine", "Oestrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Where is insulin produced?",
+      "type": "choice",
+      "choices": ["Liver", "Pancreas", "Thyroid", "Kidney"],
+      "answer": 1
+    },
+    {
+      "text": "Which gland releases adrenaline?",
+      "type": "choice",
+      "choices": ["Pituitary", "Adrenal", "Pancreas", "Thyroid"],
+      "answer": 1
+    },
+    {
+      "text": "What hormone controls metabolism?",
+      "type": "choice",
+      "choices": ["Thyroxine", "Oestrogen", "Insulin", "Adrenaline"],
+      "answer": 0
+    },
+    {
+      "text": "Where are the adrenal glands located?",
+      "type": "choice",
+      "choices": ["Above the kidneys", "In the brain", "In the neck", "Below the stomach"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Hormones travel through the blood.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The thyroid gland controls blood sugar.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one gland of the endocrine system.",
+      "type": "input",
+      "answer": ["pituitary", "thyroid", "adrenal", "pancreas"]
+    },
+    {
+      "text": "What chemical messenger is produced by endocrine glands?",
+      "type": "input",
+      "answer": ["hormone", "hormones"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 The Musculoskeletal System",
+  "quiz": [
+    {
+      "text": "What are the two main components of the musculoskeletal system?",
+      "type": "choice",
+      "choices": ["Bones and muscles", "Heart and lungs", "Brain and nerves", "Skin and hair"],
+      "answer": 0
+    },
+    {
+      "text": "What type of joint allows movement in all directions?",
+      "type": "choice",
+      "choices": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
+      "answer": 1
+    },
+    {
+      "text": "Which muscle is voluntary?",
+      "type": "choice",
+      "choices": ["Cardiac", "Skeletal", "Smooth", "Involuntary"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of muscle is found in the heart?",
+      "type": "choice",
+      "choices": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
+      "answer": 2
+    },
+    {
+      "text": "What connects muscles to bones?",
+      "type": "choice",
+      "choices": ["Ligaments", "Tendons", "Cartilage", "Joints"],
+      "answer": 1
+    },
+    {
+      "text": "What connects bone to bone?",
+      "type": "choice",
+      "choices": ["Ligaments", "Tendons", "Cartilage", "Muscles"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of joint allows only bending and straightening?",
+      "type": "choice",
+      "choices": ["Ball and socket", "Hinge", "Pivot", "Fixed"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Skeletal muscles are voluntary.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ligaments connect muscles to bones.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one function of the skeleton.",
+      "type": "input",
+      "answer": ["support", "protection", "movement", "shape"]
+    },
+    {
+      "text": "What type of joint is the shoulder?",
+      "type": "input",
+      "answer": ["ball and socket", "ball-and-socket"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.4 The Nervous System",
+  "quiz": [
+    {
+      "text": "What is the main function of the nervous system?",
+      "type": "choice",
+      "choices": ["To carry oxygen", "To transmit messages", "To digest food", "To produce hormones"],
+      "answer": 1
+    },
+    {
+      "text": "Which cells are the basic units of the nervous system?",
+      "type": "choice",
+      "choices": ["Muscle cells", "Neurons", "Epithelial cells", "Red blood cells"],
+      "answer": 1
+    },
+    {
+      "text": "What part of the neuron receives messages?",
+      "type": "choice",
+      "choices": ["Axon", "Dendrite", "Cell body", "Myelin sheath"],
+      "answer": 1
+    },
+    {
+      "text": "What part of the neuron sends messages away?",
+      "type": "choice",
+      "choices": ["Axon", "Dendrite", "Cell body", "Synapse"],
+      "answer": 0
+    },
+    {
+      "text": "What protects and insulates the axon?",
+      "type": "choice",
+      "choices": ["Dendrites", "Myelin sheath", "Synapse", "Cell body"],
+      "answer": 1
+    },
+    {
+      "text": "Where do neurons communicate with other cells?",
+      "type": "choice",
+      "choices": ["Axon terminals", "Dendrites", "Synapse", "Nucleus"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the nervous system controls involuntary actions?",
+      "type": "choice",
+      "choices": ["Central nervous system", "Autonomic nervous system", "Peripheral nervous system", "Somatic nervous system"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Neurons carry electrical signals.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The brain is part of the central nervous system.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the gap between two neurons where impulses are transmitted.",
+      "type": "input",
+      "answer": ["synapse", "synaptic cleft"]
+    },
+    {
+      "text": "What type of neuron carries messages from the body to the brain?",
+      "type": "input",
+      "answer": ["sensory neuron", "afferent neuron"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.5 Reproduction: Human",
+  "quiz": [
+    {
+      "text": "What is the male reproductive cell called?",
+      "type": "choice",
+      "choices": ["Egg", "Sperm", "Zygote", "Ovum"],
+      "answer": 1
+    },
+    {
+      "text": "What is the female reproductive cell called?",
+      "type": "choice",
+      "choices": ["Egg", "Sperm", "Zygote", "Soma"],
+      "answer": 0
+    },
+    {
+      "text": "Where does fertilisation usually occur?",
+      "type": "choice",
+      "choices": ["Ovary", "Uterus", "Fallopian tube", "Vagina"],
+      "answer": 2
+    },
+    {
+      "text": "What is the name of the cell formed after fertilisation?",
+      "type": "choice",
+      "choices": ["Gamete", "Embryo", "Zygote", "Blastocyst"],
+      "answer": 2
+    },
+    {
+      "text": "Which organ is where a baby develops during pregnancy?",
+      "type": "choice",
+      "choices": ["Ovary", "Uterus", "Vagina", "Fallopian tube"],
+      "answer": 1
+    },
+    {
+      "text": "What process produces gametes?",
+      "type": "choice",
+      "choices": ["Mitosis", "Meiosis", "Fertilisation", "Ovulation"],
+      "answer": 1
+    },
+    {
+      "text": "Which hormone triggers ovulation?",
+      "type": "choice",
+      "choices": ["FSH", "LH", "Estrogen", "Progesterone"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Sperm are produced in the testes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fertilisation occurs in the uterus.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one male reproductive organ.",
+      "type": "input",
+      "answer": ["testes", "penis", "vas deferens", "prostate"]
+    },
+    {
+      "text": "Name one female reproductive organ.",
+      "type": "input",
+      "answer": ["ovary", "uterus", "fallopian tube", "vagina"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.5 Reproduction: Plant",
+  "quiz": [
+    {
+      "text": "What is the male reproductive part of a flower called?",
+      "type": "choice",
+      "choices": ["Stigma", "Style", "Anther", "Ovule"],
+      "answer": 2
+    },
+    {
+      "text": "What is the female reproductive part of a flower called?",
+      "type": "choice",
+      "choices": ["Stigma", "Style", "Anther", "Petal"],
+      "answer": 0
+    },
+    {
+      "text": "Which process produces pollen?",
+      "type": "choice",
+      "choices": ["Fertilisation", "Meiosis", "Mitosis", "Photosynthesis"],
+      "answer": 1
+    },
+    {
+      "text": "What is the process of transferring pollen called?",
+      "type": "choice",
+      "choices": ["Pollination", "Fertilisation", "Germination", "Transpiration"],
+      "answer": 0
+    },
+    {
+      "text": "Where does fertilisation occur in plants?",
+      "type": "choice",
+      "choices": ["Ovary", "Stigma", "Anther", "Petal"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the plant develops into a seed after fertilisation?",
+      "type": "choice",
+      "choices": ["Ovary", "Stigma", "Style", "Anther"],
+      "answer": 0
+    },
+    {
+      "text": "What type of reproduction involves flowers and seeds?",
+      "type": "choice",
+      "choices": ["Asexual", "Sexual", "Binary fission", "Cloning"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Pollination always requires insects.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Fertilisation results in a zygote in plants.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one agent that can transfer pollen.",
+      "type": "input",
+      "answer": ["insects", "wind", "water", "birds"]
+    },
+    {
+      "text": "What is the male gamete in plants?",
+      "type": "input",
+      "answer": ["pollen", "sperm"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 Plant Structure and Transport",
+  "quiz": [
+    {
+      "text": "What tissue carries water in plants?",
+      "type": "choice",
+      "choices": ["Xylem", "Phloem", "Cambium", "Cortex"],
+      "answer": 0
+    },
+    {
+      "text": "What tissue carries sugars in plants?",
+      "type": "choice",
+      "choices": ["Xylem", "Phloem", "Cambium", "Mesophyll"],
+      "answer": 1
+    },
+    {
+      "text": "Which part of the leaf is responsible for photosynthesis?",
+      "type": "choice",
+      "choices": ["Epidermis", "Mesophyll", "Xylem", "Phloem"],
+      "answer": 1
+    },
+    {
+      "text": "Which structure prevents water loss from leaves?",
+      "type": "choice",
+      "choices": ["Cuticle", "Stomata", "Vascular bundle", "Petiole"],
+      "answer": 0
+    },
+    {
+      "text": "Through which openings does gas exchange occur?",
+      "type": "choice",
+      "choices": ["Xylem", "Phloem", "Stomata", "Cuticle"],
+      "answer": 2
+    },
+    {
+      "text": "Which part of the root absorbs water and minerals?",
+      "type": "choice",
+      "choices": ["Root hairs", "Cortex", "Xylem", "Phloem"],
+      "answer": 0
+    },
+    {
+      "text": "Which tissue produces new cells in plants?",
+      "type": "choice",
+      "choices": ["Cambium", "Xylem", "Phloem", "Epidermis"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Phloem transports water upwards only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Xylem vessels are dead cells.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one structure that supports the plant stem.",
+      "type": "input",
+      "answer": ["xylem", "collenchyma", "sclerenchyma"]
+    },
+    {
+      "text": "Name one tissue involved in transport in plants.",
+      "type": "input",
+      "answer": ["xylem", "phloem"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 The Breathing System",
+  "quiz": [
+    {
+      "text": "What is the main organ of the breathing system?",
+      "type": "choice",
+      "choices": ["Heart", "Lungs", "Trachea", "Diaphragm"],
+      "answer": 1
+    },
+    {
+      "text": "Which muscle helps in breathing?",
+      "type": "choice",
+      "choices": ["Diaphragm", "Heart", "Lungs", "Ribs"],
+      "answer": 0
+    },
+    {
+      "text": "Which tube carries air to the lungs?",
+      "type": "choice",
+      "choices": ["Trachea", "Oesophagus", "Bronchiole", "Alveolus"],
+      "answer": 0
+    },
+    {
+      "text": "What are tiny air sacs in the lungs called?",
+      "type": "choice",
+      "choices": ["Bronchi", "Bronchioles", "Alveoli", "Trachea"],
+      "answer": 2
+    },
+    {
+      "text": "What gas is absorbed by the blood in the lungs?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+      "answer": 0
+    },
+    {
+      "text": "What gas is removed from the blood in the lungs?",
+      "type": "choice",
+      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1
+    },
+    {
+      "text": "Which process moves air in and out of the lungs?",
+      "type": "choice",
+      "choices": ["Circulation", "Ventilation", "Respiration", "Diffusion"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: The diaphragm contracts to inhale air.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alveoli have a large surface area for gas exchange.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one part of the breathing system besides the lungs.",
+      "type": "input",
+      "answer": ["trachea", "bronchi", "bronchioles", "diaphragm"]
+    },
+    {
+      "text": "What is the function of alveoli?",
+      "type": "input",
+      "answer": ["gas exchange", "exchange of oxygen and carbon dioxide"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 The Circulatory System and Blood",
+  "quiz": [
+    {
+      "text": "What is the main organ of the circulatory system?",
+      "type": "choice",
+      "choices": ["Lungs", "Heart", "Kidney", "Liver"],
+      "answer": 1
+    },
+    {
+      "text": "Which blood vessels carry blood away from the heart?",
+      "type": "choice",
+      "choices": ["Veins", "Arteries", "Capillaries", "Venules"],
+      "answer": 1
+    },
+    {
+      "text": "Which blood vessels carry blood towards the heart?",
+      "type": "choice",
+      "choices": ["Arteries", "Veins", "Capillaries", "Aorta"],
+      "answer": 1
+    },
+    {
+      "text": "What is the liquid part of blood called?",
+      "type": "choice",
+      "choices": ["Plasma", "Serum", "Platelets", "Hemoglobin"],
+      "answer": 0
+    },
+    {
+      "text": "Which cells carry oxygen in the blood?",
+      "type": "choice",
+      "choices": ["White blood cells", "Red blood cells", "Platelets", "Plasma cells"],
+      "answer": 1
+    },
+    {
+      "text": "Which cells help fight infection?",
+      "type": "choice",
+      "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": 1
+    },
+    {
+      "text": "Which cells help in clotting?",
+      "type": "choice",
+      "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Arteries have valves to prevent backflow.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Capillaries are the site of exchange between blood and tissues.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one component of blood.",
+      "type": "input",
+      "answer": ["red blood cells", "white blood cells", "platelets", "plasma"]
+    },
+    {
+      "text": "What is the main function of the heart?",
+      "type": "input",
+      "answer": ["pump blood", "circulate blood"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 The Digestive System",
+  "quiz": [
+    {
+      "text": "What is the process of breaking down food into smaller molecules called?",
+      "type": "choice",
+      "choices": ["Digestion", "Absorption", "Respiration", "Excretion"],
+      "answer": 0
+    },
+    {
+      "text": "Which organ stores bile produced by the liver?",
+      "type": "choice",
+      "choices": ["Gallbladder", "Pancreas", "Stomach", "Small intestine"],
+      "answer": 0
+    },
+    {
+      "text": "Where does most digestion and absorption occur?",
+      "type": "choice",
+      "choices": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+      "answer": 1
+    },
+    {
+      "text": "Which enzyme breaks down starch into sugar?",
+      "type": "choice",
+      "choices": ["Amylase", "Lipase", "Protease", "Pepsin"],
+      "answer": 0
+    },
+    {
+      "text": "Which enzyme breaks down proteins?",
+      "type": "choice",
+      "choices": ["Lipase", "Amylase", "Protease", "Lactase"],
+      "answer": 2
+    },
+    {
+      "text": "Which organ produces bile?",
+      "type": "choice",
+      "choices": ["Gallbladder", "Liver", "Pancreas", "Stomach"],
+      "answer": 1
+    },
+    {
+      "text": "Which organ stores and releases food slowly to the small intestine?",
+      "type": "choice",
+      "choices": ["Stomach", "Esophagus", "Large intestine", "Liver"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Digestion begins in the mouth.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The large intestine absorbs most nutrients.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one digestive enzyme.",
+      "type": "input",
+      "answer": ["amylase", "lipase", "protease", "pepsin"]
+    },
+    {
+      "text": "Name one organ of the digestive system.",
+      "type": "input",
+      "answer": ["stomach", "small intestine", "large intestine", "liver", "pancreas", "gallbladder", "esophagus"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 The Urinary System",
+  "quiz": [
+    {
+      "text": "What organ produces urine?",
+      "type": "choice",
+      "choices": ["Kidney", "Bladder", "Ureter", "Urethra"],
+      "answer": 0
+    },
+    {
+      "text": "Which tube carries urine from the kidney to the bladder?",
+      "type": "choice",
+      "choices": ["Urethra", "Ureter", "Nephron", "Renal artery"],
+      "answer": 1
+    },
+    {
+      "text": "Which organ stores urine until it is released?",
+      "type": "choice",
+      "choices": ["Kidney", "Bladder", "Urethra", "Nephron"],
+      "answer": 1
+    },
+    {
+      "text": "Which tube carries urine from the bladder to outside the body?",
+      "type": "choice",
+      "choices": ["Ureter", "Urethra", "Nephron", "Renal vein"],
+      "answer": 1
+    },
+    {
+      "text": "What is the functional unit of the kidney?",
+      "type": "choice",
+      "choices": ["Nephron", "Glomerulus", "Ureter", "Bladder"],
+      "answer": 0
+    },
+    {
+      "text": "Which process removes waste from the blood in the kidney?",
+      "type": "choice",
+      "choices": ["Filtration", "Diffusion", "Osmosis", "Absorption"],
+      "answer": 0
+    },
+    {
+      "text": "Which substance is normally excreted in urine?",
+      "type": "choice",
+      "choices": ["Glucose", "Urea", "Protein", "Red blood cells"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Kidneys are part of the excretory system.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ureters store urine.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one substance normally found in urine.",
+      "type": "input",
+      "answer": ["urea", "water", "salt"]
+    },
+    {
+      "text": "Name the functional unit of the kidney.",
+      "type": "input",
+      "answer": ["nephron"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "2.6 Transport Across Membranes",
+  "quiz": [
+    {
+      "text": "Which process moves substances from high to low concentration?",
+      "type": "choice",
+      "choices": ["Diffusion", "Osmosis", "Active transport", "Filtration"],
+      "answer": 0
+    },
+    {
+      "text": "Which process moves water across a membrane?",
+      "type": "choice",
+      "choices": ["Diffusion", "Osmosis", "Active transport", "Exocytosis"],
+      "answer": 1
+    },
+    {
+      "text": "Which process requires energy to move substances?",
+      "type": "choice",
+      "choices": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
+      "answer": 2
+    },
+    {
+      "text": "Which process uses carrier proteins to move substances without energy?",
+      "type": "choice",
+      "choices": ["Facilitated diffusion", "Active transport", "Endocytosis", "Exocytosis"],
+      "answer": 0
+    },
+    {
+      "text": "What is the movement of substances out of a cell called?",
+      "type": "choice",
+      "choices": ["Endocytosis", "Exocytosis", "Osmosis", "Diffusion"],
+      "answer": 1
+    },
+    {
+      "text": "What is the movement of substances into a cell called?",
+      "type": "choice",
+      "choices": ["Endocytosis", "Exocytosis", "Active transport", "Osmosis"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of transport does not require a membrane?",
+      "type": "choice",
+      "choices": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Osmosis is the diffusion of water across a membrane.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Active transport moves substances from high to low concentration.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of passive transport.",
+      "type": "input",
+      "answer": ["diffusion", "osmosis", "facilitated diffusion"]
+    },
+    {
+      "text": "Name one substance that moves by osmosis.",
+      "type": "input",
+      "answer": ["water"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "3.1 Ecology, ecosystems and biodiversity",
+  "quiz": [
+    {
+      "text": "What is the study of interactions between organisms and their environment called?",
+      "type": "choice",
+      "choices": ["Biology", "Ecology", "Genetics", "Physiology"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes all the living organisms in an area?",
+      "type": "choice",
+      "choices": ["Community", "Population", "Ecosystem", "Biome"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a group of organisms of the same species in an area?",
+      "type": "choice",
+      "choices": ["Community", "Population", "Ecosystem", "Biome"],
+      "answer": 1
+    },
+    {
+      "text": "Which term includes both living and non-living factors in an area?",
+      "type": "choice",
+      "choices": ["Population", "Community", "Ecosystem", "Species"],
+      "answer": 2
+    },
+    {
+      "text": "What is biodiversity?",
+      "type": "choice",
+      "choices": ["Number of individuals", "Number of species", "Number of ecosystems", "Number of habitats"],
+      "answer": 1
+    },
+    {
+      "text": "Which factor is biotic?",
+      "type": "choice",
+      "choices": ["Temperature", "Soil", "Predators", "Water"],
+      "answer": 2
+    },
+    {
+      "text": "Which factor is abiotic?",
+      "type": "choice",
+      "choices": ["Plants", "Animals", "Predators", "Sunlight"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Ecosystems always have a balance between organisms and environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Biodiversity refers to the total number of individuals in one species only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one abiotic factor in an ecosystem.",
+      "type": "input",
+      "answer": ["temperature", "sunlight", "water", "soil", "wind"]
+    },
+    {
+      "text": "Name one biotic factor in an ecosystem.",
+      "type": "input",
+      "answer": ["plants", "animals", "bacteria", "fungi"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "3.1 Investigating an ecosystem",
+  "quiz": [
+    {
+      "text": "Which tool is commonly used to sample small animals in soil or leaf litter?",
+      "type": "choice",
+      "choices": ["Quadrat", "Pitfall trap", "Transect line", "Thermometer"],
+      "answer": 1
+    },
+    {
+      "text": "Which tool is used to estimate plant population in an area?",
+      "type": "choice",
+      "choices": ["Pitfall trap", "Quadrat", "Transect line", "Beaker"],
+      "answer": 1
+    },
+    {
+      "text": "What is a transect line used for?",
+      "type": "choice",
+      "choices": ["Measure soil pH", "Study changes in an ecosystem along a line", "Catch insects", "Measure temperature"],
+      "answer": 1
+    },
+    {
+      "text": "Which method is used to estimate population density of slow-moving animals?",
+      "type": "choice",
+      "choices": ["Quadrat", "Mark and recapture", "Transect line", "Pitfall trap"],
+      "answer": 1
+    },
+    {
+      "text": "What is recorded in a quadrat study?",
+      "type": "choice",
+      "choices": ["Species present and abundance", "Temperature", "Water content", "Soil type"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a direct method of studying ecosystems?",
+      "type": "choice",
+      "choices": ["Observation", "Modeling", "Simulation", "Computer analysis"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an indirect method of studying ecosystems?",
+      "type": "choice",
+      "choices": ["Observation", "Mark and recapture", "Photography", "Measuring transects"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Pitfall traps are used to study invertebrates.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Quadrats can be used to study animals like birds.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method of sampling plant populations.",
+      "type": "input",
+      "answer": ["quadrat", "transect line"]
+    },
+    {
+      "text": "Name one method of sampling animal populations.",
+      "type": "input",
+      "answer": ["pitfall trap", "mark and recapture", "observation"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "3.2 Microorganisms",
+  "quiz": [
+    {
+      "text": "Which microorganism is used to make bread rise?",
+      "type": "choice",
+      "choices": ["Bacteria", "Fungi (yeast)", "Virus", "Algae"],
+      "answer": 1
+    },
+    {
+      "text": "Which microorganism can cause disease?",
+      "type": "choice",
+      "choices": ["Bacteria", "Fungi", "Virus", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which microorganism is used in yogurt production?",
+      "type": "choice",
+      "choices": ["Yeast", "Lactic acid bacteria", "Virus", "Algae"],
+      "answer": 1
+    },
+    {
+      "text": "Which microorganism is prokaryotic?",
+      "type": "choice",
+      "choices": ["Bacteria", "Fungi", "Virus", "Protozoa"],
+      "answer": 0
+    },
+    {
+      "text": "Which microorganism is not a living cell?",
+      "type": "choice",
+      "choices": ["Bacteria", "Fungi", "Virus", "Protozoa"],
+      "answer": 2
+    },
+    {
+      "text": "Which microorganism can photosynthesize?",
+      "type": "choice",
+      "choices": ["Algae", "Bacteria", "Virus", "Fungi"],
+      "answer": 0
+    },
+    {
+      "text": "Which microorganism can be used to produce antibiotics?",
+      "type": "choice",
+      "choices": ["Bacteria", "Fungi", "Virus", "Algae"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: All bacteria are harmful to humans.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Viruses need a host cell to reproduce.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one microorganism used in food production.",
+      "type": "input",
+      "answer": ["yeast", "lactic acid bacteria", "fungi"]
+    },
+    {
+      "text": "Name one microorganism that can cause disease.",
+      "type": "input",
+      "answer": ["bacteria", "virus", "fungi", "protozoa"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "3.2 Nutrient recycling",
+  "quiz": [
+    {
+      "text": "Which nutrient cycle involves the movement of carbon through the environment?",
+      "type": "choice",
+      "choices": ["Nitrogen cycle", "Carbon cycle", "Water cycle", "Oxygen cycle"],
+      "answer": 1
+    },
+    {
+      "text": "Which organisms decompose dead material and recycle nutrients?",
+      "type": "choice",
+      "choices": ["Producers", "Consumers", "Decomposers", "Herbivores"],
+      "answer": 2
+    },
+    {
+      "text": "Which nutrient cycle is important for making amino acids and proteins?",
+      "type": "choice",
+      "choices": ["Nitrogen cycle", "Carbon cycle", "Water cycle", "Oxygen cycle"],
+      "answer": 0
+    },
+    {
+      "text": "Which process in the carbon cycle removes carbon dioxide from the air?",
+      "type": "choice",
+      "choices": ["Photosynthesis", "Respiration", "Decomposition", "Combustion"],
+      "answer": 0
+    },
+    {
+      "text": "Which process in the nitrogen cycle converts nitrogen gas into a usable form for plants?",
+      "type": "choice",
+      "choices": ["Nitrogen fixation", "Denitrification", "Ammonification", "Nitrification"],
+      "answer": 0
+    },
+    {
+      "text": "Which human activity can disrupt nutrient cycles?",
+      "type": "choice",
+      "choices": ["Deforestation", "Fertilizer use", "Pollution", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "Which nutrient cycle involves nitrates and ammonia in soil?",
+      "type": "choice",
+      "choices": ["Nitrogen cycle", "Carbon cycle", "Phosphorus cycle", "Oxygen cycle"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Decomposers recycle nutrients back into the soil.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Nutrient cycles only occur in forests.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one decomposer.",
+      "type": "input",
+      "answer": ["fungi", "bacteria", "earthworm"]
+    },
+    {
+      "text": "Name one nutrient that is recycled in ecosystems.",
+      "type": "input",
+      "answer": ["carbon", "nitrogen", "phosphorus"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "3.3 Genetic Engineering",
+  "quiz": [
+    {
+      "text": "Which tool is used to cut DNA in genetic engineering?",
+      "type": "choice",
+      "choices": ["Polymerase", "Ribosome", "Restriction enzyme", "Ligase"],
+      "answer": 2
+    },
+    {
+      "text": "Which molecule carries the new gene into an organism?",
+      "type": "choice",
+      "choices": ["Plasmid", "RNA", "Protein", "mRNA"],
+      "answer": 0
+    },
+    {
+      "text": "Which process joins DNA fragments together?",
+      "type": "choice",
+      "choices": ["Replication", "Ligase action", "Transcription", "Translation"],
+      "answer": 1
+    },
+    {
+      "text": "Which organism is often genetically engineered to produce human insulin?",
+      "type": "choice",
+      "choices": ["E. coli", "Yeast", "Mouse", "Plant"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes organisms with inserted foreign genes?",
+      "type": "choice",
+      "choices": ["Transgenic", "Hybrid", "Mutant", "Clone"],
+      "answer": 0
+    },
+    {
+      "text": "Which field studies the modification of genes for desired traits?",
+      "type": "choice",
+      "choices": ["Ecology", "Genetic engineering", "Microbiology", "Biochemistry"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following is an ethical concern of genetic engineering?",
+      "type": "choice",
+      "choices": ["Environmental impact", "Health risks", "Animal welfare", "All of the above"],
+      "answer": 3
+    },
+    {
+      "text": "True or false: Genetic engineering can create insulin for humans.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Genetic engineering is only used in animals.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one product made using genetic engineering.",
+      "type": "input",
+      "answer": ["insulin", "GM crops", "vaccines"]
+    },
+    {
+      "text": "Name one organism commonly used in genetic engineering.",
+      "type": "input",
+      "answer": ["E. coli", "yeast", "plants", "mice"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "U1 Scientific Knowledge",
+  "quiz": [
+    {
+      "text": "Which term describes a testable explanation for a phenomenon?",
+      "type": "choice",
+      "choices": ["Theory", "Hypothesis", "Law", "Observation"],
+      "answer": 1
+    },
+    {
+      "text": "Which is a scientific law?",
+      "type": "choice",
+      "choices": ["Theory of evolution", "Newton’s laws of motion", "Cell theory", "Photosynthesis process"],
+      "answer": 1
+    },
+    {
+      "text": "Which statement best defines a theory?",
+      "type": "choice",
+      "choices": ["A proven fact", "A broad explanation supported by evidence", "A guess", "An experiment result"],
+      "answer": 1
+    },
+    {
+      "text": "Which is an example of empirical evidence?",
+      "type": "choice",
+      "choices": ["Opinion", "Observation", "Assumption", "Hypothesis"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of scientific knowledge?",
+      "type": "choice",
+      "choices": ["To predict and explain natural phenomena", "To create laws", "To memorize facts", "To entertain people"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the process of gathering information using senses or instruments?",
+      "type": "choice",
+      "choices": ["Experimentation", "Observation", "Prediction", "Hypothesis"],
+      "answer": 1
+    },
+    {
+      "text": "Which term is a broad explanation supported by many experiments?",
+      "type": "choice",
+      "choices": ["Law", "Theory", "Fact", "Guess"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A scientific hypothesis can be tested.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Scientific knowledge never changes once it is discovered.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one type of scientific knowledge.",
+      "type": "input",
+      "answer": ["theory", "law", "fact", "observation"]
+    },
+    {
+      "text": "Name one example of a scientific law.",
+      "type": "input",
+      "answer": ["newton’s laws", "law of gravity", "conservation of energy"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "U2 Investigating in Science",
+  "quiz": [
+    {
+      "text": "Which step comes first in a scientific investigation?",
+      "type": "choice",
+      "choices": ["Analysis", "Observation", "Conclusion", "Hypothesis"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes a factor that is changed in an experiment?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Independent variable", "Control", "Constant"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes a factor that is measured in an experiment?",
+      "type": "choice",
+      "choices": ["Independent variable", "Dependent variable", "Control", "Constant"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes conditions kept the same in an experiment?",
+      "type": "choice",
+      "choices": ["Constants", "Variables", "Hypothesis", "Observation"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a sample used as a standard for comparison?",
+      "type": "choice",
+      "choices": ["Experimental group", "Control group", "Variable", "Constant"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main purpose of repeating experiments?",
+      "type": "choice",
+      "choices": ["To increase reliability", "To change the result", "To test new variables", "To confuse students"],
+      "answer": 0
+    },
+    {
+      "text": "Which piece of equipment is used to measure volume accurately?",
+      "type": "choice",
+      "choices": ["Thermometer", "Beaker", "Graduated cylinder", "Stopwatch"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: A control group does not receive the independent variable.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Constants are factors that change during an experiment.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one method to increase reliability in experiments.",
+      "type": "input",
+      "answer": ["repeat experiment", "increase sample size", "replication"]
+    },
+    {
+      "text": "Name one dependent variable in a plant growth experiment.",
+      "type": "input",
+      "answer": ["height", "leaf number", "biomass", "growth rate"]
+    }
+  ]
+},
+{
+  "subject": "Biology New Course",
+  "topic": "U3 Science in Society",
+  "quiz": [
+    {
+      "text": "Which term describes the practical application of scientific knowledge?",
+      "type": "choice",
+      "choices": ["Technology", "Hypothesis", "Experiment", "Theory"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a benefit of scientific research?",
+      "type": "choice",
+      "choices": ["Improved healthcare", "Increased pollution", "Unethical practices", "Confusion"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes negative effects of science on society or the environment?",
+      "type": "choice",
+      "choices": ["Benefit", "Risk", "Innovation", "Discovery"],
+      "answer": 1
+    },
+    {
+      "text": "Which term describes laws or rules governing ethical scientific practice?",
+      "type": "choice",
+      "choices": ["Ethics", "Hypothesis", "Theory", "Observation"],
+      "answer": 0
+    },
+    {
+      "text": "Which organization ensures safety in laboratories?",
+      "type": "choice",
+      "choices": ["Ethics committee", "Health and Safety Authority", "WHO", "NASA"],
+      "answer": 1
+    },
+    {
+      "text": "Which is an example of science used in everyday life?",
+      "type": "choice",
+      "choices": ["Medical testing", "Reading a book", "Listening to music", "Painting"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes public debates about the use of science?",
+      "type": "choice",
+      "choices": ["Science communication", "Ethics", "Risk assessment", "Society impact"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Scientific discoveries always have only positive effects on society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Ethics in science protect people and the environment.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of science affecting society.",
+      "type": "input",
+      "answer": ["medicine", "agriculture", "technology", "vaccines"]
+    },
+    {
+      "text": "Name one risk of applying science without consideration.",
+      "type": "input",
+      "answer": ["pollution", "ethical issues", "disease spread", "accidents"]
+    }
+  ]
+}
+]

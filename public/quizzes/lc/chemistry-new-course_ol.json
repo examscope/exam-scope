@@ -1,0 +1,1383 @@
+[
+{
+  "subject": "Chemistry New Course",
+  "topic": "1.1. Matter",
+  "quiz": [
+    {
+      "text": "What is matter?",
+      "type": "choice",
+      "choices": ["Anything that has mass and volume", "Energy only", "Light", "Sound"],
+      "answer": 0
+    },
+    {
+      "text": "Which state of matter has a fixed shape and volume?",
+      "type": "choice",
+      "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+      "answer": 0
+    },
+    {
+      "text": "Which state of matter has no fixed shape but a fixed volume?",
+      "type": "choice",
+      "choices": ["Liquid", "Solid", "Gas", "Plasma"],
+      "answer": 0
+    },
+    {
+      "text": "Which state of matter has neither fixed shape nor fixed volume?",
+      "type": "choice",
+      "choices": ["Gas", "Solid", "Liquid", "Plasma"],
+      "answer": 0
+    },
+    {
+      "text": "What happens to most substances when heated?",
+      "type": "choice",
+      "choices": ["They expand", "They contract", "They disappear", "They freeze"],
+      "answer": 0
+    },
+    {
+      "text": "Matter is made of what basic units?",
+      "type": "choice",
+      "choices": ["Particles", "Light", "Energy", "Waves"],
+      "answer": 0
+    },
+    {
+      "text": "Which process turns a liquid into a gas?",
+      "type": "choice",
+      "choices": ["Evaporation", "Condensation", "Freezing", "Melting"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Gas particles are close together.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Solids have a fixed shape.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Matter can exist in different states.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the three main states of matter.",
+      "type": "input",
+      "answer": ["solid, liquid, gas", "solid liquid gas"]
+    },
+    {
+      "text": "What is the basic unit that makes up matter?",
+      "type": "input",
+      "answer": ["particle", "particles"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "1.2. Atomic structure",
+  "quiz": [
+    {
+      "text": "Which particle has a positive charge?",
+      "type": "choice",
+      "choices": ["Proton", "Electron", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle has no charge?",
+      "type": "choice",
+      "choices": ["Neutron", "Proton", "Electron", "Ion"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle has a negative charge?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Where are protons and neutrons found in an atom?",
+      "type": "choice",
+      "choices": ["Nucleus", "Electron cloud", "Outside the atom", "Bonded to electrons"],
+      "answer": 0
+    },
+    {
+      "text": "Electrons are located where in an atom?",
+      "type": "choice",
+      "choices": ["Outside the nucleus", "Inside the nucleus", "In protons", "In neutrons"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle determines the identity of an element?",
+      "type": "choice",
+      "choices": ["Proton", "Electron", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Atoms are mostly what?",
+      "type": "choice",
+      "choices": ["Empty space", "Solid matter", "Liquid", "Gas"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Neutrons have a negative charge.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electrons have negligible mass compared to protons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Protons and electrons have equal but opposite charges.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the particle with no charge in an atom.",
+      "type": "input",
+      "answer": ["neutron"]
+    },
+    {
+      "text": "Name the particle with negative charge in an atom.",
+      "type": "input",
+      "answer": ["electron"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "1.3. The periodic table",
+  "quiz": [
+    {
+      "text": "Who created the first widely recognised periodic table?",
+      "type": "choice",
+      "choices": ["Mendeleev", "Dalton", "Thomson", "Rutherford"],
+      "answer": 0
+    },
+    {
+      "text": "Elements in the same group have what in common?",
+      "type": "choice",
+      "choices": ["Similar chemical properties", "Same mass", "Same colour", "Same density"],
+      "answer": 0
+    },
+    {
+      "text": "Elements in the same period have what in common?",
+      "type": "choice",
+      "choices": ["Same number of electron shells", "Same number of protons", "Same reactivity", "Same group number"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is a noble gas?",
+      "type": "choice",
+      "choices": ["Neon", "Sodium", "Oxygen", "Chlorine"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is an alkali metal?",
+      "type": "choice",
+      "choices": ["Sodium", "Neon", "Calcium", "Chlorine"],
+      "answer": 0
+    },
+    {
+      "text": "Which element is a halogen?",
+      "type": "choice",
+      "choices": ["Chlorine", "Neon", "Sodium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "text": "The modern periodic table is arranged by what?",
+      "type": "choice",
+      "choices": ["Atomic number", "Mass number", "Density", "Melting point"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Elements in a group have similar chemical properties.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Periods run vertically in the periodic table.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: All noble gases are inert.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a group of highly reactive non-metals.",
+      "type": "input",
+      "answer": ["halogens"]
+    },
+    {
+      "text": "Who is credited with the first periodic table?",
+      "type": "input",
+      "answer": ["mendeleev", "dmitri mendeleev"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "1.4. Quantifying matter",
+  "quiz": [
+    {
+      "text": "What is the relative atomic mass (Ar)?",
+      "type": "choice",
+      "choices": ["Average mass of an atom compared to 1/12 of carbon-12", "Mass of proton", "Mass of neutron", "Mass of electron"],
+      "answer": 0
+    },
+    {
+      "text": "What is the relative molecular mass (Mr)?",
+      "type": "choice",
+      "choices": ["Sum of relative atomic masses in a molecule", "Mass of single atom", "Mass of electron", "Mass of proton"],
+      "answer": 0
+    },
+    {
+      "text": "How many particles are in one mole of a substance?",
+      "type": "choice",
+      "choices": ["6.02 × 10²³", "1 × 10²³", "3.00 × 10⁸", "9.81"],
+      "answer": 0
+    },
+    {
+      "text": "What is the unit of amount of substance?",
+      "type": "choice",
+      "choices": ["Mole", "Gram", "Liter", "Kilogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates mass and moles?",
+      "type": "choice",
+      "choices": ["Avogadro’s law", "Ohm’s law", "Boyle’s law", "Charles’ law"],
+      "answer": 0
+    },
+    {
+      "text": "The number of moles is calculated by what formula?",
+      "type": "choice",
+      "choices": ["Mass ÷ Mr", "Mass × Mr", "Mr ÷ Mass", "Volume × Density"],
+      "answer": 0
+    },
+    {
+      "text": "Molar mass is the mass of what?",
+      "type": "choice",
+      "choices": ["One mole of substance", "One atom", "One electron", "One molecule only"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Avogadro’s number is 6.02 × 10²³.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mr is the sum of Ar of all atoms in a molecule.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mole is a measure of mass.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the constant representing number of particles in a mole.",
+      "type": "input",
+      "answer": ["avogadro’s number", "avogadro"]
+    },
+    {
+      "text": "How do you calculate the number of moles?",
+      "type": "input",
+      "answer": ["mass ÷ mr", "mass divided by mr", "mass/mr"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "2.1. Chemical bonding",
+  "quiz": [
+    {
+      "text": "Which type of bond involves sharing electrons?",
+      "type": "choice",
+      "choices": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of bond involves transfer of electrons?",
+      "type": "choice",
+      "choices": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of bond is found in metals?",
+      "type": "choice",
+      "choices": ["Metallic", "Ionic", "Covalent", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which bond forms between oppositely charged ions?",
+      "type": "choice",
+      "choices": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which bond involves delocalised electrons?",
+      "type": "choice",
+      "choices": ["Metallic", "Ionic", "Covalent", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Covalent bonds usually form between which types of elements?",
+      "type": "choice",
+      "choices": ["Non-metals", "Metals", "Metal and non-metal", "Noble gases"],
+      "answer": 0
+    },
+    {
+      "text": "Ionic bonds usually form between which types of elements?",
+      "type": "choice",
+      "choices": ["Metal and non-metal", "Two non-metals", "Two metals", "Noble gases"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Ionic compounds conduct electricity when solid.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Metals are good conductors of electricity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Covalent compounds have low melting points.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the bond formed by sharing electrons.",
+      "type": "input",
+      "answer": ["covalent"]
+    },
+    {
+      "text": "Name the bond formed by transfer of electrons.",
+      "type": "input",
+      "answer": ["ionic"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "2.2. Intermolecular forces and molecular shapes",
+  "quiz": [
+    {
+      "text": "Which force holds molecules together in liquids and solids?",
+      "type": "choice",
+      "choices": ["Intermolecular forces", "Ionic bonds", "Covalent bonds", "Metallic bonds"],
+      "answer": 0
+    },
+    {
+      "text": "Which is the strongest intermolecular force?",
+      "type": "choice",
+      "choices": ["Hydrogen bonding", "Dipole-dipole", "Van der Waals", "London forces"],
+      "answer": 0
+    },
+    {
+      "text": "What is the shape of a molecule with 2 bonded atoms and 0 lone pairs?",
+      "type": "choice",
+      "choices": ["Linear", "Bent", "Trigonal planar", "Tetrahedral"],
+      "answer": 0
+    },
+    {
+      "text": "What is the shape of a molecule with 3 bonded atoms and 0 lone pairs?",
+      "type": "choice",
+      "choices": ["Trigonal planar", "Linear", "Bent", "Tetrahedral"],
+      "answer": 0
+    },
+    {
+      "text": "What is the shape of a molecule with 4 bonded atoms and 0 lone pairs?",
+      "type": "choice",
+      "choices": ["Tetrahedral", "Linear", "Trigonal planar", "Bent"],
+      "answer": 0
+    },
+    {
+      "text": "Which force occurs between all molecules due to temporary dipoles?",
+      "type": "choice",
+      "choices": ["London dispersion forces", "Hydrogen bonding", "Ionic bonding", "Covalent bonding"],
+      "answer": 0
+    },
+    {
+      "text": "Hydrogen bonding occurs when hydrogen is bonded to which elements?",
+      "type": "choice",
+      "choices": ["F, O, N", "C, H, O", "S, P, Cl", "Na, K, Li"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Intermolecular forces are weaker than chemical bonds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Molecular shape affects physical properties.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Hydrogen bonding is weaker than London forces.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the weakest type of intermolecular force.",
+      "type": "input",
+      "answer": ["london dispersion", "london forces"]
+    },
+    {
+      "text": "Give the shape of a molecule with 2 bonded atoms and 1 lone pair.",
+      "type": "input",
+      "answer": ["bent", "v-shaped"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "2.3. Behaviour of gases",
+  "quiz": [
+    {
+      "text": "What is the relationship between pressure and volume at constant temperature?",
+      "type": "choice",
+      "choices": ["Boyle’s law", "Charles’ law", "Avogadro’s law", "Gay-Lussac’s law"],
+      "answer": 0
+    },
+    {
+      "text": "What is the relationship between volume and temperature at constant pressure?",
+      "type": "choice",
+      "choices": ["Charles’ law", "Boyle’s law", "Avogadro’s law", "Gay-Lussac’s law"],
+      "answer": 0
+    },
+    {
+      "text": "What is the unit of pressure in the SI system?",
+      "type": "choice",
+      "choices": ["Pascal", "Joule", "Newton", "Mole"],
+      "answer": 0
+    },
+    {
+      "text": "What does the ideal gas equation PV = nRT relate?",
+      "type": "choice",
+      "choices": ["Pressure, volume, moles, temperature", "Mass, volume, temperature, density", "Force, area, velocity, time", "Concentration, pressure, volume, temperature"],
+      "answer": 0
+    },
+    {
+      "text": "At constant temperature, if volume decreases, pressure does what?",
+      "type": "choice",
+      "choices": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas law relates pressure and temperature at constant volume?",
+      "type": "choice",
+      "choices": ["Gay-Lussac’s law", "Boyle’s law", "Charles’ law", "Avogadro’s law"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates volume and moles at constant temperature and pressure?",
+      "type": "choice",
+      "choices": ["Avogadro’s law", "Boyle’s law", "Charles’ law", "Gay-Lussac’s law"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Gas particles are far apart and move randomly.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Increasing temperature increases pressure if volume is constant.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Boyle’s law states volume is directly proportional to pressure at constant temperature.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the law relating pressure and volume at constant temperature.",
+      "type": "input",
+      "answer": ["boyle’s law"]
+    },
+    {
+      "text": "Name the law relating volume and temperature at constant pressure.",
+      "type": "input",
+      "answer": ["charles’ law"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "2.4. Hydrocarbons",
+  "quiz": [
+    {
+      "text": "What is a hydrocarbon?",
+      "type": "choice",
+      "choices": ["Compound made of carbon and hydrogen only", "Compound with oxygen", "Compound with nitrogen", "Acid"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of hydrocarbon has only single bonds?",
+      "type": "choice",
+      "choices": ["Alkane", "Alkene", "Alkyne", "Aromatic"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of hydrocarbon has at least one double bond?",
+      "type": "choice",
+      "choices": ["Alkene", "Alkane", "Alkyne", "Aromatic"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of hydrocarbon has at least one triple bond?",
+      "type": "choice",
+      "choices": ["Alkyne", "Alkene", "Alkane", "Aromatic"],
+      "answer": 0
+    },
+    {
+      "text": "What is the general formula of alkanes?",
+      "type": "choice",
+      "choices": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnHn"],
+      "answer": 0
+    },
+    {
+      "text": "What is the general formula of alkenes?",
+      "type": "choice",
+      "choices": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"],
+      "answer": 0
+    },
+    {
+      "text": "What is the general formula of alkynes?",
+      "type": "choice",
+      "choices": ["CnH2n-2", "CnH2n", "CnH2n+2", "CnHn"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alkanes are saturated hydrocarbons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alkenes are unsaturated hydrocarbons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Alkynes only have single bonds.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a hydrocarbon with a double bond.",
+      "type": "input",
+      "answer": ["alkene"]
+    },
+    {
+      "text": "Give the general formula for alkanes.",
+      "type": "input",
+      "answer": ["cnh2n+2"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "3.1. Thermochemistry",
+  "quiz": [
+    {
+      "text": "What is the study of heat changes in chemical reactions?",
+      "type": "choice",
+      "choices": ["Thermochemistry", "Thermodynamics", "Kinetics", "Calorimetry"],
+      "answer": 0
+    },
+    {
+      "text": "Energy absorbed in a reaction is called what?",
+      "type": "choice",
+      "choices": ["Endothermic", "Exothermic", "Catalytic", "Spontaneous"],
+      "answer": 0
+    },
+    {
+      "text": "Energy released in a reaction is called what?",
+      "type": "choice",
+      "choices": ["Exothermic", "Endothermic", "Spontaneous", "Catalytic"],
+      "answer": 0
+    },
+    {
+      "text": "Which device measures heat change in a reaction?",
+      "type": "choice",
+      "choices": ["Calorimeter", "Thermometer", "Voltmeter", "Barometer"],
+      "answer": 0
+    },
+    {
+      "text": "The enthalpy change of a reaction is represented by which symbol?",
+      "type": "choice",
+      "choices": ["ΔH", "ΔS", "ΔG", "Q"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of reaction releases energy to the surroundings?",
+      "type": "choice",
+      "choices": ["Exothermic", "Endothermic", "Photochemical", "Redox"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of reaction absorbs energy from the surroundings?",
+      "type": "choice",
+      "choices": ["Endothermic", "Exothermic", "Photochemical", "Redox"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: In exothermic reactions, products have lower energy than reactants.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Endothermic reactions absorb energy from surroundings.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Thermochemistry studies the rate of reactions.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the type of reaction that absorbs heat.",
+      "type": "input",
+      "answer": ["endothermic"]
+    },
+    {
+      "text": "Give the symbol for enthalpy change.",
+      "type": "input",
+      "answer": ["Δh", "delta h"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "3.2. Rates of reaction",
+  "quiz": [
+    {
+      "text": "What is the term for how fast a reaction occurs?",
+      "type": "choice",
+      "choices": ["Rate of reaction", "Activation energy", "Catalyst", "Equilibrium"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases reaction rate by raising particle collisions?",
+      "type": "choice",
+      "choices": ["Concentration", "Color", "Polarity", "Viscosity"],
+      "answer": 0
+    },
+    {
+      "text": "How does temperature affect reaction rate?",
+      "type": "choice",
+      "choices": ["Higher temperature increases rate", "Higher temperature decreases rate", "Temperature has no effect", "Temperature reverses the reaction"],
+      "answer": 0
+    },
+    {
+      "text": "What role does a catalyst play in a reaction?",
+      "type": "choice",
+      "choices": ["Speeds up reaction without being used up", "Slows down reaction", "Changes products", "Is consumed in reaction"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases reaction rate by increasing surface area?",
+      "type": "choice",
+      "choices": ["Particle size", "Polarity", "Concentration", "Temperature"],
+      "answer": 0
+    },
+    {
+      "text": "The minimum energy required for a reaction to occur is called what?",
+      "type": "choice",
+      "choices": ["Activation energy", "Bond energy", "Ionisation energy", "Enthalpy"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor does NOT affect reaction rate?",
+      "type": "choice",
+      "choices": ["Color of reactants", "Temperature", "Concentration", "Catalyst presence"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Increasing concentration increases reaction rate.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A catalyst is consumed in a reaction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Smaller particles increase reaction rate.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the energy threshold needed for a reaction.",
+      "type": "input",
+      "answer": ["activation energy"]
+    },
+    {
+      "text": "Give one method to increase surface area for a reaction.",
+      "type": "input",
+      "answer": ["powdering", "crushing", "grinding"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "3.3. Chemical equilibrium",
+  "quiz": [
+    {
+      "text": "What is chemical equilibrium?",
+      "type": "choice",
+      "choices": ["When forward and reverse reaction rates are equal", "When reaction stops completely", "When products are more than reactants", "When reactants are fully consumed"],
+      "answer": 0
+    },
+    {
+      "text": "Le Chatelier's principle predicts what?",
+      "type": "choice",
+      "choices": ["How a system responds to change", "The speed of a reaction", "The pH of solutions", "The energy change in a reaction"],
+      "answer": 0
+    },
+    {
+      "text": "Increasing pressure favours which type of reaction?",
+      "type": "choice",
+      "choices": ["The side with fewer gas molecules", "The side with more gas molecules", "No effect", "Reversible reactions only"],
+      "answer": 0
+    },
+    {
+      "text": "Increasing temperature favours which type of reaction?",
+      "type": "choice",
+      "choices": ["Endothermic", "Exothermic", "Catalytic", "Neutral"],
+      "answer": 0
+    },
+    {
+      "text": "The equilibrium constant indicates what?",
+      "type": "choice",
+      "choices": ["Ratio of products to reactants", "Rate of reaction", "Activation energy", "pH value"],
+      "answer": 0
+    },
+    {
+      "text": "Equilibrium is only reached in which type of reaction?",
+      "type": "choice",
+      "choices": ["Reversible", "Irreversible", "Exothermic", "Endothermic"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor does NOT shift equilibrium?",
+      "type": "choice",
+      "choices": ["Color of reactants", "Concentration", "Temperature", "Pressure"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: At equilibrium, the concentrations of reactants and products are equal.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Le Chatelier's principle helps predict changes in equilibrium.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only gases are affected by pressure changes in equilibrium.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the principle predicting equilibrium shifts.",
+      "type": "input",
+      "answer": ["le chatelier", "le chatelier's principle"]
+    },
+    {
+      "text": "Give the type of reaction that can reach equilibrium.",
+      "type": "input",
+      "answer": ["reversible"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "3.4. Acid-base systems",
+  "quiz": [
+    {
+      "text": "What is an acid?",
+      "type": "choice",
+      "choices": ["Proton donor", "Proton acceptor", "Electron donor", "Electron acceptor"],
+      "answer": 0
+    },
+    {
+      "text": "What is a base?",
+      "type": "choice",
+      "choices": ["Proton acceptor", "Proton donor", "Electron donor", "Electron acceptor"],
+      "answer": 0
+    },
+    {
+      "text": "What is the pH of a neutral solution?",
+      "type": "choice",
+      "choices": ["7", "0", "14", "1"],
+      "answer": 0
+    },
+    {
+      "text": "What is the pH of a strong acid?",
+      "type": "choice",
+      "choices": ["1-3", "7", "12-14", "5-6"],
+      "answer": 0
+    },
+    {
+      "text": "What is the pH of a strong base?",
+      "type": "choice",
+      "choices": ["12-14", "1-3", "7", "5-6"],
+      "answer": 0
+    },
+    {
+      "text": "Which ion determines acidity in water?",
+      "type": "choice",
+      "choices": ["H⁺", "OH⁻", "Na⁺", "Cl⁻"],
+      "answer": 0
+    },
+    {
+      "text": "Which ion determines alkalinity in water?",
+      "type": "choice",
+      "choices": ["OH⁻", "H⁺", "Na⁺", "Cl⁻"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Acids have pH below 7.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Bases have pH above 7.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Water is neutral with pH 7.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the ion that makes a solution acidic.",
+      "type": "input",
+      "answer": ["h+", "hydrogen ion", "proton"]
+    },
+    {
+      "text": "Give the general pH of a neutral solution.",
+      "type": "input",
+      "answer": ["7"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "3.5. Electrochemistry",
+  "quiz": [
+    {
+      "text": "What is electrochemistry?",
+      "type": "choice",
+      "choices": ["Study of chemical reactions involving electricity", "Study of acids and bases", "Study of reaction rates", "Study of equilibrium"],
+      "answer": 0
+    },
+    {
+      "text": "What is an electrolyte?",
+      "type": "choice",
+      "choices": ["Substance that conducts electricity in solution", "Substance that resists electricity", "Solid metal", "Gas"],
+      "answer": 0
+    },
+    {
+      "text": "Which electrode is positive in a galvanic cell?",
+      "type": "choice",
+      "choices": ["Cathode", "Anode", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "text": "Which electrode is negative in a galvanic cell?",
+      "type": "choice",
+      "choices": ["Anode", "Cathode", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "text": "What type of reaction occurs at the anode?",
+      "type": "choice",
+      "choices": ["Oxidation", "Reduction", "Neutralization", "Precipitation"],
+      "answer": 0
+    },
+    {
+      "text": "What type of reaction occurs at the cathode?",
+      "type": "choice",
+      "choices": ["Reduction", "Oxidation", "Neutralization", "Precipitation"],
+      "answer": 0
+    },
+    {
+      "text": "Electroplating uses what type of current?",
+      "type": "choice",
+      "choices": ["Direct current (DC)", "Alternating current (AC)", "Static electricity", "Lightning"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Anions move to the anode.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Cations move to the cathode.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: In electrolysis, the electrodes are consumed.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the electrode where reduction occurs.",
+      "type": "input",
+      "answer": ["cathode"]
+    },
+    {
+      "text": "Give the term for a substance that conducts electricity in solution.",
+      "type": "input",
+      "answer": ["electrolyte"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "4.1. Volumetric analysis",
+  "quiz": [
+    {
+      "text": "What is volumetric analysis?",
+      "type": "choice",
+      "choices": ["Method to determine concentration using known volume", "Method to measure mass", "Method to heat solutions", "Method to separate mixtures"],
+      "answer": 0
+    },
+    {
+      "text": "What is the term for the solution of known concentration?",
+      "type": "choice",
+      "choices": ["Standard solution", "Indicator", "Titrant", "Analyte"],
+      "answer": 0
+    },
+    {
+      "text": "What is the solution of unknown concentration called?",
+      "type": "choice",
+      "choices": ["Analyte", "Titrant", "Standard solution", "Indicator"],
+      "answer": 0
+    },
+    {
+      "text": "Which device is used to deliver precise volume in titration?",
+      "type": "choice",
+      "choices": ["Burette", "Pipette", "Volumetric flask", "Beaker"],
+      "answer": 0
+    },
+    {
+      "text": "Which shows the end point of a titration?",
+      "type": "choice",
+      "choices": ["Indicator color change", "Temperature change", "pH meter reading only", "Mass change"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of a titration?",
+      "type": "choice",
+      "choices": ["To find unknown concentration", "To measure temperature", "To measure density", "To measure pressure"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of reaction is usually used in titration?",
+      "type": "choice",
+      "choices": ["Neutralization", "Oxidation", "Reduction", "Precipitation"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A pipette measures approximate volume.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The end point is indicated by color change.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Burette is used to deliver unknown volume.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the solution of known concentration.",
+      "type": "input",
+      "answer": ["standard solution", "standard"]
+    },
+    {
+      "text": "Give the type of reaction usually used in titration.",
+      "type": "input",
+      "answer": ["neutralization"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "4.3. Our chemical environment",
+  "quiz": [
+    {
+      "text": "Which gas is a major contributor to acid rain?",
+      "type": "choice",
+      "choices": ["Sulfur dioxide", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "answer": 0
+    },
+    {
+      "text": "Which compound causes the greenhouse effect?",
+      "type": "choice",
+      "choices": ["Carbon dioxide", "Water", "Oxygen", "Nitrogen"],
+      "answer": 0
+    },
+    {
+      "text": "What type of chemical can deplete the ozone layer?",
+      "type": "choice",
+      "choices": ["CFCs", "CO2", "O2", "H2O"],
+      "answer": 0
+    },
+    {
+      "text": "Which pollutant results mainly from burning fossil fuels?",
+      "type": "choice",
+      "choices": ["SO2", "NaCl", "NH3", "H2O"],
+      "answer": 0
+    },
+    {
+      "text": "Which chemical is commonly used to neutralize acidic soil?",
+      "type": "choice",
+      "choices": ["Lime (CaCO3)", "Salt", "Ammonia", "Sulfuric acid"],
+      "answer": 0
+    },
+    {
+      "text": "Which process removes harmful chemicals from wastewater?",
+      "type": "choice",
+      "choices": ["Treatment", "Filtration", "Combustion", "Distillation"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas contributes to global warming?",
+      "type": "choice",
+      "choices": ["CO2", "O2", "N2", "H2"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Acid rain is caused by SO2 and NOx emissions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: CFCs increase ozone concentration.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Carbon dioxide is a greenhouse gas.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a chemical that depletes the ozone layer.",
+      "type": "input",
+      "answer": ["cfc", "cfc gas", "chlorofluorocarbon"]
+    },
+    {
+      "text": "Give a substance used to neutralize acidic soil.",
+      "type": "input",
+      "answer": ["lime", "caco3", "calcium carbonate"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "U1. Understanding about chemistry",
+  "quiz": [
+    {
+      "text": "What is the smallest particle of an element that retains its properties?",
+      "type": "choice",
+      "choices": ["Atom", "Molecule", "Ion", "Proton"],
+      "answer": 0
+    },
+    {
+      "text": "What is a chemical symbol?",
+      "type": "choice",
+      "choices": ["Abbreviation for an element", "Type of molecule", "Reaction type", "Compound name"],
+      "answer": 0
+    },
+    {
+      "text": "Which branch of chemistry studies reactions and energy?",
+      "type": "choice",
+      "choices": ["Physical chemistry", "Organic chemistry", "Inorganic chemistry", "Analytical chemistry"],
+      "answer": 0
+    },
+    {
+      "text": "Which branch studies carbon compounds?",
+      "type": "choice",
+      "choices": ["Organic chemistry", "Physical chemistry", "Inorganic chemistry", "Analytical chemistry"],
+      "answer": 0
+    },
+    {
+      "text": "Which branch studies non-carbon compounds?",
+      "type": "choice",
+      "choices": ["Inorganic chemistry", "Organic chemistry", "Physical chemistry", "Analytical chemistry"],
+      "answer": 0
+    },
+    {
+      "text": "Chemistry that measures substances is called what?",
+      "type": "choice",
+      "choices": ["Analytical chemistry", "Organic chemistry", "Inorganic chemistry", "Physical chemistry"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All atoms of the same element have the same number of protons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Molecules are made of ions only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Chemistry is the study of matter and its changes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the smallest particle of an element.",
+      "type": "input",
+      "answer": ["atom"]
+    },
+    {
+      "text": "Give the branch of chemistry that studies carbon compounds.",
+      "type": "input",
+      "answer": ["organic chemistry", "organic"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "U2. Investigating in chemistry",
+  "quiz": [
+    {
+      "text": "What is the first step in a scientific investigation?",
+      "type": "choice",
+      "choices": ["Ask a question", "Record results", "Form a conclusion", "Analyse data"],
+      "answer": 0
+    },
+    {
+      "text": "What is a hypothesis?",
+      "type": "choice",
+      "choices": ["A testable prediction", "A confirmed fact", "A measurement", "A calculation"],
+      "answer": 0
+    },
+    {
+      "text": "Which device measures liquid volume accurately?",
+      "type": "choice",
+      "choices": ["Burette", "Balance", "Thermometer", "Test tube"],
+      "answer": 0
+    },
+    {
+      "text": "What is repeated trials used for?",
+      "type": "choice",
+      "choices": ["To ensure reliability", "To change results", "To measure temperature", "To neutralize acids"],
+      "answer": 0
+    },
+    {
+      "text": "Which term refers to variables that stay the same?",
+      "type": "choice",
+      "choices": ["Controlled variables", "Independent variables", "Dependent variables", "Random variables"],
+      "answer": 0
+    },
+    {
+      "text": "Which variable is changed by the experimenter?",
+      "type": "choice",
+      "choices": ["Independent variable", "Dependent variable", "Controlled variable", "Random variable"],
+      "answer": 0
+    },
+    {
+      "text": "Which variable is measured in an experiment?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Independent variable", "Controlled variable", "Random variable"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Accuracy is how close measurements are to the true value.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Reliability is improved by repeated trials.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Independent variables are measured.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the variable that is measured in an experiment.",
+      "type": "input",
+      "answer": ["dependent variable", "dependent"]
+    },
+    {
+      "text": "Give a device used to accurately measure liquid volume.",
+      "type": "input",
+      "answer": ["burette"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "U3. Chemistry in society",
+  "quiz": [
+    {
+      "text": "Which chemical is used to disinfect water?",
+      "type": "choice",
+      "choices": ["Chlorine", "Sulfur", "Carbon", "Oxygen"],
+      "answer": 0
+    },
+    {
+      "text": "Which chemical is used in making fertilizers?",
+      "type": "choice",
+      "choices": ["Nitrogen compounds", "Sulfur dioxide", "Hydrogen peroxide", "Sodium chloride"],
+      "answer": 0
+    },
+    {
+      "text": "Which gas is released from car exhausts?",
+      "type": "choice",
+      "choices": ["Carbon monoxide", "Oxygen", "Hydrogen", "Nitrogen"],
+      "answer": 0
+    },
+    {
+      "text": "Which industry commonly produces sulfur dioxide?",
+      "type": "choice",
+      "choices": ["Fossil fuel burning", "Pharmaceuticals", "Food processing", "Textiles"],
+      "answer": 0
+    },
+    {
+      "text": "What type of chemical is used in soap and detergents?",
+      "type": "choice",
+      "choices": ["Surfactant", "Acid", "Base", "Salt"],
+      "answer": 0
+    },
+    {
+      "text": "Which material is used for safe food packaging?",
+      "type": "choice",
+      "choices": ["Plastic", "Lead", "Asbestos", "Mercury"],
+      "answer": 0
+    },
+    {
+      "text": "What is a major environmental concern from chemical waste?",
+      "type": "choice",
+      "choices": ["Water pollution", "Evaporation", "Condensation", "Filtration"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Chlorine kills harmful bacteria in water.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Chemical fertilizers have no environmental impact.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Surfactants are used in detergents and soaps.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name a chemical used to disinfect water.",
+      "type": "input",
+      "answer": ["chlorine"]
+    },
+    {
+      "text": "Give a type of chemical used in fertilizers.",
+      "type": "input",
+      "answer": ["nitrogen compounds", "nitrate", "ammonium compounds"]
+    }
+  ]
+},
+{
+  "subject": "Chemistry New Course",
+  "topic": "4.2. Reactivity of organic compounds",
+  "quiz": [
+    {
+      "text": "Which functional group contains a hydroxyl (-OH) group?",
+      "type": "choice",
+      "choices": ["Alcohol", "Aldehyde", "Ketone", "Carboxylic acid"],
+      "answer": 0
+    },
+    {
+      "text": "Which functional group contains a carbonyl (C=O) at the end of a chain?",
+      "type": "choice",
+      "choices": ["Aldehyde", "Ketone", "Alcohol", "Amine"],
+      "answer": 0
+    },
+    {
+      "text": "Which functional group contains a carbonyl (C=O) within the chain?",
+      "type": "choice",
+      "choices": ["Ketone", "Aldehyde", "Alcohol", "Carboxylic acid"],
+      "answer": 0
+    },
+    {
+      "text": "Which functional group contains a carboxyl (-COOH)?",
+      "type": "choice",
+      "choices": ["Carboxylic acid", "Alcohol", "Ketone", "Ester"],
+      "answer": 0
+    },
+    {
+      "text": "Which functional group is responsible for esters' pleasant smell?",
+      "type": "choice",
+      "choices": ["Ester", "Alcohol", "Ketone", "Amide"],
+      "answer": 0
+    },
+    {
+      "text": "Which reaction converts alcohols to carboxylic acids?",
+      "type": "choice",
+      "choices": ["Oxidation", "Reduction", "Substitution", "Addition"],
+      "answer": 0
+    },
+    {
+      "text": "Which reaction adds atoms across a double bond?",
+      "type": "choice",
+      "choices": ["Addition", "Substitution", "Oxidation", "Reduction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alcohols can undergo oxidation to form aldehydes.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Esters are formed by condensation reactions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ketones are more reactive than aldehydes.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the functional group -COOH.",
+      "type": "input",
+      "answer": ["carboxylic acid", "carboxyl"]
+    },
+    {
+      "text": "Give the type of reaction where atoms are added to a double bond.",
+      "type": "input",
+      "answer": ["addition"]
+    }
+  ]
+}
+]

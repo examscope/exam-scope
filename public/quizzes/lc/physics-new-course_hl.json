@@ -1,0 +1,1957 @@
+[
+{
+  "subject": "Physics New Course",
+  "topic": "1.1. Particle motion in a straight line",
+  "quiz": [
+    {
+      "text": "Which term describes how fast an object moves in a particular direction?",
+      "type": "choice",
+      "choices": ["Velocity", "Speed", "Acceleration", "Displacement"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates average velocity?",
+      "type": "choice",
+      "choices": ["Displacement ÷ time", "Distance ÷ time", "Force ÷ mass", "Mass × acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the total distance travelled regardless of direction?",
+      "type": "choice",
+      "choices": ["Distance", "Displacement", "Velocity", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes change in velocity over time?",
+      "type": "choice",
+      "choices": ["Acceleration", "Speed", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "If displacement is zero, what can velocity be?",
+      "type": "choice",
+      "choices": ["Zero or non-zero", "Always zero", "Always positive", "Always negative"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph shows velocity vs time?",
+      "type": "choice",
+      "choices": ["Line graph", "Pie chart", "Bar chart", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the shortest path from start to finish?",
+      "type": "choice",
+      "choices": ["Displacement", "Distance", "Speed", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Displacement can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Speed includes direction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one quantity that describes motion in a straight line.",
+      "type": "input",
+      "answer": ["velocity", "speed", "displacement", "acceleration"]
+    },
+    {
+      "text": "Name one way to calculate average speed.",
+      "type": "input",
+      "answer": ["distance ÷ time", "total distance ÷ total time", "d ÷ t"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "1.1. Particle motion in a straight line",
+  "quiz": [
+    {
+      "text": "Which term describes how fast an object moves in a particular direction?",
+      "type": "choice",
+      "choices": ["Velocity", "Speed", "Acceleration", "Displacement"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates average velocity?",
+      "type": "choice",
+      "choices": ["Displacement ÷ time", "Distance ÷ time", "Force ÷ mass", "Mass × acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the total distance travelled regardless of direction?",
+      "type": "choice",
+      "choices": ["Distance", "Displacement", "Velocity", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes change in velocity over time?",
+      "type": "choice",
+      "choices": ["Acceleration", "Speed", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "If displacement is zero, what can velocity be?",
+      "type": "choice",
+      "choices": ["Zero or non-zero", "Always zero", "Always positive", "Always negative"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph shows velocity vs time?",
+      "type": "choice",
+      "choices": ["Line graph", "Pie chart", "Bar chart", "Histogram"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the shortest path from start to finish?",
+      "type": "choice",
+      "choices": ["Displacement", "Distance", "Speed", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Displacement can be negative.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Speed includes direction.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one quantity that describes motion in a straight line.",
+      "type": "input",
+      "answer": ["velocity", "speed", "displacement", "acceleration"]
+    },
+    {
+      "text": "Name one way to calculate average speed.",
+      "type": "input",
+      "answer": ["distance ÷ time", "total distance ÷ total time", "d ÷ t"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "1.3 Stretching and compressing objects",
+  "quiz": [
+    {
+      "text": "Which term describes a material's ability to return to its original shape?",
+      "type": "choice",
+      "choices": ["Elasticity", "Plasticity", "Friction", "Viscosity"],
+      "answer": 0
+    },
+    {
+      "text": "Which law relates force to extension for a spring?",
+      "type": "choice",
+      "choices": ["Hooke's law", "Newton's first law", "Ohm's law", "Pascal's law"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures how much a spring stretches?",
+      "type": "choice",
+      "choices": ["Extension", "Compression", "Mass", "Weight"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures force in a stretched object?",
+      "type": "choice",
+      "choices": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes permanent deformation of an object?",
+      "type": "choice",
+      "choices": ["Plastic deformation", "Elastic deformation", "Friction", "Tension"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases extension in a spring?",
+      "type": "choice",
+      "choices": ["Increasing force", "Reducing mass", "Reducing length", "Increasing friction"],
+      "answer": 0
+    },
+    {
+      "text": "Which graph shows force vs extension for a spring?",
+      "type": "choice",
+      "choices": ["Straight line through origin", "Horizontal line", "Exponential curve", "Parabola"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A perfectly elastic material shows no permanent deformation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Hooke's law applies only up to the elastic limit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of an elastic object.",
+      "type": "input",
+      "answer": ["spring", "rubber band", "elastic band", "coil"]
+    },
+    {
+      "text": "Write Hooke’s law formula relating force and extension.",
+      "type": "input",
+      "answer": ["F = kx", "force = spring constant × extension"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "1.4 A work-energy model for analysing particle motion",
+  "quiz": [
+    {
+      "text": "Which quantity measures energy due to motion?",
+      "type": "choice",
+      "choices": ["Kinetic energy", "Potential energy", "Force", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures energy due to position?",
+      "type": "choice",
+      "choices": ["Potential energy", "Kinetic energy", "Power", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates kinetic energy?",
+      "type": "choice",
+      "choices": ["KE = 1/2 mv²", "KE = mgh", "F = ma", "p = mv"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates gravitational potential energy?",
+      "type": "choice",
+      "choices": ["PE = mgh", "PE = 1/2 mv²", "F = ma", "p = mv"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes energy transfer when a force moves an object?",
+      "type": "choice",
+      "choices": ["Work", "Power", "Momentum", "Velocity"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures work and energy?",
+      "type": "choice",
+      "choices": ["Joule", "Newton", "Watt", "Pascal"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases kinetic energy?",
+      "type": "choice",
+      "choices": ["Increasing speed", "Increasing mass", "Both", "Neither"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: Work is done even if the object does not move.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Total mechanical energy is conserved in absence of friction.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one form of energy in the work-energy model.",
+      "type": "input",
+      "answer": ["kinetic energy", "potential energy", "gravitational energy", "elastic energy"]
+    },
+    {
+      "text": "Write the formula for kinetic energy of a moving object.",
+      "type": "input",
+      "answer": ["KE = 1/2 mv²", "kinetic energy = 1/2 × mass × velocity squared"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "1.5 Forces acting in a gravitational field",
+  "quiz": [
+    {
+      "text": "Which force attracts objects toward the centre of the Earth?",
+      "type": "choice",
+      "choices": ["Gravity", "Friction", "Tension", "Normal force"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures the gravitational pull on an object?",
+      "type": "choice",
+      "choices": ["Weight", "Mass", "Force", "Acceleration"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates weight from mass?",
+      "type": "choice",
+      "choices": ["W = mg", "F = ma", "KE = 1/2 mv²", "PE = mgh"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit is used to measure weight?",
+      "type": "choice",
+      "choices": ["Newton", "Kilogram", "Joule", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor affects the weight of an object?",
+      "type": "choice",
+      "choices": ["Mass and gravitational field strength", "Velocity", "Acceleration only", "Volume only"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the distance from the centre of the Earth to an object?",
+      "type": "choice",
+      "choices": ["Radius", "Diameter", "Height", "Extension"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of field exerts a force without contact?",
+      "type": "choice",
+      "choices": ["Gravitational field", "Frictional field", "Tension field", "Elastic field"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Weight is a force, mass is not.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gravitational acceleration varies on different planets.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one factor that affects weight.",
+      "type": "input",
+      "answer": ["mass", "gravitational field strength", "g", "gravity"]
+    },
+    {
+      "text": "Write the formula to calculate weight from mass and gravitational field strength.",
+      "type": "input",
+      "answer": ["W = mg", "weight = mass × g"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "1.6 Uniform circular motion",
+  "quiz": [
+    {
+      "text": "Which quantity measures the speed along a circular path?",
+      "type": "choice",
+      "choices": ["Tangential speed", "Centripetal acceleration", "Angular velocity", "Momentum"],
+      "answer": 0
+    },
+    {
+      "text": "Which force acts toward the centre of a circle for an object in circular motion?",
+      "type": "choice",
+      "choices": ["Centripetal force", "Centrifugal force", "Gravity", "Friction"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula calculates centripetal acceleration?",
+      "type": "choice",
+      "choices": ["a = v²/r", "F = ma", "v = rω", "p = mv"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor increases centripetal force?",
+      "type": "choice",
+      "choices": ["Increasing speed", "Increasing radius", "Decreasing mass", "Reducing velocity"],
+      "answer": 0
+    },
+    {
+      "text": "Which unit measures centripetal force?",
+      "type": "choice",
+      "choices": ["Newton", "Joule", "Pascal", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes motion with constant speed along a circular path?",
+      "type": "choice",
+      "choices": ["Uniform circular motion", "Non-uniform motion", "Oscillatory motion", "Linear motion"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity is directed toward the centre in circular motion?",
+      "type": "choice",
+      "choices": ["Acceleration", "Velocity", "Momentum", "Displacement"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Centripetal force points outward from the centre.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: An object can have constant speed in a circle but changing velocity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of uniform circular motion.",
+      "type": "input",
+      "answer": ["car turning in a circle", "satellite orbiting Earth", "spinning wheel"]
+    },
+    {
+      "text": "Write the formula for centripetal force acting on a mass m moving at speed v around radius r.",
+      "type": "input",
+      "answer": ["F = mv²/r", "centripetal force = mass × speed squared / radius"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.2 Travelling waves as models of disturbances transferring energy without transferring matter",
+  "quiz": [
+    {
+      "text": "Which type of wave requires a medium to travel?",
+      "type": "choice",
+      "choices": ["Mechanical wave", "Electromagnetic wave", "Light wave", "Radio wave"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of wave can travel through a vacuum?",
+      "type": "choice",
+      "choices": ["Electromagnetic wave", "Sound wave", "Water wave", "Seismic wave"],
+      "answer": 0
+    },
+    {
+      "text": "What is the distance between two consecutive wave crests called?",
+      "type": "choice",
+      "choices": ["Wavelength", "Frequency", "Amplitude", "Period"],
+      "answer": 0
+    },
+    {
+      "text": "What is the maximum displacement of a wave from its rest position?",
+      "type": "choice",
+      "choices": ["Amplitude", "Wavelength", "Period", "Frequency"],
+      "answer": 0
+    },
+    {
+      "text": "Which formula relates wave speed, frequency, and wavelength?",
+      "type": "choice",
+      "choices": ["v = f λ", "v = λ / f", "v = f + λ", "v = f - λ"],
+      "answer": 0
+    },
+    {
+      "text": "Which quantity measures how many waves pass per second?",
+      "type": "choice",
+      "choices": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the time for one complete wave to pass a point?",
+      "type": "choice",
+      "choices": ["Period", "Frequency", "Amplitude", "Speed"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Waves transfer energy but not matter.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: All waves are mechanical.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name one example of a mechanical wave.",
+      "type": "input",
+      "answer": ["sound", "water", "seismic"]
+    },
+    {
+      "text": "Write one property that defines a wave.",
+      "type": "input",
+      "answer": ["wavelength", "frequency", "amplitude", "speed"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.3 Wave behaviour caused by the interaction of waves with their environment",
+  "quiz": [
+    {
+      "text": "Which phenomenon occurs when a wave bends around obstacles?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when a wave bounces off a surface?",
+      "type": "choice",
+      "choices": ["Reflection", "Diffraction", "Refraction", "Absorption"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when a wave changes speed passing between materials?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon occurs when two waves overlap and combine?",
+      "type": "choice",
+      "choices": ["Interference", "Reflection", "Diffraction", "Refraction"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of interference results in a bigger amplitude?",
+      "type": "choice",
+      "choices": ["Constructive", "Destructive", "Partial", "Total"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of interference reduces or cancels a wave?",
+      "type": "choice",
+      "choices": ["Destructive", "Constructive", "Partial", "Total"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes the bending of waves entering a new medium at an angle?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Diffraction occurs only for water waves.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Interference can create patterns of loud and quiet sounds.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of refraction.",
+      "type": "input",
+      "answer": ["straw in water", "pencil in glass", "light in water"]
+    },
+    {
+      "text": "Give one example of diffraction.",
+      "type": "input",
+      "answer": ["sound around wall", "water around rock", "waves through gap"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.4 Electromagnetic Energy",
+  "quiz": [
+    {
+      "text": "Which type of wave does not require a medium to travel?",
+      "type": "choice",
+      "choices": ["Electromagnetic wave", "Sound wave", "Water wave", "Seismic wave"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the spectrum has the longest wavelength?",
+      "type": "choice",
+      "choices": ["Radio", "Microwave", "Infrared", "Visible light"],
+      "answer": 0
+    },
+    {
+      "text": "Which part of the spectrum has the highest frequency?",
+      "type": "choice",
+      "choices": ["Gamma", "X-ray", "Ultraviolet", "Visible light"],
+      "answer": 0
+    },
+    {
+      "text": "Which electromagnetic waves are visible to the human eye?",
+      "type": "choice",
+      "choices": ["Visible light", "Infrared", "Microwave", "Radio"],
+      "answer": 0
+    },
+    {
+      "text": "Which waves are used for cooking food in a microwave?",
+      "type": "choice",
+      "choices": ["Microwaves", "Radio waves", "Infrared", "Gamma rays"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of EM wave is used in X-ray imaging?",
+      "type": "choice",
+      "choices": ["X-rays", "Gamma rays", "Visible light", "Radio waves"],
+      "answer": 0
+    },
+    {
+      "text": "Which EM waves can cause sunburn?",
+      "type": "choice",
+      "choices": ["Ultraviolet", "Visible light", "Infrared", "Radio waves"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: All electromagnetic waves travel at the same speed in a vacuum.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electromagnetic waves carry energy but not matter.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one common use of infrared waves.",
+      "type": "input",
+      "answer": ["remote", "heater", "camera"]
+    },
+    {
+      "text": "Give one example of a wave with higher energy than visible light.",
+      "type": "input",
+      "answer": ["ultraviolet", "xray", "gamma"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.5 Sound Energy",
+  "quiz": [
+    {
+      "text": "Sound travels fastest in which medium?",
+      "type": "choice",
+      "choices": ["Air", "Water", "Steel", "Vacuum"],
+      "answer": 2
+    },
+    {
+      "text": "Which property of a sound wave determines its pitch?",
+      "type": "choice",
+      "choices": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": 1
+    },
+    {
+      "text": "Which property determines the loudness of a sound?",
+      "type": "choice",
+      "choices": ["Frequency", "Amplitude", "Speed", "Wavelength"],
+      "answer": 1
+    },
+    {
+      "text": "Which device detects sound waves?",
+      "type": "choice",
+      "choices": ["Microphone", "Ammeter", "Thermometer", "Voltmeter"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon causes sound to be reflected?",
+      "type": "choice",
+      "choices": ["Echo", "Refraction", "Diffraction", "Absorption"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Sound can travel through a vacuum.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Higher frequency sounds have higher pitch.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a high frequency sound.",
+      "type": "input",
+      "answer": ["whistle", "dog", "ultrasound"]
+    },
+    {
+      "text": "Give one example of a low frequency sound.",
+      "type": "input",
+      "answer": ["drum", "bass", "thunder"]
+    },
+    {
+      "text": "Which property of sound is measured in decibels?",
+      "type": "choice",
+      "choices": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.6 Principle of superposition of waves",
+  "quiz": [
+    {
+      "text": "Superposition occurs when two waves meet and:",
+      "type": "choice",
+      "choices": ["Combine", "Cancel only", "Reflect", "Refract"],
+      "answer": 0
+    },
+    {
+      "text": "Constructive interference results in:",
+      "type": "choice",
+      "choices": ["Smaller amplitude", "Larger amplitude", "Same amplitude", "No wave"],
+      "answer": 1
+    },
+    {
+      "text": "Destructive interference results in:",
+      "type": "choice",
+      "choices": ["No wave", "Smaller amplitude", "Larger amplitude", "Reflected wave"],
+      "answer": 1
+    },
+    {
+      "text": "Two waves of equal amplitude meet in opposite phase. What happens?",
+      "type": "choice",
+      "choices": ["Cancel", "Add", "Reflect", "Refract"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Superposition only applies to mechanical waves.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Superposition can create patterns called standing waves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "When two waves combine to form a wave larger than either original, this is called?",
+      "type": "input",
+      "answer": ["constructive", "constructive interference"]
+    },
+    {
+      "text": "When two waves cancel partially, the result is called?",
+      "type": "input",
+      "answer": ["destructive", "destructive interference"]
+    },
+    {
+      "text": "Which type of wave interference reduces amplitude?",
+      "type": "choice",
+      "choices": ["Destructive", "Constructive", "Transverse", "Longitudinal"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of wave interference increases amplitude?",
+      "type": "choice",
+      "choices": ["Constructive", "Destructive", "Transverse", "Longitudinal"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.7 Wave effects",
+  "quiz": [
+    {
+      "text": "Which effect occurs when a wave bends around an obstacle?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect occurs when a wave bounces off a surface?",
+      "type": "choice",
+      "choices": ["Reflection", "Diffraction", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect occurs when a wave changes speed entering a new medium?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon creates patterns of alternating constructive and destructive interference?",
+      "type": "choice",
+      "choices": ["Interference", "Reflection", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Refraction only occurs with light waves.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Diffraction can occur with sound waves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a wave effect you see with water waves.",
+      "type": "input",
+      "answer": ["reflection", "diffraction", "interference", "refraction"]
+    },
+    {
+      "text": "Give one example of wave interference in everyday life.",
+      "type": "input",
+      "answer": ["noise", "sound", "light", "ripples"]
+    },
+    {
+      "text": "Which wave effect causes a pencil to appear bent in water?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect allows radio signals to travel around obstacles?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "2.7 Wave effects",
+  "quiz": [
+    {
+      "text": "Which effect occurs when a wave bends around an obstacle?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect occurs when a wave bounces off a surface?",
+      "type": "choice",
+      "choices": ["Reflection", "Diffraction", "Refraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect occurs when a wave changes speed entering a new medium?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which phenomenon creates patterns of alternating constructive and destructive interference?",
+      "type": "choice",
+      "choices": ["Interference", "Reflection", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Refraction only occurs with light waves.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Diffraction can occur with sound waves.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Give one example of a wave effect you see with water waves.",
+      "type": "input",
+      "answer": ["reflection", "diffraction", "interference", "refraction"]
+    },
+    {
+      "text": "Give one example of wave interference in everyday life.",
+      "type": "input",
+      "answer": ["noise", "sound", "light", "ripples"]
+    },
+    {
+      "text": "Which wave effect causes a pencil to appear bent in water?",
+      "type": "choice",
+      "choices": ["Refraction", "Reflection", "Diffraction", "Interference"],
+      "answer": 0
+    },
+    {
+      "text": "Which effect allows radio signals to travel around obstacles?",
+      "type": "choice",
+      "choices": ["Diffraction", "Reflection", "Refraction", "Interference"],
+      "answer": 0
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.1. Charge interactions",
+  "quiz": [
+    {
+      "text": "Which type of charge do protons have?",
+      "type": "choice",
+      "choices": ["Positive", "Negative", "Neutral", "Both"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of charge do electrons have?",
+      "type": "choice",
+      "choices": ["Positive", "Negative", "Neutral", "Both"],
+      "answer": 1
+    },
+    {
+      "text": "What happens when two like charges are brought close together?",
+      "type": "choice",
+      "choices": ["Attract", "Repel", "Neutralise", "Fuse"],
+      "answer": 1
+    },
+    {
+      "text": "What happens when a positive and a negative charge are brought together?",
+      "type": "choice",
+      "choices": ["Attract", "Repel", "Neutralise", "Fuse"],
+      "answer": 0
+    },
+    {
+      "text": "Which material allows charges to move freely?",
+      "type": "choice",
+      "choices": ["Insulator", "Conductor", "Magnet", "Plastic"],
+      "answer": 1
+    },
+    {
+      "text": "Which particle is responsible for electric current?",
+      "type": "choice",
+      "choices": ["Proton", "Neutron", "Electron", "Photon"],
+      "answer": 2
+    },
+    {
+      "text": "Objects become charged by gaining or losing what?",
+      "type": "choice",
+      "choices": ["Protons", "Electrons", "Neutrons", "Photons"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Like charges attract each other.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Opposite charges attract each other.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Neutrons carry electric charge.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the particle with a positive charge.",
+      "type": "input",
+      "answer": ["proton", "protons"]
+    },
+    {
+      "text": "Name the particle with a negative charge.",
+      "type": "input",
+      "answer": ["electron", "electrons"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.2. Modelling electric fields",
+  "quiz": [
+    {
+      "text": "Which tool is used to show electric field direction?",
+      "type": "choice",
+      "choices": ["Field lines", "Voltmeter", "Ammeter", "Circuit diagram"],
+      "answer": 0
+    },
+    {
+      "text": "Electric field lines always point away from which charge?",
+      "type": "choice",
+      "choices": ["Positive", "Negative", "Neutral", "Both"],
+      "answer": 0
+    },
+    {
+      "text": "Electric field lines always point towards which charge?",
+      "type": "choice",
+      "choices": ["Positive", "Negative", "Neutral", "Both"],
+      "answer": 1
+    },
+    {
+      "text": "What property does the density of field lines indicate?",
+      "type": "choice",
+      "choices": ["Charge type", "Field strength", "Voltage", "Resistance"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is not a correct representation of an electric field?",
+      "type": "choice",
+      "choices": ["Field lines", "Arrows showing direction", "Field vectors", "Wire diagram"],
+      "answer": 3
+    },
+    {
+      "text": "Electric fields exist around which type of charge?",
+      "type": "choice",
+      "choices": ["Neutral only", "Positive only", "Negative only", "Any charge"],
+      "answer": 3
+    },
+    {
+      "text": "Which factor affects the strength of an electric field?",
+      "type": "choice",
+      "choices": ["Distance from charge", "Mass of charge", "Temperature", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Electric field lines can cross each other.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electric field is a vector quantity.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electric field strength decreases with distance.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the term for a region around a charge where forces are felt.",
+      "type": "input",
+      "answer": ["electric field", "field"]
+    },
+    {
+      "text": "What shows the direction a positive test charge would move?",
+      "type": "input",
+      "answer": ["field lines", "lines", "direction of field"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.3. Electric Circuits",
+  "quiz": [
+    {
+      "text": "What is the unit of electric current?",
+      "type": "choice",
+      "choices": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": 1
+    },
+    {
+      "text": "What is the unit of voltage?",
+      "type": "choice",
+      "choices": ["Volt", "Ampere", "Ohm", "Watt"],
+      "answer": 0
+    },
+    {
+      "text": "Which component resists the flow of current?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Battery", "Switch"],
+      "answer": 0
+    },
+    {
+      "text": "Which device stores electrical energy chemically?",
+      "type": "choice",
+      "choices": ["Resistor", "Capacitor", "Battery", "Inductor"],
+      "answer": 2
+    },
+    {
+      "text": "What type of circuit has only one path for current?",
+      "type": "choice",
+      "choices": ["Series", "Parallel", "Closed", "Open"],
+      "answer": 0
+    },
+    {
+      "text": "What type of circuit has multiple paths for current?",
+      "type": "choice",
+      "choices": ["Series", "Parallel", "Closed", "Open"],
+      "answer": 1
+    },
+    {
+      "text": "Which device can break or complete a circuit?",
+      "type": "choice",
+      "choices": ["Resistor", "Switch", "Battery", "Lamp"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Current is the same at all points in a series circuit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Voltage is divided between components in a series circuit.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: In a parallel circuit, current is the same through all branches.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the component that lights up when current flows.",
+      "type": "input",
+      "answer": ["lamp", "bulb", "light"]
+    },
+    {
+      "text": "What is the device called that stores energy electrically and releases it quickly?",
+      "type": "input",
+      "answer": ["capacitor", "condensor"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.4. Magnetic fields around permanent and temporary magnets",
+  "quiz": [
+    {
+      "text": "Which type of magnet keeps its magnetism permanently?",
+      "type": "choice",
+      "choices": ["Temporary magnet", "Permanent magnet", "Electromagnet", "Non-magnet"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of magnet loses its magnetism easily?",
+      "type": "choice",
+      "choices": ["Temporary magnet", "Permanent magnet", "Electromagnet", "Ferromagnet"],
+      "answer": 0
+    },
+    {
+      "text": "What do magnetic field lines show?",
+      "type": "choice",
+      "choices": ["Direction of magnetic force", "Current flow", "Voltage", "Charge"],
+      "answer": 0
+    },
+    {
+      "text": "Magnetic field lines emerge from which pole?",
+      "type": "choice",
+      "choices": ["North", "South", "East", "West"],
+      "answer": 0
+    },
+    {
+      "text": "Magnetic field lines enter which pole?",
+      "type": "choice",
+      "choices": ["North", "South", "East", "West"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a temporary magnet?",
+      "type": "choice",
+      "choices": ["Iron nail near a permanent magnet", "Bar magnet", "Magnetite", "Steel magnet"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a permanent magnet?",
+      "type": "choice",
+      "choices": ["Soft iron", "Steel magnet", "Temporary magnet", "Electromagnet"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Magnetic field lines can cross each other.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: The magnetic field is strongest where lines are closest.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only permanent magnets produce magnetic fields.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the pole from which magnetic field lines emerge.",
+      "type": "input",
+      "answer": ["north", "north pole"]
+    },
+    {
+      "text": "Name a metal that can become a temporary magnet.",
+      "type": "input",
+      "answer": ["iron", "soft iron"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.5. The force experienced by a current-carrying conductor in a magnetic field",
+  "quiz": [
+    {
+      "text": "What is the direction of the force on a current-carrying conductor in a magnetic field called?",
+      "type": "choice",
+      "choices": ["Fleming’s left-hand rule", "Right-hand grip rule", "Ohm’s law", "Kirchhoff’s law"],
+      "answer": 0
+    },
+    {
+      "text": "Which factors affect the magnitude of the force on a conductor?",
+      "type": "choice",
+      "choices": ["Current, magnetic field strength, conductor length", "Voltage only", "Resistance only", "Temperature only"],
+      "answer": 0
+    },
+    {
+      "text": "If the current in a conductor doubles, what happens to the force?",
+      "type": "choice",
+      "choices": ["Doubles", "Halves", "Stays the same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "text": "If the magnetic field strength doubles, what happens to the force?",
+      "type": "choice",
+      "choices": ["Doubles", "Halves", "Stays the same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "text": "Which angle between conductor and magnetic field produces the maximum force?",
+      "type": "choice",
+      "choices": ["0°", "45°", "90°", "180°"],
+      "answer": 2
+    },
+    {
+      "text": "Which law is used to determine the direction of force on a conductor?",
+      "type": "choice",
+      "choices": ["Fleming’s left-hand rule", "Fleming’s right-hand rule", "Ohm’s law", "Coulomb’s law"],
+      "answer": 0
+    },
+    {
+      "text": "What type of force acts on a current-carrying conductor in a magnetic field?",
+      "type": "choice",
+      "choices": ["Electromagnetic force", "Gravitational force", "Frictional force", "Centripetal force"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The force is zero if the conductor is parallel to the magnetic field.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: The direction of force depends on the direction of current.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Magnetic field strength does not affect the force on a conductor.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the rule used to find force direction on a conductor in a magnetic field.",
+      "type": "input",
+      "answer": ["fleming’s left-hand rule", "left-hand rule", "flemings left hand"]
+    },
+    {
+      "text": "What is the type of force acting on the conductor?",
+      "type": "input",
+      "answer": ["electromagnetic force", "magnetic force", "force"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "3.6. Induced potential difference and the generator effect",
+  "quiz": [
+    {
+      "text": "What is produced when a conductor moves through a magnetic field?",
+      "type": "choice",
+      "choices": ["Current", "Voltage", "Resistance", "Power"],
+      "answer": 1
+    },
+    {
+      "text": "Which law describes induced potential difference?",
+      "type": "choice",
+      "choices": ["Faraday’s law", "Ohm’s law", "Coulomb’s law", "Kirchhoff’s law"],
+      "answer": 0
+    },
+    {
+      "text": "What is the generator effect?",
+      "type": "choice",
+      "choices": ["Inducing current by motion in a magnetic field", "Heating a wire", "Magnetising iron", "Breaking a circuit"],
+      "answer": 0
+    },
+    {
+      "text": "Increasing the speed of motion through a magnetic field does what to the induced voltage?",
+      "type": "choice",
+      "choices": ["Increases", "Decreases", "No change", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "text": "What device uses the generator effect to produce electricity?",
+      "type": "choice",
+      "choices": ["Dynamo", "Battery", "Resistor", "Capacitor"],
+      "answer": 0
+    },
+    {
+      "text": "Which factor does not affect induced voltage?",
+      "type": "choice",
+      "choices": ["Number of coils", "Speed of motion", "Magnetic field strength", "Wire color"],
+      "answer": 3
+    },
+    {
+      "text": "What is the type of current generated by a moving conductor in a magnetic field?",
+      "type": "choice",
+      "choices": ["Alternating current", "Direct current", "Static current", "Photoelectric current"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A stationary conductor in a magnetic field has no induced voltage.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Reversing motion direction reverses the induced current.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Magnetic field strength does not affect induced voltage.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the effect where motion in a magnetic field produces voltage.",
+      "type": "input",
+      "answer": ["generator effect", "faraday effect"]
+    },
+    {
+      "text": "What type of voltage is produced when a conductor moves through a magnetic field?",
+      "type": "input",
+      "answer": ["induced voltage", "emf"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.1. The electron",
+  "quiz": [
+    {
+      "text": "Which particle has a negative charge?",
+      "type": "choice",
+      "choices": ["Electron", "Proton", "Neutron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "What is the approximate mass of an electron?",
+      "type": "choice",
+      "choices": ["Very small", "Same as proton", "Same as neutron", "Zero"],
+      "answer": 0
+    },
+    {
+      "text": "Electrons are found in which part of the atom?",
+      "type": "choice",
+      "choices": ["Outside the nucleus", "Inside the nucleus", "In the proton", "In the neutron"],
+      "answer": 0
+    },
+    {
+      "text": "Who discovered the electron?",
+      "type": "choice",
+      "choices": ["J.J. Thomson", "Rutherford", "Bohr", "Einstein"],
+      "answer": 0
+    },
+    {
+      "text": "Which property of electrons allows electricity to flow?",
+      "type": "choice",
+      "choices": ["Charge", "Mass", "Spin", "Color"],
+      "answer": 0
+    },
+    {
+      "text": "Electrons are much lighter than which particle?",
+      "type": "choice",
+      "choices": ["Protons", "Neutrons", "Both protons and neutrons", "Photons"],
+      "answer": 2
+    },
+    {
+      "text": "What happens when electrons move through a conductor?",
+      "type": "choice",
+      "choices": ["Current flows", "Voltage drops", "Resistance disappears", "Mass increases"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Electrons have a positive charge.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Electrons are smaller than protons.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Electrons are found inside the nucleus.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the particle responsible for electric current.",
+      "type": "input",
+      "answer": ["electron", "electrons"]
+    },
+    {
+      "text": "Who discovered the electron?",
+      "type": "input",
+      "answer": ["j.j. thomson", "thomson"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.2. Photoelectric emission and X-Ray production",
+  "quiz": [
+    {
+      "text": "What is emitted when light shines on a metal surface?",
+      "type": "choice",
+      "choices": ["Electrons", "Protons", "Neutrons", "Photons"],
+      "answer": 0
+    },
+    {
+      "text": "The emission of electrons from a metal due to light is called?",
+      "type": "choice",
+      "choices": ["Photoelectric effect", "X-ray production", "Ionisation", "Magnetisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of light can cause photoelectric emission?",
+      "type": "choice",
+      "choices": ["Ultraviolet", "Red", "Infrared", "Microwave"],
+      "answer": 0
+    },
+    {
+      "text": "What device produces X-rays?",
+      "type": "choice",
+      "choices": ["X-ray tube", "Battery", "Dynamo", "Resistor"],
+      "answer": 0
+    },
+    {
+      "text": "X-rays are produced when high speed electrons hit what?",
+      "type": "choice",
+      "choices": ["Metal target", "Air", "Water", "Glass"],
+      "answer": 0
+    },
+    {
+      "text": "Which scientist explained the photoelectric effect?",
+      "type": "choice",
+      "choices": ["Einstein", "Rutherford", "Thomson", "Bohr"],
+      "answer": 0
+    },
+    {
+      "text": "What property of X-rays allows them to pass through soft tissues?",
+      "type": "choice",
+      "choices": ["High energy", "Low mass", "Charge", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The photoelectric effect can happen with any wavelength of light.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: X-rays can ionise atoms.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Only metals can emit electrons in the photoelectric effect.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the effect where light causes electron emission.",
+      "type": "input",
+      "answer": ["photoelectric effect", "photoelectric emission"]
+    },
+    {
+      "text": "What device generates X-rays?",
+      "type": "input",
+      "answer": ["x-ray tube", "x ray tube", "xray tube"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.3. Early models of the atom",
+  "quiz": [
+    {
+      "text": "Which model described the atom as a 'plum pudding'?",
+      "type": "choice",
+      "choices": ["Thomson model", "Rutherford model", "Bohr model", "Dalton model"],
+      "answer": 0
+    },
+    {
+      "text": "Who proposed the nuclear model of the atom?",
+      "type": "choice",
+      "choices": ["Rutherford", "Thomson", "Bohr", "Dalton"],
+      "answer": 0
+    },
+    {
+      "text": "In Rutherford’s model, where is most of the atom’s mass located?",
+      "type": "choice",
+      "choices": ["Nucleus", "Electron cloud", "Empty space", "Outer shell"],
+      "answer": 0
+    },
+    {
+      "text": "Bohr’s model introduced what concept?",
+      "type": "choice",
+      "choices": ["Energy levels for electrons", "Plum pudding", "Protons only", "Neutrons only"],
+      "answer": 0
+    },
+    {
+      "text": "Which model correctly explained electron orbits around the nucleus?",
+      "type": "choice",
+      "choices": ["Bohr model", "Thomson model", "Rutherford model", "Dalton model"],
+      "answer": 0
+    },
+    {
+      "text": "Which early scientist proposed that atoms were solid spheres?",
+      "type": "choice",
+      "choices": ["Dalton", "Thomson", "Rutherford", "Bohr"],
+      "answer": 0
+    },
+    {
+      "text": "What discovery required the change from Thomson’s model to Rutherford’s?",
+      "type": "choice",
+      "choices": ["Alpha scattering experiment", "Photoelectric effect", "X-ray production", "Electron discovery"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Thomson’s model had electrons embedded in a positive sphere.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Rutherford discovered the electron.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Bohr’s model explained atomic spectra.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the model that imagined atoms as solid spheres.",
+      "type": "input",
+      "answer": ["dalton model", "dalton"]
+    },
+    {
+      "text": "Who proposed the nuclear model with a central nucleus?",
+      "type": "input",
+      "answer": ["rutherford", "rutherford model"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.4 Radioactivity",
+  "quiz": [
+    {
+      "text": "Which type of radiation is a helium nucleus?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of radiation is a high-energy electron?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Proton"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of radiation is electromagnetic?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": 2
+    },
+    {
+      "text": "Which radiation is the most penetrating?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "All the same"],
+      "answer": 2
+    },
+    {
+      "text": "Which type of radiation can be stopped by paper?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of radiation can be stopped by a thin sheet of metal?",
+      "type": "choice",
+      "choices": ["Alpha", "Beta", "Gamma", "Neutron"],
+      "answer": 1
+    },
+    {
+      "text": "Radioactive decay is a random process. Which law describes it mathematically?",
+      "type": "choice",
+      "choices": ["Half-life law", "Ohm’s law", "Faraday’s law", "Newton’s law"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Alpha particles have a charge of +2.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Gamma rays have no mass or charge.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Beta decay increases the number of protons in the nucleus by one.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name the type of decay that emits a helium nucleus.",
+      "type": "input",
+      "answer": ["alpha", "alpha decay", "alpha particle"]
+    },
+    {
+      "text": "What is the process called where a nucleus emits radiation to become more stable?",
+      "type": "input",
+      "answer": ["radioactive decay", "decay"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.5. Mass energy equivalence",
+  "quiz": [
+    {
+      "text": "Who proposed the equation E = mc²?",
+      "type": "choice",
+      "choices": ["Einstein", "Rutherford", "Bohr", "Thomson"],
+      "answer": 0
+    },
+    {
+      "text": "What does E represent in E = mc²?",
+      "type": "choice",
+      "choices": ["Energy", "Mass", "Charge", "Velocity"],
+      "answer": 0
+    },
+    {
+      "text": "What does m represent in E = mc²?",
+      "type": "choice",
+      "choices": ["Mass", "Energy", "Momentum", "Magnetism"],
+      "answer": 0
+    },
+    {
+      "text": "What does c represent in E = mc²?",
+      "type": "choice",
+      "choices": ["Speed of light", "Charge of electron", "Current", "Capacitance"],
+      "answer": 0
+    },
+    {
+      "text": "Mass can be converted into which form of energy?",
+      "type": "choice",
+      "choices": ["Energy", "Heat only", "Motion only", "Sound only"],
+      "answer": 0
+    },
+    {
+      "text": "Energy can be converted into what according to E = mc²?",
+      "type": "choice",
+      "choices": ["Mass", "Voltage", "Resistance", "Force"],
+      "answer": 0
+    },
+    {
+      "text": "The equation E = mc² is a principle of which theory?",
+      "type": "choice",
+      "choices": ["Relativity", "Quantum mechanics", "Classical mechanics", "Electromagnetism"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Even a small amount of mass can produce a large amount of energy.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Mass and energy are completely unrelated.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: E = mc² applies only to moving objects.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the scientist who proposed mass-energy equivalence.",
+      "type": "input",
+      "answer": ["einstein", "albert einstein"]
+    },
+    {
+      "text": "What does the equation E = mc² describe?",
+      "type": "input",
+      "answer": ["mass-energy equivalence", "mass energy equivalence", "relationship between mass and energy"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "4.6. Harnessing energy from nuclear processes",
+  "quiz": [
+    {
+      "text": "Which process splits a heavy nucleus into smaller nuclei?",
+      "type": "choice",
+      "choices": ["Fission", "Fusion", "Radioactivity", "Ionisation"],
+      "answer": 0
+    },
+    {
+      "text": "Which process combines light nuclei to form a heavier nucleus?",
+      "type": "choice",
+      "choices": ["Fusion", "Fission", "Decay", "Absorption"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of nuclear energy is used in current nuclear power plants?",
+      "type": "choice",
+      "choices": ["Fission", "Fusion", "Photoelectric", "Solar"],
+      "answer": 0
+    },
+    {
+      "text": "Which fuel is commonly used in nuclear fission reactors?",
+      "type": "choice",
+      "choices": ["Uranium-235", "Hydrogen", "Plutonium-239", "Helium-4"],
+      "answer": 0
+    },
+    {
+      "text": "Fusion occurs naturally in which celestial body?",
+      "type": "choice",
+      "choices": ["Sun", "Earth", "Moon", "Mars"],
+      "answer": 0
+    },
+    {
+      "text": "Which particle is released in nuclear fission to sustain a chain reaction?",
+      "type": "choice",
+      "choices": ["Neutron", "Proton", "Electron", "Photon"],
+      "answer": 0
+    },
+    {
+      "text": "Harnessing nuclear energy involves converting what?",
+      "type": "choice",
+      "choices": ["Mass to energy", "Heat to mass", "Force to velocity", "Charge to mass"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Fusion produces more energy per kilogram than fission.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Fission reactions can create radioactive waste.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Nuclear energy does not obey E = mc².",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the process where heavy nuclei split to release energy.",
+      "type": "input",
+      "answer": ["fission"]
+    },
+    {
+      "text": "Name the process where light nuclei combine to release energy.",
+      "type": "input",
+      "answer": ["fusion"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "U1. Scientific knowledge",
+  "quiz": [
+    {
+      "text": "What is a scientific theory?",
+      "type": "choice",
+      "choices": ["A well-tested explanation", "A guess", "A law", "A hypothesis"],
+      "answer": 0
+    },
+    {
+      "text": "What is a scientific law?",
+      "type": "choice",
+      "choices": ["A statement describing a pattern in nature", "An untested idea", "An opinion", "A theory"],
+      "answer": 0
+    },
+    {
+      "text": "Which is an example of empirical evidence?",
+      "type": "choice",
+      "choices": ["Data from experiments", "Beliefs", "Opinions", "Predictions"],
+      "answer": 0
+    },
+    {
+      "text": "Which term describes a testable prediction?",
+      "type": "choice",
+      "choices": ["Hypothesis", "Law", "Theory", "Fact"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of a model in science?",
+      "type": "choice",
+      "choices": ["To represent ideas or systems", "To replace experiments", "To give opinions", "To prove hypotheses"],
+      "answer": 0
+    },
+    {
+      "text": "Which method is used to communicate scientific results?",
+      "type": "choice",
+      "choices": ["Reports and journals", "Rumors", "Social media only", "Textbooks only"],
+      "answer": 0
+    },
+    {
+      "text": "Scientific knowledge changes when?",
+      "type": "choice",
+      "choices": ["New evidence is found", "People agree", "Nothing changes", "Laws change randomly"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A theory can never be disproved.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Scientific knowledge is based on evidence.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Laws and theories are the same.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a testable prediction in science.",
+      "type": "input",
+      "answer": ["hypothesis", "prediction"]
+    },
+    {
+      "text": "Name the term for a well-tested scientific explanation.",
+      "type": "input",
+      "answer": ["theory"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "U2. Investigating in science",
+  "quiz": [
+    {
+      "text": "What is the first step in a scientific investigation?",
+      "type": "choice",
+      "choices": ["Ask a question", "Record results", "Draw conclusions", "Write a report"],
+      "answer": 0
+    },
+    {
+      "text": "Which variable is changed by the experimenter?",
+      "type": "choice",
+      "choices": ["Independent variable", "Dependent variable", "Controlled variable", "Random variable"],
+      "answer": 0
+    },
+    {
+      "text": "Which variable is measured in an experiment?",
+      "type": "choice",
+      "choices": ["Dependent variable", "Independent variable", "Controlled variable", "Random variable"],
+      "answer": 0
+    },
+    {
+      "text": "What is a controlled variable?",
+      "type": "choice",
+      "choices": ["A factor kept constant", "A factor changed", "A factor measured", "A random factor"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool is used to measure mass?",
+      "type": "choice",
+      "choices": ["Balance", "Thermometer", "Ruler", "Voltmeter"],
+      "answer": 0
+    },
+    {
+      "text": "Which tool measures temperature?",
+      "type": "choice",
+      "choices": ["Thermometer", "Balance", "Ruler", "Ammeter"],
+      "answer": 0
+    },
+    {
+      "text": "Why are repeats important in experiments?",
+      "type": "choice",
+      "choices": ["To improve reliability", "To confuse results", "To waste time", "To make them longer"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Only one variable should be changed at a time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Experimental errors can affect results.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: You can ignore controlled variables.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name the variable that is measured in an experiment.",
+      "type": "input",
+      "answer": ["dependent variable", "dependent"]
+    },
+    {
+      "text": "Name the variable that is changed by the experimenter.",
+      "type": "input",
+      "answer": ["independent variable", "independent"]
+    }
+  ]
+},
+{
+  "subject": "Physics New Course",
+  "topic": "U3. Science in society",
+  "quiz": [
+    {
+      "text": "Why is science important in society?",
+      "type": "choice",
+      "choices": ["To solve problems and improve life", "To entertain", "To create confusion", "To replace religion"],
+      "answer": 0
+    },
+    {
+      "text": "Which sector uses scientific knowledge to develop medicines?",
+      "type": "choice",
+      "choices": ["Healthcare", "Construction", "Education", "Transport"],
+      "answer": 0
+    },
+    {
+      "text": "Which energy source is considered renewable?",
+      "type": "choice",
+      "choices": ["Solar", "Coal", "Oil", "Natural gas"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of technology uses scientific knowledge to communicate worldwide?",
+      "type": "choice",
+      "choices": ["Internet", "Steam engine", "Typewriter", "Wheel"],
+      "answer": 0
+    },
+    {
+      "text": "Which group monitors safety and standards of scientific products?",
+      "type": "choice",
+      "choices": ["Regulatory agencies", "Scientists only", "Teachers", "Students"],
+      "answer": 0
+    },
+    {
+      "text": "Science can impact the environment. What is an example?",
+      "type": "choice",
+      "choices": ["Pollution from factories", "Reading books", "Writing reports", "Playing sports"],
+      "answer": 0
+    },
+    {
+      "text": "Which scientific development changed transportation?",
+      "type": "choice",
+      "choices": ["Electric vehicles", "Painting", "Sewing machines", "Chalkboards"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Science has no effect on society.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Scientific knowledge helps improve health and safety.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Technology is not related to scientific research.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Name a renewable energy source used in society.",
+      "type": "input",
+      "answer": ["solar", "wind", "hydro", "geothermal"]
+    },
+    {
+      "text": "Name an agency that monitors safety and standards of scientific products.",
+      "type": "input",
+      "answer": ["regulatory agency", "regulator", "safety agency"]
+    }
+  ]
+}
+]
