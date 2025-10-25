@@ -4515,7 +4515,6 @@ if(document.querySelector(".sign-container")){
         if(isComplete){
             document.querySelector(".profile-container").querySelector(".btn-onboard").classList.remove("btn-inactive");
         } else {
-            document.querySelector(".profile-container").querySelector(".btn-onboard").classList.add("btn-inactive");
         }
     }
     document.querySelectorAll(".edit-circle").forEach(circle => {
@@ -4564,7 +4563,6 @@ function checkEditComplete(){
     if(document.querySelector(".edit-view-txt") && document.querySelector(".edit-container")){
         document.querySelector(".edit-container").querySelector(".btn-onboard").classList.remove("btn-inactive");
     } else if(document.querySelector(".edit-container")) {
-        document.querySelector(".edit-container").querySelector(".btn-onboard").classList.add("btn-inactive");
     }
 }
 
