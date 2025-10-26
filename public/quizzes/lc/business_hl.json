@@ -4,59 +4,71 @@
   "topic": "1.1 People in Business & Contract Law",
   "quiz": [
     {
-      "text": "Which of the following is a key element of a valid contract?",
+      "text": "Which of the following is a right of the consumer under contract law?",
       "type": "choice",
-      "choices": ["Witness signature", "Intention to create legal relations", "Written document", "Government approval"],
+      "choices": ["To get a refund for a faulty good", "To demand free goods", "To change their mind after 6 months", "To avoid paying for a service"],
+      "answer": 0
+    },
+    {
+      "text": "What is the legal term for someone who offers to buy goods or services?",
+      "type": "choice",
+      "choices": ["Offeree", "Buyer", "Offeror", "Consumer"],
+      "answer": 2
+    },
+    {
+      "text": "Which of these is NOT an element of a valid contract?",
+      "type": "choice",
+      "choices": ["Agreement", "Consideration", "Legality of form", "Advertising"],
+      "answer": 3
+    },
+    {
+      "text": "What happens if one party fails to carry out their side of the contract?",
+      "type": "choice",
+      "choices": ["Breach of contract", "Offer rejection", "Negotiation", "Ratification"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following ends a contract by mutual consent?",
+      "type": "choice",
+      "choices": ["Frustration", "Performance", "Agreement", "Breach"],
+      "answer": 2
+    },
+    {
+      "text": "What is consideration in a contract?",
+      "type": "choice",
+      "choices": ["A promise to pay", "The value exchanged by both sides", "A court order", "The signing of papers"],
       "answer": 1
     },
     {
-      "text": "What is the role of a promoter in a business?",
+      "text": "Who represents the seller in a contract?",
       "type": "choice",
-      "choices": ["Manages staff", "Oversees marketing", "Starts up the business", "Handles legal cases"],
-      "answer": 2
+      "choices": ["Offeror", "Offeree", "Buyer", "Lawyer"],
+      "answer": 0
     },
     {
-      "text": "Which of the following best describes 'consideration' in contract law?",
-      "type": "choice",
-      "choices": ["A written agreement", "A payment or benefit", "A legal penalty", "A business plan"],
-      "answer": 1
+      "text": "True or false: A contract made by someone under 18 is always valid.",
+      "type": "truefalse",
+      "answer": false
     },
     {
-      "text": "What happens if an offer is not accepted in time?",
-      "type": "choice",
-      "choices": ["It becomes a contract", "It is automatically accepted", "It lapses", "It is legally binding"],
-      "answer": 2
+      "text": "True or false: Contracts can only be made in writing.",
+      "type": "truefalse",
+      "answer": false
     },
     {
-      "text": "Who enforces the Sale of Goods and Supply of Services Act 1980?",
-      "type": "choice",
-      "choices": ["The Gardaí", "The Ombudsman", "The Competition and Consumer Protection Commission", "Revenue"],
-      "answer": 2
-    },
-    {
-      "text": "True or false: Capacity to contract means both parties are mentally capable and of legal age.",
+      "text": "True or false: If a contract is broken, the injured party may sue for damages.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: An invitation to treat is the same as a legal offer.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: A breach of contract always results in imprisonment.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "What is the name of the process where both parties agree to end a contract?",
+      "text": "What term describes a contract that has been fully completed by both sides?",
       "type": "input",
-      "answer": ["agreement", "mutual agreement", "termination by agreement"]
+      "answer": ["executed contract", "completed contract"]
     },
     {
-      "text": "What is the term for the party who accepts the offer in a contract?",
+      "text": "Name one element needed for a valid contract to exist.",
       "type": "input",
-      "answer": ["acceptor", "offeree", "person accepting"]
+      "answer": ["offer", "acceptance", "consideration", "intention to contract", "capacity to contract", "consent", "legality of form", "legality of purpose"]
     }
   ]
 },
@@ -65,84 +77,71 @@
   "topic": "1.2 Conflict Resolution #1: The Consumer",
   "quiz": [
     {
-      "text": "Which law protects consumers when they buy goods and services?",
+      "text": "Which law protects consumers when buying goods and services?",
       "type": "choice",
-      "choices": [
-        "Sale of Goods and Supply of Services Act 1980",
-        "Consumer Protection Act 2010",
-        "Employment Equality Act 1998",
-        "Data Protection Act 1988"
-      ],
+      "choices": ["Sale of Goods and Supply of Services Act 1980", "Consumer Protection Act 2012", "Employment Equality Act", "Contract Law Act"],
       "answer": 0
     },
     {
-      "text": "Which of the following is NOT a right under the Sale of Goods and Supply of Services Act 1980?",
+      "text": "Which organisation deals with consumer complaints in Ireland?",
       "type": "choice",
-      "choices": [
-        "Goods must be of merchantable quality",
-        "Goods must be as described",
-        "Consumers must accept store credit only",
-        "Services must be provided with skill"
-      ],
+      "choices": ["CCPC", "HSA", "IDA", "ESB"],
+      "answer": 0
+    },
+    {
+      "text": "What does CCPC stand for?",
+      "type": "choice",
+      "choices": ["Consumer Complaints and Protection Council", "Competition and Consumer Protection Commission", "Commerce and Customer Policy Council", "Consumer and Contracts Protection Committee"],
+      "answer": 1
+    },
+    {
+      "text": "If a product is faulty, what should the consumer receive first?",
+      "type": "choice",
+      "choices": ["Replacement", "Repair", "Refund or replacement depending on situation", "Free upgrade"],
       "answer": 2
     },
     {
-      "text": "What is the role of the CCPC?",
+      "text": "Which right is part of the Sale of Goods Act?",
       "type": "choice",
-      "choices": [
-        "To represent employers in disputes",
-        "To promote competition and protect consumers",
-        "To take businesses to court",
-        "To regulate employment contracts"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following can help consumers solve disputes with businesses?",
-      "type": "choice",
-      "choices": [
-        "Small Claims Court",
-        "Trade unions",
-        "Local council",
-        "Employment tribunal"
-      ],
+      "choices": ["Goods must be of merchantable quality", "Goods must be expensive", "Goods must be made in Ireland", "Goods must be free of VAT"],
       "answer": 0
     },
     {
-      "text": "A guarantee is:",
+      "text": "What does 'merchantable quality' mean?",
       "type": "choice",
-      "choices": [
-        "Required by law for all products",
-        "A voluntary promise from the seller or manufacturer",
-        "Issued only by the CCPC",
-        "Legally binding for 10 years"
-      ],
-      "answer": 1
+      "choices": ["The product works as expected", "The product is second-hand", "The product is handmade", "The product is imported"],
+      "answer": 0
     },
     {
-      "text": "True or false: Consumers can seek a refund if a product is faulty.",
+      "text": "Which of these is NOT a consumer right?",
+      "type": "choice",
+      "choices": ["Right to choose", "Right to safety", "Right to refund after a year", "Right to information"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: The Small Claims Court can handle consumer disputes up to €5,000.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: If a consumer changes their mind, they are always entitled to a refund.",
+      "text": "True or false: The CCPC can fine businesses directly for misleading advertising.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: The CCPC can provide information and investigate complaints.",
+      "text": "True or false: Consumers should always keep receipts as proof of purchase.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "What is the legal term for a product being of acceptable standard and quality?",
+      "text": "What is the first step a consumer should take when they have a problem with a product?",
       "type": "input",
-      "answer": ["merchantable quality", "of merchantable quality"]
+      "answer": ["contact the retailer", "go back to the shop", "return to the seller"]
     },
     {
-      "text": "Name the court that handles low-value consumer complaints.",
+      "text": "Name one consumer right under the Sale of Goods and Supply of Services Act.",
       "type": "input",
-      "answer": ["small claims court"]
+      "answer": ["merchantable quality", "fit for purpose", "as described", "correspond to sample"]
     }
   ]
 },
@@ -151,1804 +150,1546 @@
   "topic": "1.3 Conflict Resolution #2: Industrial Relations",
   "quiz": [
     {
-      "text": "Which of the following is a cause of industrial conflict?",
+      "text": "What is the main cause of industrial conflict?",
       "type": "choice",
-      "choices": [
-        "New product launches",
-        "Poor working conditions",
-        "Increased customer demand",
-        "Business expansion"
-      ],
-      "answer": 1
+      "choices": ["Pay and working conditions", "Advertising costs", "Consumer complaints", "New technology"],
+      "answer": 0
     },
     {
-      "text": "What is a trade union?",
+      "text": "Which organisation helps resolve disputes between employers and employees in Ireland?",
       "type": "choice",
-      "choices": [
-        "A business owner group",
-        "A group of employers",
-        "An organisation representing workers",
-        "A government agency"
-      ],
-      "answer": 2
+      "choices": ["WRC", "CCPC", "HSA", "IDA"],
+      "answer": 0
     },
     {
-      "text": "Which of the following is NOT a legal form of industrial action?",
+      "text": "What does WRC stand for?",
       "type": "choice",
-      "choices": [
-        "Strike",
-        "Work to rule",
-        "Go-slow",
-        "Lockout"
-      ],
-      "answer": 3
+      "choices": ["Workplace Relations Commission", "Workers Rights Council", "Work Resolution Committee", "Wage Regulation Commission"],
+      "answer": 0
+    },
+    {
+      "text": "What is a strike?",
+      "type": "choice",
+      "choices": ["Workers refusing to work until demands are met", "An employer firing staff", "A new business opening", "A contract dispute between consumers"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a legal form of industrial action?",
+      "type": "choice",
+      "choices": ["Official strike", "Wildcat strike", "Sit-in without notice", "Slowdown without notice"],
+      "answer": 0
+    },
+    {
+      "text": "Who represents workers in negotiations with employers?",
+      "type": "choice",
+      "choices": ["Trade union", "CCPC", "Shareholders", "Suppliers"],
+      "answer": 0
     },
     {
       "text": "What is the role of a shop steward?",
       "type": "choice",
-      "choices": [
-        "To recruit new employees",
-        "To represent the employer in union talks",
-        "To represent union members in the workplace",
-        "To monitor workplace productivity"
-      ],
-      "answer": 2
+      "choices": ["Represent union members in the workplace", "Hire new staff", "Set company policies", "Organise advertisements"],
+      "answer": 0
     },
     {
-      "text": "The Workplace Relations Commission (WRC) provides:",
-      "type": "choice",
-      "choices": [
-        "Financial loans to businesses",
-        "Free legal advice to employers",
-        "Services for resolving workplace disputes",
-        "Audits for business accounts"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "True or false: A strike must be approved by a secret ballot to be legal.",
+      "text": "True or false: The Labour Court can make legally binding decisions.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Employers must allow trade unions to operate in the workplace by law.",
+      "text": "True or false: Wildcat strikes are officially approved by unions.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: The WRC can help mediate disputes between employers and employees.",
+      "text": "True or false: Industrial relations are about the relationship between employers and employees.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "What is the process where a neutral third party helps solve a workplace dispute?",
+      "text": "What is one method used by the WRC to resolve disputes?",
       "type": "input",
-      "answer": ["mediation"]
+      "answer": ["mediation", "conciliation", "adjudication"]
     },
     {
       "text": "Name one legal form of industrial action.",
       "type": "input",
-      "answer": ["strike", "work to rule", "go-slow"]
+      "answer": ["official strike", "work to rule", "overtime ban"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Introduction to Management",
+  "topic": "2.1 Enterprise",
   "quiz": [
     {
-      "text": "Which of the following is one of the five management activities?",
+      "text": "What is enterprise?",
       "type": "choice",
-      "choices": [
-        "Advertising",
-        "Planning",
-        "Manufacturing",
-        "Recruitment"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What does 'leading' in management involve?",
-      "type": "choice",
-      "choices": [
-        "Hiring new staff",
-        "Issuing orders only",
-        "Motivating and guiding employees",
-        "Preparing company accounts"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "Which management activity involves setting goals and outlining how to achieve them?",
-      "type": "choice",
-      "choices": [
-        "Controlling",
-        "Planning",
-        "Organising",
-        "Delegating"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What is meant by 'controlling' in a business context?",
-      "type": "choice",
-      "choices": [
-        "Monitoring performance and taking corrective action",
-        "Taking over other businesses",
-        "Managing social media",
-        "Controlling product prices"
-      ],
+      "choices": ["Taking initiative and risk to start something new", "Managing finances", "Creating advertisements", "Working for someone else"],
       "answer": 0
     },
     {
-      "text": "Organising in management refers to:",
+      "text": "Who is an entrepreneur?",
       "type": "choice",
-      "choices": [
-        "Planning the product range",
-        "Arranging people and resources effectively",
-        "Creating advertisements",
-        "Controlling costs"
-      ],
-      "answer": 1
+      "choices": ["Someone who starts and runs a business", "Someone who invests in shares", "A government worker", "A manager in a large company"],
+      "answer": 0
     },
     {
-      "text": "True or false: Leading is about motivating staff and communicating effectively.",
-      "type": "truefalse",
-      "answer": true
+      "text": "Which of these is a characteristic of an entrepreneur?",
+      "type": "choice",
+      "choices": ["Lazy", "Risk-averse", "Creative", "Unmotivated"],
+      "answer": 2
     },
     {
-      "text": "True or false: Managers only need to plan at the start of the year.",
+      "text": "Which of the following is an example of enterprise in the home?",
+      "type": "choice",
+      "choices": ["Starting a small home business", "Buying a car", "Paying bills", "Cooking dinner"],
+      "answer": 0
+    },
+    {
+      "text": "What is an example of enterprise in school?",
+      "type": "choice",
+      "choices": ["Organising a charity event", "Doing homework", "Skipping class", "Joining a club"],
+      "answer": 0
+    },
+    {
+      "text": "What do entrepreneurs take when they start a business?",
+      "type": "choice",
+      "choices": ["Risk", "Profit", "Time off", "Loss"],
+      "answer": 0
+    },
+    {
+      "text": "What motivates many entrepreneurs to start a business?",
+      "type": "choice",
+      "choices": ["Profit and independence", "Boredom", "Pressure", "Government funding"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Enterprise only happens in business.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Controlling helps a business compare actual performance with targets.",
+      "text": "True or false: Entrepreneurs are born, not made.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Taking calculated risks is part of being enterprising.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "Name one benefit of good planning in a business.",
+      "text": "What word describes the ability to spot an opportunity and act on it?",
       "type": "input",
-      "answer": ["clear direction", "anticipates problems", "sets goals", "reduces uncertainty"]
+      "answer": ["enterprise", "entrepreneurship"]
     },
     {
-      "text": "What is the management activity that ensures resources are used properly?",
+      "text": "Name one characteristic of an entrepreneur.",
       "type": "input",
-      "answer": ["organising"]
+      "answer": ["creative", "risk-taker", "confident", "motivated", "decisive"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Management Skills",
+  "topic": "3.1 Management Skills (Leading & Motivating)",
   "quiz": [
     {
-      "text": "Which of the following is a key management skill?",
+      "text": "What is leadership?",
       "type": "choice",
-      "choices": [
-        "Typing speed",
-        "Public speaking",
-        "Leadership",
-        "Programming"
-      ],
-      "answer": 2
+      "choices": ["Guiding and directing people to achieve goals", "Hiring new workers", "Keeping company accounts", "Writing advertisements"],
+      "answer": 0
     },
     {
-      "text": "Which skill involves passing information effectively?",
+      "text": "Which type of leader makes all the decisions without consulting others?",
       "type": "choice",
-      "choices": [
-        "Delegation",
-        "Communication",
-        "Controlling",
-        "Decision-making"
-      ],
-      "answer": 1
+      "choices": ["Autocratic", "Democratic", "Laissez-faire", "Participative"],
+      "answer": 0
     },
     {
-      "text": "Delegation means:",
+      "text": "What type of leader involves employees in decision making?",
       "type": "choice",
-      "choices": [
-        "Taking control of all work",
-        "Giving orders without explanation",
-        "Giving responsibility to others",
-        "Avoiding responsibility"
-      ],
-      "answer": 2
+      "choices": ["Democratic", "Autocratic", "Laissez-faire", "Authoritarian"],
+      "answer": 0
     },
     {
-      "text": "Which management skill helps a manager choose the best course of action?",
+      "text": "What does 'laissez-faire' leadership mean?",
       "type": "choice",
-      "choices": [
-        "Delegation",
-        "Communication",
-        "Decision-making",
-        "Time management"
-      ],
-      "answer": 2
+      "choices": ["Leaders give employees freedom to make decisions", "Leaders give strict orders", "Leaders avoid responsibility", "Leaders make all decisions"],
+      "answer": 0
     },
     {
-      "text": "What does effective time management help a manager to do?",
+      "text": "What is motivation?",
       "type": "choice",
-      "choices": [
-        "Spend more time on social media",
-        "Focus only on urgent tasks",
-        "Avoid responsibility",
-        "Complete tasks efficiently"
-      ],
+      "choices": ["Encouraging people to work hard and achieve goals", "Giving instructions", "Planning future work", "Monitoring sales"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a financial motivator?",
+      "type": "choice",
+      "choices": ["Bonus", "Praise", "Promotion", "Responsibility"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a non-financial motivator?",
+      "type": "choice",
+      "choices": ["Recognition", "Wages", "Commission", "Bonus"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A democratic leader trusts employees to make decisions.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Motivation only comes from money.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Good leaders communicate clearly and inspire others.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one type of leadership style.",
+      "type": "input",
+      "answer": ["autocratic", "democratic", "laissez-faire"]
+    },
+    {
+      "text": "Name one example of a non-financial motivator.",
+      "type": "input",
+      "answer": ["praise", "recognition", "promotion", "responsibility", "training"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "3.2 Management Skills (Communication & ICT)",
+  "quiz": [
+    {
+      "text": "What is communication?",
+      "type": "choice",
+      "choices": ["The exchange of information between people", "Making decisions alone", "Hiring staff", "Controlling resources"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of written communication?",
+      "type": "choice",
+      "choices": ["Email", "Phone call", "Video meeting", "Face-to-face talk"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a barrier to effective communication?",
+      "type": "choice",
+      "choices": ["Noise", "Clear message", "Good listening", "Feedback"],
+      "answer": 0
+    },
+    {
+      "text": "What is feedback in communication?",
+      "type": "choice",
+      "choices": ["The response from the receiver", "The first message sent", "The sender’s opinion", "A written note"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a modern ICT tool used in business communication?",
+      "type": "choice",
+      "choices": ["Email", "Typewriter", "Fax machine", "Bulletin board"],
+      "answer": 0
+    },
+    {
+      "text": "What does ICT stand for?",
+      "type": "choice",
+      "choices": ["Information and Communication Technology", "International Communication Tools", "Internet Connection Technology", "Information Computing Terminal"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an example of oral communication?",
+      "type": "choice",
+      "choices": ["Meeting", "Letter", "Report", "Email"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Communication must be clear, accurate, and timely to be effective.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: ICT has made business communication slower and less efficient.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Video conferencing allows meetings to happen remotely.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Name one example of written communication.",
+      "type": "input",
+      "answer": ["email", "letter", "report", "memo", "text message"]
+    },
+    {
+      "text": "What is the purpose of feedback in communication?",
+      "type": "input",
+      "answer": ["to confirm understanding", "check understanding", "ensure message was received"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "3.3 Management Activities (Planning, Organising, Controlling)",
+  "quiz": [
+    {
+      "text": "What is planning in management?",
+      "type": "choice",
+      "choices": ["Setting goals and deciding how to achieve them", "Hiring new employees", "Recording accounts", "Promoting staff"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is NOT a type of plan?",
+      "type": "choice",
+      "choices": ["Strategic", "Tactical", "Operational", "Financial report"],
       "answer": 3
     },
     {
-      "text": "True or false: Good managers communicate clearly with their team.",
+      "text": "What is organising in management?",
+      "type": "choice",
+      "choices": ["Arranging resources to achieve objectives", "Setting long-term goals", "Motivating staff", "Checking performance"],
+      "answer": 0
+    },
+    {
+      "text": "What is the purpose of controlling in management?",
+      "type": "choice",
+      "choices": ["To compare actual results with planned goals", "To advertise products", "To train staff", "To hire managers"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is part of the planning process?",
+      "type": "choice",
+      "choices": ["Setting objectives", "Paying wages", "Hiring staff", "Filing reports"],
+      "answer": 0
+    },
+    {
+      "text": "Which type of plan is for day-to-day activities?",
+      "type": "choice",
+      "choices": ["Operational", "Strategic", "Tactical", "Long-term"],
+      "answer": 0
+    },
+    {
+      "text": "What document shows the organisation structure of a business?",
+      "type": "choice",
+      "choices": ["Organisation chart", "Business plan", "Balance sheet", "Agenda"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: Controlling helps managers identify problems early.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Delegation means taking full control of every task.",
+      "text": "True or false: Planning and organising are unrelated management activities.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Time management is not an important skill for managers.",
+      "text": "True or false: Tactical plans are medium-term plans.",
       "type": "truefalse",
-      "answer": false
+      "answer": true
     },
     {
-      "text": "Name one benefit of good delegation.",
+      "text": "Name one of the three main management activities.",
       "type": "input",
-      "answer": ["frees up manager's time", "motivates staff", "develops employees", "improves efficiency"]
+      "answer": ["planning", "organising", "controlling"]
     },
     {
-      "text": "Which skill helps managers explain their plans to employees?",
+      "text": "What is the main goal of the controlling function?",
       "type": "input",
-      "answer": ["communication"]
+      "answer": ["compare results with targets", "ensure goals are met", "monitor performance"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Management Activities vs Skills",
+  "topic": "4.1 Household & Business Manager (Sources of Finance & Cashflow Management)",
   "quiz": [
     {
-      "text": "Which of the following is a management **activity**?",
+      "text": "What is short-term finance used for?",
       "type": "choice",
-      "choices": [
-        "Communication",
-        "Delegation",
-        "Planning",
-        "Motivation"
-      ],
-      "answer": 2
+      "choices": ["Everyday expenses", "Buying land", "Expanding the business", "Building a factory"],
+      "answer": 0
     },
     {
-      "text": "Which of the following is a management **skill**?",
+      "text": "Which of the following is a source of short-term finance?",
       "type": "choice",
-      "choices": [
-        "Organising",
-        "Planning",
-        "Decision-making",
-        "Controlling"
-      ],
-      "answer": 2
+      "choices": ["Bank overdraft", "Mortgage", "Leasing", "Retained earnings"],
+      "answer": 0
     },
     {
-      "text": "Which one of these is NOT a management activity?",
+      "text": "What is long-term finance used for?",
       "type": "choice",
-      "choices": [
-        "Planning",
-        "Controlling",
-        "Delegation",
-        "Organising"
-      ],
-      "answer": 2
+      "choices": ["Major investments", "Daily bills", "Small purchases", "Stock control"],
+      "answer": 0
     },
     {
-      "text": "What is the main difference between a skill and an activity in management?",
+      "text": "What is the purpose of a cash flow forecast?",
       "type": "choice",
-      "choices": [
-        "A skill is more important than an activity",
-        "A skill is something you do once",
-        "A skill is an ability; an activity is a task",
-        "There is no difference"
-      ],
-      "answer": 2
+      "choices": ["To plan future cash inflows and outflows", "To measure profit", "To record wages", "To advertise products"],
+      "answer": 0
     },
     {
-      "text": "Which of the following shows a manager using the **controlling** activity?",
+      "text": "Which of these is a medium-term source of finance?",
       "type": "choice",
-      "choices": [
-        "Setting long-term goals",
-        "Tracking employee performance",
-        "Hiring a new employee",
-        "Communicating a plan"
-      ],
-      "answer": 1
+      "choices": ["Hire purchase", "Mortgage", "Bank overdraft", "Personal savings"],
+      "answer": 0
     },
     {
-      "text": "True or false: Organising is a management skill.",
+      "text": "What does liquidity mean?",
+      "type": "choice",
+      "choices": ["Having enough cash to pay bills when due", "Making a profit", "Owning land", "Borrowing from banks"],
+      "answer": 0
+    },
+    {
+      "text": "What is an example of a household source of finance?",
+      "type": "choice",
+      "choices": ["Credit card", "Share issue", "Retained profit", "Trade credit"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A cash flow forecast shows expected income and expenditure over time.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Long-term finance must be repaid within one year.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Motivation is considered a management activity.",
+      "text": "True or false: A bank overdraft is a short-term source of finance.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Skills like leadership and decision-making help a manager perform activities effectively.",
-      "type": "truefalse",
-      "answer": true
+      "text": "Name one type of long-term source of finance.",
+      "type": "input",
+      "answer": ["mortgage", "retained earnings", "grant", "equity finance", "long-term loan"]
     },
     {
-      "text": "Name a management activity that involves setting future goals.",
+      "text": "What document helps predict future cash inflows and outflows?",
       "type": "input",
-      "answer": ["planning"]
-    },
-    {
-      "text": "What kind of management term is 'leadership' — skill or activity?",
-      "type": "input",
-      "answer": ["skill"]
+      "answer": ["cash flow forecast", "cashflow forecast"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Planning",
+  "topic": "4.2 Insurance",
   "quiz": [
     {
-      "text": "What is the main purpose of planning in business management?",
+      "text": "What is insurance?",
       "type": "choice",
-      "choices": [
-        "To motivate staff",
-        "To organise resources",
-        "To set goals and decide how to achieve them",
-        "To evaluate employee performance"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "Which of the following is a type of plan used by managers?",
-      "type": "choice",
-      "choices": [
-        "Strategic plan",
-        "Reactive plan",
-        "Internal plan",
-        "Decisive plan"
-      ],
+      "choices": ["Protection against a possible financial loss", "A way to earn interest", "A type of tax", "A savings account"],
       "answer": 0
     },
     {
-      "text": "What is a contingency plan?",
+      "text": "What does the term 'premium' mean?",
       "type": "choice",
-      "choices": [
-        "A plan made by middle managers only",
-        "A backup plan for emergencies",
-        "A financial plan for investors",
-        "A long-term plan for growth"
-      ],
-      "answer": 1
+      "choices": ["The amount paid for insurance cover", "The total value of goods", "A company profit", "A government fee"],
+      "answer": 0
     },
     {
-      "text": "Which of the following is the best example of a tactical plan?",
+      "text": "What is the person who takes out insurance called?",
       "type": "choice",
-      "choices": [
-        "Setting the company’s vision for the next 10 years",
-        "Creating a new company logo",
-        "Planning how to launch a new product this year",
-        "Responding to a fire in the warehouse"
-      ],
-      "answer": 2
+      "choices": ["Insured", "Broker", "Insurer", "Witness"],
+      "answer": 0
     },
     {
-      "text": "Which plan involves setting the overall mission and objectives of a business?",
+      "text": "Which principle means you cannot make a profit from insurance?",
       "type": "choice",
-      "choices": [
-        "Operational",
-        "Tactical",
-        "Strategic",
-        "Contingency"
-      ],
-      "answer": 2
+      "choices": ["Indemnity", "Utmost good faith", "Subrogation", "Contribution"],
+      "answer": 0
     },
     {
-      "text": "True or false: Operational plans focus on the day-to-day running of a business.",
-      "type": "truefalse",
-      "answer": true
+      "text": "What is the purpose of an insurance policy?",
+      "type": "choice",
+      "choices": ["A written document stating terms and conditions", "A price list", "A sales contract", "A loan agreement"],
+      "answer": 0
     },
     {
-      "text": "True or false: Contingency planning is unnecessary if a business is already well organised.",
+      "text": "Which type of insurance protects against theft or fire?",
+      "type": "choice",
+      "choices": ["Property insurance", "Life insurance", "Health insurance", "Motor insurance"],
+      "answer": 0
+    },
+    {
+      "text": "What does the term 'excess' mean in insurance?",
+      "type": "choice",
+      "choices": ["The amount the insured must pay when making a claim", "A government tax", "The total premium", "A refund"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The insurer is the person who buys the insurance policy.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Planning helps reduce risks and uncertainty in a business.",
+      "text": "True or false: Life assurance covers a person for their entire life.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "What kind of plan would a manager create for unexpected events?",
-      "type": "input",
-      "answer": ["contingency plan", "contingency"]
+      "text": "True or false: Insurance spreads the risk among many people.",
+      "type": "truefalse",
+      "answer": true
     },
     {
-      "text": "What type of plan outlines short-term actions to meet goals?",
+      "text": "Name one principle of insurance.",
       "type": "input",
-      "answer": ["tactical plan", "tactical"]
+      "answer": ["indemnity", "insurable interest", "utmost good faith", "contribution", "subrogation"]
+    },
+    {
+      "text": "What is the payment made by the insured to the insurer called?",
+      "type": "input",
+      "answer": ["premium"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Organising",
+  "topic": "3.3 Management Activities (Planning, Organising, Controlling)",
   "quiz": [
     {
-      "text": "What is the main purpose of organising in business management?",
+      "text": "What is the first step in the planning process?",
       "type": "choice",
-      "choices": [
-        "To advertise products",
-        "To assign tasks and arrange resources",
-        "To write business plans",
-        "To make sales"
-      ],
-      "answer": 1
+      "choices": ["Set objectives", "Evaluate performance", "Organise resources", "Hire staff"],
+      "answer": 0
     },
     {
-      "text": "Which of the following best describes a functional organisational structure?",
+      "text": "Which management activity ensures goals are being met and problems corrected?",
       "type": "choice",
-      "choices": [
-        "Organising staff by location",
-        "Grouping staff based on tasks or roles",
-        "Organising staff based on seniority",
-        "No structure at all"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What is meant by the term ‘span of control’?",
-      "type": "choice",
-      "choices": [
-        "The distance between managers and staff",
-        "The number of departments in a business",
-        "The number of employees directly managed by a supervisor",
-        "The number of rules in a business"
-      ],
+      "choices": ["Planning", "Organising", "Controlling", "Directing"],
       "answer": 2
     },
     {
-      "text": "What is delegation in a business context?",
+      "text": "What does 'organising' involve?",
       "type": "choice",
-      "choices": [
-        "Taking over someone else’s work",
-        "Assigning tasks to subordinates while maintaining responsibility",
-        "Promoting an employee to a higher role",
-        "Replacing a manager"
-      ],
-      "answer": 1
+      "choices": ["Assigning tasks and responsibilities", "Setting goals", "Monitoring outcomes", "Evaluating performance"],
+      "answer": 0
     },
     {
-      "text": "Which of the following is NOT a principle of good organising?",
-      "type": "choice",
-      "choices": [
-        "Clear chain of command",
-        "Wide span of control without support",
-        "Proper allocation of resources",
-        "Delegation of tasks"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "True or false: Delegation allows a manager to transfer both responsibility and authority permanently.",
+      "text": "True or false: Controlling comes before planning.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: An organisational structure helps ensure everyone knows their role.",
+      "text": "True or false: Planning helps businesses prepare for future problems.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: A narrow span of control means fewer employees per manager.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "What is the name of the structure that groups people based on specific tasks or departments?",
-      "type": "input",
-      "answer": ["functional structure", "functional organisational structure", "functional"]
-    },
-    {
-      "text": "What do you call giving a task to a subordinate while still being responsible for the outcome?",
-      "type": "input",
-      "answer": ["delegation", "delegating"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Controlling",
-  "quiz": [
-    {
-      "text": "What is the main purpose of controlling in management?",
-      "type": "choice",
-      "choices": [
-        "Setting goals",
-        "Monitoring performance and correcting deviations",
-        "Hiring new staff",
-        "Advertising products"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following tools can be used in controlling?",
-      "type": "choice",
-      "choices": [
-        "Budgets",
-        "Marketing plans",
-        "Product design",
-        "Business ethics"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What does variance analysis compare?",
-      "type": "choice",
-      "choices": [
-        "Planned results vs actual results",
-        "Employee skills vs company needs",
-        "Marketing budget vs sales",
-        "Profit vs tax"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What action is taken if performance is below standards?",
-      "type": "choice",
-      "choices": [
-        "Ignore the problem",
-        "Take corrective action",
-        "Hire more staff",
-        "Change the product"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following is NOT part of the control process?",
-      "type": "choice",
-      "choices": [
-        "Establishing standards",
-        "Measuring performance",
-        "Planning marketing",
-        "Taking corrective action"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "True or false: Controlling helps to ensure that business objectives are met.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Control is only necessary at the end of the year.",
+      "text": "True or false: Organising means evaluating staff performance.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Corrective action is taken when actual results differ from standards.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "Name one financial tool used in controlling.",
-      "type": "input",
-      "answer": ["budget", "budgets"]
-    },
-    {
-      "text": "What do managers do when they find performance below expected standards?",
-      "type": "input",
-      "answer": ["take corrective action", "correct deviations", "make adjustments"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Household & Business Manager (Sources of Finance & Cashflow Management)",
-  "quiz": [
-    {
-      "text": "Which of the following is a source of long-term finance for businesses?",
+      "text": "Which of these is an example of planning?",
       "type": "choice",
-      "choices": [
-        "Bank overdraft",
-        "Mortgage",
-        "Trade credit",
-        "Cash sales"
-      ],
+      "choices": ["Creating a staff rota", "Setting a sales target", "Paying suppliers", "Hiring a manager"],
       "answer": 1
     },
     {
-      "text": "What is cashflow in business?",
+      "text": "Which management activity checks results against targets?",
       "type": "choice",
-      "choices": [
-        "The amount of cash a business makes in profit",
-        "Money coming in and going out of a business",
-        "The amount of credit a business has",
-        "The total assets of a business"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following is a short-term source of finance?",
-      "type": "choice",
-      "choices": [
-        "Mortgage",
-        "Share capital",
-        "Bank overdraft",
-        "Retained earnings"
-      ],
+      "choices": ["Planning", "Organising", "Controlling", "Motivating"],
       "answer": 2
     },
     {
-      "text": "What does a cashflow forecast show?",
-      "type": "choice",
-      "choices": [
-        "Projected income and expenses over a period",
-        "Annual profit",
-        "Budget for marketing",
-        "Staff salaries"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which of the following is NOT a source of finance?",
-      "type": "choice",
-      "choices": [
-        "Loan",
-        "Share capital",
-        "Mortgage",
-        "Sales revenue"
-      ],
-      "answer": 3
-    },
-    {
-      "text": "True or false: A bank overdraft is a form of short-term borrowing.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Cashflow problems can lead to business failure.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Share capital is money raised by selling shares to investors.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "Name one example of a short-term source of finance.",
+      "text": "What is the purpose of controlling in management?",
       "type": "input",
-      "answer": ["bank overdraft", "overdraft"]
+      "answer": ["check performance", "measure results", "compare results", "monitor progress"]
     },
     {
-      "text": "What is the term for predicting future cash inflows and outflows?",
+      "text": "Name one tool used in the planning process.",
       "type": "input",
-      "answer": ["cashflow forecast", "cash flow forecast"]
+      "answer": ["swot analysis", "business plan", "mission statement"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Insurance",
+  "topic": "4.4 Ratio Analysis (Monitoring the Business)",
   "quiz": [
     {
-      "text": "What is the main purpose of insurance?",
+      "text": "What is ratio analysis used for?",
       "type": "choice",
-      "choices": [
-        "To protect against financial loss",
-        "To increase profits",
-        "To provide loans",
-        "To reduce taxes"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which of the following is an example of insurance?",
-      "type": "choice",
-      "choices": [
-        "Life insurance",
-        "Bank loan",
-        "Credit sale",
-        "Invoice"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What is a premium in insurance?",
-      "type": "choice",
-      "choices": [
-        "The maximum amount paid by the insurer",
-        "The cost of the insurance policy",
-        "A type of claim",
-        "A government fee"
-      ],
+      "choices": ["Measuring staff performance", "Checking financial health", "Setting business goals", "Paying taxes"],
       "answer": 1
-    },
-    {
-      "text": "What does 'claim' mean in insurance terms?",
-      "type": "choice",
-      "choices": [
-        "Request for payment from insurer",
-        "Payment of premium",
-        "Signing the contract",
-        "Cancellation of policy"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which of these is NOT a principle of insurance?",
-      "type": "choice",
-      "choices": [
-        "Utmost good faith",
-        "Indemnity",
-        "Contribution",
-        "Profit maximisation"
-      ],
-      "answer": 3
-    },
-    {
-      "text": "True or false: Insurance helps reduce financial risk.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: The premium is paid by the insurer to the policyholder.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: Insurable interest means you must benefit from the insured item.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "What do you call the money paid regularly to keep an insurance policy active?",
-      "type": "input",
-      "answer": ["premium", "insurance premium"]
-    },
-    {
-      "text": "Name one type of insurance for businesses.",
-      "type": "input",
-      "answer": ["fire insurance", "public liability insurance", "business insurance"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Taxation",
-  "quiz": [
-    {
-      "text": "Which tax is charged on the income earned by individuals?",
-      "type": "choice",
-      "choices": [
-        "Value Added Tax (VAT)",
-        "Income Tax",
-        "Corporation Tax",
-        "Capital Gains Tax"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What is VAT?",
-      "type": "choice",
-      "choices": [
-        "Tax on goods and services",
-        "Tax on income",
-        "Tax on profits",
-        "Tax on imports only"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which tax is paid by companies on their profits?",
-      "type": "choice",
-      "choices": [
-        "Corporation Tax",
-        "Income Tax",
-        "Capital Gains Tax",
-        "Customs Duty"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What is PAYE?",
-      "type": "choice",
-      "choices": [
-        "A form of income tax deducted by employers",
-        "A business tax",
-        "A tax on property",
-        "A tax on imports"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which of these is NOT a tax?",
-      "type": "choice",
-      "choices": [
-        "Excise Duty",
-        "Customs Duty",
-        "Subsidy",
-        "Capital Gains Tax"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "True or false: Income tax rates can vary depending on income level.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: VAT is paid only by businesses.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: Corporation tax applies to profits earned by companies.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "What is the full form of PAYE?",
-      "type": "input",
-      "answer": ["pay as you earn", "pay-as-you-earn"]
-    },
-    {
-      "text": "Name one indirect tax.",
-      "type": "input",
-      "answer": ["vat", "value added tax", "excise duty", "customs duty"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Ratio Analysis (Monitoring the Business)",
-  "quiz": [
-    {
-      "text": "What does the current ratio measure?",
-      "type": "choice",
-      "choices": [
-        "Profitability of a business",
-        "Liquidity of a business",
-        "Market share",
-        "Debt level"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which formula is used to calculate the current ratio?",
-      "type": "choice",
-      "choices": [
-        "Current assets ÷ current liabilities",
-        "Net profit ÷ sales",
-        "Total assets ÷ total liabilities",
-        "Sales ÷ total assets"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What does the acid test ratio exclude from current assets?",
-      "type": "choice",
-      "choices": [
-        "Inventory",
-        "Cash",
-        "Receivables",
-        "Fixed assets"
-      ],
-      "answer": 0
     },
     {
       "text": "Which ratio measures profitability?",
       "type": "choice",
-      "choices": [
-        "Current ratio",
-        "Gross profit margin",
-        "Acid test ratio",
-        "Debt ratio"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "A high current ratio indicates:",
-      "type": "choice",
-      "choices": [
-        "Potential liquidity problems",
-        "Strong liquidity position",
-        "Low profitability",
-        "High debts"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "True or false: Ratio analysis helps managers make business decisions.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: The acid test ratio includes inventory in its calculation.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: Profitability ratios measure how well a business uses its resources to make profit.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "What ratio compares net profit to sales?",
-      "type": "input",
-      "answer": ["net profit margin", "profit margin", "net margin"]
-    },
-    {
-      "text": "Name one liquidity ratio.",
-      "type": "input",
-      "answer": ["current ratio", "acid test ratio", "quick ratio"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Human Resource Management",
-  "quiz": [
-    {
-      "text": "What is the main purpose of human resource management (HRM)?",
-      "type": "choice",
-      "choices": [
-        "Managing financial accounts",
-        "Recruiting, training, and supporting employees",
-        "Advertising products",
-        "Controlling stock levels"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following is NOT a function of HRM?",
-      "type": "choice",
-      "choices": [
-        "Recruitment",
-        "Training",
-        "Product design",
-        "Performance appraisal"
-      ],
+      "choices": ["Current ratio", "Acid test ratio", "Gross profit margin", "Liquidity ratio"],
       "answer": 2
     },
     {
-      "text": "What is meant by 'recruitment'?",
+      "text": "The current ratio measures a business’s ability to:",
       "type": "choice",
-      "choices": [
-        "Hiring new employees",
-        "Firing employees",
-        "Training staff",
-        "Paying wages"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which HR activity involves assessing employee performance?",
-      "type": "choice",
-      "choices": [
-        "Induction",
-        "Performance appraisal",
-        "Recruitment",
-        "Motivation"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What does induction training help with?",
-      "type": "choice",
-      "choices": [
-        "Improving customer service",
-        "Introducing new employees to the company",
-        "Calculating wages",
-        "Designing products"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "True or false: Human Resource Management includes training and development of employees.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Recruitment is the process of firing staff.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: Performance appraisal helps improve employee performance.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "Name one method a business uses to find new employees.",
-      "type": "input",
-      "answer": ["advertising", "job ads", "recruitment agencies", "referrals"]
-    },
-    {
-      "text": "What is the process of introducing new employees to the workplace called?",
-      "type": "input",
-      "answer": ["induction", "induction training"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Getting Started in Business",
-  "quiz": [
-    {
-      "text": "What is an entrepreneur?",
-      "type": "choice",
-      "choices": [
-        "Someone who invests in stocks",
-        "A person who starts and runs a business",
-        "An employee in a company",
-        "A government official"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "Which of the following is a characteristic of a successful entrepreneur?",
-      "type": "choice",
-      "choices": [
-        "Risk-taking",
-        "Laziness",
-        "Avoiding responsibility",
-        "Fear of failure"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What is the main purpose of a business plan?",
-      "type": "choice",
-      "choices": [
-        "To secure finance and guide the business",
-        "To advertise products",
-        "To hire employees",
-        "To pay taxes"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which of these is NOT a step in starting a business?",
-      "type": "choice",
-      "choices": [
-        "Researching the market",
-        "Developing a product",
-        "Ignoring customer needs",
-        "Registering the business"
-      ],
+      "choices": ["Pay long-term debts", "Control expenses", "Pay short-term debts", "Increase profit"],
       "answer": 2
     },
     {
-      "text": "What is a sole trader?",
-      "type": "choice",
-      "choices": [
-        "A business owned by one person",
-        "A business owned by a group of people",
-        "A type of company",
-        "A government organisation"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "True or false: Entrepreneurs often take financial risks to start their business.",
+      "text": "True or false: A liquidity ratio shows if a business can pay its debts when due.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Market research is unnecessary when starting a business.",
+      "text": "True or false: Ratio analysis compares this year’s results with last year’s.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Ratio analysis can only be used by government agencies.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: A business plan helps identify potential problems.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "Name one advantage of being a sole trader.",
-      "type": "input",
-      "answer": ["full control", "easy to set up", "keep all profits"]
-    },
-    {
-      "text": "What document outlines a business’s goals and strategies?",
-      "type": "input",
-      "answer": ["business plan"]
-    }
-  ]
-},
-{
-  "subject": "Business",
-  "topic": "Marketing #2: The 4 P's",
-  "quiz": [
-    {
-      "text": "Which of the following is NOT one of the 4 P’s of marketing?",
+      "text": "Which ratio checks how efficiently a business uses its resources?",
       "type": "choice",
-      "choices": [
-        "Product",
-        "Price",
-        "Process",
-        "Place"
-      ],
+      "choices": ["Profitability ratio", "Liquidity ratio", "Efficiency ratio", "Debt ratio"],
       "answer": 2
     },
     {
-      "text": "What does the ‘Product’ element refer to in marketing?",
+      "text": "A business’s gross profit margin increases. What does this mean?",
       "type": "choice",
-      "choices": [
-        "The cost of the item",
-        "The item or service sold",
-        "The place where it’s sold",
-        "The advertising used"
-      ],
-      "answer": 1
+      "choices": ["Costs have increased", "Sales have fallen", "The business is more profitable", "Debts have risen"],
+      "answer": 2
     },
     {
-      "text": "Which ‘P’ relates to how much a customer pays for a product?",
-      "type": "choice",
-      "choices": [
-        "Price",
-        "Place",
-        "Promotion",
-        "Packaging"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What does ‘Place’ mean in the marketing mix?",
-      "type": "choice",
-      "choices": [
-        "Where the product is sold or distributed",
-        "How the product is advertised",
-        "The design of the product",
-        "The cost of production"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which ‘P’ covers advertising, sales promotions, and public relations?",
-      "type": "choice",
-      "choices": [
-        "Product",
-        "Promotion",
-        "Price",
-        "Place"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "True or false: The 4 P’s are a tool to help businesses market their products effectively.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: ‘Price’ only includes the manufacturing cost of a product.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "True or false: Promotion includes advertising and personal selling.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "Name one of the 4 P’s of marketing.",
+      "text": "What does the acid test ratio measure?",
       "type": "input",
-      "answer": ["product", "price", "place", "promotion"]
+      "answer": ["ability to pay short-term debts", "liquidity", "cash position"]
     },
     {
-      "text": "What does ‘Place’ refer to in the marketing mix?",
+      "text": "Name one user of ratio analysis.",
       "type": "input",
-      "answer": ["distribution", "where product is sold", "location"]
+      "answer": ["investor", "shareholder", "manager", "bank"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Business Expansion",
+  "topic": "4.5 Human Resource Management",
+  "quiz": [
+    {
+      "text": "What does HRM stand for?",
+      "type": "choice",
+      "choices": ["Human Resources Management", "Human Relations Model", "Hiring Recruitment Method", "Human Rights Management"],
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a function of HRM?",
+      "type": "choice",
+      "choices": ["Advertising", "Recruitment", "Marketing", "Distribution"],
+      "answer": 1
+    },
+    {
+      "text": "What is the main goal of HRM?",
+      "type": "choice",
+      "choices": ["To increase taxes", "To manage employees effectively", "To promote products", "To analyse finances"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: HRM is responsible for training staff.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: HRM focuses only on firing unproductive workers.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A job description lists the duties of a job.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which document lists the qualifications and skills needed for a job?",
+      "type": "choice",
+      "choices": ["Job specification", "Job description", "Application form", "Reference letter"],
+      "answer": 0
+    },
+    {
+      "text": "Which HRM function ensures fair pay and working conditions?",
+      "type": "choice",
+      "choices": ["Motivation", "Industrial relations", "Recruitment", "Training"],
+      "answer": 1
+    },
+    {
+      "text": "What does recruitment mean?",
+      "type": "input",
+      "answer": ["hiring staff", "finding employees", "getting new workers"]
+    },
+    {
+      "text": "Name one way HRM motivates employees.",
+      "type": "input",
+      "answer": ["training", "promotion", "bonus", "praise"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "4.6 Managing Change & TQM",
+  "quiz": [
+    {
+      "text": "What does TQM stand for?",
+      "type": "choice",
+      "choices": ["Total Quality Management", "Total Quantity Management", "Team Quality Method", "Target Quality Management"],
+      "answer": 0
+    },
+    {
+      "text": "What is the main aim of Total Quality Management?",
+      "type": "choice",
+      "choices": ["To reduce costs only", "To achieve high quality in all areas", "To increase prices", "To shorten production time"],
+      "answer": 1
+    },
+    {
+      "text": "Who is responsible for quality in TQM?",
+      "type": "choice",
+      "choices": ["Managers only", "Quality inspectors", "All employees", "Suppliers only"],
+      "answer": 2
+    },
+    {
+      "text": "True or false: TQM focuses on continuous improvement.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Managing change means keeping everything the same.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Training helps employees adapt to change.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these helps reduce resistance to change?",
+      "type": "choice",
+      "choices": ["Poor communication", "Good leadership", "Ignoring staff feedback", "Sudden changes"],
+      "answer": 1
+    },
+    {
+      "text": "What is continuous improvement also known as?",
+      "type": "choice",
+      "choices": ["Kaizen", "Downsizing", "Restructuring", "Delegation"],
+      "answer": 0
+    },
+    {
+      "text": "What does ‘empowerment’ mean in TQM?",
+      "type": "input",
+      "answer": ["giving staff responsibility", "trusting employees", "letting workers make decisions"]
+    },
+    {
+      "text": "Name one benefit of TQM for a business.",
+      "type": "input",
+      "answer": ["higher quality", "customer satisfaction", "reduced waste", "better reputation"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "5.1 Identifying Opportunities",
+  "quiz": [
+    {
+      "text": "What is the first step in starting a business?",
+      "type": "choice",
+      "choices": ["Making a profit", "Identifying an opportunity", "Hiring staff", "Registering the business"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these can be a source of business ideas?",
+      "type": "choice",
+      "choices": ["Brainstorming", "Sleeping", "Copying homework", "Ignoring problems"],
+      "answer": 0
+    },
+    {
+      "text": "What is market research used for?",
+      "type": "choice",
+      "choices": ["Finding customer needs", "Increasing prices", "Hiring workers", "Writing reports"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: A gap in the market means there is no demand.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Entrepreneurs often find opportunities by solving problems.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Brainstorming involves group idea generation.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of the following is NOT a source of business ideas?",
+      "type": "choice",
+      "choices": ["Family and friends", "Customer feedback", "Government websites", "Ignoring trends"],
+      "answer": 3
+    },
+    {
+      "text": "Which research method involves talking directly to customers?",
+      "type": "choice",
+      "choices": ["Secondary research", "Primary research", "Desk research", "Data analysis"],
+      "answer": 1
+    },
+    {
+      "text": "What is a 'gap in the market'?",
+      "type": "input",
+      "answer": ["unmet need", "business opportunity", "demand not filled"]
+    },
+    {
+      "text": "Name one source of a new business idea.",
+      "type": "input",
+      "answer": ["family", "friends", "media", "customers", "brainstorming"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "5.2 Getting Started in Business",
+  "quiz": [
+    {
+      "text": "What is the first step when setting up a business?",
+      "type": "choice",
+      "choices": ["Hiring staff", "Writing a business plan", "Building a factory", "Buying insurance"],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a legal structure for a business?",
+      "type": "choice",
+      "choices": ["Sole trader", "Employee", "Customer", "Supplier"],
+      "answer": 0
+    },
+    {
+      "text": "Which document sets out goals, costs, and strategies for a new business?",
+      "type": "choice",
+      "choices": ["Invoice", "Business plan", "Job description", "Contract"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: A partnership has limited liability.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: A private limited company must have at least one shareholder.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Entrepreneurs must register for tax.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of the following is a source of finance for starting a business?",
+      "type": "choice",
+      "choices": ["Personal savings", "Customer refund", "Tax payment", "Utility bill"],
+      "answer": 0
+    },
+    {
+      "text": "What is a business plan used for?",
+      "type": "choice",
+      "choices": ["To attract investors", "To fire staff", "To increase taxes", "To design logos"],
+      "answer": 0
+    },
+    {
+      "text": "What does 'sole trader' mean?",
+      "type": "input",
+      "answer": ["one owner", "single owner", "self-employed"]
+    },
+    {
+      "text": "Name one thing a business must do before starting to trade.",
+      "type": "input",
+      "answer": ["register for tax", "write a business plan", "get insurance", "choose a name"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "5.3 Marketing #1: Market Research & Market Segmentation",
+  "quiz": [
+    {
+      "text": "What is the main purpose of market research?",
+      "type": "choice",
+      "choices": ["To produce goods", "To understand customer needs", "To reduce prices", "To advertise products"],
+      "answer": 1
+    },
+    {
+      "text": "Which type of research uses new, first-hand information?",
+      "type": "choice",
+      "choices": ["Primary research", "Secondary research", "Desk research", "Internet research"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is an example of secondary research?",
+      "type": "choice",
+      "choices": ["Customer survey", "Government report", "Focus group", "Interview"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: Market segmentation means dividing the market into groups of similar customers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Market research helps businesses reduce risk.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Market research is only done after a product launches.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of these is NOT a market segment?",
+      "type": "choice",
+      "choices": ["Age", "Gender", "Favourite colour", "Income"],
+      "answer": 2
+    },
+    {
+      "text": "Which method collects data by asking questions in person or online?",
+      "type": "choice",
+      "choices": ["Observation", "Survey", "Experiment", "Trial run"],
+      "answer": 1
+    },
+    {
+      "text": "What is a target market?",
+      "type": "input",
+      "answer": ["group of customers", "intended customers", "main buyers"]
+    },
+    {
+      "text": "Name one way a business can conduct market research.",
+      "type": "input",
+      "answer": ["survey", "interview", "focus group", "questionnaire"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "5.4 Marketing #2: The 4 P's (Product, Price, Place, Promotion)",
+  "quiz": [
+    {
+      "text": "Which of the following is NOT one of the 4 P's of marketing?",
+      "type": "choice",
+      "choices": ["Product", "Price", "Promotion", "Profit"],
+      "answer": 3
+    },
+    {
+      "text": "What does the 'Product' element of marketing refer to?",
+      "type": "choice",
+      "choices": ["The way it is made", "What is being sold", "The cost to make it", "Where it is sold"],
+      "answer": 1
+    },
+    {
+      "text": "Which of the following relates to 'Place' in the 4 P's?",
+      "type": "choice",
+      "choices": ["Advertising", "Distribution", "Branding", "Packaging"],
+      "answer": 1
+    },
+    {
+      "text": "True or false: 'Price' is the amount a customer pays for a product.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Promotion helps inform and persuade customers.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Branding is not related to product design.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "Which of the following is an example of promotion?",
+      "type": "choice",
+      "choices": ["Advertising on TV", "Making a product", "Deciding a price", "Opening a new factory"],
+      "answer": 0
+    },
+    {
+      "text": "Which of the 4 P’s decides where a product is sold?",
+      "type": "choice",
+      "choices": ["Product", "Place", "Price", "Promotion"],
+      "answer": 1
+    },
+    {
+      "text": "What are the 4 P’s of marketing?",
+      "type": "input",
+      "answer": ["product price place promotion", "product, price, place, promotion"]
+    },
+    {
+      "text": "Name one example of a place where goods can be sold.",
+      "type": "input",
+      "answer": ["shop", "online", "market", "store"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "5.5 Business Expansion",
   "quiz": [
     {
       "text": "What is business expansion?",
       "type": "choice",
-      "choices": [
-        "Reducing the size of a business",
-        "Increasing the scale or scope of business operations",
-        "Closing a branch",
-        "Selling assets"
-      ],
+      "choices": ["Making the business smaller", "Growing the business", "Paying taxes", "Hiring one employee"],
       "answer": 1
     },
     {
-      "text": "Which of the following is a method of business expansion?",
+      "text": "Which of the following is a method of expansion?",
       "type": "choice",
-      "choices": [
-        "Mergers and acquisitions",
-        "Reducing production",
-        "Firing staff",
-        "Decreasing marketing"
-      ],
+      "choices": ["Mergers", "Bank loans", "Advertising", "Hiring staff"],
       "answer": 0
     },
     {
       "text": "What is a merger?",
       "type": "choice",
-      "choices": [
-        "Two companies joining to form one",
-        "A business selling goods abroad",
-        "A financial report",
-        "A type of loan"
-      ],
+      "choices": ["Two businesses join together", "A bank gives a loan", "A staff promotion", "Opening a new shop"],
       "answer": 0
     },
     {
-      "text": "Which is NOT a reason for business expansion?",
-      "type": "choice",
-      "choices": [
-        "Increase profits",
-        "Gain market share",
-        "Reduce competition",
-        "Reduce costs by downsizing"
-      ],
-      "answer": 3
+      "text": "True or false: Expansion always involves opening new branches.",
+      "type": "truefalse",
+      "answer": false
     },
     {
-      "text": "What is a takeover?",
-      "type": "choice",
-      "choices": [
-        "One company buys control of another",
-        "A legal contract",
-        "A marketing strategy",
-        "A new product launch"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "True or false: Business expansion can lead to economies of scale.",
+      "text": "True or false: Franchising allows another person to use your business name.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: A takeover means a company merges voluntarily with another.",
+      "text": "True or false: Organic growth happens when a business expands slowly using its own resources.",
       "type": "truefalse",
-      "answer": false
+      "answer": true
     },
     {
-      "text": "True or false: Business expansion always increases costs.",
-      "type": "truefalse",
-      "answer": false
+      "text": "Which method of expansion involves buying another business?",
+      "type": "choice",
+      "choices": ["Acquisition", "Merger", "Franchising", "Internal growth"],
+      "answer": 0
+    },
+    {
+      "text": "Which is a disadvantage of expansion?",
+      "type": "choice",
+      "choices": ["Higher costs", "More customers", "Better reputation", "New opportunities"],
+      "answer": 0
     },
     {
       "text": "Name one reason why a business might expand.",
       "type": "input",
-      "answer": ["increase profits", "gain market share", "reduce competition", "economies of scale"]
+      "answer": ["increase profit", "gain customers", "market share", "economies of scale"]
     },
     {
-      "text": "What is it called when one company buys control of another?",
+      "text": "Give one method of business expansion.",
       "type": "input",
-      "answer": ["takeover", "acquisition"]
+      "answer": ["merger", "acquisition", "franchise", "internal growth"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Categories of Industry",
+  "topic": "6.1 Categories of Industry",
   "quiz": [
     {
-      "text": "Which sector involves the extraction of raw materials?",
+      "text": "Which industry extracts raw materials from the earth?",
       "type": "choice",
-      "choices": [
-        "Primary sector",
-        "Secondary sector",
-        "Tertiary sector",
-        "Quaternary sector"
-      ],
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
       "answer": 0
     },
     {
-      "text": "Which sector involves manufacturing and construction?",
+      "text": "Which industry manufactures goods from raw materials?",
       "type": "choice",
-      "choices": [
-        "Primary sector",
-        "Secondary sector",
-        "Tertiary sector",
-        "Quaternary sector"
-      ],
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
       "answer": 1
     },
     {
-      "text": "Which sector provides services such as retail and healthcare?",
+      "text": "Which industry provides services rather than goods?",
       "type": "choice",
-      "choices": [
-        "Primary sector",
-        "Secondary sector",
-        "Tertiary sector",
-        "Quaternary sector"
-      ],
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
       "answer": 2
     },
     {
-      "text": "Which sector involves knowledge-based services like IT and research?",
-      "type": "choice",
-      "choices": [
-        "Primary sector",
-        "Secondary sector",
-        "Tertiary sector",
-        "Quaternary sector"
-      ],
-      "answer": 3
+      "text": "True or false: Fishing is part of the primary industry.",
+      "type": "truefalse",
+      "answer": true
     },
     {
-      "text": "Agriculture is part of which industry sector?",
-      "type": "choice",
-      "choices": [
-        "Primary sector",
-        "Secondary sector",
-        "Tertiary sector",
-        "Quaternary sector"
-      ],
-      "answer": 0
+      "text": "True or false: Manufacturing cars is part of the secondary industry.",
+      "type": "truefalse",
+      "answer": true
     },
     {
-      "text": "True or false: Fishing is part of the secondary sector.",
+      "text": "True or false: Banking is part of the primary industry.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Manufacturing is part of the secondary sector.",
-      "type": "truefalse",
-      "answer": true
+      "text": "Which industry focuses on research, IT, and knowledge-based services?",
+      "type": "choice",
+      "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "answer": 3
     },
     {
-      "text": "True or false: Retail is part of the tertiary sector.",
-      "type": "truefalse",
-      "answer": true
+      "text": "Which of these is a primary industry?",
+      "type": "choice",
+      "choices": ["Coal mining", "Car assembly", "Supermarket", "Banking"],
+      "answer": 0
     },
     {
-      "text": "Name one example of a primary sector industry.",
+      "text": "Name one example of a tertiary industry job.",
       "type": "input",
-      "answer": ["farming", "agriculture", "fishing", "mining"]
+      "answer": ["teacher", "doctor", "shop assistant", "banker"]
     },
     {
-      "text": "Which sector includes education and healthcare?",
+      "text": "Give one example of a secondary industry.",
       "type": "input",
-      "answer": ["tertiary sector", "services", "service sector"]
+      "answer": ["car factory", "textile factory", "steel plant", "bread factory"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Ownership Structures",
+  "topic": "6.2 Ownership Structures",
   "quiz": [
     {
-      "text": "Which ownership structure is owned by one person?",
+      "text": "What is a sole trader?",
       "type": "choice",
-      "choices": [
-        "Sole trader",
-        "Partnership",
-        "Private limited company",
-        "Public limited company"
-      ],
+      "choices": ["A business owned by one person", "A business owned by the government", "A business owned by shareholders", "A business owned by a partnership"],
       "answer": 0
     },
     {
       "text": "Which ownership structure has two or more owners sharing profits?",
       "type": "choice",
-      "choices": [
-        "Sole trader",
-        "Partnership",
-        "Cooperative",
-        "Limited company"
-      ],
+      "choices": ["Sole trader", "Partnership", "Private limited company", "Co-operative"],
       "answer": 1
     },
     {
-      "text": "What does ‘limited liability’ mean?",
+      "text": "Which type of company has limited liability and shares not sold to the public?",
       "type": "choice",
-      "choices": [
-        "Owners can lose only the amount they invested",
-        "Owners are personally responsible for all debts",
-        "Owners cannot sell shares",
-        "Owners have unlimited control"
-      ],
+      "choices": ["Private limited company", "Public limited company", "Sole trader", "Partnership"],
       "answer": 0
     },
     {
-      "text": "Which company type can sell shares to the public?",
+      "text": "True or false: A sole trader has unlimited liability.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: A co-operative is owned and controlled by its members.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Public limited companies can sell shares on the stock exchange.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which ownership structure is usually easiest to set up?",
       "type": "choice",
-      "choices": [
-        "Private limited company",
-        "Public limited company",
-        "Sole trader",
-        "Partnership"
-      ],
+      "choices": ["Sole trader", "Partnership", "Private limited company", "Public limited company"],
+      "answer": 0
+    },
+    {
+      "text": "Which ownership structure shares profits according to investment?",
+      "type": "choice",
+      "choices": ["Partnership", "Co-operative", "Sole trader", "Private limited company"],
       "answer": 1
     },
     {
-      "text": "Which of the following is NOT a characteristic of a sole trader?",
-      "type": "choice",
-      "choices": [
-        "Unlimited liability",
-        "Owned by one person",
-        "Shares sold to the public",
-        "Full control"
-      ],
-      "answer": 2
-    },
-    {
-      "text": "True or false: A partnership involves shared ownership.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Limited companies offer limited liability to owners.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: A sole trader has limited liability.",
-      "type": "truefalse",
-      "answer": false
-    },
-    {
-      "text": "Name one advantage of a limited company.",
+      "text": "Name one advantage of a sole trader.",
       "type": "input",
-      "answer": ["limited liability", "ability to raise capital", "separate legal entity"]
+      "answer": ["full control", "all profit", "easy setup", "quick decisions"]
     },
     {
-      "text": "What type of ownership involves two or more people running a business?",
+      "text": "Give one disadvantage of a partnership.",
       "type": "input",
-      "answer": ["partnership"]
+      "answer": ["shared profits", "disagreements", "unlimited liability", "slower decisions"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Community Development",
+  "topic": "6.3 Business, Government & the Economy",
+  "quiz": [
+    {
+      "text": "What is the main role of government in the economy?",
+      "type": "choice",
+      "choices": ["Produce goods only", "Regulate business and provide services", "Hire managers", "Sell products abroad"],
+      "answer": 1
+    },
+    {
+      "text": "Which tax is paid on income?",
+      "type": "choice",
+      "choices": ["VAT", "Excise duty", "Income tax", "Corporation tax"],
+      "answer": 2
+    },
+    {
+      "text": "What is a subsidy?",
+      "type": "choice",
+      "choices": ["Government financial support to businesses", "A tax penalty", "Interest on loans", "A wage increase"],
+      "answer": 0
+    },
+    {
+      "text": "True or false: The government provides public services such as healthcare and education.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Corporation tax is paid by individuals only.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: VAT is a tax on goods and services.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of government regulation?",
+      "type": "choice",
+      "choices": ["Setting minimum wage", "Advertising products", "Hiring staff", "Marketing research"],
+      "answer": 0
+    },
+    {
+      "text": "What is a public enterprise?",
+      "type": "choice",
+      "choices": ["A government-owned business", "A private shop", "A partnership", "A franchise"],
+      "answer": 0
+    },
+    {
+      "text": "Name one way government supports business.",
+      "type": "input",
+      "answer": ["subsidies", "grants", "training", "infrastructure"]
+    },
+    {
+      "text": "Give one type of tax collected by the government.",
+      "type": "input",
+      "answer": ["income tax", "vat", "corporation tax", "excise duty"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "6.4 Community Development",
   "quiz": [
     {
       "text": "What is community development?",
       "type": "choice",
-      "choices": [
-        "Improving local facilities and services",
-        "Starting a new business",
-        "Expanding a company internationally",
-        "Managing financial accounts"
-      ],
+      "choices": ["Improving local areas and services", "Starting a business", "Paying taxes", "Hiring employees"],
       "answer": 0
     },
     {
-      "text": "Which of the following is an example of community development?",
+      "text": "Which group often helps with community development projects?",
       "type": "choice",
-      "choices": [
-        "Building a playground",
-        "Increasing profits",
-        "Hiring new staff",
-        "Launching a marketing campaign"
-      ],
+      "choices": ["Government", "Multinational corporations", "Foreign investors", "Bank customers"],
       "answer": 0
     },
     {
-      "text": "Who typically benefits from community development?",
+      "text": "What is one goal of community development?",
       "type": "choice",
-      "choices": [
-        "Local residents",
-        "Only business owners",
-        "Government officials",
-        "Foreign investors"
-      ],
+      "choices": ["Increase employment locally", "Reduce taxes", "Sell more products", "Hire more managers"],
       "answer": 0
     },
     {
-      "text": "Which organisation might support community development?",
-      "type": "choice",
-      "choices": [
-        "Local council",
-        "Large multinational",
-        "Private company shareholders",
-        "Online retailers"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Community development aims to improve:",
-      "type": "choice",
-      "choices": [
-        "Social and economic wellbeing",
-        "Only business profits",
-        "Tax collection",
-        "International trade"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "True or false: Community development only focuses on economic growth.",
+      "text": "True or false: Community development only benefits businesses.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Community development can involve improving social facilities like parks.",
+      "text": "True or false: Community projects can include improving schools and parks.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Community development benefits only government officials.",
+      "text": "True or false: Local people are often involved in planning community projects.",
       "type": "truefalse",
-      "answer": false
+      "answer": true
+    },
+    {
+      "text": "Which of these is a community development activity?",
+      "type": "choice",
+      "choices": ["Building playgrounds", "Advertising products", "Exporting goods", "Paying VAT"],
+      "answer": 0
+    },
+    {
+      "text": "Who benefits from community development?",
+      "type": "choice",
+      "choices": ["Local people", "Only businesses", "Only government", "Foreign investors"],
+      "answer": 0
     },
     {
       "text": "Name one example of a community development project.",
       "type": "input",
-      "answer": ["building a playground", "community centre", "local park improvements"]
+      "answer": ["library", "park", "school", "community centre"]
     },
     {
-      "text": "Who is a key stakeholder in community development?",
+      "text": "Give one way communities can raise funds for development.",
       "type": "input",
-      "answer": ["local residents", "community", "local council"]
+      "answer": ["fundraising", "grants", "donations", "events"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "Business Ethics & Social Responsibility",
+  "topic": "6.5 Business Ethics & Social Responsibility",
   "quiz": [
     {
-      "text": "What is business ethics?",
+      "text": "What does business ethics mean?",
       "type": "choice",
-      "choices": [
-        "Rules about right and wrong behaviour in business",
-        "Marketing strategies",
-        "Financial management",
-        "Product design"
-      ],
+      "choices": ["Following moral principles in business", "Maximizing profit only", "Ignoring laws", "Avoiding taxes"],
       "answer": 0
     },
     {
-      "text": "Which of these is an example of social responsibility?",
+      "text": "Which of these is an example of ethical behaviour?",
       "type": "choice",
-      "choices": [
-        "Reducing waste",
-        "Increasing prices",
-        "Firing staff",
-        "Ignoring customers"
-      ],
+      "choices": ["Paying fair wages", "Cheating customers", "Ignoring safety rules", "Hiding profits"],
       "answer": 0
     },
     {
-      "text": "Why is ethical behaviour important for a business?",
+      "text": "What does social responsibility involve?",
       "type": "choice",
-      "choices": [
-        "To build trust and reputation",
-        "To increase costs",
-        "To avoid paying taxes",
-        "To reduce staff"
-      ],
+      "choices": ["Helping society and the environment", "Making unlimited profit", "Reducing taxes", "Focusing only on shareholders"],
       "answer": 0
     },
     {
-      "text": "What does ‘corporate social responsibility’ mean?",
-      "type": "choice",
-      "choices": [
-        "A business’s duty to help society",
-        "Making more profit",
-        "Increasing product range",
-        "Expanding to new markets"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "Which action shows good business ethics?",
-      "type": "choice",
-      "choices": [
-        "Fair treatment of employees",
-        "Deceiving customers",
-        "Ignoring safety rules",
-        "Polluting the environment"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "True or false: Ethical businesses often attract loyal customers.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: Social responsibility means only focusing on profits.",
+      "text": "True or false: Businesses have a responsibility only to shareholders.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: Environmental protection is part of social responsibility.",
+      "text": "True or false: Recycling and reducing waste is part of social responsibility.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "Name one example of a socially responsible business practice.",
-      "type": "input",
-      "answer": ["recycling", "fair trade", "charity work", "reducing pollution"]
+      "text": "True or false: Ethical businesses treat employees fairly.",
+      "type": "truefalse",
+      "answer": true
     },
     {
-      "text": "What does CSR stand for?",
+      "text": "Which of these is NOT part of business ethics?",
+      "type": "choice",
+      "choices": ["Honesty", "Bribery", "Transparency", "Fairness"],
+      "answer": 1
+    },
+    {
+      "text": "Why is social responsibility important for businesses?",
+      "type": "choice",
+      "choices": ["Improves reputation", "Reduces taxes", "Increases fines", "Avoids customers"],
+      "answer": 0
+    },
+    {
+      "text": "Name one example of ethical business behaviour.",
       "type": "input",
-      "answer": ["corporate social responsibility"]
+      "answer": ["fair wages", "honesty", "safe products", "good customer service"]
+    },
+    {
+      "text": "Give one way a business can be socially responsible.",
+      "type": "input",
+      "answer": ["recycling", "charity work", "reducing pollution", "community support"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "International Trade",
+  "topic": "7.1 International Trade",
   "quiz": [
     {
       "text": "What is international trade?",
       "type": "choice",
-      "choices": [
-        "Exchange of goods and services between countries",
-        "Selling only within a country",
-        "Domestic production",
-        "Local trading"
-      ],
+      "choices": ["Buying and selling goods/services between countries", "Selling only locally", "Exporting taxes", "Paying wages to staff"],
       "answer": 0
     },
     {
       "text": "What is an export?",
       "type": "choice",
-      "choices": [
-        "Goods sold to other countries",
-        "Goods bought from other countries",
-        "Goods sold locally",
-        "Goods produced at home"
-      ],
+      "choices": ["Goods sent abroad to sell", "Goods bought from abroad", "Local sales", "Taxes paid to government"],
       "answer": 0
     },
     {
       "text": "What is an import?",
       "type": "choice",
-      "choices": [
-        "Goods bought from other countries",
-        "Goods sold to other countries",
-        "Goods made locally",
-        "Goods produced at home"
-      ],
+      "choices": ["Goods bought from another country", "Goods sold abroad", "Taxes collected", "Local production only"],
       "answer": 0
     },
     {
-      "text": "Which organisation promotes free trade between European countries?",
-      "type": "choice",
-      "choices": [
-        "European Union (EU)",
-        "United Nations (UN)",
-        "World Bank",
-        "NATO"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "What is a tariff?",
-      "type": "choice",
-      "choices": [
-        "A tax on imported goods",
-        "A tax on exported goods",
-        "A trade agreement",
-        "A shipping fee"
-      ],
-      "answer": 0
-    },
-    {
-      "text": "True or false: A quota limits the amount of goods that can be imported.",
+      "text": "True or false: International trade can increase customer choice.",
       "type": "truefalse",
       "answer": true
     },
     {
-      "text": "True or false: Imports are goods sold to other countries.",
+      "text": "True or false: Tariffs are taxes on imported goods.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Free trade restricts movement of goods between countries.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "True or false: The EU is an example of a trading bloc.",
-      "type": "truefalse",
-      "answer": true
+      "text": "Which of these is a reason for international trade?",
+      "type": "choice",
+      "choices": ["Access to new markets", "Reduce exports", "Avoid customers", "Hire more staff locally"],
+      "answer": 0
     },
     {
-      "text": "Name one example of a barrier to trade.",
-      "type": "input",
-      "answer": ["tariff", "quota", "import tax", "trade barrier"]
+      "text": "Which of these is a disadvantage of international trade?",
+      "type": "choice",
+      "choices": ["Competition from foreign firms", "Lower prices", "More customers", "Improved quality"],
+      "answer": 0
     },
     {
-      "text": "What is the purpose of free trade agreements?",
+      "text": "Name one product a country might export.",
       "type": "input",
-      "answer": ["reduce trade barriers", "increase trade", "promote trade"]
+      "answer": ["food", "electronics", "cars", "clothing"]
+    },
+    {
+      "text": "Give one reason why countries import goods.",
+      "type": "input",
+      "answer": ["not produced locally", "cheaper abroad", "higher quality", "customer demand"]
     }
   ]
 },
 {
   "subject": "Business",
-  "topic": "The European Union",
+  "topic": "7.2 The European Union",
   "quiz": [
     {
-      "text": "When was the European Union (EU) established?",
+      "text": "What is the EU?",
       "type": "choice",
-      "choices": [
-        "1957",
-        "1993",
-        "2004",
-        "2016"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "How many member countries are in the EU (as of 2025)?",
-      "type": "choice",
-      "choices": [
-        "15",
-        "27",
-        "30",
-        "50"
-      ],
-      "answer": 1
-    },
-    {
-      "text": "What is the main purpose of the EU?",
-      "type": "choice",
-      "choices": [
-        "Promote economic cooperation and peace",
-        "Create a military alliance",
-        "Control global trade",
-        "Govern all European countries"
-      ],
+      "choices": ["A group of European countries working together", "A single country in Europe", "A trade company", "A bank"], 
       "answer": 0
     },
     {
-      "text": "What currency do most EU countries use?",
+      "text": "Which of these is a benefit of being in the EU?",
       "type": "choice",
-      "choices": [
-        "Euro",
-        "Pound",
-        "Dollar",
-        "Franc"
-      ],
+      "choices": ["Free movement of goods and people", "Higher taxes", "No trade allowed", "Strict borders"], 
       "answer": 0
     },
     {
-      "text": "Which institution represents the EU citizens directly?",
+      "text": "Which currency is used by most EU countries?",
       "type": "choice",
-      "choices": [
-        "European Parliament",
-        "European Commission",
-        "Council of the EU",
-        "European Court of Justice"
-      ],
+      "choices": ["Euro", "Pound", "Dollar", "Franc"], 
       "answer": 0
     },
     {
-      "text": "True or false: Ireland is a member of the EU.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: The EU has a single market allowing free movement of goods, services, people, and capital.",
-      "type": "truefalse",
-      "answer": true
-    },
-    {
-      "text": "True or false: All EU countries use the Euro as their currency.",
+      "text": "True or false: All EU countries use the Euro.",
       "type": "truefalse",
       "answer": false
     },
     {
-      "text": "Name one benefit of EU membership.",
-      "type": "input",
-      "answer": ["free trade", "freedom of movement", "funding support", "peace and stability"]
+      "text": "True or false: EU membership allows easier trade between member countries.",
+      "type": "truefalse",
+      "answer": true
     },
     {
-      "text": "What is the EU’s single market?",
+      "text": "True or false: The EU sets some rules for businesses in member countries.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an EU institution?",
+      "type": "choice",
+      "choices": ["European Parliament", "Federal Reserve", "World Bank", "IMF"], 
+      "answer": 0
+    },
+    {
+      "text": "What is the Single Market?",
+      "type": "choice",
+      "choices": ["A system allowing free trade within the EU", "A local farmers' market", "A stock exchange", "A shopping mall"], 
+      "answer": 0
+    },
+    {
+      "text": "Name one benefit of the EU for businesses.",
       "type": "input",
-      "answer": ["free movement of goods and services", "common market", "internal market"]
+      "answer": ["access to more customers", "free trade", "lower barriers", "easier exports"]
+    },
+    {
+      "text": "Give one EU rule that affects businesses.",
+      "type": "input",
+      "answer": ["consumer protection", "environment laws", "competition rules", "safety standards"]
+    }
+  ]
+},
+{
+  "subject": "Business",
+  "topic": "7.3 Global Business",
+  "quiz": [
+    {
+      "text": "What is global business?",
+      "type": "choice",
+      "choices": ["Business activity across multiple countries", "Only local business", "Government trading", "Community projects"], 
+      "answer": 0
+    },
+    {
+      "text": "Which of these is an advantage of global business?",
+      "type": "choice",
+      "choices": ["Access to larger markets", "Fewer customers", "Higher local taxes", "Less choice"], 
+      "answer": 0
+    },
+    {
+      "text": "Which of these is a challenge of global business?",
+      "type": "choice",
+      "choices": ["Different laws and cultures", "Selling locally", "Paying local staff", "Advertising locally"], 
+      "answer": 0
+    },
+    {
+      "text": "True or false: Global businesses can reduce costs through economies of scale.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "True or false: Global businesses do not need to adapt products for different countries.",
+      "type": "truefalse",
+      "answer": false
+    },
+    {
+      "text": "True or false: Global businesses may face currency exchange issues.",
+      "type": "truefalse",
+      "answer": true
+    },
+    {
+      "text": "Which of these is an example of a global business?",
+      "type": "choice",
+      "choices": ["Apple", "Local bakery", "Neighbourhood shop", "School canteen"], 
+      "answer": 0
+    },
+    {
+      "text": "Why do businesses go global?",
+      "type": "choice",
+      "choices": ["To sell products worldwide", "To avoid local laws", "To reduce employees", "To ignore customers"], 
+      "answer": 0
+    },
+    {
+      "text": "Name one challenge for global businesses.",
+      "type": "input",
+      "answer": ["cultural differences", "language barriers", "different laws", "currency issues"]
+    },
+    {
+      "text": "Give one benefit of global business.",
+      "type": "input",
+      "answer": ["more customers", "higher profit", "lower costs", "global brand recognition"]
     }
   ]
 }
