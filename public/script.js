@@ -4734,11 +4734,15 @@ if(document.querySelector(".msg-container")){
         }, 1500);
     }
 
-    document.querySelector(".msg-modal").addEventListener("click", (e) => {
+    document.querySelector(".msg-container").addEventListener("click", (e) => {
         if(!document.querySelector(".msg-wrapper").contains(e.target)){
             document.querySelector(".msg-container").style.opacity = "0";
             document.querySelector(".msg-container").style.pointerEvents = "none";
         }
+    });
+    document.querySelector(".btn-msg-cancel").addEventListener("click", () => {
+        document.querySelector(".msg-container").style.opacity = "0";
+        document.querySelector(".msg-container").style.pointerEvents = "none";
     });
 
     document.querySelector(".msg-wrapper").addEventListener("submit", function(e) {
