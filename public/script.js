@@ -1415,7 +1415,7 @@ if(examContainer){
     async function getData(){
         try {
             const response = await fetch(url + `/api/images/${certificate}/${subject}/${level}/${topic}`);
-            const data = await response.json(); 
+            const data = await response.json();
             data.images.sort((a, b) => Number(a.year) - Number(b.year));
 
             //document.querySelector(".exam-question-img").src = data[4].url;
@@ -4723,6 +4723,37 @@ if(document.querySelector(".ver-container") || document.querySelector(".set-cont
 
 if(document.querySelector(".home-nav")){
     clickOption(".nav-link", "nav-link-active");
+}
+
+if(document.querySelector(".msg-container")){
+    if(!localStorage.getItem("msgyet")){
+        localStorage.setItem("msgyet", true);
+        setTimeout(() => {
+            document.querySelector(".msg-container").style.opacity = "1";
+            document.querySelector(".msg-container").style.pointerEvents = "auto";
+        }, 1500);
+    }
+
+    document.querySelector(".msg-wrapper").addEventListener("submit", function(e) {
+        e.preventDefault();
+        const form = e.target;
+        const data = new FormData(form);
+        fetch(form.action, {
+        method: form.method,
+        body: data,
+        headers: { 'Accept': 'application/json' }
+        }).then(response => {
+        if (response.ok) {
+            document.querySelector(".msg-container").style.opacity = "0";
+            document.querySelector(".msg-container").style.pointerEvents = "none";
+            document.querySelector(".set-thank-modal").style.opacity = "1";
+            document.querySelector(".set-thank-modal").style.pointerEvents = "auto";
+            form.reset();
+        } else {
+            console.error("NOT OKAY");
+        }
+        });
+    });
 }
 
 

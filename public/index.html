@@ -10,6 +10,32 @@
     <meta name="google-adsense-account" content="ca-pub-1879550817766185">
 </head>
 <body>
+    <div class="msg-container">
+        <form class="msg-wrapper" action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="a1cc2f3f-2a3b-4cff-926b-e03334900b38" />
+            <i class="fa-solid fa-xmark msg-xmark"></i>
+            <div class="msg-img">
+                <img src="images/icons/favicon.png" alt="">
+            </div>
+            <div class="msg-title">Want to tell us anything? <br>Get in touch with us</div>
+            <div class="msg-label">Email</div>
+            <input type="text" name="email" placeholder="Your email (optional)" class="msg-input" />
+            <div class="msg-label">Message</div>
+            <textarea name="message" placeholder="Enter message" class="msg-area" required></textarea>
+            <div class="msg-btn-flex">
+                <div class="btn-msg btn-msg-cancel">Cancel</div>
+                <button type="submit" class="btn-msg btn-msg-send">Send Message</button>
+            </div>
+        </form>
+    </div>
+    <div class="set-thank-modal">
+        <div class="book-wrapper">
+            <i class="fa-solid fa-check book-modal-check"></i>
+            <div class="book-modal-title">Thank You!</div>
+            <div class="book-modal-para">Your message has been successfully<br> delivered. Thank you!</div>
+            <div onclick="document.querySelector('.set-thank-modal').style.opacity = '0'; document.querySelector('.set-thank-modal').style.pointerEvents = 'none';" class="btn-book-modal">Okay</div>
+        </div>
+    </div>
 
     <div class="home-container">
         <div class="home-content">
