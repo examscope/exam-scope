@@ -334,9 +334,9 @@ async function createHtml(){
              </div>
 
             <div class="header-group header-logged-nav logged-element">
-                <a href="/welcome#contact" class="btn-upgrade">
-                    <div class="upgrade-txt">Feedback</div>
-                    <i class="fa-solid fa-envelope upgrade-icon"></i>
+                <a href="https://paypal.me/examscope" class="btn-upgrade">
+                    <div class="upgrade-txt">Donate</div>
+                    <i class="fa-solid fa-circle-dollar-to-slot upgrade-icon"></i>
                 </a>
                 <div class="pfp-container" onclick="dropProfile()">
                     <div class="pfp-bg"></div>
@@ -370,6 +370,7 @@ async function createHtml(){
             <div class="header-group header-guest-nav guest-element">
                 <a href="/sign-up?onboarding=false" class="btn-header-guest btn-create">Join Now <i class="fa-solid fa-plus header-plus"></i></a>
                 <a href="/login" class="btn-header-guest btn-login">Log In</a>
+                <a href="https://paypal.me/examscope" style="margin-left: 10px;" class="btn-header-guest btn-login">Donate <i class="fa-solid fa-circle-dollar-to-slot upgrade-icon"></i></a>
             </div>
 
             <div class="header-burger" onclick="toggleMenu()">
@@ -436,6 +437,7 @@ async function createHtml(){
         </div>    
         <a href="/sign-up?onboarding=false" class="guest-element btn-sidebar-sign">Join Now <i class="fa-solid fa-plus side-plus"></i></a>  
         <a href="/login" class="guest-element btn-sidebar-log">Log in</a>  
+        <a href="https://paypal.me/examscope" style="margin-top: 8px;" class="guest-element btn-sidebar-log">Donate <i class="fa-solid fa-circle-dollar-to-slot upgrade-icon" style="margin-left: 8px;"></i></a>  
     `
 
     if(document.querySelector(".home-nav")){
