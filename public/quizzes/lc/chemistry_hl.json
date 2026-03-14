@@ -61,7 +61,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Atomic Structure",
   "quiz": [
     {
@@ -127,7 +127,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Chemical Equilibrium",
   "quiz": [
     {
@@ -208,7 +208,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Electron Arrangement",
   "quiz": [
     {
@@ -279,7 +279,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Experiment Q1 (Titration)",
   "quiz": [
     {
@@ -365,7 +365,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Experiment Q2 (Organic)",
   "quiz": [
     {
@@ -451,7 +451,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Experiment Q3 (Other)",
   "quiz": [
     {
@@ -522,7 +522,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Fuels & Thermochemistry",
   "quiz": [
     {
@@ -588,7 +588,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Gas Laws, moles & Gas Properties",
   "quiz": [
     {
@@ -664,7 +664,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Instrumentation & Chromatography",
   "quiz": [
     {
@@ -730,7 +730,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Ionic & Covalent Bonding",
   "quiz": [
     {
@@ -801,7 +801,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Option: Atmospheric Chemistry",
   "quiz": [
     {
@@ -867,7 +867,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Option: Industrial Chemistry",
   "quiz": [
     {
@@ -933,7 +933,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Option: Materials & Polymers",
   "quiz": [
     {
@@ -994,7 +994,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Option: Metals",
   "quiz": [
     {
@@ -1065,7 +1065,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Organic Chemistry",
   "quiz": [
     {
@@ -1151,7 +1151,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Oxidation & Reduction",
   "quiz": [
     {
@@ -1237,7 +1237,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Periodic Table",
   "quiz": [
     {
@@ -1298,7 +1298,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Radioactivity",
   "quiz": [
     {
@@ -1374,7 +1374,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Rates of Reaction",
   "quiz": [
     {
@@ -1455,7 +1455,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Stoichiometry, Formulae & Equations",
   "quiz": [
     {
@@ -1526,7 +1526,7 @@
   ]
 },
 {
-  "subject": "Chemistry New Course",
+  "subject": "Chemistry",
   "topic": "Water & Water Analysis",
   "quiz": [
     {
