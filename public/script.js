@@ -4731,8 +4731,8 @@ if(document.querySelector(".msg-container")){
     if(!localStorage.getItem("msgyet")){
         localStorage.setItem("msgyet", true);
         setTimeout(() => {
-            document.querySelector(".msg-container").style.opacity = "1";
-            document.querySelector(".msg-container").style.pointerEvents = "auto";
+            //document.querySelector(".msg-container").style.opacity = "1";
+            //document.querySelector(".msg-container").style.pointerEvents = "auto";
         }, 1500);
     }
 
