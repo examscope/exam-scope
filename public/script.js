@@ -2010,9 +2010,7 @@ if(examContainer){
                     });
                 }
             });
-            document.querySelector(".btn-modal-clear").addEventListener("click", () => {
-
-            });
+            //document.querySelector(".btn-modal-clear").addEventListener("click", () => {});
             document.querySelector(".exam-popup").addEventListener("click", () => {
                 if(document.querySelector(".exam-modal").style.opacity == "1"){
                     document.querySelector(".exam-modal").style.opacity = "0";
